@@ -4082,8 +4082,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 1509053003,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 1509053003
     },
     {
         "Id": 111101002,
@@ -4104,8 +4103,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 563067827,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 563067827
     },
     {
         "Id": 111101003,
@@ -4126,8 +4124,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 767452755,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 767452755
     },
     {
         "Id": 111101004,
@@ -4148,8 +4145,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 3388495187,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 3388495187
     },
     {
         "Id": 111102001,
@@ -4171,8 +4167,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 4144589443,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 4144589443
     },
     {
         "Id": 111102002,
@@ -4193,8 +4188,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 14936651,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 14936651
     },
     {
         "Id": 111102003,
@@ -4215,8 +4209,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 2196925219,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 2196925219
     },
     {
         "Id": 111102004,
@@ -4237,8 +4230,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 1459884299,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 1459884299
     },
     {
         "Id": 111101005,
@@ -4260,8 +4252,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 4117026139,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 4117026139
     },
     {
         "Id": 111101006,
@@ -4282,8 +4273,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 2248022507,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 2248022507
     },
     {
         "Id": 111101007,
@@ -4304,8 +4294,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 1699134859,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 1699134859
     },
     {
         "Id": 111101008,
@@ -4326,8 +4315,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 1970093243,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 1970093243
     },
     {
         "Id": 111102005,
@@ -4349,8 +4337,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 3583667963,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 3583667963
     },
     {
         "Id": 111102006,
@@ -4371,8 +4358,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 3252185795,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 3252185795
     },
     {
         "Id": 111102007,
@@ -4393,8 +4379,7 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 3139898931,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 3139898931
     },
     {
         "Id": 111102008,
@@ -4415,7 +4400,6 @@
         "LimitLevel": 1,
         "FightRadius": 30,
         "RemindRadius": 50,
-        "BlossomTipsTextMapHash": 3339520627,
-        "DelayUnloadSec": 60
+        "BlossomTipsTextMapHash": 3339520627
     }
 ]

@@ -71,12 +71,12 @@
     {
         "ChannelId": 999,
         "Platform": "PLATFORM_PC",
-        "Url": "https://genshin.mihoyo.com/"
+        "Url": "https://www.hoyolab.com/genshin/"
     },
     {
         "ChannelId": 1,
         "SubChannelId": 1,
         "Platform": "PLATFORM_PC",
-        "Url": "https://genshin.mihoyo.com/"
+        "Url": "https://www.hoyolab.com/genshin/"
     }
 ]
