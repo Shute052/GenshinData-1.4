@@ -1,615 +1,673 @@
 [
     {
         "TrialAvatarId": 1,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000021,
             5
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15201,
             5
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 2,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000015,
             5
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11201,
             5
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 3,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000006,
             5
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14201,
             5
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 4,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000016,
             23
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             23
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 5,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000022,
             26
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15301,
             26
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 6,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000015,
             10
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11301,
             10
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 7,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000003,
             30
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11401,
             30
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 8,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000021,
             15
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15301,
             15
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 9,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000020,
             26
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             26
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 10,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000006,
             19
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14301,
             19
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 11,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000016,
             18
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             18
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 12,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000025,
             26
         ],
-        "TrialWeaponParam": [
-            11406,
+        "TrialWeaponParamList": [
+            11401,
             26
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 13,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000023,
             16
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             13301,
             16
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 14,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000029,
             30
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14401,
             30
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 15,
+        "TrialAvatarParamList": [
+            10000026,
+            28
+        ],
+        "TrialWeaponParamList": [
+            13505,
+            28
+        ],
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 16,
+        "TrialAvatarParamList": [
+            10000026,
+            26
+        ],
+        "TrialWeaponParamList": [
+            13505,
+            26
+        ],
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 17,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000030,
             35
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             13504,
             35
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 18,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000022,
             28
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             28
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 19,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000041,
             30
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14501,
             30
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 20,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000035,
             35
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11501,
             35
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 21,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000033,
             35
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15501,
             35
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 22,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000041,
             26
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14501,
             26
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 23,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000037,
             35
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15501,
             35
         ],
-        "TrialSkillDepotId": 1
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 24,
+        "TrialAvatarParamList": [
+            10000046,
+            35
+        ],
+        "TrialWeaponParamList": [
+            13501,
+            35
+        ],
+        "IsDynamicLevel": true
     },
     {
         "TrialAvatarId": 1003,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000003,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11401,
             80
         ]
     },
     {
         "TrialAvatarId": 1004,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000006,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14401,
             80
         ]
     },
     {
         "TrialAvatarId": 1014,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000014,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14401,
             80
         ]
     },
     {
         "TrialAvatarId": 1015,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000015,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11401,
             80
         ]
     },
     {
         "TrialAvatarId": 1016,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000016,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             80
         ]
     },
     {
         "TrialAvatarId": 1020,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000020,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             80
         ]
     },
     {
         "TrialAvatarId": 1021,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000021,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             80
         ]
     },
     {
         "TrialAvatarId": 1022,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000022,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             80
         ]
     },
     {
         "TrialAvatarId": 1023,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000023,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             13401,
             80
         ]
     },
     {
         "TrialAvatarId": 1024,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000024,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             80
         ]
     },
     {
         "TrialAvatarId": 1025,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000025,
             80
         ],
-        "TrialWeaponParam": [
-            11406,
+        "TrialWeaponParamList": [
+            11401,
+            80
+        ]
+    },
+    {
+        "TrialAvatarId": 1026,
+        "TrialAvatarParamList": [
+            10000026,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13505,
             80
         ]
     },
     {
         "TrialAvatarId": 1027,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000027,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14401,
             80
         ]
     },
     {
         "TrialAvatarId": 1029,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000029,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14401,
             80
         ]
     },
     {
         "TrialAvatarId": 1030,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000030,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             13402,
             80
         ]
     },
     {
         "TrialAvatarId": 1031,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000031,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             80
         ]
     },
     {
         "TrialAvatarId": 1032,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000032,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11401,
             80
         ]
     },
     {
         "TrialAvatarId": 1033,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000033,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             80
         ]
     },
     {
         "TrialAvatarId": 1034,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000034,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             80
         ]
     },
     {
         "TrialAvatarId": 1035,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000035,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11401,
             80
         ]
     },
     {
         "TrialAvatarId": 1036,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000036,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             80
         ]
     },
     {
         "TrialAvatarId": 1037,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000037,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             80
         ]
     },
     {
         "TrialAvatarId": 1038,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000038,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11401,
             80
         ]
     },
     {
         "TrialAvatarId": 1039,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000039,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             15401,
             80
         ]
     },
     {
         "TrialAvatarId": 1041,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000041,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14501,
             80
         ]
     },
     {
         "TrialAvatarId": 1042,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000042,
             80
         ],
-        "TrialWeaponParam": [
-            11401,
+        "TrialWeaponParamList": [
+            11505,
             80
         ]
     },
     {
         "TrialAvatarId": 1043,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000043,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14401,
             80
         ]
     },
     {
         "TrialAvatarId": 1044,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000044,
             80
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             12401,
             80
         ]
     },
     {
+        "TrialAvatarId": 1046,
+        "TrialAvatarParamList": [
+            10000046,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13501,
+            80
+        ]
+    },
+    {
         "TrialAvatarId": 5000,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000015,
             20
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             11301,
             20
         ]
     },
     {
         "TrialAvatarId": 5001,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000006,
             20
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14301,
             20
         ]
     },
     {
         "TrialAvatarId": 5002,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000023,
             20
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             13301,
             20
         ]
     },
     {
         "TrialAvatarId": 5003,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000014,
             20
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14301,
             20
         ]
     },
     {
         "TrialAvatarId": 5004,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000027,
             20
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14301,
             20
         ]
     },
     {
         "TrialAvatarId": 5005,
-        "TrialAvatarParam": [
+        "TrialAvatarParamList": [
             10000043,
             20
         ],
-        "TrialWeaponParam": [
+        "TrialWeaponParamList": [
             14301,
             20
         ]

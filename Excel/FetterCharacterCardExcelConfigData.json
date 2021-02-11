@@ -133,5 +133,15 @@
         "AvatarId": 10000038,
         "FetterLevel": 10,
         "RewardId": 241027
+    },
+    {
+        "AvatarId": 10000026,
+        "FetterLevel": 10,
+        "RewardId": 241028
+    },
+    {
+        "AvatarId": 10000046,
+        "FetterLevel": 10,
+        "RewardId": 241029
     }
 ]

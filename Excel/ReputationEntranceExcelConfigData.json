@@ -3,14 +3,14 @@
         "TextId": 1,
         "EntranceId": "REPUTATION_ENTRANCE_HUNTER",
         "CityId": 1,
-        "Cond": [
+        "CondVec": [
             {
                 "Type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
                 "Param1": 2
             },
             {}
         ],
-        "CondName": [
+        "CondNameVec": [
             1112265731,
             3824745864
         ],
@@ -25,7 +25,7 @@
         "TextId": 2,
         "EntranceId": "REPUTATION_ENTRANCE_REQUEST",
         "CityId": 1,
-        "Cond": [
+        "CondVec": [
             {
                 "Type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
                 "Param1": 2
@@ -35,7 +35,7 @@
                 "Param1": 39604
             }
         ],
-        "CondName": [
+        "CondNameVec": [
             3583607043,
             1141556912
         ],
@@ -50,11 +50,11 @@
         "TextId": 3,
         "EntranceId": "REPUTATION_ENTRANCE_EXPLORE",
         "CityId": 1,
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "CondName": [
+        "CondNameVec": [
             2730832339,
             2953328928
         ],
@@ -69,11 +69,11 @@
         "TextId": 4,
         "EntranceId": "REPUTATION_ENTRANCE_QUEST",
         "CityId": 1,
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "CondName": [
+        "CondNameVec": [
             4021365171,
             3970892416
         ],
@@ -88,14 +88,14 @@
         "TextId": 5,
         "EntranceId": "REPUTATION_ENTRANCE_HUNTER",
         "CityId": 2,
-        "Cond": [
+        "CondVec": [
             {
                 "Type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
                 "Param1": 2
             },
             {}
         ],
-        "CondName": [
+        "CondNameVec": [
             2482283139,
             1849573520
         ],
@@ -110,7 +110,7 @@
         "TextId": 6,
         "EntranceId": "REPUTATION_ENTRANCE_REQUEST",
         "CityId": 2,
-        "Cond": [
+        "CondVec": [
             {
                 "Type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
                 "Param1": 2
@@ -120,7 +120,7 @@
                 "Param1": 102510
             }
         ],
-        "CondName": [
+        "CondNameVec": [
             1149134067,
             76397336
         ],
@@ -135,11 +135,11 @@
         "TextId": 7,
         "EntranceId": "REPUTATION_ENTRANCE_EXPLORE",
         "CityId": 2,
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "CondName": [
+        "CondNameVec": [
             931840747,
             3127663200
         ],
@@ -154,11 +154,11 @@
         "TextId": 8,
         "EntranceId": "REPUTATION_ENTRANCE_QUEST",
         "CityId": 2,
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "CondName": [
+        "CondNameVec": [
             1418754659,
             4024320512
         ],

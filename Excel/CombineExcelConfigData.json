@@ -7,7 +7,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112003,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -21,7 +21,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1329597126
+        "EffectDescTextMapHash": 1329597126,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11002,
@@ -31,7 +32,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112004,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -45,7 +46,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1828014854
+        "EffectDescTextMapHash": 1828014854,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11003,
@@ -55,7 +57,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112006,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -69,7 +71,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3177443406
+        "EffectDescTextMapHash": 3177443406,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11004,
@@ -79,7 +82,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112007,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -93,7 +96,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1420463894
+        "EffectDescTextMapHash": 1420463894,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11005,
@@ -103,7 +107,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112009,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -117,7 +121,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3520437678
+        "EffectDescTextMapHash": 3520437678,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11006,
@@ -127,7 +132,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112010,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -141,7 +146,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1773897750
+        "EffectDescTextMapHash": 1773897750,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11007,
@@ -151,7 +157,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112012,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -165,7 +171,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1351841822
+        "EffectDescTextMapHash": 1351841822,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11008,
@@ -175,7 +182,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112013,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -189,7 +196,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 523072174
+        "EffectDescTextMapHash": 523072174,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11009,
@@ -199,7 +207,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112015,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -213,7 +221,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2641756518
+        "EffectDescTextMapHash": 2641756518,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11010,
@@ -223,7 +232,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112016,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -237,7 +246,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 316016030
+        "EffectDescTextMapHash": 316016030,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11013,
@@ -247,7 +257,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112021,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -261,7 +271,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2170617830
+        "EffectDescTextMapHash": 2170617830,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11014,
@@ -271,7 +282,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112022,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -285,7 +296,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 4294958846
+        "EffectDescTextMapHash": 4294958846,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11015,
@@ -295,7 +307,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112024,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -309,7 +321,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1853061830
+        "EffectDescTextMapHash": 1853061830,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11016,
@@ -319,7 +332,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112025,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -333,7 +346,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 171926742
+        "EffectDescTextMapHash": 171926742,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11017,
@@ -343,7 +357,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112027,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -357,7 +371,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1762789198
+        "EffectDescTextMapHash": 1762789198,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11018,
@@ -367,7 +382,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112028,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -381,7 +396,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3440003950
+        "EffectDescTextMapHash": 3440003950,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11019,
@@ -391,7 +407,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112030,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -405,7 +421,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 4142765958
+        "EffectDescTextMapHash": 4142765958,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11020,
@@ -415,7 +432,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112031,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -429,7 +446,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 642306134
+        "EffectDescTextMapHash": 642306134,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11021,
@@ -439,7 +457,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112033,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -453,7 +471,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3486589798
+        "EffectDescTextMapHash": 3486589798,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11022,
@@ -463,7 +482,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112034,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -477,7 +496,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2752505846
+        "EffectDescTextMapHash": 2752505846,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11023,
@@ -487,7 +507,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112036,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -501,7 +521,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 401461790
+        "EffectDescTextMapHash": 401461790,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11024,
@@ -511,7 +532,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112037,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -525,7 +546,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 889219350
+        "EffectDescTextMapHash": 889219350,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11025,
@@ -535,7 +557,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112039,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -549,7 +571,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3108620070
+        "EffectDescTextMapHash": 3108620070,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11026,
@@ -559,7 +582,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112040,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -573,7 +596,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3480222366
+        "EffectDescTextMapHash": 3480222366,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11027,
@@ -583,7 +607,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112042,
         "ResultItemCount": 1,
-        "SCoinCost": 25,
+        "ScoinCost": 25,
         "RandomItems": [
             {
                 "Count": 1
@@ -597,7 +621,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2016097390
+        "EffectDescTextMapHash": 2016097390,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 11028,
@@ -607,7 +632,7 @@
         "SubCombineType": 1,
         "ResultItemId": 112043,
         "ResultItemCount": 1,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {
                 "Count": 1
@@ -621,7 +646,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3817595822
+        "EffectDescTextMapHash": 3817595822,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12001,
@@ -631,7 +657,7 @@
         "SubCombineType": 6,
         "ResultItemId": 114002,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -645,7 +671,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2651610598
+        "EffectDescTextMapHash": 2651610598,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12002,
@@ -655,7 +682,7 @@
         "SubCombineType": 6,
         "ResultItemId": 114003,
         "ResultItemCount": 1,
-        "SCoinCost": 350,
+        "ScoinCost": 350,
         "RandomItems": [
             {
                 "Count": 1
@@ -669,7 +696,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 403479278
+        "EffectDescTextMapHash": 403479278,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12003,
@@ -679,7 +707,7 @@
         "SubCombineType": 6,
         "ResultItemId": 114004,
         "ResultItemCount": 1,
-        "SCoinCost": 1075,
+        "ScoinCost": 1075,
         "RandomItems": [
             {
                 "Count": 1
@@ -693,7 +721,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2260626454
+        "EffectDescTextMapHash": 2260626454,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12004,
@@ -703,7 +732,7 @@
         "SubCombineType": 5,
         "ResultItemId": 114006,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -717,7 +746,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2329027430
+        "EffectDescTextMapHash": 2329027430,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12005,
@@ -727,7 +757,7 @@
         "SubCombineType": 5,
         "ResultItemId": 114007,
         "ResultItemCount": 1,
-        "SCoinCost": 350,
+        "ScoinCost": 350,
         "RandomItems": [
             {
                 "Count": 1
@@ -741,7 +771,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2995785342
+        "EffectDescTextMapHash": 2995785342,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12006,
@@ -751,7 +782,7 @@
         "SubCombineType": 5,
         "ResultItemId": 114008,
         "ResultItemCount": 1,
-        "SCoinCost": 1075,
+        "ScoinCost": 1075,
         "RandomItems": [
             {
                 "Count": 1
@@ -765,7 +796,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 747446014
+        "EffectDescTextMapHash": 747446014,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12007,
@@ -775,7 +807,7 @@
         "SubCombineType": 4,
         "ResultItemId": 114010,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -789,7 +821,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3951291014
+        "EffectDescTextMapHash": 3951291014,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12008,
@@ -799,7 +832,7 @@
         "SubCombineType": 4,
         "ResultItemId": 114011,
         "ResultItemCount": 1,
-        "SCoinCost": 350,
+        "ScoinCost": 350,
         "RandomItems": [
             {
                 "Count": 1
@@ -813,7 +846,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3478835478
+        "EffectDescTextMapHash": 3478835478,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12009,
@@ -823,7 +857,7 @@
         "SubCombineType": 4,
         "ResultItemId": 114012,
         "ResultItemCount": 1,
-        "SCoinCost": 1075,
+        "ScoinCost": 1075,
         "RandomItems": [
             {
                 "Count": 1
@@ -837,7 +871,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 771329718
+        "EffectDescTextMapHash": 771329718,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12010,
@@ -847,7 +882,7 @@
         "SubCombineType": 3,
         "ResultItemId": 114014,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -861,7 +896,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2909080438
+        "EffectDescTextMapHash": 2909080438,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12011,
@@ -871,7 +907,7 @@
         "SubCombineType": 3,
         "ResultItemId": 114015,
         "ResultItemCount": 1,
-        "SCoinCost": 350,
+        "ScoinCost": 350,
         "RandomItems": [
             {
                 "Count": 1
@@ -885,7 +921,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1466483694
+        "EffectDescTextMapHash": 1466483694,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12012,
@@ -895,7 +932,7 @@
         "SubCombineType": 3,
         "ResultItemId": 114016,
         "ResultItemCount": 1,
-        "SCoinCost": 1075,
+        "ScoinCost": 1075,
         "RandomItems": [
             {
                 "Count": 1
@@ -909,7 +946,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1341986030
+        "EffectDescTextMapHash": 1341986030,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12013,
@@ -919,7 +957,7 @@
         "SubCombineType": 2,
         "ResultItemId": 114018,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -933,7 +971,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2434660814
+        "EffectDescTextMapHash": 2434660814,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12014,
@@ -943,7 +982,7 @@
         "SubCombineType": 2,
         "ResultItemId": 114019,
         "ResultItemCount": 1,
-        "SCoinCost": 350,
+        "ScoinCost": 350,
         "RandomItems": [
             {
                 "Count": 1
@@ -957,7 +996,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 927163198
+        "EffectDescTextMapHash": 927163198,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12015,
@@ -967,7 +1007,7 @@
         "SubCombineType": 2,
         "ResultItemId": 114020,
         "ResultItemCount": 1,
-        "SCoinCost": 1075,
+        "ScoinCost": 1075,
         "RandomItems": [
             {
                 "Count": 1
@@ -981,7 +1021,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2779801510
+        "EffectDescTextMapHash": 2779801510,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12016,
@@ -991,7 +1032,7 @@
         "SubCombineType": 1,
         "ResultItemId": 114022,
         "ResultItemCount": 1,
-        "SCoinCost": 125,
+        "ScoinCost": 125,
         "RandomItems": [
             {
                 "Count": 1
@@ -1005,7 +1046,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2594773526
+        "EffectDescTextMapHash": 2594773526,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12017,
@@ -1015,7 +1057,7 @@
         "SubCombineType": 1,
         "ResultItemId": 114023,
         "ResultItemCount": 1,
-        "SCoinCost": 350,
+        "ScoinCost": 350,
         "RandomItems": [
             {
                 "Count": 1
@@ -1029,7 +1071,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3261296230
+        "EffectDescTextMapHash": 3261296230,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 12018,
@@ -1039,7 +1082,7 @@
         "SubCombineType": 1,
         "ResultItemId": 114024,
         "ResultItemCount": 1,
-        "SCoinCost": 1075,
+        "ScoinCost": 1075,
         "RandomItems": [
             {
                 "Count": 1
@@ -1053,7 +1096,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2895350334
+        "EffectDescTextMapHash": 2895350334,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13001,
@@ -1063,7 +1107,7 @@
         "SubCombineType": 6,
         "ResultItemId": 104302,
         "ResultItemCount": 1,
-        "SCoinCost": 175,
+        "ScoinCost": 175,
         "RandomItems": [
             {
                 "Count": 1
@@ -1077,7 +1121,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3417974494
+        "EffectDescTextMapHash": 3417974494,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13002,
@@ -1087,7 +1132,7 @@
         "SubCombineType": 6,
         "ResultItemId": 104303,
         "ResultItemCount": 1,
-        "SCoinCost": 550,
+        "ScoinCost": 550,
         "RandomItems": [
             {
                 "Count": 1
@@ -1101,7 +1146,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2551102798
+        "EffectDescTextMapHash": 2551102798,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13003,
@@ -1111,7 +1157,7 @@
         "SubCombineType": 5,
         "ResultItemId": 104305,
         "ResultItemCount": 1,
-        "SCoinCost": 175,
+        "ScoinCost": 175,
         "RandomItems": [
             {
                 "Count": 1
@@ -1125,7 +1171,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3054984326
+        "EffectDescTextMapHash": 3054984326,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13004,
@@ -1135,7 +1182,7 @@
         "SubCombineType": 5,
         "ResultItemId": 104306,
         "ResultItemCount": 1,
-        "SCoinCost": 550,
+        "ScoinCost": 550,
         "RandomItems": [
             {
                 "Count": 1
@@ -1149,7 +1196,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3611636350
+        "EffectDescTextMapHash": 3611636350,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13005,
@@ -1159,7 +1207,7 @@
         "SubCombineType": 4,
         "ResultItemId": 104308,
         "ResultItemCount": 1,
-        "SCoinCost": 175,
+        "ScoinCost": 175,
         "RandomItems": [
             {
                 "Count": 1
@@ -1173,7 +1221,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3706082558
+        "EffectDescTextMapHash": 3706082558,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13006,
@@ -1183,7 +1232,7 @@
         "SubCombineType": 4,
         "ResultItemId": 104309,
         "ResultItemCount": 1,
-        "SCoinCost": 550,
+        "ScoinCost": 550,
         "RandomItems": [
             {
                 "Count": 1
@@ -1197,7 +1246,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 266410710
+        "EffectDescTextMapHash": 266410710,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13007,
@@ -1207,7 +1257,7 @@
         "SubCombineType": 3,
         "ResultItemId": 104311,
         "ResultItemCount": 1,
-        "SCoinCost": 175,
+        "ScoinCost": 175,
         "RandomItems": [
             {
                 "Count": 1
@@ -1221,7 +1271,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2472596486
+        "EffectDescTextMapHash": 2472596486,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13008,
@@ -1231,7 +1282,7 @@
         "SubCombineType": 3,
         "ResultItemId": 104312,
         "ResultItemCount": 1,
-        "SCoinCost": 550,
+        "ScoinCost": 550,
         "RandomItems": [
             {
                 "Count": 1
@@ -1245,7 +1296,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 802548054
+        "EffectDescTextMapHash": 802548054,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13009,
@@ -1255,7 +1307,7 @@
         "SubCombineType": 2,
         "ResultItemId": 104314,
         "ResultItemCount": 1,
-        "SCoinCost": 175,
+        "ScoinCost": 175,
         "RandomItems": [
             {
                 "Count": 1
@@ -1269,7 +1321,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2691955750
+        "EffectDescTextMapHash": 2691955750,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13010,
@@ -1279,7 +1332,7 @@
         "SubCombineType": 2,
         "ResultItemId": 104315,
         "ResultItemCount": 1,
-        "SCoinCost": 550,
+        "ScoinCost": 550,
         "RandomItems": [
             {
                 "Count": 1
@@ -1293,7 +1346,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2443908542
+        "EffectDescTextMapHash": 2443908542,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13011,
@@ -1303,7 +1357,7 @@
         "SubCombineType": 1,
         "ResultItemId": 104317,
         "ResultItemCount": 1,
-        "SCoinCost": 175,
+        "ScoinCost": 175,
         "RandomItems": [
             {
                 "Count": 1
@@ -1317,7 +1371,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3070043686
+        "EffectDescTextMapHash": 3070043686,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 13012,
@@ -1327,7 +1382,7 @@
         "SubCombineType": 1,
         "ResultItemId": 104318,
         "ResultItemCount": 1,
-        "SCoinCost": 550,
+        "ScoinCost": 550,
         "RandomItems": [
             {
                 "Count": 1
@@ -1341,7 +1396,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3609653678
+        "EffectDescTextMapHash": 3609653678,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14001,
@@ -1351,7 +1407,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111006,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1366,7 +1422,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 2591474998
+        "EffectDescTextMapHash": 2591474998,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14002,
@@ -1376,7 +1433,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111007,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1391,7 +1448,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 486996030
+        "EffectDescTextMapHash": 486996030,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14003,
@@ -1401,7 +1459,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111008,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1416,7 +1474,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 109232974
+        "EffectDescTextMapHash": 109232974,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14004,
@@ -1426,7 +1485,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111009,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1441,7 +1500,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 2655203190
+        "EffectDescTextMapHash": 2655203190,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14005,
@@ -1451,7 +1511,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111010,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1466,7 +1526,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 3885553262
+        "EffectDescTextMapHash": 3885553262,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14006,
@@ -1476,7 +1537,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111011,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1491,7 +1552,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 2335632110
+        "EffectDescTextMapHash": 2335632110,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14008,
@@ -1501,7 +1563,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111013,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1516,7 +1578,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 3994443734
+        "EffectDescTextMapHash": 3994443734,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14009,
@@ -1526,7 +1589,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111014,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1541,7 +1604,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 993141678
+        "EffectDescTextMapHash": 993141678,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14010,
@@ -1551,7 +1615,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111015,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1566,7 +1630,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 4244326390
+        "EffectDescTextMapHash": 4244326390,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14011,
@@ -1576,7 +1641,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111016,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1591,7 +1656,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 1382868598
+        "EffectDescTextMapHash": 1382868598,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14012,
@@ -1601,7 +1667,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111017,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1616,7 +1682,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 1796918390
+        "EffectDescTextMapHash": 1796918390,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 14013,
@@ -1626,7 +1693,7 @@
         "SubCombineType": 1,
         "ResultItemId": 111018,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -1641,7 +1708,8 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 2474011518
+        "EffectDescTextMapHash": 2474011518,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15001,
@@ -1651,7 +1719,7 @@
         "SubCombineType": 7,
         "ResultItemId": 104112,
         "ResultItemCount": 1,
-        "SCoinCost": 300,
+        "ScoinCost": 300,
         "RandomItems": [
             {}
         ],
@@ -1663,7 +1731,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 969838134
+        "EffectDescTextMapHash": 969838134,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15002,
@@ -1673,7 +1742,7 @@
         "SubCombineType": 7,
         "ResultItemId": 104113,
         "ResultItemCount": 1,
-        "SCoinCost": 900,
+        "ScoinCost": 900,
         "RandomItems": [
             {}
         ],
@@ -1685,7 +1754,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 439431990
+        "EffectDescTextMapHash": 439431990,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15003,
@@ -1695,7 +1765,7 @@
         "SubCombineType": 7,
         "ResultItemId": 104114,
         "ResultItemCount": 1,
-        "SCoinCost": 2700,
+        "ScoinCost": 2700,
         "RandomItems": [
             {}
         ],
@@ -1707,7 +1777,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 827014342
+        "EffectDescTextMapHash": 827014342,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15004,
@@ -1717,7 +1788,7 @@
         "SubCombineType": 6,
         "ResultItemId": 104122,
         "ResultItemCount": 1,
-        "SCoinCost": 300,
+        "ScoinCost": 300,
         "RandomItems": [
             {}
         ],
@@ -1729,7 +1800,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 985089150
+        "EffectDescTextMapHash": 985089150,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15005,
@@ -1739,7 +1811,7 @@
         "SubCombineType": 6,
         "ResultItemId": 104123,
         "ResultItemCount": 1,
-        "SCoinCost": 900,
+        "ScoinCost": 900,
         "RandomItems": [
             {}
         ],
@@ -1751,7 +1823,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1375946966
+        "EffectDescTextMapHash": 1375946966,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15006,
@@ -1761,7 +1834,7 @@
         "SubCombineType": 6,
         "ResultItemId": 104124,
         "ResultItemCount": 1,
-        "SCoinCost": 2700,
+        "ScoinCost": 2700,
         "RandomItems": [
             {}
         ],
@@ -1773,7 +1846,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3623939486
+        "EffectDescTextMapHash": 3623939486,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15010,
@@ -1783,7 +1857,7 @@
         "SubCombineType": 4,
         "ResultItemId": 104142,
         "ResultItemCount": 1,
-        "SCoinCost": 300,
+        "ScoinCost": 300,
         "RandomItems": [
             {}
         ],
@@ -1795,7 +1869,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 714537582
+        "EffectDescTextMapHash": 714537582,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15011,
@@ -1805,7 +1880,7 @@
         "SubCombineType": 4,
         "ResultItemId": 104143,
         "ResultItemCount": 1,
-        "SCoinCost": 900,
+        "ScoinCost": 900,
         "RandomItems": [
             {}
         ],
@@ -1817,7 +1892,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3043838430
+        "EffectDescTextMapHash": 3043838430,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15012,
@@ -1827,7 +1903,7 @@
         "SubCombineType": 4,
         "ResultItemId": 104144,
         "ResultItemCount": 1,
-        "SCoinCost": 2700,
+        "ScoinCost": 2700,
         "RandomItems": [
             {}
         ],
@@ -1839,7 +1915,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 254418566
+        "EffectDescTextMapHash": 254418566,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15013,
@@ -1849,7 +1926,7 @@
         "SubCombineType": 3,
         "ResultItemId": 104152,
         "ResultItemCount": 1,
-        "SCoinCost": 300,
+        "ScoinCost": 300,
         "RandomItems": [
             {}
         ],
@@ -1861,7 +1938,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1864851190
+        "EffectDescTextMapHash": 1864851190,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15014,
@@ -1871,7 +1949,7 @@
         "SubCombineType": 3,
         "ResultItemId": 104153,
         "ResultItemCount": 1,
-        "SCoinCost": 900,
+        "ScoinCost": 900,
         "RandomItems": [
             {}
         ],
@@ -1883,7 +1961,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3484055638
+        "EffectDescTextMapHash": 3484055638,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15015,
@@ -1893,7 +1972,7 @@
         "SubCombineType": 3,
         "ResultItemId": 104154,
         "ResultItemCount": 1,
-        "SCoinCost": 2700,
+        "ScoinCost": 2700,
         "RandomItems": [
             {}
         ],
@@ -1905,7 +1984,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 56549918
+        "EffectDescTextMapHash": 56549918,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15016,
@@ -1915,7 +1995,7 @@
         "SubCombineType": 2,
         "ResultItemId": 104162,
         "ResultItemCount": 1,
-        "SCoinCost": 300,
+        "ScoinCost": 300,
         "RandomItems": [
             {}
         ],
@@ -1927,7 +2007,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3041544262
+        "EffectDescTextMapHash": 3041544262,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15017,
@@ -1937,7 +2018,7 @@
         "SubCombineType": 2,
         "ResultItemId": 104163,
         "ResultItemCount": 1,
-        "SCoinCost": 900,
+        "ScoinCost": 900,
         "RandomItems": [
             {}
         ],
@@ -1949,7 +2030,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 2246972942
+        "EffectDescTextMapHash": 2246972942,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15018,
@@ -1959,7 +2041,7 @@
         "SubCombineType": 2,
         "ResultItemId": 104164,
         "ResultItemCount": 1,
-        "SCoinCost": 2700,
+        "ScoinCost": 2700,
         "RandomItems": [
             {}
         ],
@@ -1971,7 +2053,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1231409150
+        "EffectDescTextMapHash": 1231409150,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15019,
@@ -1981,7 +2064,7 @@
         "SubCombineType": 1,
         "ResultItemId": 104172,
         "ResultItemCount": 1,
-        "SCoinCost": 300,
+        "ScoinCost": 300,
         "RandomItems": [
             {}
         ],
@@ -1993,7 +2076,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1789214542
+        "EffectDescTextMapHash": 1789214542,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15020,
@@ -2003,7 +2087,7 @@
         "SubCombineType": 1,
         "ResultItemId": 104173,
         "ResultItemCount": 1,
-        "SCoinCost": 900,
+        "ScoinCost": 900,
         "RandomItems": [
             {}
         ],
@@ -2015,7 +2099,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3947090006
+        "EffectDescTextMapHash": 3947090006,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 15021,
@@ -2025,7 +2110,7 @@
         "SubCombineType": 1,
         "ResultItemId": 104174,
         "ResultItemCount": 1,
-        "SCoinCost": 2700,
+        "ScoinCost": 2700,
         "RandomItems": [
             {}
         ],
@@ -2037,7 +2122,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 68505830
+        "EffectDescTextMapHash": 68505830,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 16003,
@@ -2057,7 +2143,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3673190870
+        "EffectDescTextMapHash": 3673190870,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 16004,
@@ -2077,7 +2164,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3775252070
+        "EffectDescTextMapHash": 3775252070,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 16005,
@@ -2097,7 +2185,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 3608614078
+        "EffectDescTextMapHash": 3608614078,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 16006,
@@ -2117,7 +2206,8 @@
             {},
             {}
         ],
-        "EffectDescTextMapHash": 1459761910
+        "EffectDescTextMapHash": 1459761910,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 22001,
@@ -2126,7 +2216,7 @@
         "SubCombineType": 1,
         "ResultItemId": 220001,
         "ResultItemCount": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -2144,7 +2234,8 @@
                 "Count": 1
             }
         ],
-        "EffectDescTextMapHash": 1680693934
+        "EffectDescTextMapHash": 1680693934,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 22002,
@@ -2153,7 +2244,7 @@
         "SubCombineType": 1,
         "ResultItemId": 220002,
         "ResultItemCount": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -2171,7 +2262,8 @@
                 "Count": 1
             }
         ],
-        "EffectDescTextMapHash": 1753725678
+        "EffectDescTextMapHash": 1753725678,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 22005,
@@ -2180,7 +2272,7 @@
         "SubCombineType": 1,
         "ResultItemId": 220005,
         "ResultItemCount": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -2198,7 +2290,8 @@
                 "Count": 5
             }
         ],
-        "EffectDescTextMapHash": 3332182334
+        "EffectDescTextMapHash": 3332182334,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
     },
     {
         "CombineId": 22007,
@@ -2207,7 +2300,7 @@
         "SubCombineType": 1,
         "ResultItemId": 220007,
         "ResultItemCount": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -2222,6 +2315,2675 @@
             },
             {}
         ],
-        "EffectDescTextMapHash": 2105187686
+        "EffectDescTextMapHash": 2105187686,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
+    },
+    {
+        "CombineId": 200004,
+        "PlayerLevel": 23,
+        "CombineType": 99,
+        "SubCombineType": 1,
+        "ResultItemId": 200004,
+        "ResultItemCount": 1,
+        "ScoinCost": 50,
+        "RandomItems": [
+            {}
+        ],
+        "MaterialItems": [
+            {
+                "Id": 200001,
+                "Count": 1
+            },
+            {
+                "Id": 200002,
+                "Count": 1
+            },
+            {
+                "Id": 200003,
+                "Count": 1
+            }
+        ],
+        "EffectDescTextMapHash": 2433178366,
+        "RecipeType": "RECIPE_TYPE_COMBINE"
+    },
+    {
+        "CombineId": 50001,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104111,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104121,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3463538362,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50003,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104111,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104141,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1404848898,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50004,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104111,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104151,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2792012978,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50005,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104111,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104161,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2584915874,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50006,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104111,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104171,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3872827266,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50007,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104112,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104122,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4151675138,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50009,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104112,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104142,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3706273554,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50010,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104112,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104152,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1696894314,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50011,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104112,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104162,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3600749218,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50012,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104112,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104172,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1725169666,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50013,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104113,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104123,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3007141970,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50015,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104113,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104143,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2607841266,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50016,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104113,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104153,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4139341146,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50017,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104113,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104163,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3593706442,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50018,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104113,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104173,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2191854042,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50019,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104114,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104124,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2814584530,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50021,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104114,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104144,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1251365034,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50022,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104114,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104154,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2996170946,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50023,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104114,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104164,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3239391498,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50024,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 7,
+        "ResultItemId": 104114,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104174,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2206207274,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50025,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104121,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104111,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4200215610,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50027,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104121,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104141,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3339015802,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50028,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104121,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104151,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2372305746,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50029,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104121,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104161,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2800208378,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50030,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104121,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104171,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2803352458,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50031,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104122,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104112,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3513761322,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50033,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104122,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104142,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3038979530,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50034,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104122,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104152,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1842341610,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50035,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104122,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104162,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 744595050,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50036,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104122,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104172,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1809775298,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50037,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104123,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104113,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1401531954,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50039,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104123,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104143,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 153934658,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50040,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104123,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104153,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1363386874,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50041,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104123,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104163,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4198693402,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50042,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104123,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104173,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1607771162,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50043,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104124,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104114,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4031223170,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50045,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104124,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104144,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1412510650,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50046,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104124,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104154,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1650043930,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50047,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104124,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104164,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1857842586,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50048,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 6,
+        "ResultItemId": 104124,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104174,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3972865442,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50073,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104141,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104111,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1585139002,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50074,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104141,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104121,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2769494962,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50076,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104141,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104151,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 186734714,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50077,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104141,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104161,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 308567426,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50078,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104141,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104171,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1238314634,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50079,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104142,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104112,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2243441706,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50080,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104142,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104122,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4190173738,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50082,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104142,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104152,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1922516906,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50083,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104142,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104162,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 715246490,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50084,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104142,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104172,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2195291426,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50085,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104143,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104113,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 500029042,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50086,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104143,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104123,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1456934226,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50088,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104143,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104153,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1895465426,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50089,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104143,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104163,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1036934098,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50090,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104143,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104173,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2285812722,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50091,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104144,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104114,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3354192346,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50092,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104144,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104124,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3403918370,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50094,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104144,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104154,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2513943050,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50095,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104144,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104164,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2374685994,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50096,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 4,
+        "ResultItemId": 104144,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104174,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 853666306,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50097,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104151,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104111,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3386210634,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50098,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104151,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104121,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3277916210,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50100,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104151,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104141,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2239171762,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50101,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104151,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104161,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3669815882,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50102,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104151,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104171,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2033278122,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50103,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104152,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104112,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3099993226,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50104,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104152,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104122,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 941045890,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50106,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104152,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104142,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 839577386,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50107,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104152,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104162,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 365765418,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50108,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104152,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104172,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3052151762,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50109,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104153,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104113,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1638326626,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50110,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104153,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104123,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1564115842,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50112,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104153,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104143,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3376099002,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50113,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104153,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104163,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4088575706,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50114,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104153,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104173,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 534083930,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50115,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104154,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104114,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2569280202,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50116,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104154,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104124,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4189732162,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50118,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104154,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104144,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1494139762,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50119,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104154,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104164,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1564012890,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50120,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 3,
+        "ResultItemId": 104154,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104174,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3307872250,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50121,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104161,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104111,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1506189474,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50122,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104161,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104121,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4109363274,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50124,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104161,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104141,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2334487786,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50125,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104161,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104151,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2629567674,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50126,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104161,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104171,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2050998114,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50127,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104162,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104112,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 475950586,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50128,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104162,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104122,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3154265690,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50130,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104162,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104142,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3883054706,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50131,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104162,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104152,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2606107570,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50132,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104162,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104172,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3066269994,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50133,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104163,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104113,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2589499306,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50134,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104163,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104123,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2656350730,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50136,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104163,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104143,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 244968618,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50137,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104163,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104153,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2581099026,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50138,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104163,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104173,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2651033938,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50139,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104164,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104114,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1404959330,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50140,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104164,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104124,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1194534866,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50142,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104164,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104144,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4203280226,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50143,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104164,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104154,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2078552986,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50144,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 2,
+        "ResultItemId": 104164,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104174,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 123950642,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50145,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104171,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104111,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2988301714,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50146,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104171,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104121,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2124919402,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50148,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104171,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104141,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3340134090,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50149,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104171,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104151,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2482242330,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50150,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104171,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104161,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 1
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2419347066,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50151,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104172,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104112,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3174521818,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50152,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104172,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104122,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3673566250,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50154,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104172,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104142,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4021698346,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50155,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104172,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104152,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2798107290,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50156,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104172,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104162,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 3
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 414421538,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50157,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104173,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104113,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 229798170,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50158,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104173,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104123,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3030766130,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50160,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104173,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104143,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2612611802,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50161,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104173,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104153,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3616102634,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50162,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104173,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104163,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 9
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1416493114,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50163,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104174,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104114,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 3765248786,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50164,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104174,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104124,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 4291765282,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50166,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104174,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104144,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 1279494514,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50167,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104174,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104154,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2267294498,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
+    },
+    {
+        "CombineId": 50168,
+        "IsDefaultShow": true,
+        "CombineType": 5,
+        "SubCombineType": 1,
+        "ResultItemId": 104174,
+        "ResultItemCount": 1,
+        "RandomItems": [],
+        "MaterialItems": [
+            {
+                "Id": 104164,
+                "Count": 1
+            },
+            {
+                "Id": 104201,
+                "Count": 27
+            },
+            {}
+        ],
+        "EffectDescTextMapHash": 2353953690,
+        "RecipeType": "RECIPE_TYPE_CONVERT"
     }
 ]

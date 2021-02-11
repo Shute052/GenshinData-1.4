@@ -1,7 +1,7 @@
 [
     {
         "DailyConfigId": 1,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100011,
                 "Count": 10
@@ -9,14 +9,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 2622095486,
+        "ClusPosTextMapHash": 2622095486,
         "NpcTalkTextMapHash": 2700256473,
         "IntroTextMapHash": 4281344476,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 2,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100020,
                 "Count": 10
@@ -24,14 +24,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 1777873926,
+        "ClusPosTextMapHash": 1777873926,
         "NpcTalkTextMapHash": 91926881,
         "IntroTextMapHash": 94891804,
         "TracePosition": "Activity_5003_02"
     },
     {
         "DailyConfigId": 3,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100051,
                 "Count": 10
@@ -39,14 +39,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 2129207238,
+        "ClusPosTextMapHash": 2129207238,
         "NpcTalkTextMapHash": 2673315601,
         "IntroTextMapHash": 2030358308,
         "TracePosition": "Activity_5003_03"
     },
     {
         "DailyConfigId": 4,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100002,
                 "Count": 10
@@ -54,14 +54,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 3999188918,
+        "ClusPosTextMapHash": 3999188918,
         "NpcTalkTextMapHash": 1303293177,
         "IntroTextMapHash": 3634936892,
         "TracePosition": "Activity_5003_04"
     },
     {
         "DailyConfigId": 5,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100001,
                 "Count": 10
@@ -69,14 +69,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 2791305422,
+        "ClusPosTextMapHash": 2791305422,
         "NpcTalkTextMapHash": 2673643361,
         "IntroTextMapHash": 4206335796,
         "TracePosition": "Activity_5003_05"
     },
     {
         "DailyConfigId": 6,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100013,
                 "Count": 10
@@ -84,14 +84,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 804176502,
+        "ClusPosTextMapHash": 804176502,
         "NpcTalkTextMapHash": 2449571641,
         "IntroTextMapHash": 3301563924,
         "TracePosition": "Activity_5003_06"
     },
     {
         "DailyConfigId": 7,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100014,
                 "Count": 10
@@ -99,14 +99,14 @@
             {},
             {}
         ],
-        "clusPosTextMapHash": 551507446,
+        "ClusPosTextMapHash": 551507446,
         "NpcTalkTextMapHash": 3802910241,
         "IntroTextMapHash": 856260316,
         "TracePosition": "Activity_5003_07"
     },
     {
         "DailyConfigId": 8,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100001,
                 "Count": 5
@@ -120,14 +120,14 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 4229767462,
+        "ClusPosTextMapHash": 4229767462,
         "NpcTalkTextMapHash": 2141487273,
         "IntroTextMapHash": 1765375596,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 9,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100002,
                 "Count": 5
@@ -141,14 +141,14 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 1931474374,
+        "ClusPosTextMapHash": 1931474374,
         "NpcTalkTextMapHash": 3275128393,
         "IntroTextMapHash": 2094710668,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 10,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100012,
                 "Count": 5
@@ -162,14 +162,14 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 1632685182,
+        "ClusPosTextMapHash": 1632685182,
         "NpcTalkTextMapHash": 340975753,
         "IntroTextMapHash": 4201542724,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 11,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100013,
                 "Count": 5
@@ -183,14 +183,14 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 351284230,
+        "ClusPosTextMapHash": 351284230,
         "NpcTalkTextMapHash": 4155915233,
         "IntroTextMapHash": 3158606652,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 12,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100014,
                 "Count": 5
@@ -204,14 +204,14 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 3906096758,
+        "ClusPosTextMapHash": 3906096758,
         "NpcTalkTextMapHash": 2811050585,
         "IntroTextMapHash": 4032206284,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 13,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100061,
                 "Count": 5
@@ -225,14 +225,14 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 3735075350,
+        "ClusPosTextMapHash": 3735075350,
         "NpcTalkTextMapHash": 1720586953,
         "IntroTextMapHash": 894448220,
         "TracePosition": "Activity_5003_01"
     },
     {
         "DailyConfigId": 14,
-        "CostItem": [
+        "CostItemList": [
             {
                 "Id": 100062,
                 "Count": 5
@@ -246,7 +246,7 @@
                 "Count": 5
             }
         ],
-        "clusPosTextMapHash": 3687230830,
+        "ClusPosTextMapHash": 3687230830,
         "NpcTalkTextMapHash": 1272110729,
         "IntroTextMapHash": 2484650700,
         "TracePosition": "Activity_5003_01"

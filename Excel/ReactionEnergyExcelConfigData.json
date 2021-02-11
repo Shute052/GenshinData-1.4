@@ -1,10 +1,10 @@
 [
     {
-        "Type": "BURNING",
+        "Type": "Burning",
         "MinDurability": 100.0,
         "MaxDurability": 150.0,
         "CostRatio": 0.009999999776482582,
-        "ConfigId": 2017,
+        "ConfigID": 2017,
         "PoolSize": 4.0,
         "PoolRevivePeriod": 30.0,
         "PoolReviveEnergy": 4.0,
@@ -13,11 +13,11 @@
         "DropProb": 63
     },
     {
-        "Type": "FREEZE",
+        "Type": "Freeze",
         "MinDurability": 80.0,
         "MaxDurability": 120.0,
         "CostRatio": 0.009999999776482582,
-        "ConfigId": 2022,
+        "ConfigID": 2022,
         "PoolSize": 4.0,
         "PoolRevivePeriod": 30.0,
         "PoolReviveEnergy": 4.0,

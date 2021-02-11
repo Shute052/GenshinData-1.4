@@ -19,7 +19,7 @@
         "PicPath": "UI_DungeonPic_Cubic_Normal",
         "SystemOpenUiId": 4,
         "RewardDataId": 220404,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -47,7 +47,7 @@
         "PicPath": "UI_DungeonPic_Water",
         "SystemOpenUiId": 8,
         "RewardDataId": 220402,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [
                 114001,
                 114002,
@@ -102,7 +102,7 @@
         ],
         "PicPath": "UI_DungeonPic_Thunder",
         "RewardDataId": 220407,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [
                 114013,
                 114014,
@@ -149,7 +149,7 @@
         ],
         "PicPath": "UI_DungeonPic_HuZhongTian",
         "RewardDataId": 220406,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -175,7 +175,7 @@
         ],
         "PicPath": "UI_DungeonPic_Cubic_Normal_1",
         "RewardDataId": 220405,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -201,7 +201,7 @@
         ],
         "PicPath": "UI_DungeonPic_Cubic_Normal_2",
         "RewardDataId": 220409,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -227,7 +227,7 @@
         ],
         "PicPath": "UI_DungeonPic_Cubic_Normal_3",
         "RewardDataId": 220410,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -253,7 +253,7 @@
         ],
         "PicPath": "UI_DungeonPic_Cubic_Normal_4",
         "RewardDataId": 220411,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -281,7 +281,7 @@
         "PicPath": "UI_DungeonPic_Ice",
         "SystemOpenUiId": 6,
         "RewardDataId": 220403,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [
                 104301,
                 104302,
@@ -330,7 +330,7 @@
         ],
         "PicPath": "UI_DungeonPic_Fire",
         "RewardDataId": 220408,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [
                 104310,
                 104311,
@@ -378,7 +378,7 @@
         ],
         "PicPath": "UI_DungeonPic_Cubic_Cold_1",
         "RewardDataId": 220414,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -401,7 +401,7 @@
         "PicPath": "UI_DungeonPic_Tower_Normal",
         "SystemOpenUiId": 3,
         "RewardDataId": 220412,
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -419,7 +419,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Kaeya",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -437,7 +437,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Amber",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -455,7 +455,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Lise",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -473,7 +473,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_DragonTear",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -499,7 +499,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Stormterror",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -517,7 +517,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Kaeya",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -535,7 +535,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Fatui",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -553,7 +553,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -571,7 +571,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -589,7 +589,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -607,7 +607,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_XiangLing",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -625,7 +625,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -643,7 +643,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_YunHai",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -661,7 +661,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_YunHai",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -685,7 +685,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_Goldenhouse",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],
@@ -704,7 +704,7 @@
             {}
         ],
         "PicPath": "UI_DungeonPic_EffigyChallenge",
-        "DescriptionCycleReward": [
+        "DescriptionCycleRewardList": [
             [],
             [],
             [],

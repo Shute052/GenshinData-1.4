@@ -32,7 +32,7 @@
     {
         "Id": 4,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 1,
+        "MonsterID": 1,
         "Tips": [
             3831936567,
             2476558462,
@@ -43,7 +43,7 @@
     {
         "Id": 5,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21020101,
+        "MonsterID": 21020101,
         "Tips": [
             2589967055,
             465629334,
@@ -54,7 +54,7 @@
     {
         "Id": 6,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21020201,
+        "MonsterID": 21020201,
         "Tips": [
             3326349615,
             3744466230,
@@ -65,7 +65,7 @@
     {
         "Id": 7,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20020101,
+        "MonsterID": 20020101,
         "Tips": [
             981888551,
             3064727110,
@@ -76,7 +76,7 @@
     {
         "Id": 8,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 22010101,
+        "MonsterID": 22010101,
         "Tips": [
             2958076071,
             3076265494,
@@ -87,7 +87,7 @@
     {
         "Id": 9,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 22010201,
+        "MonsterID": 22010201,
         "Tips": [
             3939734079,
             846273878,
@@ -98,7 +98,7 @@
     {
         "Id": 10,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 22010301,
+        "MonsterID": 22010301,
         "Tips": [
             452913191,
             479600390,
@@ -109,7 +109,7 @@
     {
         "Id": 11,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20011201,
+        "MonsterID": 20011201,
         "Tips": [
             1267393463,
             373643766,
@@ -120,7 +120,7 @@
     {
         "Id": 12,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20011301,
+        "MonsterID": 20011301,
         "Tips": [
             2175273999,
             515134678,
@@ -131,7 +131,7 @@
     {
         "Id": 13,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20011401,
+        "MonsterID": 20011401,
         "Tips": [
             1290430751,
             1479505926,
@@ -142,7 +142,7 @@
     {
         "Id": 14,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20011501,
+        "MonsterID": 20011501,
         "Tips": [
             1445493447,
             258819486,
@@ -153,7 +153,7 @@
     {
         "Id": 15,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010301,
+        "MonsterID": 20010301,
         "Tips": [
             3122524551,
             3794385262,
@@ -164,7 +164,7 @@
     {
         "Id": 16,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010401,
+        "MonsterID": 20010401,
         "Tips": [
             3716688703,
             142355806,
@@ -175,7 +175,7 @@
     {
         "Id": 17,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010101,
+        "MonsterID": 20010101,
         "Tips": [
             2047064879,
             1523571678,
@@ -186,7 +186,7 @@
     {
         "Id": 18,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010201,
+        "MonsterID": 20010201,
         "Tips": [
             2188108919,
             425306974,
@@ -197,7 +197,7 @@
     {
         "Id": 19,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010801,
+        "MonsterID": 20010801,
         "Tips": [
             3150948207,
             2638268518,
@@ -208,7 +208,7 @@
     {
         "Id": 20,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010901,
+        "MonsterID": 20010901,
         "Tips": [
             122205591,
             1661914678,
@@ -219,7 +219,7 @@
     {
         "Id": 21,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010501,
+        "MonsterID": 20010501,
         "Tips": [
             505781079,
             325387526,
@@ -230,7 +230,7 @@
     {
         "Id": 22,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010601,
+        "MonsterID": 20010601,
         "Tips": [
             1849088175,
             2712686886,
@@ -241,7 +241,7 @@
     {
         "Id": 23,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20010701,
+        "MonsterID": 20010701,
         "Tips": [
             2793698823,
             307082510,
@@ -252,7 +252,7 @@
     {
         "Id": 24,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20011001,
+        "MonsterID": 20011001,
         "Tips": [
             2490501087,
             4037110070,
@@ -263,7 +263,7 @@
     {
         "Id": 25,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 20011101,
+        "MonsterID": 20011101,
         "Tips": [
             171050463,
             3499921902,
@@ -274,7 +274,7 @@
     {
         "Id": 26,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21030101,
+        "MonsterID": 21030101,
         "Tips": [
             2666669631,
             1676134686,
@@ -285,7 +285,7 @@
     {
         "Id": 27,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21030201,
+        "MonsterID": 21030201,
         "Tips": [
             3822737791,
             1071811862,
@@ -296,7 +296,7 @@
     {
         "Id": 28,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21030301,
+        "MonsterID": 21030301,
         "Tips": [
             1844717783,
             2069846846,
@@ -307,7 +307,7 @@
     {
         "Id": 29,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 24010101,
+        "MonsterID": 24010101,
         "Tips": [
             204408135,
             2731143182,
@@ -318,7 +318,7 @@
     {
         "Id": 30,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010101,
+        "MonsterID": 21010101,
         "Tips": [
             2151581743,
             3935642166,
@@ -329,7 +329,7 @@
     {
         "Id": 31,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010201,
+        "MonsterID": 21010201,
         "Tips": [
             705940679,
             3414114910,
@@ -340,7 +340,7 @@
     {
         "Id": 32,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010301,
+        "MonsterID": 21010301,
         "Tips": [
             1089835183,
             3268893134,
@@ -351,7 +351,7 @@
     {
         "Id": 33,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010401,
+        "MonsterID": 21010401,
         "Tips": [
             4270205759,
             3447081974,
@@ -362,7 +362,7 @@
     {
         "Id": 34,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010501,
+        "MonsterID": 21010501,
         "Tips": [
             1285997215,
             49208726,
@@ -373,7 +373,7 @@
     {
         "Id": 35,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010601,
+        "MonsterID": 21010601,
         "Tips": [
             2788917367,
             340422350,
@@ -384,7 +384,7 @@
     {
         "Id": 36,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010701,
+        "MonsterID": 21010701,
         "Tips": [
             3573987119,
             1010826958,
@@ -395,7 +395,7 @@
     {
         "Id": 37,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010801,
+        "MonsterID": 21010801,
         "Tips": [
             1659776463,
             1607751926,
@@ -406,7 +406,7 @@
     {
         "Id": 38,
         "DieType": "PLAYER_DIE_KILL_BY_MONSTER",
-        "MonsterId": 21010901,
+        "MonsterID": 21010901,
         "Tips": [
             2242786431,
             447592646,

@@ -2,7 +2,7 @@
     {
         "EntranceId": 48,
         "CityId": 1,
-        "DungeonId": [
+        "DungeonIdList": [
             4100,
             4101,
             4102,
@@ -12,7 +12,7 @@
     {
         "EntranceId": 44,
         "CityId": 1,
-        "DungeonId": [
+        "DungeonIdList": [
             4200,
             4201,
             4202,
@@ -22,7 +22,7 @@
     {
         "EntranceId": 50,
         "CityId": 1,
-        "DungeonId": [
+        "DungeonIdList": [
             4300,
             4301,
             4302,
@@ -32,7 +32,7 @@
     {
         "EntranceId": 40,
         "CityId": 1,
-        "DungeonId": [
+        "DungeonIdList": [
             4400,
             4401,
             4402,
@@ -46,7 +46,7 @@
     {
         "EntranceId": 45,
         "CityId": 1,
-        "DungeonId": [
+        "DungeonIdList": [
             4500,
             4520,
             4540,

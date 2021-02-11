@@ -1,9 +1,9 @@
 [
     {
-        "Id": 101,
+        "ID": 101,
         "NameTextMapHash": 2498537973,
         "CityId": 1,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 14
             },
@@ -13,24 +13,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205010100,
                 "RewardPreview": 1011
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205010300,
                 "RewardPreview": 1012
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205010500,
                 "RewardPreview": 1013
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205010700,
                 "RewardPreview": 1014
             }
@@ -41,10 +41,10 @@
         "PosY": 0.5889999866485596
     },
     {
-        "Id": 102,
+        "ID": 102,
         "NameTextMapHash": 3796215893,
         "CityId": 1,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 14
             },
@@ -54,24 +54,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205030100,
                 "RewardPreview": 1031
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205030300,
                 "RewardPreview": 1032
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205030500,
                 "RewardPreview": 1033
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205030700,
                 "RewardPreview": 1034
             }
@@ -82,10 +82,10 @@
         "PosY": 0.5220000147819519
     },
     {
-        "Id": 103,
+        "ID": 103,
         "NameTextMapHash": 3497395333,
         "CityId": 1,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 16
             },
@@ -95,24 +95,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205010100,
                 "RewardPreview": 1011
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205010300,
                 "RewardPreview": 1012
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205010500,
                 "RewardPreview": 1013
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205010700,
                 "RewardPreview": 1014
             }
@@ -123,10 +123,10 @@
         "PosY": 0.40400001406669617
     },
     {
-        "Id": 104,
+        "ID": 104,
         "NameTextMapHash": 490005341,
         "CityId": 1,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 16
             },
@@ -136,24 +136,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205040100,
                 "RewardPreview": 1041
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205040300,
                 "RewardPreview": 1042
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205040500,
                 "RewardPreview": 1043
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205040700,
                 "RewardPreview": 1044
             }
@@ -161,13 +161,13 @@
         "DescriptionTextMapHash": 2345799639,
         "Picture": "UI_ExplorePic_104",
         "PosX": 0.43799999356269836,
-        "PosY": 0.6700000166893005
+        "PosY": 0.6399999856948853
     },
     {
-        "Id": 105,
+        "ID": 105,
         "NameTextMapHash": 3611930813,
         "CityId": 1,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 18
             },
@@ -177,24 +177,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205050100,
                 "RewardPreview": 1051
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205050300,
                 "RewardPreview": 1052
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205050500,
                 "RewardPreview": 1053
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205050700,
                 "RewardPreview": 1054
             }
@@ -205,10 +205,10 @@
         "PosY": 0.4749999940395355
     },
     {
-        "Id": 106,
+        "ID": 106,
         "NameTextMapHash": 775762325,
         "CityId": 1,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 20
             },
@@ -221,24 +221,24 @@
                 "Para": 39604
             }
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205020100,
                 "RewardPreview": 1021
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205020300,
                 "RewardPreview": 1022
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205020500,
                 "RewardPreview": 1023
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205020700,
                 "RewardPreview": 1024
             }
@@ -249,10 +249,10 @@
         "PosY": 0.546999990940094
     },
     {
-        "Id": 201,
+        "ID": 201,
         "NameTextMapHash": 3645176597,
         "CityId": 2,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 14
             },
@@ -262,24 +262,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205020100,
                 "RewardPreview": 1021
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205020300,
                 "RewardPreview": 1022
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205020500,
                 "RewardPreview": 1023
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205020700,
                 "RewardPreview": 1024
             }
@@ -290,10 +290,10 @@
         "PosY": 0.5920000076293945
     },
     {
-        "Id": 202,
+        "ID": 202,
         "NameTextMapHash": 1416655965,
         "CityId": 2,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 14
             },
@@ -303,24 +303,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205060100,
                 "RewardPreview": 1061
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205060300,
                 "RewardPreview": 1062
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205060500,
                 "RewardPreview": 1063
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205060700,
                 "RewardPreview": 1064
             }
@@ -331,10 +331,10 @@
         "PosY": 0.46000000834465027
     },
     {
-        "Id": 203,
+        "ID": 203,
         "NameTextMapHash": 1472721765,
         "CityId": 2,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 16
             },
@@ -344,24 +344,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205010100,
                 "RewardPreview": 1011
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205010300,
                 "RewardPreview": 1012
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205010500,
                 "RewardPreview": 1013
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205010700,
                 "RewardPreview": 1014
             }
@@ -372,10 +372,10 @@
         "PosY": 0.5220000147819519
     },
     {
-        "Id": 204,
+        "ID": 204,
         "NameTextMapHash": 1687473661,
         "CityId": 2,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 18
             },
@@ -385,24 +385,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205050100,
                 "RewardPreview": 1051
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205050300,
                 "RewardPreview": 1052
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205050500,
                 "RewardPreview": 1053
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205050700,
                 "RewardPreview": 1054
             }
@@ -413,10 +413,10 @@
         "PosY": 0.42800000309944153
     },
     {
-        "Id": 205,
+        "ID": 205,
         "NameTextMapHash": 3772014389,
         "CityId": 2,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 18
             },
@@ -426,24 +426,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205020100,
                 "RewardPreview": 1021
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205020300,
                 "RewardPreview": 1022
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205020500,
                 "RewardPreview": 1023
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205020700,
                 "RewardPreview": 1024
             }
@@ -454,10 +454,10 @@
         "PosY": 0.4569999873638153
     },
     {
-        "Id": 206,
+        "ID": 206,
         "NameTextMapHash": 3896403293,
         "CityId": 2,
-        "OpenCondition": [
+        "OpenConditionVec": [
             {
                 "Para": 20
             },
@@ -467,24 +467,24 @@
             },
             {}
         ],
-        "TimeReward": [
+        "TimeRewardVec": [
             {
-                "HTime": 4,
+                "Htime": 4,
                 "RewardDropId": 205060100,
                 "RewardPreview": 1061
             },
             {
-                "HTime": 8,
+                "Htime": 8,
                 "RewardDropId": 205060300,
                 "RewardPreview": 1062
             },
             {
-                "HTime": 12,
+                "Htime": 12,
                 "RewardDropId": 205060500,
                 "RewardPreview": 1063
             },
             {
-                "HTime": 20,
+                "Htime": 20,
                 "RewardDropId": 205060700,
                 "RewardPreview": 1064
             }

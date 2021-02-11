@@ -10,7 +10,7 @@
         "Id": 72001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_LOGIN",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -29,7 +29,7 @@
         "Id": 72002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DAILY_TASK",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -48,7 +48,7 @@
         "Id": 72003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "Param": [
+            "ParamList": [
                 "101001;101002;101003;101004;100058;100054;100028;101006",
                 "",
                 ""
@@ -67,7 +67,7 @@
         "Id": 72004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "106",
                 "",
                 ""
@@ -87,7 +87,7 @@
         "Id": 73001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "Param": [
+            "ParamList": [
                 "100021;100022;100023;100024;100025;100055;100057;100056",
                 "",
                 ""
@@ -107,7 +107,7 @@
         "Id": 73002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "Param": [
+            "ParamList": [
                 "100027;100028;100029;100030;100031;100033;100034;100058",
                 "",
                 ""
@@ -127,8 +127,8 @@
         "Id": 73003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
-                "20040101;20040201;20040301;26020201;26020101;20050101;29020102",
+            "ParamList": [
+                "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401",
                 "可联机",
                 ""
             ]
@@ -147,7 +147,7 @@
         "Id": 73004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "29020101;29020102",
                 "可联机",
                 ""
@@ -167,7 +167,7 @@
         "Id": 73005,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "2020;2021;2022;2023;2024;2025",
                 "",
                 ""
@@ -187,7 +187,7 @@
         "Id": 73006,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "106",
                 "",
                 ""
@@ -207,7 +207,7 @@
         "Id": 73007,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "202",
                 "",
                 ""
@@ -227,7 +227,7 @@
         "Id": 73008,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -247,7 +247,7 @@
         "Id": 73009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_BLOSSOM_PROGRESS",
-            "Param": [
+            "ParamList": [
                 "1;2;3;4",
                 "",
                 ""
@@ -267,7 +267,7 @@
         "Id": 73010,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DO_COOK",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
@@ -287,7 +287,7 @@
         "Id": 73011,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DO_FORGE",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -307,7 +307,7 @@
         "Id": 73012,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_REPUTATION_FINISH_REQUEST",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -327,7 +327,7 @@
         "Id": 73013,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_HUNTING_FINISH_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -338,6 +338,7 @@
     {
         "RefreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
         "AddPoint": 360,
+        "ScheduleId": 1100,
         "DescTextMapHash": 3177532946,
         "Guide": {
             "Param": [
@@ -347,13 +348,14 @@
         "Id": 73014,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_ROUTINE",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
             ]
         },
-        "Progress": 5
+        "Progress": 5,
+        "IsDisuse": true
     },
     {
         "RefreshType": "BATTLE_PASS_MISSION_REFRESH_CYCLE",
@@ -367,13 +369,256 @@
         "Id": 73015,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "103;104;105;106",
                 "可联机",
                 ""
             ]
         },
         "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1300,
+        "DescTextMapHash": 2592598114,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73301,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_GACHA_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 50
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 2250,
+        "ScheduleId": 1300,
+        "DescTextMapHash": 2784383834,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73302,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_TOWER_STARS_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 12
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1300,
+        "ActivityId": 5017,
+        "DescTextMapHash": 2926173170,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73303,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_ACTIVITY_EXPEDITION_FINISH",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 16
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1200,
+        "ScheduleId": 1300,
+        "ActivityId": 5016,
+        "DescTextMapHash": 605203442,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73304,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BLESSING_REDEEM_REWARD_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 7
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1200,
+        "ScheduleId": 1300,
+        "ActivityId": 5016,
+        "DescTextMapHash": 2817028578,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73305,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BLESSING_EXCHANGE_PIC_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1300,
+        "ActivityId": 2002,
+        "DescTextMapHash": 4054280770,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73309,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_SEA_LAMP_MINI_QUEST",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 23
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 2250,
+        "ScheduleId": 1300,
+        "ActivityId": 2002,
+        "DescTextMapHash": 3351396490,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73310,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_DIFFICULT_EQ",
+            "ParamList": [
+                "7",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 1300,
+        "ActivityId": 2002,
+        "DescTextMapHash": 1407899362,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73311,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MECHANICUS_KILL_MONSTER",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1500
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 9998,
+        "ActivityId": 2002,
+        "DescTextMapHash": 361516050,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73306,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BLESSING_EXCHANGE_PIC_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDisuse": true
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 1500,
+        "ScheduleId": 9998,
+        "ActivityId": 2002,
+        "DescTextMapHash": 1493419306,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73307,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BLESSING_EXCHANGE_PIC_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDisuse": true
+    },
+    {
+        "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "AddPoint": 2250,
+        "ScheduleId": 9998,
+        "ActivityId": 2002,
+        "DescTextMapHash": 1252573370,
+        "Guide": {
+            "Param": [
+                ""
+            ]
+        },
+        "Id": 73308,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_BLESSING_EXCHANGE_PIC_NUM",
+            "ParamList": [
+                "",
+                "",
+                ""
+            ]
+        },
+        "Progress": 1,
+        "IsDisuse": true
     },
     {
         "RefreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
@@ -388,7 +633,7 @@
         "Id": 75201,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_GACHA_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -409,7 +654,7 @@
         "Id": 75202,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "106",
                 "",
                 ""
@@ -430,7 +675,7 @@
         "Id": 75203,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_TOWER_STARS_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -451,7 +696,7 @@
         "Id": 75204,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OFFERING_LEVEL",
-            "Param": [
+            "ParamList": [
                 "1",
                 "8",
                 ""
@@ -473,7 +718,7 @@
         "Id": 75205,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_TREASURE_MAP_DONE_REGION",
-            "Param": [
+            "ParamList": [
                 "5011",
                 "5011001",
                 "14"
@@ -495,7 +740,7 @@
         "Id": 75206,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_REACH_MP_PLAY_SCORE",
-            "Param": [
+            "ParamList": [
                 "3",
                 "300",
                 ""
@@ -517,7 +762,7 @@
         "Id": 75207,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_SPECIFIED_WEAPON_AWAKEN",
-            "Param": [
+            "ParamList": [
                 "11413",
                 "2",
                 ""
@@ -539,7 +784,7 @@
         "Id": 75208,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DELIVER_ITEM_TO_SALESMAN",
-            "Param": [
+            "ParamList": [
                 "8",
                 "3",
                 ""
@@ -561,7 +806,7 @@
         "Id": 75209,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_EFFIGY_CHALLENGE_SCORE",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -582,7 +827,7 @@
         "Id": 74003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_GACHA_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -603,7 +848,7 @@
         "Id": 74004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "106",
                 "",
                 ""
@@ -626,7 +871,7 @@
         "Id": 75105,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DAILY_DELIVERY_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -647,7 +892,7 @@
         "Id": 75106,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_TOWER_STARS_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -670,7 +915,7 @@
         "Id": 75107,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_GROUP_FLIGHT_CHALLENGE_REACH_POINTS",
-            "Param": [
+            "ParamList": [
                 "133104761",
                 "3",
                 ""
@@ -693,7 +938,7 @@
         "Id": 75108,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
-            "Param": [
+            "ParamList": [
                 "70950021",
                 "",
                 ""
@@ -716,7 +961,7 @@
         "Id": 75109,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_TAKE_GENERAL_REWARD",
-            "Param": [
+            "ParamList": [
                 "70330041",
                 "",
                 ""
@@ -737,7 +982,7 @@
         "Id": 74001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_GACHA_NUM",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -758,7 +1003,7 @@
         "Id": 74002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "106",
                 "",
                 ""
@@ -781,7 +1026,7 @@
         "Id": 75101,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -802,7 +1047,7 @@
         "Id": 75102,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "8",
                 "3",
                 ""
@@ -825,7 +1070,7 @@
         "Id": 75103,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DELIVER_ITEM_TO_SALESMAN",
-            "Param": [
+            "ParamList": [
                 "8",
                 "3",
                 ""
@@ -848,7 +1093,7 @@
         "Id": 75104,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MP_PLAY_BATTLE_WIN",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
@@ -871,7 +1116,7 @@
         "Id": 75015,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CRUCIBLE_WORLD_LEVEL_SCORE",
-            "Param": [
+            "ParamList": [
                 "720",
                 "",
                 ""

@@ -1108,6 +1108,15 @@
         "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME"
     },
     {
+        "Id": 219,
+        "TargetTextTemplateTextMapHash": 1466771442,
+        "SubTargetTextTemplateTextMapHash": 2110313419,
+        "ProgressTextTemplateTextMapHash": 2639813982,
+        "SubProgressTextTemplateTextMapHash": 3449502287,
+        "ChallengeType": "CHALLENGE_KILL_COUNT_GUARD_HP",
+        "NoSuccessHint": true
+    },
+    {
         "Id": 220,
         "TargetTextTemplateTextMapHash": 305686242,
         "SubTargetTextTemplateTextMapHash": 3290535419,
@@ -1435,7 +1444,7 @@
         "ProgressTextTemplateTextMapHash": 772737422,
         "SubProgressTextTemplateTextMapHash": 3026986063,
         "ChallengeType": "CHALLENGE_TRIGGER_IN_TIME",
-        "ActivitySkillId": 20003
+        "ActivitySkillID": 20003
     },
     {
         "Id": 2008,

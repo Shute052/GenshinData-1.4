@@ -2,11 +2,11 @@
     {
         "Id": 1,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             23030101,
             23040101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133001229,
             133002243,
             133003412,
@@ -19,9 +19,9 @@
             133008640
         ],
         "RewardPreviewId": 15503,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 2116056172,
         "Icon": "UI_MonsterIcon_Fatuus_Summoner_01",
         "DescTextMapHash": 2873961103,
@@ -30,12 +30,12 @@
     {
         "Id": 2,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             22010101,
             22010201,
             22010301
         ],
-        "GroupId": [
+        "GroupIdList": [
             133004369,
             133102573,
             133103031,
@@ -53,9 +53,9 @@
             133106113
         ],
         "RewardPreviewId": 15501,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 1211246492,
         "Icon": "UI_MonsterIcon_Abyss_Water_01",
         "DescTextMapHash": 3160129879,
@@ -64,11 +64,11 @@
     {
         "Id": 3,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             24010101,
             24010301
         ],
-        "GroupId": [
+        "GroupIdList": [
             133003317,
             133004131,
             133007059,
@@ -80,9 +80,9 @@
             133008584
         ],
         "RewardPreviewId": 15504,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 7930300,
         "Icon": "UI_MonsterIcon_Defender_Noner_01",
         "DescTextMapHash": 3599879231,
@@ -91,14 +91,14 @@
     {
         "Id": 4,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             21020101,
             21020201,
             21020301,
             21020601,
             21020601
         ],
-        "GroupId": [
+        "GroupIdList": [
             133007239,
             133102337,
             133102619,
@@ -112,9 +112,9 @@
             133008209
         ],
         "RewardPreviewId": 15500,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 3562720660,
         "Icon": "UI_MonsterIcon_Brute_None_01",
         "DescTextMapHash": 2163980335,
@@ -123,7 +123,7 @@
     {
         "Id": 5,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             23010101,
             23010201,
             23010301,
@@ -131,7 +131,7 @@
             23010501,
             23010601
         ],
-        "GroupId": [
+        "GroupIdList": [
             133001233,
             133001406,
             133002297,
@@ -141,9 +141,9 @@
             133107116
         ],
         "RewardPreviewId": 16007,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 1740952220,
         "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
         "DescTextMapHash": 1364422791,
@@ -152,19 +152,19 @@
     {
         "Id": 6,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             20040101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133001313
         ],
         "RewardPreviewId": 15100,
-        "MapMarkCreateType": "EXTRACONDITIONS",
+        "MapMarkCreateType": "ExtraConditions",
         "MapMarkCreateCondition": {
-            "ConditionType": "PLAYERLEVELGE",
+            "ConditionType": "PlayerLevelGE",
             "ConditionParam": 20
         },
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 2296454212,
         "Icon": "UI_MonsterIcon_Effigy_Electric",
         "DescTextMapHash": 622146887,
@@ -173,19 +173,19 @@
     {
         "Id": 7,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             20040201
         ],
-        "GroupId": [
+        "GroupIdList": [
             133003482
         ],
         "RewardPreviewId": 15110,
-        "MapMarkCreateType": "EXTRACONDITIONS",
+        "MapMarkCreateType": "ExtraConditions",
         "MapMarkCreateCondition": {
-            "ConditionType": "PLAYERLEVELGE",
+            "ConditionType": "PlayerLevelGE",
             "ConditionParam": 20
         },
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 3813394428,
         "Icon": "UI_MonsterIcon_Effigy_Wind",
         "DescTextMapHash": 1898332639,
@@ -194,19 +194,19 @@
     {
         "Id": 8,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             26020101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133003543
         ],
         "RewardPreviewId": 15130,
-        "MapMarkCreateType": "EXTRACONDITIONS",
+        "MapMarkCreateType": "ExtraConditions",
         "MapMarkCreateCondition": {
-            "ConditionType": "PLAYERLEVELGE",
+            "ConditionType": "PlayerLevelGE",
             "ConditionParam": 20
         },
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 525736108,
         "Icon": "UI_MonsterIcon_Regisvine_Ice",
         "DescTextMapHash": 894077983,
@@ -215,16 +215,16 @@
     {
         "Id": 9,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             29020102
         ],
-        "GroupId": [
+        "GroupIdList": [
             133002259
         ],
         "UnlockParentQuestId": 454,
         "RewardPreviewId": 15010,
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 2324314052,
         "Icon": "UI_MonsterIcon_LupiBoreas",
         "DescTextMapHash": 2964908743,
@@ -233,10 +233,10 @@
     {
         "Id": 10,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             23020101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133104268,
             133105259,
             133106110,
@@ -245,9 +245,9 @@
             133106147
         ],
         "RewardPreviewId": 15502,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 1030983868,
         "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
         "DescTextMapHash": 1163312791,
@@ -256,10 +256,10 @@
     {
         "Id": 11,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             24010201
         ],
-        "GroupId": [
+        "GroupIdList": [
             133103325,
             133105219,
             133106087,
@@ -267,9 +267,9 @@
             133107040
         ],
         "RewardPreviewId": 15504,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 243568684,
         "Icon": "UI_MonsterIcon_Formathr_None",
         "DescTextMapHash": 3684190943,
@@ -278,11 +278,11 @@
     {
         "Id": 12,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             26010101,
             26010201
         ],
-        "GroupId": [
+        "GroupIdList": [
             133002398,
             133102643,
             133104322,
@@ -291,9 +291,9 @@
             133107062
         ],
         "RewardPreviewId": 16008,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 562652100,
         "Icon": "UI_MonsterIcon_Mimik_Ice",
         "DescTextMapHash": 3558974463,
@@ -302,19 +302,19 @@
     {
         "Id": 13,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             20040301
         ],
-        "GroupId": [
+        "GroupIdList": [
             133108020
         ],
         "RewardPreviewId": 15120,
-        "MapMarkCreateType": "EXTRACONDITIONS",
+        "MapMarkCreateType": "ExtraConditions",
         "MapMarkCreateCondition": {
-            "ConditionType": "PLAYERLEVELGE",
+            "ConditionType": "PlayerLevelGE",
             "ConditionParam": 20
         },
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 2498400124,
         "Icon": "UI_MonsterIcon_Effigy_Rock",
         "DescTextMapHash": 2273147727,
@@ -323,19 +323,19 @@
     {
         "Id": 14,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             20050101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133102769
         ],
         "RewardPreviewId": 15150,
-        "MapMarkCreateType": "EXTRACONDITIONS",
+        "MapMarkCreateType": "ExtraConditions",
         "MapMarkCreateCondition": {
-            "ConditionType": "PLAYERLEVELGE",
+            "ConditionType": "PlayerLevelGE",
             "ConditionParam": 20
         },
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 859677348,
         "Icon": "UI_MonsterIcon_Oceanid",
         "DescTextMapHash": 2848133519,
@@ -344,19 +344,19 @@
     {
         "Id": 15,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             26020201
         ],
-        "GroupId": [
+        "GroupIdList": [
             133104394
         ],
         "RewardPreviewId": 15140,
-        "MapMarkCreateType": "EXTRACONDITIONS",
+        "MapMarkCreateType": "ExtraConditions",
         "MapMarkCreateCondition": {
-            "ConditionType": "PLAYERLEVELGE",
+            "ConditionType": "PlayerLevelGE",
             "ConditionParam": 20
         },
-        "MonsterCategory": "BOSS",
+        "MonsterCategory": "Boss",
         "NameTextMapHash": 3427645324,
         "Icon": "UI_MonsterIcon_Regisvine_Fire",
         "DescTextMapHash": 3116937319,
@@ -365,10 +365,10 @@
     {
         "Id": 16,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             26030101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133102504,
             133102056,
             133106215,
@@ -378,9 +378,9 @@
             133106306
         ],
         "RewardPreviewId": 15505,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 888016324,
         "Icon": "UI_MonsterIcon_Wyrm_Rock",
         "DescTextMapHash": 4137825743,
@@ -389,13 +389,13 @@
     {
         "Id": 17,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             21010401,
             21010501,
             21010901,
             21011001
         ],
-        "GroupId": [
+        "GroupIdList": [
             133001021,
             133001359,
             133001369,
@@ -409,9 +409,9 @@
             133007022
         ],
         "RewardPreviewId": 16005,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 605593892,
         "Icon": "UI_MonsterIcon_Hili_Electric_Range",
         "DescTextMapHash": 4268108703,
@@ -420,7 +420,7 @@
     {
         "Id": 18,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             21010101,
             21010201,
             21010301,
@@ -430,7 +430,7 @@
             21011301,
             21011401
         ],
-        "GroupId": [
+        "GroupIdList": [
             133001097,
             133001254,
             133002346,
@@ -447,9 +447,9 @@
             133105327
         ],
         "RewardPreviewId": 16004,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 1978754172,
         "Icon": "UI_MonsterIcon_Hili_None_01",
         "DescTextMapHash": 3867846519,
@@ -458,14 +458,14 @@
     {
         "Id": 19,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             21030101,
             21030201,
             21030301,
             21030401,
             21030501
         ],
-        "GroupId": [
+        "GroupIdList": [
             133002342,
             133004289,
             133007021,
@@ -480,9 +480,9 @@
             133008435
         ],
         "RewardPreviewId": 16006,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 3793925636,
         "Icon": "UI_MonsterIcon_Shaman_Wind_01",
         "DescTextMapHash": 2152833887,
@@ -491,7 +491,7 @@
     {
         "Id": 20,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             20010101,
             20010201,
             20010301,
@@ -508,7 +508,7 @@
             20011401,
             20011501
         ],
-        "GroupId": [
+        "GroupIdList": [
             133001358,
             133001369,
             133002316,
@@ -528,9 +528,9 @@
             133108097
         ],
         "RewardPreviewId": 16000,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 3463468772,
         "Icon": "UI_MonsterIcon_Slime_Water_03",
         "DescTextMapHash": 2182239071,
@@ -539,7 +539,7 @@
     {
         "Id": 21,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             25010201,
             25010301,
             25010401,
@@ -552,7 +552,7 @@
             25060101,
             25070101
         ],
-        "GroupId": [
+        "GroupIdList": [
             133102652,
             133102672,
             133102721,
@@ -564,9 +564,9 @@
             133106044
         ],
         "RewardPreviewId": 16003,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "COMMON",
+        "MonsterCategory": "Common",
         "NameTextMapHash": 1142558500,
         "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
         "DescTextMapHash": 798059871,
@@ -575,20 +575,72 @@
     {
         "Id": 22,
         "CityId": 1,
-        "MonsterId": [
+        "MonsterIdList": [
             21020501,
             21020401
         ],
-        "GroupId": [
+        "GroupIdList": [
             133104304
         ],
         "RewardPreviewId": 15506,
-        "MapMarkCreateType": "NERVERCREATE",
+        "MapMarkCreateType": "NerverCreate",
         "MapMarkCreateCondition": {},
-        "MonsterCategory": "ELITE",
+        "MonsterCategory": "Elite",
         "NameTextMapHash": 1609885756,
         "Icon": "UI_MonsterIcon_Brute_Rock_None",
         "DescTextMapHash": 1276916615,
         "LockDescTextMapHash": 2099514902
+    },
+    {
+        "Id": 23,
+        "CityId": 1,
+        "MonsterIdList": [
+            26050101,
+            26050201,
+            26050301,
+            26050401
+        ],
+        "GroupIdList": [
+            133103640
+        ],
+        "RewardPreviewId": 15160,
+        "MapMarkCreateType": "ExtraConditions",
+        "MapMarkCreateCondition": {
+            "ConditionType": "PlayerLevelGE",
+            "ConditionParam": 20
+        },
+        "MonsterCategory": "Boss",
+        "NameTextMapHash": 3797091836,
+        "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "DescTextMapHash": 1184710679,
+        "LockDescTextMapHash": 3121213006
+    },
+    {
+        "Id": 24,
+        "CityId": 1,
+        "MonsterIdList": [
+            26040101,
+            26040102,
+            26040103,
+            26040104
+        ],
+        "GroupIdList": [
+            133101249,
+            133101250,
+            133103645,
+            133103646,
+            133103647,
+            133103648,
+            133103649,
+            133104150
+        ],
+        "RewardPreviewId": 15509,
+        "MapMarkCreateType": "NerverCreate",
+        "MapMarkCreateCondition": {},
+        "MonsterCategory": "Elite",
+        "NameTextMapHash": 3727063148,
+        "Icon": "UI_MonsterIcon_Drake_Rock",
+        "DescTextMapHash": 10157591,
+        "LockDescTextMapHash": 889747054
     }
 ]

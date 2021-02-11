@@ -195,6 +195,11 @@
         "SortOrder": 6104
     },
     {
+        "Id": 60300010,
+        "PushTipId": 1036,
+        "SortOrder": 6105
+    },
+    {
         "Id": 60400001,
         "PushTipId": 3001,
         "SortOrder": 4001
@@ -395,6 +400,16 @@
         "SortOrder": 2028
     },
     {
+        "Id": 60500029,
+        "PushTipId": 2059,
+        "SortOrder": 2029
+    },
+    {
+        "Id": 60500030,
+        "PushTipId": 2060,
+        "SortOrder": 2030
+    },
+    {
         "Id": 60700001,
         "PushTipId": 7001,
         "SortOrder": 6019
@@ -408,5 +423,15 @@
         "Id": 60700003,
         "PushTipId": 7003,
         "SortOrder": 6021
+    },
+    {
+        "Id": 60700004,
+        "PushTipId": 7004,
+        "SortOrder": 6023
+    },
+    {
+        "Id": 60700005,
+        "PushTipId": 7005,
+        "SortOrder": 6022
     }
 ]

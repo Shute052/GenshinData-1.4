@@ -2,11 +2,11 @@
     {
         "Id": 1,
         "ChapterId": 1,
-        "Unknown1": 683474864,
-        "CoinId": [],
-        "OpenDay": 1,
+        "DescTextMapHash": 683474864,
+        "CoinIdList": [],
+        "Openday": 1,
         "PreQuestId": 41210,
-        "MissionId": [
+        "MissionIdList": [
             1,
             2,
             3,
@@ -18,13 +18,13 @@
     {
         "Id": 2,
         "ChapterId": 2,
-        "Unknown1": 1251275024,
-        "CoinId": [
+        "DescTextMapHash": 1251275024,
+        "CoinIdList": [
             111
         ],
-        "OpenDay": 4,
+        "Openday": 4,
         "PreQuestId": 41211,
-        "MissionId": [
+        "MissionIdList": [
             7,
             8,
             9,
@@ -37,14 +37,14 @@
     {
         "Id": 3,
         "ChapterId": 3,
-        "Unknown1": 922812496,
-        "CoinId": [
+        "DescTextMapHash": 922812496,
+        "CoinIdList": [
             111,
             112
         ],
-        "OpenDay": 7,
+        "Openday": 7,
         "PreQuestId": 41212,
-        "MissionId": [
+        "MissionIdList": [
             13,
             14,
             15,
@@ -57,15 +57,15 @@
     {
         "Id": 4,
         "ChapterId": 4,
-        "Unknown1": 3198727024,
-        "CoinId": [
+        "DescTextMapHash": 3198727024,
+        "CoinIdList": [
             111,
             112,
             113
         ],
-        "OpenDay": 10,
+        "Openday": 10,
         "PreQuestId": 41213,
-        "MissionId": [
+        "MissionIdList": [
             19,
             20,
             22,

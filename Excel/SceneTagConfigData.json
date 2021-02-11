@@ -10,5 +10,9 @@
     {
         "Id": 103,
         "SceneTagName": "JadeChamber"
+    },
+    {
+        "Id": 104,
+        "SceneTagName": "Hdj"
     }
 ]

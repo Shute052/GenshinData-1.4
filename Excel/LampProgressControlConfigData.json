@@ -1,477 +1,477 @@
 [
     {
         "Hour": 1,
-        "MinProgress": 270000,
-        "MaxProgress": 9680000
+        "MinProgress": 265000,
+        "MaxProgress": 11965000
     },
     {
         "Hour": 2,
-        "MinProgress": 540000,
-        "MaxProgress": 12190000
+        "MinProgress": 530000,
+        "MaxProgress": 14425000
     },
     {
         "Hour": 3,
-        "MinProgress": 810000,
-        "MaxProgress": 13265000
+        "MinProgress": 795000,
+        "MaxProgress": 15480000
     },
     {
         "Hour": 4,
-        "MinProgress": 1080000,
-        "MaxProgress": 14340000
+        "MinProgress": 1060000,
+        "MaxProgress": 16535000
     },
     {
         "Hour": 5,
-        "MinProgress": 1345000,
-        "MaxProgress": 15415000
+        "MinProgress": 1320000,
+        "MaxProgress": 17595000
     },
     {
         "Hour": 6,
-        "MinProgress": 1615000,
-        "MaxProgress": 16490000
+        "MinProgress": 1585000,
+        "MaxProgress": 18650000
     },
     {
         "Hour": 7,
-        "MinProgress": 1885000,
-        "MaxProgress": 17565000
+        "MinProgress": 1850000,
+        "MaxProgress": 19705000
     },
     {
         "Hour": 8,
-        "MinProgress": 2155000,
-        "MaxProgress": 21150000
+        "MinProgress": 2115000,
+        "MaxProgress": 23220000
     },
     {
         "Hour": 9,
-        "MinProgress": 2960000,
-        "MaxProgress": 24735000
+        "MinProgress": 2905000,
+        "MaxProgress": 26740000
     },
     {
         "Hour": 10,
-        "MinProgress": 3765000,
-        "MaxProgress": 28320000
+        "MinProgress": 5545000,
+        "MaxProgress": 30260000
     },
     {
         "Hour": 11,
-        "MinProgress": 4570000,
-        "MaxProgress": 30825000
+        "MinProgress": 6335000,
+        "MaxProgress": 32720000
     },
     {
         "Hour": 12,
-        "MinProgress": 5380000,
-        "MaxProgress": 33335000
+        "MinProgress": 7125000,
+        "MaxProgress": 35185000
     },
     {
         "Hour": 13,
-        "MinProgress": 7260000,
-        "MaxProgress": 33695000
+        "MinProgress": 8975000,
+        "MaxProgress": 35535000
     },
     {
         "Hour": 14,
-        "MinProgress": 9140000,
-        "MaxProgress": 34055000
+        "MinProgress": 10820000,
+        "MaxProgress": 35885000
     },
     {
         "Hour": 15,
-        "MinProgress": 9950000,
-        "MaxProgress": 34410000
+        "MinProgress": 11610000,
+        "MaxProgress": 36240000
     },
     {
         "Hour": 16,
-        "MinProgress": 10755000,
-        "MaxProgress": 34770000
+        "MinProgress": 12405000,
+        "MaxProgress": 36590000
     },
     {
         "Hour": 17,
-        "MinProgress": 11560000,
-        "MaxProgress": 35130000
+        "MinProgress": 13195000,
+        "MaxProgress": 36940000
     },
     {
         "Hour": 18,
-        "MinProgress": 12370000,
-        "MaxProgress": 35485000
+        "MinProgress": 13985000,
+        "MaxProgress": 37295000
     },
     {
         "Hour": 19,
-        "MinProgress": 13175000,
-        "MaxProgress": 35845000
+        "MinProgress": 14780000,
+        "MaxProgress": 37645000
     },
     {
         "Hour": 20,
-        "MinProgress": 15865000,
-        "MaxProgress": 36205000
+        "MinProgress": 17415000,
+        "MaxProgress": 37995000
     },
     {
         "Hour": 21,
-        "MinProgress": 18550000,
-        "MaxProgress": 37280000
+        "MinProgress": 20055000,
+        "MaxProgress": 39055000
     },
     {
         "Hour": 22,
-        "MinProgress": 21240000,
-        "MaxProgress": 38355000
+        "MinProgress": 22695000,
+        "MaxProgress": 40110000
     },
     {
         "Hour": 23,
-        "MinProgress": 23120000,
-        "MaxProgress": 39430000
+        "MinProgress": 24540000,
+        "MaxProgress": 41165000
     },
     {
         "Hour": 24,
-        "MinProgress": 25000000,
-        "MaxProgress": 40505000
+        "MinProgress": 26390000,
+        "MaxProgress": 42220000
     },
     {
         "Hour": 25,
-        "MinProgress": 25270000,
-        "MaxProgress": 43015000
+        "MinProgress": 26650000,
+        "MaxProgress": 44680000
     },
     {
         "Hour": 26,
-        "MinProgress": 25540000,
-        "MaxProgress": 45520000
+        "MinProgress": 26915000,
+        "MaxProgress": 47145000
     },
     {
         "Hour": 27,
-        "MinProgress": 25810000,
-        "MaxProgress": 46595000
+        "MinProgress": 27180000,
+        "MaxProgress": 48200000
     },
     {
         "Hour": 28,
-        "MinProgress": 26080000,
-        "MaxProgress": 47675000
+        "MinProgress": 27445000,
+        "MaxProgress": 49255000
     },
     {
         "Hour": 29,
-        "MinProgress": 26345000,
-        "MaxProgress": 48750000
+        "MinProgress": 27705000,
+        "MaxProgress": 50310000
     },
     {
         "Hour": 30,
-        "MinProgress": 26615000,
-        "MaxProgress": 49825000
+        "MinProgress": 27970000,
+        "MaxProgress": 51365000
     },
     {
         "Hour": 31,
-        "MinProgress": 26885000,
-        "MaxProgress": 50900000
+        "MinProgress": 28235000,
+        "MaxProgress": 52420000
     },
     {
         "Hour": 32,
-        "MinProgress": 27155000,
-        "MaxProgress": 54485000
+        "MinProgress": 28500000,
+        "MaxProgress": 55940000
     },
     {
         "Hour": 33,
-        "MinProgress": 27960000,
-        "MaxProgress": 58065000
+        "MinProgress": 29290000,
+        "MaxProgress": 59455000
     },
     {
         "Hour": 34,
-        "MinProgress": 28765000,
-        "MaxProgress": 61650000
+        "MinProgress": 30080000,
+        "MaxProgress": 62975000
     },
     {
         "Hour": 35,
-        "MinProgress": 29570000,
-        "MaxProgress": 64160000
+        "MinProgress": 30875000,
+        "MaxProgress": 65440000
     },
     {
         "Hour": 36,
-        "MinProgress": 30380000,
-        "MaxProgress": 66670000
+        "MinProgress": 31665000,
+        "MaxProgress": 67900000
     },
     {
         "Hour": 37,
-        "MinProgress": 32260000,
-        "MaxProgress": 67030000
+        "MinProgress": 33510000,
+        "MaxProgress": 68250000
     },
     {
         "Hour": 38,
-        "MinProgress": 34140000,
-        "MaxProgress": 67385000
+        "MinProgress": 35360000,
+        "MaxProgress": 68605000
     },
     {
         "Hour": 39,
-        "MinProgress": 34950000,
-        "MaxProgress": 67745000
+        "MinProgress": 36150000,
+        "MaxProgress": 68955000
     },
     {
         "Hour": 40,
-        "MinProgress": 35755000,
-        "MaxProgress": 68105000
+        "MinProgress": 36940000,
+        "MaxProgress": 69310000
     },
     {
         "Hour": 41,
-        "MinProgress": 36560000,
-        "MaxProgress": 68460000
+        "MinProgress": 37735000,
+        "MaxProgress": 69660000
     },
     {
         "Hour": 42,
-        "MinProgress": 37370000,
-        "MaxProgress": 68820000
+        "MinProgress": 38525000,
+        "MaxProgress": 70010000
     },
     {
         "Hour": 43,
-        "MinProgress": 38175000,
-        "MaxProgress": 69180000
+        "MinProgress": 39315000,
+        "MaxProgress": 70365000
     },
     {
         "Hour": 44,
-        "MinProgress": 40865000,
-        "MaxProgress": 69535000
+        "MinProgress": 41955000,
+        "MaxProgress": 70715000
     },
     {
         "Hour": 45,
-        "MinProgress": 43550000,
-        "MaxProgress": 70610000
+        "MinProgress": 44595000,
+        "MaxProgress": 71770000
     },
     {
         "Hour": 46,
-        "MinProgress": 46240000,
-        "MaxProgress": 71685000
+        "MinProgress": 47230000,
+        "MaxProgress": 72825000
     },
     {
         "Hour": 47,
-        "MinProgress": 48120000,
-        "MaxProgress": 72760000
+        "MinProgress": 49080000,
+        "MaxProgress": 73880000
     },
     {
         "Hour": 48,
-        "MinProgress": 50000000,
-        "MaxProgress": 73840000
+        "MinProgress": 50925000,
+        "MaxProgress": 74935000
     },
     {
         "Hour": 49,
-        "MinProgress": 50270000,
-        "MaxProgress": 76345000
+        "MinProgress": 51190000,
+        "MaxProgress": 77400000
     },
     {
         "Hour": 50,
-        "MinProgress": 50540000,
-        "MaxProgress": 78855000
+        "MinProgress": 51455000,
+        "MaxProgress": 79860000
     },
     {
         "Hour": 51,
-        "MinProgress": 50810000,
-        "MaxProgress": 79930000
+        "MinProgress": 51720000,
+        "MaxProgress": 80915000
     },
     {
         "Hour": 52,
-        "MinProgress": 51080000,
-        "MaxProgress": 81005000
+        "MinProgress": 51980000,
+        "MaxProgress": 81975000
     },
     {
         "Hour": 53,
-        "MinProgress": 51345000,
-        "MaxProgress": 82080000
+        "MinProgress": 52245000,
+        "MaxProgress": 83030000
     },
     {
         "Hour": 54,
-        "MinProgress": 51615000,
-        "MaxProgress": 83155000
+        "MinProgress": 52510000,
+        "MaxProgress": 84085000
     },
     {
         "Hour": 55,
-        "MinProgress": 51885000,
-        "MaxProgress": 84230000
+        "MinProgress": 52775000,
+        "MaxProgress": 85140000
     },
     {
         "Hour": 56,
-        "MinProgress": 52155000,
-        "MaxProgress": 87815000
+        "MinProgress": 53035000,
+        "MaxProgress": 88655000
     },
     {
         "Hour": 57,
-        "MinProgress": 52960000,
-        "MaxProgress": 91400000
+        "MinProgress": 53830000,
+        "MaxProgress": 92175000
     },
     {
         "Hour": 58,
-        "MinProgress": 53765000,
-        "MaxProgress": 94985000
+        "MinProgress": 54620000,
+        "MaxProgress": 95695000
     },
     {
         "Hour": 59,
-        "MinProgress": 54570000,
-        "MaxProgress": 97495000
+        "MinProgress": 55410000,
+        "MaxProgress": 98155000
     },
     {
         "Hour": 60,
-        "MinProgress": 55380000,
+        "MinProgress": 56205000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 61,
-        "MinProgress": 57260000,
+        "MinProgress": 58050000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 62,
-        "MinProgress": 59140000,
+        "MinProgress": 59895000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 63,
-        "MinProgress": 59950000,
+        "MinProgress": 60690000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 64,
-        "MinProgress": 60755000,
+        "MinProgress": 61480000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 65,
-        "MinProgress": 61560000,
+        "MinProgress": 62270000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 66,
-        "MinProgress": 62370000,
+        "MinProgress": 63065000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 67,
-        "MinProgress": 63175000,
+        "MinProgress": 63855000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 68,
-        "MinProgress": 65865000,
+        "MinProgress": 66495000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 69,
-        "MinProgress": 68550000,
+        "MinProgress": 69130000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 70,
-        "MinProgress": 71240000,
+        "MinProgress": 71770000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 71,
-        "MinProgress": 73120000,
+        "MinProgress": 73615000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 72,
-        "MinProgress": 75000000,
+        "MinProgress": 75465000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 73,
-        "MinProgress": 75270000,
+        "MinProgress": 75730000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 74,
-        "MinProgress": 75540000,
+        "MinProgress": 75990000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 75,
-        "MinProgress": 75810000,
+        "MinProgress": 76255000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 76,
-        "MinProgress": 76080000,
+        "MinProgress": 76520000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 77,
-        "MinProgress": 76345000,
+        "MinProgress": 76785000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 78,
-        "MinProgress": 76615000,
+        "MinProgress": 77045000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 79,
-        "MinProgress": 76885000,
+        "MinProgress": 77310000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 80,
-        "MinProgress": 77155000,
+        "MinProgress": 77575000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 81,
-        "MinProgress": 77960000,
+        "MinProgress": 78365000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 82,
-        "MinProgress": 78765000,
+        "MinProgress": 79160000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 83,
-        "MinProgress": 79570000,
+        "MinProgress": 79950000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 84,
-        "MinProgress": 80380000,
+        "MinProgress": 80740000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 85,
-        "MinProgress": 82260000,
+        "MinProgress": 82590000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 86,
-        "MinProgress": 84140000,
+        "MinProgress": 84435000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 87,
-        "MinProgress": 84950000,
+        "MinProgress": 85225000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 88,
-        "MinProgress": 85755000,
+        "MinProgress": 86020000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 89,
-        "MinProgress": 86560000,
+        "MinProgress": 86810000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 90,
-        "MinProgress": 87370000,
+        "MinProgress": 87600000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 91,
-        "MinProgress": 88175000,
+        "MinProgress": 88395000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 92,
-        "MinProgress": 90865000,
+        "MinProgress": 91030000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 93,
-        "MinProgress": 93550000,
+        "MinProgress": 93670000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 94,
-        "MinProgress": 96240000,
+        "MinProgress": 96310000,
         "MaxProgress": 100000000
     },
     {
         "Hour": 95,
-        "MinProgress": 98120000,
+        "MinProgress": 98155000,
         "MaxProgress": 100000000
     },
     {

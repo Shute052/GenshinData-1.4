@@ -3,7 +3,7 @@
         "Id": 5006001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CLIMB",
-            "Param": [
+            "ParamList": [
                 "",
                 ""
             ]
@@ -14,7 +14,7 @@
         "Id": 5006002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FLY",
-            "Param": [
+            "ParamList": [
                 "",
                 ""
             ]
@@ -25,7 +25,7 @@
         "Id": 5006003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DASH",
-            "Param": [
+            "ParamList": [
                 "",
                 ""
             ]
@@ -36,7 +36,7 @@
         "Id": 5006004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_HURT",
-            "Param": [
+            "ParamList": [
                 "",
                 ""
             ]
@@ -47,7 +47,7 @@
         "Id": 5006005,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
-            "Param": [
+            "ParamList": [
                 "32768",
                 ""
             ]
@@ -58,7 +58,7 @@
         "Id": 5006006,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
-            "Param": [
+            "ParamList": [
                 "16777216",
                 ""
             ]
@@ -69,7 +69,7 @@
         "Id": 5006007,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
-            "Param": [
+            "ParamList": [
                 "32",
                 ""
             ]
@@ -80,7 +80,7 @@
         "Id": 5006008,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
-            "Param": [
+            "ParamList": [
                 "8388608",
                 ""
             ]
@@ -91,7 +91,7 @@
         "Id": 5006009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
-            "Param": [
+            "ParamList": [
                 "4194304",
                 ""
             ]
@@ -102,7 +102,7 @@
         "Id": 5006010,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CUR_AVATAR_ABILITY_STATE",
-            "Param": [
+            "ParamList": [
                 "33554432",
                 ""
             ]

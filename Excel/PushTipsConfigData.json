@@ -360,6 +360,17 @@
         "CodexType": "CODEX_ADVENTURE"
     },
     {
+        "PushTipsId": 1036,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1298776089,
+        "SubtitleTextMapHash": 3477546041,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 346,
+        "CodexType": "CODEX_ADVENTURE"
+    },
+    {
         "PushTipsId": 1100,
         "RewardId": 300001,
         "TitleTextMapHash": 1374369889,
@@ -723,6 +734,28 @@
         "CodexType": "CODEX_ENEMY"
     },
     {
+        "PushTipsId": 2059,
+        "RewardId": 300001,
+        "TitleTextMapHash": 2839873977,
+        "SubtitleTextMapHash": 3352194409,
+        "PushTipsType": "PUSH_TIPS_MONSTER",
+        "ShowIcon": "UI_MonsterIcon_Drake_Rock",
+        "TabIcon": "UI_MessageIcon_Monster",
+        "TutorialId": 271,
+        "CodexType": "CODEX_ENEMY"
+    },
+    {
+        "PushTipsId": 2060,
+        "RewardId": 300001,
+        "TitleTextMapHash": 720246169,
+        "SubtitleTextMapHash": 488346577,
+        "PushTipsType": "PUSH_TIPS_MONSTER",
+        "ShowIcon": "UI_MonsterIcon_Drake_Primo_Rock",
+        "TabIcon": "UI_MessageIcon_Monster",
+        "TutorialId": 272,
+        "CodexType": "CODEX_ENEMY"
+    },
+    {
         "PushTipsId": 3001,
         "RewardId": 300001,
         "TitleTextMapHash": 832613729,
@@ -1017,6 +1050,18 @@
         "ShowIcon": "UI_MessageIcon_Combat",
         "TabIcon": "UI_MessageIcon_Combat",
         "TutorialId": 704,
+        "CodexType": "CODEX_ADVENTURE",
+        "ShowImmediately": true
+    },
+    {
+        "PushTipsId": 7005,
+        "RewardId": 300001,
+        "TitleTextMapHash": 2358888001,
+        "SubtitleTextMapHash": 3956013505,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 705,
         "CodexType": "CODEX_ADVENTURE"
     },
     {
@@ -1061,6 +1106,16 @@
         "ShowIcon": "UI_MessageIcon_Combat",
         "TabIcon": "UI_MessageIcon_Combat",
         "TutorialId": 905,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 10001,
+        "TitleTextMapHash": 1893018865,
+        "SubtitleTextMapHash": 1954632841,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 1021,
         "CodexType": "CODEX_UNRECORDED"
     }
 ]

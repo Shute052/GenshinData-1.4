@@ -2,7 +2,7 @@
     {
         "Id": 10001,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10002
         ],
         "UnlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
@@ -12,7 +12,7 @@
     {
         "Id": 10002,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10003
         ],
         "RewardId": 450002,
@@ -21,7 +21,7 @@
     {
         "Id": 10003,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10004
         ],
         "RewardId": 450003,
@@ -30,7 +30,7 @@
     {
         "Id": 10004,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10005
         ],
         "RewardId": 450004,
@@ -39,7 +39,7 @@
     {
         "Id": 10005,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10006
         ],
         "RewardId": 450005,
@@ -48,7 +48,7 @@
     {
         "Id": 10006,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10007
         ],
         "RewardId": 450006,
@@ -57,7 +57,7 @@
     {
         "Id": 10007,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10008
         ],
         "RewardId": 450007,
@@ -66,7 +66,7 @@
     {
         "Id": 10008,
         "CityId": 1,
-        "NextInvestigationId": [
+        "NextInvestigationIdList": [
             10009
         ],
         "RewardId": 450008,
@@ -75,7 +75,7 @@
     {
         "Id": 10009,
         "CityId": 1,
-        "NextInvestigationId": [],
+        "NextInvestigationIdList": [],
         "RewardId": 450009,
         "TitleTextMapHash": 1920411039
     }

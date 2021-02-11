@@ -15,7 +15,7 @@
         "CookMethod": "COOK_METHOD_BAKE",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108011,
                 "Count": 1
@@ -29,7 +29,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100011,
                 "Count": 1
@@ -43,7 +43,7 @@
             {}
         ],
         "QteParam": "0.63,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -65,7 +65,7 @@
         "CookMethod": "COOK_METHOD_BAKE",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108004,
                 "Count": 1
@@ -79,7 +79,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100062,
                 "Count": 1
@@ -90,7 +90,7 @@
             {}
         ],
         "QteParam": "0.52,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -112,7 +112,7 @@
         "CookMethod": "COOK_METHOD_BAKE",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108007,
                 "Count": 1
@@ -126,7 +126,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 2
@@ -137,7 +137,7 @@
             {}
         ],
         "QteParam": "0.77,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -159,7 +159,7 @@
         "CookMethod": "COOK_METHOD_BOIL",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108019,
                 "Count": 1
@@ -173,7 +173,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100014,
                 "Count": 1
@@ -187,7 +187,7 @@
             {}
         ],
         "QteParam": "0.8,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -209,7 +209,7 @@
         "CookMethod": "COOK_METHOD_BAKE",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108095,
                 "Count": 1
@@ -223,7 +223,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100084,
                 "Count": 1
@@ -237,7 +237,7 @@
             {}
         ],
         "QteParam": "0.4,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -258,7 +258,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108092,
                 "Count": 1
@@ -272,7 +272,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 1
@@ -286,7 +286,7 @@
             {}
         ],
         "QteParam": "0.48,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -307,7 +307,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108098,
                 "Count": 1
@@ -321,7 +321,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 1
@@ -335,7 +335,7 @@
             {}
         ],
         "QteParam": "0.7,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -356,7 +356,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 5,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108107,
                 "Count": 1
@@ -370,7 +370,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100084,
                 "Count": 1
@@ -384,7 +384,7 @@
             {}
         ],
         "QteParam": "0.63,0.4",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -405,7 +405,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108015,
                 "Count": 1
@@ -419,7 +419,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110001,
                 "Count": 2
@@ -436,7 +436,7 @@
             {}
         ],
         "QteParam": "0.65,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -458,7 +458,7 @@
         "CookMethod": "COOK_METHOD_STEAM",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108031,
                 "Count": 1
@@ -472,7 +472,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100064,
                 "Count": 2
@@ -486,7 +486,7 @@
             {}
         ],
         "QteParam": "0.65,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -507,7 +507,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108034,
                 "Count": 1
@@ -521,7 +521,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110003,
                 "Count": 1
@@ -538,7 +538,7 @@
             {}
         ],
         "QteParam": "0.55,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -559,7 +559,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108037,
                 "Count": 1
@@ -573,7 +573,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 2
@@ -590,7 +590,7 @@
             {}
         ],
         "QteParam": "0.55,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -611,7 +611,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108022,
                 "Count": 1
@@ -625,7 +625,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100051,
                 "Count": 3
@@ -642,7 +642,7 @@
             {}
         ],
         "QteParam": "0.4,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -664,7 +664,7 @@
         "CookMethod": "COOK_METHOD_BAKE",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108025,
                 "Count": 1
@@ -678,7 +678,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110001,
                 "Count": 3
@@ -695,7 +695,7 @@
             {}
         ],
         "QteParam": "0.4,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -717,7 +717,7 @@
         "CookMethod": "COOK_METHOD_BOIL",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108028,
                 "Count": 1
@@ -731,7 +731,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100018,
                 "Count": 2
@@ -751,7 +751,7 @@
             {}
         ],
         "QteParam": "0.4,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -773,7 +773,7 @@
         "CookMethod": "COOK_METHOD_BAKE",
         "IsDefaultUnlocked": true,
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108001,
                 "Count": 1
@@ -787,7 +787,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110001,
                 "Count": 3
@@ -807,7 +807,7 @@
             {}
         ],
         "QteParam": "0.63,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -828,7 +828,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108204,
                 "Count": 1
@@ -842,7 +842,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100094,
                 "Count": 2
@@ -859,7 +859,7 @@
             {}
         ],
         "QteParam": "0.63,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -880,7 +880,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108080,
                 "Count": 1
@@ -894,7 +894,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100078,
                 "Count": 3
@@ -911,7 +911,7 @@
             {}
         ],
         "QteParam": "0.38,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -932,7 +932,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108083,
                 "Count": 1
@@ -946,7 +946,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100064,
                 "Count": 2
@@ -963,7 +963,7 @@
             {}
         ],
         "QteParam": "0.7,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -984,7 +984,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108086,
                 "Count": 1
@@ -998,7 +998,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100015,
                 "Count": 2
@@ -1015,7 +1015,7 @@
             {}
         ],
         "QteParam": "0.72,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1036,7 +1036,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108089,
                 "Count": 1
@@ -1050,7 +1050,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100063,
                 "Count": 2
@@ -1064,7 +1064,7 @@
             {}
         ],
         "QteParam": "0.45,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1085,7 +1085,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108104,
                 "Count": 1
@@ -1099,7 +1099,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100092,
                 "Count": 3
@@ -1116,7 +1116,7 @@
             {}
         ],
         "QteParam": "0.72,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1137,7 +1137,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108119,
                 "Count": 1
@@ -1151,7 +1151,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100026,
                 "Count": 1
@@ -1168,7 +1168,7 @@
             {}
         ],
         "QteParam": "0.4,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1189,7 +1189,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108125,
                 "Count": 1
@@ -1203,7 +1203,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100093,
                 "Count": 5
@@ -1220,7 +1220,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1241,7 +1241,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 10,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108141,
                 "Count": 1
@@ -1255,7 +1255,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100011,
                 "Count": 3
@@ -1272,7 +1272,108 @@
             {}
         ],
         "QteParam": "0.63,0.35",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "Id": 2109,
+        "NameTextMapHash": 1659175328,
+        "RankLevel": 2,
+        "Icon": "UI_ItemIcon_108189",
+        "DescTextMapHash": 511154386,
+        "EffectDesc": [
+            1155856493,
+            1465478905,
+            4186117302,
+            1710645263
+        ],
+        "FoodType": "COOK_FOOD_HEAL",
+        "CookMethod": "COOK_METHOD_BOIL",
+        "MaxProficiency": 10,
+        "QualityOutputVec": [
+            {
+                "Id": 108188,
+                "Count": 1
+            },
+            {
+                "Id": 108189,
+                "Count": 1
+            },
+            {
+                "Id": 108190,
+                "Count": 1
+            }
+        ],
+        "InputVec": [
+            {
+                "Id": 100063,
+                "Count": 2
+            },
+            {
+                "Id": 100015,
+                "Count": 2
+            },
+            {},
+            {},
+            {}
+        ],
+        "QteParam": "0.4,0.35",
+        "QteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "Id": 2110,
+        "NameTextMapHash": 67165728,
+        "RankLevel": 2,
+        "Icon": "UI_ItemIcon_108192",
+        "DescTextMapHash": 554557178,
+        "EffectDesc": [
+            3829825381,
+            1280026249,
+            1966673254,
+            153946855
+        ],
+        "FoodType": "COOK_FOOD_ATTACK",
+        "CookMethod": "COOK_METHOD_FRY",
+        "MaxProficiency": 10,
+        "QualityOutputVec": [
+            {
+                "Id": 108191,
+                "Count": 1
+            },
+            {
+                "Id": 108192,
+                "Count": 1
+            },
+            {
+                "Id": 108193,
+                "Count": 1
+            }
+        ],
+        "InputVec": [
+            {
+                "Id": 100080,
+                "Count": 2
+            },
+            {
+                "Id": 100034,
+                "Count": 1
+            },
+            {
+                "Id": 100063,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "QteParam": "0.63,0.35",
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1293,7 +1394,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108049,
                 "Count": 1
@@ -1307,7 +1408,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100073,
                 "Count": 4
@@ -1324,7 +1425,7 @@
             {}
         ],
         "QteParam": "0.7,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1345,7 +1446,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108052,
                 "Count": 1
@@ -1359,7 +1460,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100063,
                 "Count": 3
@@ -1379,7 +1480,7 @@
             {}
         ],
         "QteParam": "0.7,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1400,7 +1501,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108059,
                 "Count": 1
@@ -1414,7 +1515,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110005,
                 "Count": 1
@@ -1434,7 +1535,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1455,7 +1556,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108062,
                 "Count": 1
@@ -1469,7 +1570,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 3
@@ -1486,7 +1587,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1507,7 +1608,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108065,
                 "Count": 1
@@ -1521,7 +1622,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100074,
                 "Count": 1
@@ -1541,7 +1642,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1562,7 +1663,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108041,
                 "Count": 1
@@ -1576,7 +1677,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100011,
                 "Count": 4
@@ -1596,7 +1697,7 @@
             {}
         ],
         "QteParam": "0.7,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1617,7 +1718,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108045,
                 "Count": 1
@@ -1631,7 +1732,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100020,
                 "Count": 2
@@ -1648,7 +1749,7 @@
             {}
         ],
         "QteParam": "0.85,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1669,7 +1770,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108055,
                 "Count": 1
@@ -1683,7 +1784,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 3
@@ -1703,7 +1804,7 @@
             {}
         ],
         "QteParam": "0.85,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1724,7 +1825,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108110,
                 "Count": 1
@@ -1738,7 +1839,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100013,
                 "Count": 4
@@ -1755,7 +1856,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1776,7 +1877,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108167,
                 "Count": 1
@@ -1790,7 +1891,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100062,
                 "Count": 4
@@ -1807,7 +1908,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1828,7 +1929,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108170,
                 "Count": 1
@@ -1842,7 +1943,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 3
@@ -1862,7 +1963,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1883,7 +1984,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108207,
                 "Count": 1
@@ -1897,7 +1998,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110004,
                 "Count": 3
@@ -1917,7 +2018,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1938,7 +2039,7 @@
         "FoodType": "COOK_FOOD_FUNCTION",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108071,
                 "Count": 1
@@ -1952,7 +2053,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 3
@@ -1972,7 +2073,7 @@
             {}
         ],
         "QteParam": "0.63,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -1993,7 +2094,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108074,
                 "Count": 1
@@ -2007,7 +2108,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100084,
                 "Count": 3
@@ -2027,7 +2128,7 @@
             {}
         ],
         "QteParam": "0.4,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2048,7 +2149,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108077,
                 "Count": 1
@@ -2062,7 +2163,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100084,
                 "Count": 4
@@ -2082,7 +2183,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2103,7 +2204,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108128,
                 "Count": 1
@@ -2117,7 +2218,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100011,
                 "Count": 3
@@ -2137,7 +2238,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2158,7 +2259,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108131,
                 "Count": 1
@@ -2172,7 +2273,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 3
@@ -2192,7 +2293,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2213,7 +2314,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108152,
                 "Count": 1
@@ -2227,7 +2328,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 2
@@ -2244,7 +2345,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2265,7 +2366,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108155,
                 "Count": 1
@@ -2279,7 +2380,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110005,
                 "Count": 2
@@ -2299,7 +2400,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2320,7 +2421,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108161,
                 "Count": 1
@@ -2334,7 +2435,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100089,
                 "Count": 4
@@ -2354,7 +2455,7 @@
             {}
         ],
         "QteParam": "0.5,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2375,7 +2476,7 @@
         "FoodType": "COOK_FOOD_HEAL",
         "CookMethod": "COOK_METHOD_FRY",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108201,
                 "Count": 1
@@ -2389,7 +2490,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100092,
                 "Count": 4
@@ -2409,7 +2510,7 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2430,7 +2531,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_BAKE",
         "MaxProficiency": 15,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108210,
                 "Count": 1
@@ -2444,7 +2545,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100032,
                 "Count": 2
@@ -2464,7 +2565,62 @@
             {}
         ],
         "QteParam": "0.45,0.27",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
+            0,
+            0,
+            100
+        ]
+    },
+    {
+        "Id": 3111,
+        "NameTextMapHash": 375455576,
+        "RankLevel": 3,
+        "Icon": "UI_ItemIcon_108180",
+        "DescTextMapHash": 2113318834,
+        "EffectDesc": [
+            1120093437,
+            3959287193,
+            4036961438,
+            175794175
+        ],
+        "FoodType": "COOK_FOOD_HEAL",
+        "CookMethod": "COOK_METHOD_STEAM",
+        "MaxProficiency": 15,
+        "QualityOutputVec": [
+            {
+                "Id": 108179,
+                "Count": 1
+            },
+            {
+                "Id": 108180,
+                "Count": 1
+            },
+            {
+                "Id": 108181,
+                "Count": 1
+            }
+        ],
+        "InputVec": [
+            {
+                "Id": 100084,
+                "Count": 4
+            },
+            {
+                "Id": 100093,
+                "Count": 2
+            },
+            {
+                "Id": 100062,
+                "Count": 2
+            },
+            {
+                "Id": 110001,
+                "Count": 1
+            },
+            {}
+        ],
+        "QteParam": "0.5,0.27",
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2485,7 +2641,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 20,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108164,
                 "Count": 1
@@ -2499,7 +2655,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 4
@@ -2519,7 +2675,7 @@
             {}
         ],
         "QteParam": "0.3,0.22",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2540,7 +2696,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 20,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108068,
                 "Count": 1
@@ -2554,7 +2710,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100026,
                 "Count": 3
@@ -2574,7 +2730,7 @@
             {}
         ],
         "QteParam": "0.3,0.22",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2595,7 +2751,7 @@
         "FoodType": "COOK_FOOD_DEFENSE",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 20,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108101,
                 "Count": 1
@@ -2609,7 +2765,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100062,
                 "Count": 5
@@ -2629,7 +2785,7 @@
             {}
         ],
         "QteParam": "0.6,0.22",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2650,7 +2806,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_STEAM",
         "MaxProficiency": 20,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108158,
                 "Count": 1
@@ -2664,7 +2820,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 4
@@ -2684,7 +2840,7 @@
             {}
         ],
         "QteParam": "0.6,0.22",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100
@@ -2705,7 +2861,7 @@
         "FoodType": "COOK_FOOD_ATTACK",
         "CookMethod": "COOK_METHOD_BOIL",
         "MaxProficiency": 25,
-        "QualityOutput": [
+        "QualityOutputVec": [
             {
                 "Id": 108122,
                 "Count": 1
@@ -2719,7 +2875,7 @@
                 "Count": 1
             }
         ],
-        "Input": [
+        "InputVec": [
             {
                 "Id": 110005,
                 "Count": 4
@@ -2739,7 +2895,7 @@
             {}
         ],
         "QteParam": "0.63,0.17",
-        "QteQualityWeight": [
+        "QteQualityWeightVec": [
             0,
             0,
             100

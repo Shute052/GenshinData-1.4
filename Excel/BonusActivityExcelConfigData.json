@@ -1,23 +1,23 @@
 [
     {
         "BonusActivityId": 1,
-        "Cond": [
+        "CondList": [
             {
-                "CondType": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             }
         ],
         "WatcherId": 50001,
-        "RewardItem": [
+        "RewardItemList": [
             {
                 "Id": 1023,
                 "Count": 1
@@ -27,7 +27,7 @@
         "Id": 50001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "3",
                 "3"
             ]
@@ -36,22 +36,22 @@
     },
     {
         "BonusActivityId": 2,
-        "Cond": [
+        "CondList": [
             {
-                "CondType": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             }
         ],
-        "RewardItem": [
+        "RewardItemList": [
             {
                 "Id": 1014,
                 "Count": 1
@@ -61,7 +61,7 @@
         "Id": 50002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_QUEST_OR",
-            "Param": [
+            "ParamList": [
                 "39405",
                 ""
             ]

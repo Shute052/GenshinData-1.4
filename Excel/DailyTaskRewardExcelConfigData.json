@@ -1,7 +1,7 @@
 [
     {
-        "Id": 1,
-        "Drop": [
+        "ID": 1,
+        "DropVec": [
             {
                 "DropId": 202000000,
                 "PreviewRewardId": 2201
@@ -53,8 +53,8 @@
         ]
     },
     {
-        "Id": 2,
-        "Drop": [
+        "ID": 2,
+        "DropVec": [
             {
                 "DropId": 201000000,
                 "PreviewRewardId": 2101
@@ -106,8 +106,8 @@
         ]
     },
     {
-        "Id": 3,
-        "Drop": [
+        "ID": 3,
+        "DropVec": [
             {
                 "DropId": 201000000,
                 "PreviewRewardId": 2101

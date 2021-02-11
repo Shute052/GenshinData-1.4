@@ -2,10 +2,10 @@
     {
         "IndexId": 1,
         "Level": 1,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001001
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001101,
             0
         ]
@@ -13,10 +13,10 @@
     {
         "IndexId": 1,
         "Level": 2,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001002
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001102,
             0
         ]
@@ -24,10 +24,10 @@
     {
         "IndexId": 1,
         "Level": 3,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001003
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001103,
             0
         ]
@@ -35,10 +35,10 @@
     {
         "IndexId": 1,
         "Level": 4,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001004
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001104,
             0
         ]
@@ -46,10 +46,10 @@
     {
         "IndexId": 1,
         "Level": 5,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001005
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001105,
             1010105
         ],
@@ -58,10 +58,10 @@
     {
         "IndexId": 1,
         "Level": 6,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001006
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001106,
             0
         ]
@@ -69,10 +69,10 @@
     {
         "IndexId": 1,
         "Level": 7,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001007
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001107,
             0
         ]
@@ -80,10 +80,10 @@
     {
         "IndexId": 1,
         "Level": 8,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001008
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001108,
             0
         ]
@@ -91,10 +91,10 @@
     {
         "IndexId": 1,
         "Level": 9,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001009
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001109,
             0
         ]
@@ -102,10 +102,10 @@
     {
         "IndexId": 1,
         "Level": 10,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001010
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001110,
             1010110
         ],
@@ -114,10 +114,10 @@
     {
         "IndexId": 1,
         "Level": 11,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001011
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001111,
             0
         ]
@@ -125,10 +125,10 @@
     {
         "IndexId": 1,
         "Level": 12,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001012
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001112,
             0
         ]
@@ -136,10 +136,10 @@
     {
         "IndexId": 1,
         "Level": 13,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001013
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001113,
             0
         ]
@@ -147,10 +147,10 @@
     {
         "IndexId": 1,
         "Level": 14,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001014
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001114,
             0
         ]
@@ -158,10 +158,10 @@
     {
         "IndexId": 1,
         "Level": 15,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001015
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001115,
             1010115
         ],
@@ -170,10 +170,10 @@
     {
         "IndexId": 1,
         "Level": 16,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001016
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001116,
             0
         ]
@@ -181,10 +181,10 @@
     {
         "IndexId": 1,
         "Level": 17,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001017
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001117,
             0
         ]
@@ -192,10 +192,10 @@
     {
         "IndexId": 1,
         "Level": 18,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001018
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001118,
             0
         ]
@@ -203,10 +203,10 @@
     {
         "IndexId": 1,
         "Level": 19,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001019
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001119,
             0
         ]
@@ -214,10 +214,10 @@
     {
         "IndexId": 1,
         "Level": 20,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001020
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001120,
             1010120
         ],
@@ -226,10 +226,10 @@
     {
         "IndexId": 1,
         "Level": 21,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001021
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001121,
             0
         ]
@@ -237,10 +237,10 @@
     {
         "IndexId": 1,
         "Level": 22,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001022
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001122,
             0
         ]
@@ -248,10 +248,10 @@
     {
         "IndexId": 1,
         "Level": 23,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001023
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001123,
             0
         ]
@@ -259,10 +259,10 @@
     {
         "IndexId": 1,
         "Level": 24,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001024
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001124,
             0
         ]
@@ -270,10 +270,10 @@
     {
         "IndexId": 1,
         "Level": 25,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001025
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001125,
             1010125
         ],
@@ -282,10 +282,10 @@
     {
         "IndexId": 1,
         "Level": 26,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001026
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001126,
             0
         ]
@@ -293,10 +293,10 @@
     {
         "IndexId": 1,
         "Level": 27,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001027
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001127,
             0
         ]
@@ -304,10 +304,10 @@
     {
         "IndexId": 1,
         "Level": 28,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001028
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001128,
             0
         ]
@@ -315,10 +315,10 @@
     {
         "IndexId": 1,
         "Level": 29,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001029
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001129,
             0
         ]
@@ -326,10 +326,10 @@
     {
         "IndexId": 1,
         "Level": 30,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001030
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001130,
             1010130
         ],
@@ -338,10 +338,10 @@
     {
         "IndexId": 1,
         "Level": 31,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001031
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001131,
             0
         ]
@@ -349,10 +349,10 @@
     {
         "IndexId": 1,
         "Level": 32,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001032
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001132,
             0
         ]
@@ -360,10 +360,10 @@
     {
         "IndexId": 1,
         "Level": 33,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001033
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001133,
             0
         ]
@@ -371,10 +371,10 @@
     {
         "IndexId": 1,
         "Level": 34,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001034
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001134,
             0
         ]
@@ -382,10 +382,10 @@
     {
         "IndexId": 1,
         "Level": 35,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001035
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001135,
             1010135
         ],
@@ -394,10 +394,10 @@
     {
         "IndexId": 1,
         "Level": 36,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001036
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001136,
             0
         ]
@@ -405,10 +405,10 @@
     {
         "IndexId": 1,
         "Level": 37,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001037
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001137,
             0
         ]
@@ -416,10 +416,10 @@
     {
         "IndexId": 1,
         "Level": 38,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001038
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001138,
             0
         ]
@@ -427,10 +427,10 @@
     {
         "IndexId": 1,
         "Level": 39,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001039
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001139,
             0
         ]
@@ -438,10 +438,10 @@
     {
         "IndexId": 1,
         "Level": 40,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001040
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001140,
             1010140
         ],
@@ -450,10 +450,10 @@
     {
         "IndexId": 1,
         "Level": 41,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001041
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001141,
             0
         ]
@@ -461,10 +461,10 @@
     {
         "IndexId": 1,
         "Level": 42,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001042
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001142,
             0
         ]
@@ -472,10 +472,10 @@
     {
         "IndexId": 1,
         "Level": 43,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001043
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001143,
             0
         ]
@@ -483,10 +483,10 @@
     {
         "IndexId": 1,
         "Level": 44,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001044
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001144,
             0
         ]
@@ -494,10 +494,10 @@
     {
         "IndexId": 1,
         "Level": 45,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001045
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001145,
             1010145
         ],
@@ -506,10 +506,10 @@
     {
         "IndexId": 1,
         "Level": 46,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001046
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001146,
             0
         ]
@@ -517,10 +517,10 @@
     {
         "IndexId": 1,
         "Level": 47,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001047
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001147,
             0
         ]
@@ -528,10 +528,10 @@
     {
         "IndexId": 1,
         "Level": 48,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001048
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001148,
             0
         ]
@@ -539,10 +539,10 @@
     {
         "IndexId": 1,
         "Level": 49,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001049
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001149,
             0
         ]
@@ -550,10 +550,10 @@
     {
         "IndexId": 1,
         "Level": 50,
-        "FreeRewardId": [
+        "FreeRewardIdList": [
             1001050
         ],
-        "PaidRewardId": [
+        "PaidRewardIdList": [
             1001150,
             1010150
         ],

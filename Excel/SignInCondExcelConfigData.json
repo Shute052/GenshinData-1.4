@@ -2,18 +2,18 @@
     {
         "ConfigId": 1,
         "CondComb": "LOGIC_AND",
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
                 "Type": "SIGN_IN_COND_FINISH_QUEST",
-                "Param": [
-                    90812,
+                "ParamList": [
+                    45406,
                     0
                 ]
             }
@@ -23,18 +23,18 @@
     {
         "ConfigId": 2,
         "CondComb": "LOGIC_OR",
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_FINISH_PARENT_QUEST",
-                "Param": [
-                    44604,
+                "ParamList": [
+                    22302,
                     0
                 ]
             },
             {
                 "Type": "SIGN_IN_COND_AVERAGE_AVATAR_LEVEL",
-                "Param": [
-                    120,
+                "ParamList": [
+                    60,
                     0
                 ]
             }
@@ -43,16 +43,16 @@
     },
     {
         "ConfigId": 1001,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -62,16 +62,16 @@
     },
     {
         "ConfigId": 1002,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -81,16 +81,16 @@
     },
     {
         "ConfigId": 10001,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -100,16 +100,16 @@
     },
     {
         "ConfigId": 10002,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    20,
+                "ParamList": [
+                    10,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -119,16 +119,16 @@
     },
     {
         "ConfigId": 10003,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -138,16 +138,16 @@
     },
     {
         "ConfigId": 10004,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -157,16 +157,16 @@
     },
     {
         "ConfigId": 10005,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -176,16 +176,16 @@
     },
     {
         "ConfigId": 10006,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -195,16 +195,16 @@
     },
     {
         "ConfigId": 10007,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -214,16 +214,16 @@
     },
     {
         "ConfigId": 10008,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -233,16 +233,16 @@
     },
     {
         "ConfigId": 10009,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
@@ -252,16 +252,35 @@
     },
     {
         "ConfigId": 10010,
-        "Cond": [
+        "CondList": [
             {
                 "Type": "SIGN_IN_COND_PLAYER_LEVEL",
-                "Param": [
-                    10,
+                "ParamList": [
+                    5,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "TotalDayCount": 7
+    },
+    {
+        "ConfigId": 10011,
+        "CondList": [
+            {
+                "Type": "SIGN_IN_COND_PLAYER_LEVEL",
+                "ParamList": [
+                    5,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
                     0,
                     0
                 ]

@@ -5,8 +5,8 @@
         "WatcherId": 1200101,
         "TransPointId": 11,
         "TracePoint": "Activity_2001_aster_day1-1",
-        "PerfabPathHashPre": 4200700804,
-        "PerfabPathHashSuffix": 27
+        "PerfabPathHashSuffix": 4200700804,
+        "PerfabPathHashPre": 27
     },
     {
         "MissionId": 2,
@@ -14,8 +14,8 @@
         "WatcherId": 1200102,
         "TransPointId": 3,
         "TracePoint": "Activity_2001_aster_day1-2",
-        "PerfabPathHashPre": 547537741,
-        "PerfabPathHashSuffix": 72
+        "PerfabPathHashSuffix": 547537741,
+        "PerfabPathHashPre": 72
     },
     {
         "MissionId": 3,
@@ -23,8 +23,8 @@
         "WatcherId": 1200103,
         "TransPointId": 100,
         "TracePoint": "Activity_2001_aster_day1-3",
-        "PerfabPathHashPre": 3371217989,
-        "PerfabPathHashSuffix": 48
+        "PerfabPathHashSuffix": 3371217989,
+        "PerfabPathHashPre": 48
     },
     {
         "MissionId": 4,
@@ -32,8 +32,8 @@
         "WatcherId": 1200104,
         "TransPointId": 13,
         "TracePoint": "Activity_2001_aster_day2-1",
-        "PerfabPathHashPre": 3857417636,
-        "PerfabPathHashSuffix": 40
+        "PerfabPathHashSuffix": 3857417636,
+        "PerfabPathHashPre": 40
     },
     {
         "MissionId": 5,
@@ -41,8 +41,8 @@
         "WatcherId": 1200105,
         "TransPointId": 85,
         "TracePoint": "Activity_2001_aster_day2-2",
-        "PerfabPathHashPre": 1217041441,
-        "PerfabPathHashSuffix": -2
+        "PerfabPathHashSuffix": 1217041441,
+        "PerfabPathHashPre": 254
     },
     {
         "MissionId": 6,
@@ -50,8 +50,8 @@
         "WatcherId": 1200106,
         "TransPointId": 80,
         "TracePoint": "Activity_2001_aster_day2-3",
-        "PerfabPathHashPre": 2513846693,
-        "PerfabPathHashSuffix": 120
+        "PerfabPathHashSuffix": 2513846693,
+        "PerfabPathHashPre": 120
     },
     {
         "MissionId": 10,

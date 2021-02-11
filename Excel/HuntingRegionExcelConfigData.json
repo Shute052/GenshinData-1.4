@@ -1,7 +1,7 @@
 [
     {
         "Id": 101,
-        "CenterPos": [
+        "CenterPosList": [
             2775.10009765625,
             281.79998779296875,
             -1555.9000244140625
@@ -76,7 +76,7 @@
         "SafeDestinationGroup": [
             133003615
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133003613,
             133003614,
             133003615
@@ -85,7 +85,7 @@
     },
     {
         "Id": 102,
-        "CenterPos": [
+        "CenterPosList": [
             1385.5999755859375,
             242.3000030517578,
             -1523.699951171875
@@ -160,7 +160,7 @@
         "SafeDestinationGroup": [
             133001434
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133001434,
             133001436,
             133001437
@@ -169,7 +169,7 @@
     },
     {
         "Id": 103,
-        "CenterPos": [
+        "CenterPosList": [
             2198.0,
             249.0,
             -1627.199951171875
@@ -245,7 +245,7 @@
         "SafeDestinationGroup": [
             133003690
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133003690,
             133003691,
             133003692
@@ -254,7 +254,7 @@
     },
     {
         "Id": 104,
-        "CenterPos": [
+        "CenterPosList": [
             2581.199951171875,
             277.29998779296875,
             -331.8999938964844
@@ -328,7 +328,7 @@
         "SafeDestinationGroup": [
             133004371
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133004371,
             133004372,
             133004373
@@ -337,7 +337,7 @@
     },
     {
         "Id": 201,
-        "CenterPos": [
+        "CenterPosList": [
             656.5999755859375,
             200.0,
             248.3000030517578
@@ -411,7 +411,7 @@
         "SafeDestinationGroup": [
             133104698
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133104694,
             133104695,
             133104696,
@@ -422,7 +422,7 @@
     },
     {
         "Id": 202,
-        "CenterPos": [
+        "CenterPosList": [
             386.8999938964844,
             174.5,
             854.7999877929688
@@ -492,14 +492,14 @@
         "SafeDestinationGroup": [
             133104762
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133104762
         ],
         "RegionInfoTextMapHash": 594885349
     },
     {
         "Id": 203,
-        "CenterPos": [
+        "CenterPosList": [
             1621.5999755859375,
             287.0,
             412.0
@@ -566,7 +566,7 @@
         "SafeDestinationGroup": [
             133102019
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133102019,
             133102021
         ],
@@ -574,7 +574,7 @@
     },
     {
         "Id": 204,
-        "CenterPos": [
+        "CenterPosList": [
             -672.5999755859375,
             210.3000030517578,
             1270.5
@@ -645,7 +645,7 @@
         "SafeDestinationGroup": [
             133106325
         ],
-        "DestionationGroup": [
+        "DestinationGroup": [
             133106325,
             133106326,
             133106327

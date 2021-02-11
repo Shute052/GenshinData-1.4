@@ -43,7 +43,7 @@
         "CityId": 1,
         "CityDiscountLevel": 4,
         "ScoinDiscountRate": 90,
-        "VipFuncId": 1002
+        "VipFuncID": 1002
     },
     {
         "ShopId": 204,
@@ -52,39 +52,39 @@
         "CityId": 1,
         "CityDiscountLevel": 4,
         "ScoinDiscountRate": 90,
-        "VipFuncId": 1002
+        "VipFuncID": 1002
     },
     {
         "ShopId": 205,
-        "ShopType": "SHOP_TYPE_NPC_FLORA"
+        "ShopType": "SHOP_TYPE_NPC_Flora"
     },
     {
         "ShopId": 206,
-        "ShopType": "SHOP_TYPE_NPC_CHARLES"
+        "ShopType": "SHOP_TYPE_NPC_Charles"
     },
     {
         "ShopId": 207,
-        "ShopType": "SHOP_TYPE_NPC_SHILIU"
+        "ShopType": "SHOP_TYPE_NPC_Shiliu"
     },
     {
         "ShopId": 208,
-        "ShopType": "SHOP_TYPE_NPC_SCHULZ"
+        "ShopType": "SHOP_TYPE_NPC_Schulz"
     },
     {
         "ShopId": 209,
-        "ShopType": "SHOP_TYPE_NPC_BROOK"
+        "ShopType": "SHOP_TYPE_NPC_Brook"
     },
     {
         "ShopId": 210,
-        "ShopType": "SHOP_TYPE_NPC_HOPKINS"
+        "ShopType": "SHOP_TYPE_NPC_Hopkins"
     },
     {
         "ShopId": 211,
-        "ShopType": "SHOP_TYPE_NPC_DRAFF"
+        "ShopType": "SHOP_TYPE_NPC_Draff"
     },
     {
         "ShopId": 212,
-        "ShopType": "SHOP_TYPE_NPC_CHLORIS"
+        "ShopType": "SHOP_TYPE_NPC_Chloris"
     },
     {
         "ShopId": 301,
@@ -98,7 +98,7 @@
         "CityId": 2,
         "CityDiscountLevel": 4,
         "ScoinDiscountRate": 90,
-        "VipFuncId": 2002
+        "VipFuncID": 2002
     },
     {
         "ShopId": 303,
@@ -107,87 +107,87 @@
         "CityId": 2,
         "CityDiscountLevel": 4,
         "ScoinDiscountRate": 90,
-        "VipFuncId": 2002
+        "VipFuncID": 2002
     },
     {
         "ShopId": 304,
-        "ShopType": "SHOP_TYPE_NPC_LICAI"
+        "ShopType": "SHOP_TYPE_NPC_Licai"
     },
     {
         "ShopId": 305,
-        "ShopType": "SHOP_TYPE_NPC_YUESHU"
+        "ShopType": "SHOP_TYPE_NPC_Yueshu"
     },
     {
         "ShopId": 306,
-        "ShopType": "SHOP_TYPE_NPC_GUI"
+        "ShopType": "SHOP_TYPE_NPC_Gui"
     },
     {
         "ShopId": 307,
-        "ShopType": "SHOP_TYPE_NPC_GAO"
+        "ShopType": "SHOP_TYPE_NPC_Gao"
     },
     {
         "ShopId": 308,
-        "ShopType": "SHOP_TYPE_NPC_SUN"
+        "ShopType": "SHOP_TYPE_NPC_Sun"
     },
     {
         "ShopId": 309,
-        "ShopType": "SHOP_TYPE_NPC_QIMING"
+        "ShopType": "SHOP_TYPE_NPC_Qiming"
     },
     {
         "ShopId": 310,
-        "ShopType": "SHOP_TYPE_NPC_ZHANGSHUN"
+        "ShopType": "SHOP_TYPE_NPC_Zhangshun"
     },
     {
         "ShopId": 311,
-        "ShopType": "SHOP_TYPE_NPC_CHEN"
+        "ShopType": "SHOP_TYPE_NPC_Chen"
     },
     {
         "ShopId": 312,
-        "ShopType": "SHOP_TYPE_NPC_ERNIANG"
+        "ShopType": "SHOP_TYPE_NPC_ErNiang"
     },
     {
         "ShopId": 313,
-        "ShopType": "SHOP_TYPE_NPC_SHITOU"
+        "ShopType": "SHOP_TYPE_NPC_Shitou"
     },
     {
         "ShopId": 314,
-        "ShopType": "SHOP_TYPE_NPC_JIFANG"
+        "ShopType": "SHOP_TYPE_NPC_Jifang"
     },
     {
         "ShopId": 315,
-        "ShopType": "SHOP_TYPE_NPC_ZHU"
+        "ShopType": "SHOP_TYPE_NPC_Zhu"
     },
     {
         "ShopId": 316,
-        "ShopType": "SHOP_TYPE_NPC_BAI"
+        "ShopType": "SHOP_TYPE_NPC_Bai"
     },
     {
         "ShopId": 317,
-        "ShopType": "SHOP_TYPE_NPC_KAI"
+        "ShopType": "SHOP_TYPE_NPC_Kai"
     },
     {
         "ShopId": 318,
-        "ShopType": "SHOP_TYPE_NPC_LINGLANG"
+        "ShopType": "SHOP_TYPE_NPC_Linglang"
     },
     {
         "ShopId": 319,
-        "ShopType": "SHOP_TYPE_NPC_VERRGOLDET"
+        "ShopType": "SHOP_TYPE_NPC_VerrGoldet"
     },
     {
         "ShopId": 320,
-        "ShopType": "SHOP_TYPE_NPC_ZHOU"
+        "ShopType": "SHOP_TYPE_NPC_Zhou"
     },
     {
         "ShopId": 321,
-        "ShopType": "SHOP_TYPE_TASK_EKATERINA"
+        "ShopType": "SHOP_TYPE_TASK_Ekaterina"
     },
     {
         "ShopId": 322,
-        "ShopType": "SHOP_TYPE_TASK_TARTAGLIA"
+        "ShopType": "SHOP_TYPE_TASK_Tartaglia"
     },
     {
         "ShopId": 323,
-        "ShopType": "SHOP_TYPE_NPC_HARRIS"
+        "ShopType": "SHOP_TYPE_NPC_Harris"
     },
     {
         "ShopId": 1001,
@@ -205,5 +205,13 @@
     {
         "ShopId": 1004,
         "ShopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE"
+    },
+    {
+        "ShopId": 1005,
+        "ShopType": "SHOP_TYPE_ACTIVITY_SEA_LAMP"
+    },
+    {
+        "ShopId": 1042,
+        "ShopType": "SHOP_TYPE_NPC_Yinian"
     }
 ]

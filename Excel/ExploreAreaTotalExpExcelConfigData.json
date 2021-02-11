@@ -1,42 +1,42 @@
 [
     {
-        "AreaId": 1,
+        "AreaID": 1,
         "TotalExp": 273
     },
     {
-        "AreaId": 2,
+        "AreaID": 2,
         "TotalExp": 146
     },
     {
-        "AreaId": 3,
+        "AreaID": 3,
         "TotalExp": 218
     },
     {
-        "AreaId": 4,
+        "AreaID": 4,
         "TotalExp": 211
     },
     {
-        "AreaId": 5,
+        "AreaID": 5,
         "TotalExp": 450
     },
     {
-        "AreaId": 6,
+        "AreaID": 6,
         "TotalExp": 571
     },
     {
-        "AreaId": 7,
+        "AreaID": 7,
         "TotalExp": 274
     },
     {
-        "AreaId": 8,
+        "AreaID": 8,
         "TotalExp": 185
     },
     {
-        "AreaId": 9,
+        "AreaID": 9,
         "TotalExp": 286
     },
     {
-        "AreaId": 10,
+        "AreaID": 10,
         "TotalExp": 470
     }
 ]

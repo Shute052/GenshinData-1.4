@@ -195,5 +195,82 @@
         "ActivitySceneTag": "",
         "CondGroupId": [],
         "WatcherId": []
+    },
+    {
+        "ActivityId": 5016,
+        "ActivityType": "NEW_ACTIVITY_BLESSING",
+        "NameTextMapHash": 2385600771,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            501601
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5017,
+        "ActivityType": "NEW_ACTIVITY_EXPEDITION",
+        "NameTextMapHash": 1776393771,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            501701
+        ],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 2002,
+        "ActivityType": "NEW_ACTIVITY_SEA_LAMP_NEW",
+        "NameTextMapHash": 3451329179,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            200201
+        ],
+        "WatcherId": [
+            1200212,
+            1200213,
+            1200216,
+            1200217,
+            1200250,
+            1200253,
+            1200254,
+            1200211,
+            1200218,
+            1200219,
+            1200223,
+            1200226,
+            1200255,
+            1200256,
+            1200251,
+            1200257,
+            1200224,
+            1200225,
+            1200221,
+            1200229,
+            1200233,
+            1200258,
+            1200252,
+            1200259,
+            1200236,
+            1200237,
+            1200238,
+            1200239,
+            1200240,
+            1200241
+        ]
+    },
+    {
+        "ActivityId": 6002,
+        "ActivityType": "NEW_ACTIVITY_MONSTER_BANNER_DRAKE_PRIMO_ROCK",
+        "NameTextMapHash": 2829736099,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5018,
+        "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "NameTextMapHash": 3005335419,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
     }
 ]

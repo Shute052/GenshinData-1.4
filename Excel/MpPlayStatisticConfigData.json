@@ -9,11 +9,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 3822428298,
-        "Unknown2": 3311447176,
-        "Unknown3": 2805223036,
+        "MpchallengetitleTextMapHash": 3822428298,
+        "MpchallengeTextMapHash": 3311447176,
+        "MpchallengestyleTextMapHash": 2805223036,
         "Image": "",
-        "PriorityId": 99
+        "Priority": 99
     },
     {
         "Id": 3001,
@@ -25,11 +25,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 2103828450,
-        "Unknown2": 3565462456,
-        "Unknown3": 546352604,
+        "MpchallengetitleTextMapHash": 2103828450,
+        "MpchallengeTextMapHash": 3565462456,
+        "MpchallengestyleTextMapHash": 546352604,
         "Image": "",
-        "PriorityId": 80
+        "Priority": 80
     },
     {
         "Id": 3002,
@@ -41,11 +41,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 929628794,
-        "Unknown2": 1029312152,
-        "Unknown3": 3997210404,
+        "MpchallengetitleTextMapHash": 929628794,
+        "MpchallengeTextMapHash": 1029312152,
+        "MpchallengestyleTextMapHash": 3997210404,
         "Image": "",
-        "PriorityId": 50
+        "Priority": 50
     },
     {
         "Id": 3003,
@@ -57,11 +57,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 1477560098,
-        "Unknown2": 2812186344,
-        "Unknown3": 3380330132,
+        "MpchallengetitleTextMapHash": 1477560098,
+        "MpchallengeTextMapHash": 2812186344,
+        "MpchallengestyleTextMapHash": 3380330132,
         "Image": "",
-        "PriorityId": 60
+        "Priority": 60
     },
     {
         "Id": 3004,
@@ -73,11 +73,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_ICESHIELD_KILL_COUNT",
-        "Unknown1": 3811772258,
-        "Unknown2": 4098769512,
-        "Unknown3": 2813804700,
+        "MpchallengetitleTextMapHash": 3811772258,
+        "MpchallengeTextMapHash": 4098769512,
+        "MpchallengestyleTextMapHash": 2813804700,
         "Image": "",
-        "PriorityId": 50
+        "Priority": 50
     },
     {
         "Id": 3005,
@@ -89,11 +89,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_ICESHIELD_KILL_COUNT",
-        "Unknown1": 3386262786,
-        "Unknown2": 1721404064,
-        "Unknown3": 1478942924,
+        "MpchallengetitleTextMapHash": 3386262786,
+        "MpchallengeTextMapHash": 1721404064,
+        "MpchallengestyleTextMapHash": 1478942924,
         "Image": "",
-        "PriorityId": 60
+        "Priority": 60
     },
     {
         "Id": 3006,
@@ -105,11 +105,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_ICESHIELD_KILL_COUNT",
-        "Unknown1": 3163647514,
-        "Unknown2": 3216078088,
-        "Unknown3": 1010769108,
+        "MpchallengetitleTextMapHash": 3163647514,
+        "MpchallengeTextMapHash": 3216078088,
+        "MpchallengestyleTextMapHash": 1010769108,
         "Image": "",
-        "PriorityId": 70
+        "Priority": 70
     },
     {
         "Id": 3007,
@@ -121,11 +121,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_SPECIALICE_KILL_COUNT",
-        "Unknown1": 3150559754,
-        "Unknown2": 3681924664,
-        "Unknown3": 2058360964,
+        "MpchallengetitleTextMapHash": 3150559754,
+        "MpchallengeTextMapHash": 3681924664,
+        "MpchallengestyleTextMapHash": 2058360964,
         "Image": "",
-        "PriorityId": 50
+        "Priority": 50
     },
     {
         "Id": 3008,
@@ -137,11 +137,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_SPECIALICE_KILL_COUNT",
-        "Unknown1": 2581409802,
-        "Unknown2": 1166633696,
-        "Unknown3": 2259993180,
+        "MpchallengetitleTextMapHash": 2581409802,
+        "MpchallengeTextMapHash": 1166633696,
+        "MpchallengestyleTextMapHash": 2259993180,
         "Image": "",
-        "PriorityId": 60
+        "Priority": 60
     },
     {
         "Id": 3009,
@@ -153,11 +153,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_SPECIALICE_KILL_COUNT",
-        "Unknown1": 1540126266,
-        "Unknown2": 1696813736,
-        "Unknown3": 3182748788,
+        "MpchallengetitleTextMapHash": 1540126266,
+        "MpchallengeTextMapHash": 1696813736,
+        "MpchallengestyleTextMapHash": 3182748788,
         "Image": "",
-        "PriorityId": 70
+        "Priority": 70
     },
     {
         "Id": 3010,
@@ -169,11 +169,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_OREDULINSBLOOD_PICK_COUNT",
-        "Unknown1": 4244616418,
-        "Unknown2": 3467660440,
-        "Unknown3": 91546988,
+        "MpchallengetitleTextMapHash": 4244616418,
+        "MpchallengeTextMapHash": 3467660440,
+        "MpchallengestyleTextMapHash": 91546988,
         "Image": "",
-        "PriorityId": 50
+        "Priority": 50
     },
     {
         "Id": 3011,
@@ -185,11 +185,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_OREDULINSBLOOD_PICK_COUNT",
-        "Unknown1": 1728529842,
-        "Unknown2": 2646662568,
-        "Unknown3": 403640580,
+        "MpchallengetitleTextMapHash": 1728529842,
+        "MpchallengeTextMapHash": 2646662568,
+        "MpchallengestyleTextMapHash": 403640580,
         "Image": "",
-        "PriorityId": 60
+        "Priority": 60
     },
     {
         "Id": 3012,
@@ -201,11 +201,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
         "ClientSyncParam": "AVATAR_OREDULINSBLOOD_PICK_COUNT",
-        "Unknown1": 3358575194,
-        "Unknown2": 1663810424,
-        "Unknown3": 2913549604,
+        "MpchallengetitleTextMapHash": 3358575194,
+        "MpchallengeTextMapHash": 1663810424,
+        "MpchallengestyleTextMapHash": 2913549604,
         "Image": "",
-        "PriorityId": 70
+        "Priority": 70
     },
     {
         "Id": 3013,
@@ -217,11 +217,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 1345825378,
-        "Unknown2": 730184944,
-        "Unknown3": 2459184940,
+        "MpchallengetitleTextMapHash": 1345825378,
+        "MpchallengeTextMapHash": 730184944,
+        "MpchallengestyleTextMapHash": 2459184940,
         "Image": "",
-        "PriorityId": 99
+        "Priority": 99
     },
     {
         "Id": 3014,
@@ -233,11 +233,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
         "ClientSyncParam": "",
-        "Unknown1": 1721538034,
-        "Unknown2": 2448742184,
-        "Unknown3": 2058989708,
+        "MpchallengetitleTextMapHash": 1721538034,
+        "MpchallengeTextMapHash": 2448742184,
+        "MpchallengestyleTextMapHash": 2058989708,
         "Image": "",
-        "PriorityId": 90
+        "Priority": 90
     },
     {
         "Id": 3015,
@@ -249,11 +249,11 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 289370554,
-        "Unknown2": 3383441920,
-        "Unknown3": 393478740,
+        "MpchallengetitleTextMapHash": 289370554,
+        "MpchallengeTextMapHash": 3383441920,
+        "MpchallengestyleTextMapHash": 393478740,
         "Image": "",
-        "PriorityId": 1
+        "Priority": 1
     },
     {
         "Id": 3016,
@@ -265,10 +265,10 @@
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
-        "Unknown1": 3605855186,
-        "Unknown2": 323985664,
-        "Unknown3": 2614953748,
+        "MpchallengetitleTextMapHash": 3605855186,
+        "MpchallengeTextMapHash": 323985664,
+        "MpchallengestyleTextMapHash": 2614953748,
         "Image": "",
-        "PriorityId": 1
+        "Priority": 1
     }
 ]

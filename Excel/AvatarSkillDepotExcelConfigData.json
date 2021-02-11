@@ -74,15 +74,15 @@
         "TalentStarName": "Talent_Ayaka",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 221,
+                "ProudSkillGroupId": 221,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 222,
+                "ProudSkillGroupId": 222,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 223
+                "ProudSkillGroupId": 223
             },
             {},
             {}
@@ -121,15 +121,15 @@
         "TalentStarName": "Talent_Qin",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 321,
+                "ProudSkillGroupId": 321,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 322,
+                "ProudSkillGroupId": 322,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 323
+                "ProudSkillGroupId": 323
             },
             {},
             {}
@@ -283,11 +283,11 @@
         "TalentStarName": "Talent_PlayerBoy_Wind",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 721,
+                "ProudSkillGroupId": 721,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 722,
+                "ProudSkillGroupId": 722,
                 "NeedAvatarPromoteLevel": 4
             },
             {},
@@ -366,11 +366,11 @@
         "TalentStarName": "Talent_PlayerBoy_Rock",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 921,
+                "ProudSkillGroupId": 921,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 922,
+                "ProudSkillGroupId": 922,
                 "NeedAvatarPromoteLevel": 4
             },
             {},
@@ -449,15 +449,15 @@
         "TalentStarName": "Talent_Lisa",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 421,
+                "ProudSkillGroupId": 421,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 422,
+                "ProudSkillGroupId": 422,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 423
+                "ProudSkillGroupId": 423
             },
             {},
             {}
@@ -611,11 +611,11 @@
         "TalentStarName": "Talent_PlayerGirl_Wind",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 721,
+                "ProudSkillGroupId": 721,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 722,
+                "ProudSkillGroupId": 722,
                 "NeedAvatarPromoteLevel": 4
             },
             {},
@@ -694,11 +694,11 @@
         "TalentStarName": "Talent_PlayerGirl_Rock",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 921,
+                "ProudSkillGroupId": 921,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 922,
+                "ProudSkillGroupId": 922,
                 "NeedAvatarPromoteLevel": 4
             },
             {},
@@ -780,15 +780,15 @@
         "TalentStarName": "Talent_Barbara",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 1421,
+                "ProudSkillGroupId": 1421,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 1422,
+                "ProudSkillGroupId": 1422,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 1423
+                "ProudSkillGroupId": 1423
             },
             {},
             {}
@@ -828,15 +828,15 @@
         "TalentStarName": "Talent_Kaeya",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 1521,
+                "ProudSkillGroupId": 1521,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 1522,
+                "ProudSkillGroupId": 1522,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 1523
+                "ProudSkillGroupId": 1523
             },
             {},
             {}
@@ -876,15 +876,15 @@
         "TalentStarName": "Talent_Diluc",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 1621,
+                "ProudSkillGroupId": 1621,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 1622,
+                "ProudSkillGroupId": 1622,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 1623
+                "ProudSkillGroupId": 1623
             },
             {},
             {}
@@ -923,15 +923,15 @@
         "TalentStarName": "Talent_Razor",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2021,
+                "ProudSkillGroupId": 2021,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2022,
+                "ProudSkillGroupId": 2022,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2023
+                "ProudSkillGroupId": 2023
             },
             {},
             {}
@@ -973,15 +973,15 @@
         "TalentStarName": "Talent_Ambor",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2121,
+                "ProudSkillGroupId": 2121,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2122,
+                "ProudSkillGroupId": 2122,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2123
+                "ProudSkillGroupId": 2123
             },
             {},
             {}
@@ -1022,15 +1022,15 @@
         "TalentStarName": "Talent_Venti",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2221,
+                "ProudSkillGroupId": 2221,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2222,
+                "ProudSkillGroupId": 2222,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2223
+                "ProudSkillGroupId": 2223
             },
             {},
             {}
@@ -1069,15 +1069,15 @@
         "TalentStarName": "Talent_Xiangling",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2321,
+                "ProudSkillGroupId": 2321,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2322,
+                "ProudSkillGroupId": 2322,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2323
+                "ProudSkillGroupId": 2323
             },
             {},
             {}
@@ -1114,15 +1114,15 @@
         "TalentStarName": "Talent_Beidou",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2421,
+                "ProudSkillGroupId": 2421,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2422,
+                "ProudSkillGroupId": 2422,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2423
+                "ProudSkillGroupId": 2423
             },
             {},
             {}
@@ -1160,15 +1160,15 @@
         "TalentStarName": "Talent_Xingqiu",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2521,
+                "ProudSkillGroupId": 2521,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2522,
+                "ProudSkillGroupId": 2522,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2523
+                "ProudSkillGroupId": 2523
             },
             {},
             {}
@@ -1207,15 +1207,15 @@
         "TalentStarName": "Talent_Xiao",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2621,
+                "ProudSkillGroupId": 2621,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2622,
+                "ProudSkillGroupId": 2622,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2623
+                "ProudSkillGroupId": 2623
             },
             {},
             {}
@@ -1255,15 +1255,15 @@
         "TalentStarName": "Talent_Ningguang",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2721,
+                "ProudSkillGroupId": 2721,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2722,
+                "ProudSkillGroupId": 2722,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2723
+                "ProudSkillGroupId": 2723
             },
             {},
             {}
@@ -1302,15 +1302,15 @@
         "TalentStarName": "Talent_Klee",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 2921,
+                "ProudSkillGroupId": 2921,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 2922,
+                "ProudSkillGroupId": 2922,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 2923
+                "ProudSkillGroupId": 2923
             },
             {},
             {}
@@ -1348,15 +1348,15 @@
         "TalentStarName": "Talent_Zhongli",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3021,
+                "ProudSkillGroupId": 3021,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3022,
+                "ProudSkillGroupId": 3022,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3023
+                "ProudSkillGroupId": 3023
             },
             {},
             {}
@@ -1397,15 +1397,15 @@
         "TalentStarName": "Talent_Fischl",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3121,
+                "ProudSkillGroupId": 3121,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3122,
+                "ProudSkillGroupId": 3122,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3123
+                "ProudSkillGroupId": 3123
             },
             {},
             {}
@@ -1443,15 +1443,15 @@
         "TalentStarName": "Talent_Bennett",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3221,
+                "ProudSkillGroupId": 3221,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3222,
+                "ProudSkillGroupId": 3222,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3223
+                "ProudSkillGroupId": 3223
             },
             {},
             {}
@@ -1494,15 +1494,15 @@
         "TalentStarName": "Talent_Tartaglia",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3321,
+                "ProudSkillGroupId": 3321,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3322,
+                "ProudSkillGroupId": 3322,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3323
+                "ProudSkillGroupId": 3323
             },
             {},
             {}
@@ -1540,15 +1540,15 @@
         "TalentStarName": "Talent_Noel",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3421,
+                "ProudSkillGroupId": 3421,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3422,
+                "ProudSkillGroupId": 3422,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3423
+                "ProudSkillGroupId": 3423
             },
             {},
             {}
@@ -1587,15 +1587,15 @@
         "TalentStarName": "Talent_Qiqi",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3521,
+                "ProudSkillGroupId": 3521,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3522,
+                "ProudSkillGroupId": 3522,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3523
+                "ProudSkillGroupId": 3523
             },
             {},
             {}
@@ -1632,15 +1632,15 @@
         "TalentStarName": "Talent_Chongyun",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3621,
+                "ProudSkillGroupId": 3621,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3622,
+                "ProudSkillGroupId": 3622,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3623
+                "ProudSkillGroupId": 3623
             },
             {},
             {}
@@ -1679,15 +1679,15 @@
         "TalentStarName": "Talent_Ganyu",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3721,
+                "ProudSkillGroupId": 3721,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3722,
+                "ProudSkillGroupId": 3722,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3723
+                "ProudSkillGroupId": 3723
             },
             {},
             {}
@@ -1725,15 +1725,15 @@
         "TalentStarName": "Talent_Albedo",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3821,
+                "ProudSkillGroupId": 3821,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3822,
+                "ProudSkillGroupId": 3822,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3823
+                "ProudSkillGroupId": 3823
             },
             {},
             {}
@@ -1773,15 +1773,15 @@
         "TalentStarName": "Talent_Diona",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3921,
+                "ProudSkillGroupId": 3921,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3922,
+                "ProudSkillGroupId": 3922,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 3923
+                "ProudSkillGroupId": 3923
             },
             {},
             {}
@@ -1819,15 +1819,15 @@
         "TalentStarName": "Talent_Mona",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 4121,
+                "ProudSkillGroupId": 4121,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 4122,
+                "ProudSkillGroupId": 4122,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 4123
+                "ProudSkillGroupId": 4123
             },
             {},
             {}
@@ -1866,15 +1866,15 @@
         "TalentStarName": "Talent_Keqing",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 4221,
+                "ProudSkillGroupId": 4221,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 4222,
+                "ProudSkillGroupId": 4222,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 4223
+                "ProudSkillGroupId": 4223
             },
             {},
             {}
@@ -1913,15 +1913,15 @@
         "TalentStarName": "Talent_Sucrose",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 4321,
+                "ProudSkillGroupId": 4321,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 4322,
+                "ProudSkillGroupId": 4322,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 4323
+                "ProudSkillGroupId": 4323
             },
             {},
             {}
@@ -1958,15 +1958,15 @@
         "TalentStarName": "Talent_Xinyan",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 4421,
+                "ProudSkillGroupId": 4421,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 4422,
+                "ProudSkillGroupId": 4422,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 4423
+                "ProudSkillGroupId": 4423
             },
             {},
             {}
@@ -1985,6 +1985,7 @@
         "SubSkills": [
             10101,
             10102,
+            10002,
             5045010
         ],
         "ExtraAbilities": [
@@ -2003,15 +2004,15 @@
         "TalentStarName": "Talent_Rosaria",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 4521,
+                "ProudSkillGroupId": 4521,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 4522,
+                "ProudSkillGroupId": 4522,
                 "NeedAvatarPromoteLevel": 4
             },
             {
-                "ProudskillGroupId": 4523
+                "ProudSkillGroupId": 4523
             },
             {},
             {}
@@ -2040,18 +2041,26 @@
             ""
         ],
         "Talents": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
+            461,
+            462,
+            463,
+            464,
+            465,
+            466
         ],
-        "TalentStarName": "",
+        "TalentStarName": "Talent_Hutao",
         "InherentProudSkillOpens": [
-            {},
-            {},
-            {},
+            {
+                "ProudSkillGroupId": 4621,
+                "NeedAvatarPromoteLevel": 1
+            },
+            {
+                "ProudSkillGroupId": 4622,
+                "NeedAvatarPromoteLevel": 4
+            },
+            {
+                "ProudSkillGroupId": 4623
+            },
             {},
             {}
         ],
@@ -2059,20 +2068,16 @@
     },
     {
         "Id": 4701,
-        "EnergySkill": 10475,
         "Skills": [
-            10471,
-            10472,
+            0,
+            0,
             0,
             0
         ],
         "SubSkills": [
             10101,
             10102,
-            10001,
-            10473,
-            10474,
-            5047010
+            10001
         ],
         "ExtraAbilities": [
             "",
@@ -2119,23 +2124,17 @@
             ""
         ],
         "Talents": [
-            481,
-            482,
-            483,
-            484,
-            485,
-            486
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
         ],
         "TalentStarName": "Talent_Feiyan",
         "InherentProudSkillOpens": [
-            {
-                "ProudskillGroupId": 4821,
-                "NeedAvatarPromoteLevel": 1
-            },
-            {
-                "ProudskillGroupId": 4822,
-                "NeedAvatarPromoteLevel": 4
-            },
+            {},
+            {},
             {},
             {},
             {}
@@ -2483,11 +2482,11 @@
         "TalentStarName": "",
         "InherentProudSkillOpens": [
             {
-                "ProudskillGroupId": 3121,
+                "ProudSkillGroupId": 3121,
                 "NeedAvatarPromoteLevel": 1
             },
             {
-                "ProudskillGroupId": 3122,
+                "ProudSkillGroupId": 3122,
                 "NeedAvatarPromoteLevel": 4
             },
             {},

@@ -8,7 +8,7 @@
         "DescTextMapHash": 3981421851,
         "OpenConfig": "TeamResonance_Fire_Lv2",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             0.25,
             0.0,
             0.0,
@@ -30,7 +30,7 @@
         "DescTextMapHash": 740980787,
         "OpenConfig": "TeamResonance_Water_Lv2",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             0.30000001192092896,
             0.0,
             0.0,
@@ -52,7 +52,7 @@
         "DescTextMapHash": 170982675,
         "OpenConfig": "TeamResonance_Wind_Lv2",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             -0.15000000596046448,
             0.10000000149011612,
             0.05000000074505806,
@@ -74,7 +74,7 @@
         "DescTextMapHash": 1982396323,
         "OpenConfig": "TeamResonance_Electric_Lv2",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             1.0,
             5.0,
             0.0,
@@ -96,7 +96,7 @@
         "DescTextMapHash": 2601161539,
         "OpenConfig": "TeamResonance_Ice_Lv2",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             0.15000000596046448,
             0.0,
             0.0,
@@ -118,11 +118,11 @@
         "DescTextMapHash": 1707021043,
         "OpenConfig": "TeamResonance_Rock_Lv2",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             0.15000000596046448,
-            0.0,
-            0.0,
-            0.0,
+            0.15000000596046448,
+            15.0,
+            -0.20000000298023224,
             0.0,
             0.0,
             0.0,
@@ -140,7 +140,7 @@
         "DescTextMapHash": 3556079627,
         "OpenConfig": "TeamResonance_AllDifferent",
         "AddProps": [],
-        "Param": [
+        "ParamList": [
             0.15000000596046448,
             0.0,
             0.0,

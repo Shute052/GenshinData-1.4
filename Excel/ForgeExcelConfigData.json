@@ -20,7 +20,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 3,
         "QueueNum": 20,
-        "SCoinCost": 5,
+        "ScoinCost": 5,
         "RandomItems": [
             {}
         ],
@@ -57,7 +57,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 6,
         "QueueNum": 10,
-        "SCoinCost": 10,
+        "ScoinCost": 10,
         "RandomItems": [
             {}
         ],
@@ -94,7 +94,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 180,
         "QueueNum": 5,
-        "SCoinCost": 50,
+        "ScoinCost": 50,
         "RandomItems": [
             {}
         ],
@@ -131,7 +131,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 6,
         "QueueNum": 10,
-        "SCoinCost": 10,
+        "ScoinCost": 10,
         "RandomItems": [
             {}
         ],
@@ -165,7 +165,7 @@
         "MainRandomDropId": 208001500,
         "ForgeTime": 5,
         "QueueNum": 1,
-        "SCoinCost": 100,
+        "ScoinCost": 100,
         "RandomItems": [
             {}
         ],
@@ -204,7 +204,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -246,7 +246,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -288,7 +288,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -330,7 +330,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -372,7 +372,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -414,7 +414,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -456,7 +456,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -498,7 +498,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -540,7 +540,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -582,7 +582,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -623,7 +623,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -664,7 +664,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -705,7 +705,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 1,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -746,7 +746,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 30,
         "QueueNum": 1,
-        "SCoinCost": 50000,
+        "ScoinCost": 50000,
         "RandomItems": [
             {}
         ],
@@ -787,7 +787,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 30,
         "QueueNum": 1,
-        "SCoinCost": 50000,
+        "ScoinCost": 50000,
         "RandomItems": [
             {}
         ],
@@ -828,7 +828,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 5,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],
@@ -869,7 +869,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 30,
         "QueueNum": 1,
-        "SCoinCost": 50000,
+        "ScoinCost": 50000,
         "RandomItems": [
             {}
         ],
@@ -910,7 +910,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 30,
         "QueueNum": 1,
-        "SCoinCost": 50000,
+        "ScoinCost": 50000,
         "RandomItems": [
             {}
         ],
@@ -951,7 +951,7 @@
         "ResultItemCount": 1,
         "ForgeTime": 10,
         "QueueNum": 5,
-        "SCoinCost": 500,
+        "ScoinCost": 500,
         "RandomItems": [
             {}
         ],

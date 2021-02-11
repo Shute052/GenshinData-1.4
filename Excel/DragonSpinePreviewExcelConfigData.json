@@ -2,7 +2,7 @@
     {
         "Id": 1,
         "ActivityId": 3001,
-        "Unknown1": 4185248520,
+        "DescTextMapHash": 4185248520,
         "PreQuestId": 384,
         "UnlockLevel": 20,
         "RewardPreviewId": 30300,

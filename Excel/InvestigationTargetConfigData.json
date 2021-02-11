@@ -14,7 +14,7 @@
         "Id": 60001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_AREA",
-            "Param": [
+            "ParamList": [
                 "2",
                 "",
                 ""
@@ -37,7 +37,7 @@
         "Id": 60002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_TRANS_POINT",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -60,7 +60,7 @@
         "Id": 60003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
-            "Param": [
+            "ParamList": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
                 "",
                 ""
@@ -83,7 +83,7 @@
         "Id": 60004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "1",
                 "2",
                 ""
@@ -106,7 +106,7 @@
         "Id": 60005,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_TRANS_POINT",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -129,7 +129,7 @@
         "Id": 60006,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
-            "Param": [
+            "ParamList": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
                 "",
                 ""
@@ -152,7 +152,7 @@
         "Id": 60007,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "1",
                 "4",
                 ""
@@ -179,7 +179,7 @@
         "Id": 60008,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "22010201",
                 "可联机",
                 ""
@@ -202,7 +202,7 @@
         "Id": 60009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DO_COOK",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
@@ -225,7 +225,7 @@
         "Id": 60010,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "10",
                 "",
                 ""
@@ -248,7 +248,7 @@
         "Id": 60011,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAR_RELIQUARY",
-            "Param": [
+            "ParamList": [
                 "4",
                 "",
                 ""
@@ -271,7 +271,7 @@
         "Id": 60012,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_TRANS_POINT",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -294,7 +294,7 @@
         "Id": 60013,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_AREA",
-            "Param": [
+            "ParamList": [
                 "3",
                 "",
                 ""
@@ -317,7 +317,7 @@
         "Id": 60014,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
-            "Param": [
+            "ParamList": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
                 "",
                 ""
@@ -344,7 +344,7 @@
         "Id": 60015,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "24010101",
                 "可联机",
                 ""
@@ -367,7 +367,7 @@
         "Id": 60016,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DO_FORGE",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -390,7 +390,7 @@
         "Id": 60017,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DO_COMPOUND",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -413,7 +413,7 @@
         "Id": 60018,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "20",
                 "",
                 ""
@@ -436,7 +436,7 @@
         "Id": 60019,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "1",
                 "1"
@@ -459,7 +459,7 @@
         "Id": 60020,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_AREA",
-            "Param": [
+            "ParamList": [
                 "4",
                 "",
                 ""
@@ -482,7 +482,7 @@
         "Id": 60021,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "1",
                 "6",
                 ""
@@ -505,7 +505,7 @@
         "Id": 60022,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "1",
                 "1"
@@ -528,7 +528,7 @@
         "Id": 60023,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
-            "Param": [
+            "ParamList": [
                 "1;3",
                 "",
                 ""
@@ -551,7 +551,7 @@
         "Id": 60024,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_EXPEDITION",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -574,7 +574,7 @@
         "Id": 60025,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
@@ -597,7 +597,7 @@
         "Id": 60026,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "20",
                 "",
                 ""
@@ -620,7 +620,7 @@
         "Id": 60027,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DO_COMBINE",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -647,7 +647,7 @@
         "Id": 60028,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "23030101",
                 "可联机",
                 ""
@@ -670,7 +670,7 @@
         "Id": 60029,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
-            "Param": [
+            "ParamList": [
                 "70360041;70360068",
                 "",
                 ""
@@ -693,7 +693,7 @@
         "Id": 60030,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_AREA",
-            "Param": [
+            "ParamList": [
                 "7",
                 "",
                 ""
@@ -716,7 +716,7 @@
         "Id": 60031,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "1",
                 "3",
                 ""
@@ -739,7 +739,7 @@
         "Id": 60032,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_RECIPE",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -762,7 +762,7 @@
         "Id": 60033,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_BLOSSOM_CHEST",
-            "Param": [
+            "ParamList": [
                 "1;3",
                 "",
                 ""
@@ -785,7 +785,7 @@
         "Id": 60034,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "4300;4301;4302;4303;4310;4311;4312;4313;4320;4321;4322;4323;4330;4331;4332;4333;5210;5211;5212;5213;5214;5215;5216;5217;5218;5219;5220;5221;5222;5223;5224;5225",
                 "",
                 ""
@@ -808,7 +808,7 @@
         "Id": 60035,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "40",
                 "",
                 ""
@@ -831,7 +831,7 @@
         "Id": 60036,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "40",
                 "",
                 ""
@@ -854,7 +854,7 @@
         "Id": 60037,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
-            "Param": [
+            "ParamList": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
                 "",
                 ""
@@ -877,7 +877,7 @@
         "Id": 60038,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "",
                 "1"
@@ -904,7 +904,7 @@
         "Id": 60039,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "24010201",
                 "可联机",
                 ""
@@ -927,7 +927,7 @@
         "Id": 60040,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "5000;5001;5002;5003;5004;5005;5006;5007;5008;5009;5010;5011;5012;5013;5100;5101;5102;5103;5104;5105;5106;5107;5108;5109;5110;5111;5112;5113;5114;5115;5120;5121;5122;5123",
                 "",
                 ""
@@ -950,7 +950,7 @@
         "Id": 60041,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "2",
                 "3",
                 ""
@@ -977,7 +977,7 @@
         "Id": 60042,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "20040101",
                 "需单人",
                 ""
@@ -1004,7 +1004,7 @@
         "Id": 60043,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "20040201",
                 "需单人",
                 ""
@@ -1031,7 +1031,7 @@
         "Id": 60044,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "20040301",
                 "需单人",
                 ""
@@ -1054,7 +1054,7 @@
         "Id": 60045,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "2",
                 "",
                 ""
@@ -1077,7 +1077,7 @@
         "Id": 60046,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_SET_NUM",
-            "Param": [
+            "ParamList": [
                 "3",
                 "",
                 ""
@@ -1100,7 +1100,7 @@
         "Id": 60047,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "3",
                 "",
                 ""
@@ -1123,7 +1123,7 @@
         "Id": 60048,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "2",
                 "",
                 ""
@@ -1146,7 +1146,7 @@
         "Id": 60049,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "9",
                 "1",
                 "1"
@@ -1169,7 +1169,7 @@
         "Id": 60050,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_BUY_SHOP_GOODS",
-            "Param": [
+            "ParamList": [
                 "1002;1009",
                 "",
                 ""
@@ -1192,7 +1192,7 @@
         "Id": 60051,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
-            "Param": [
+            "ParamList": [
                 "70360041;70360068",
                 "",
                 ""
@@ -1215,7 +1215,7 @@
         "Id": 60052,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "4200;4201;4202;4203;4210;4211;4212;4213;4220;4221;4222;4223;4230;4231;4232;4233;5250;5251;5252;5253;5254;5255;5256;5257;5258;5259;5260;5261;5262;5263;5264;5265",
                 "",
                 ""
@@ -1238,7 +1238,7 @@
         "Id": 60053,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UPGRADE_TALENT",
-            "Param": [
+            "ParamList": [
                 "",
                 "",
                 ""
@@ -1261,7 +1261,7 @@
         "Id": 60054,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "1",
                 "9",
                 ""
@@ -1284,7 +1284,7 @@
         "Id": 60055,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_BOSS_REWARD",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
@@ -1311,7 +1311,7 @@
         "Id": 60056,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_MONSTER_DIE",
-            "Param": [
+            "ParamList": [
                 "29020102",
                 "需单人",
                 ""
@@ -1334,7 +1334,7 @@
         "Id": 60057,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "4",
                 "3",
                 ""
@@ -1357,7 +1357,7 @@
         "Id": 60058,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FORGE_WEAPON",
-            "Param": [
+            "ParamList": [
                 "4",
                 "",
                 ""
@@ -1380,7 +1380,7 @@
         "Id": 60059,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OPEN_CHEST_WITH_GADGET_ID",
-            "Param": [
+            "ParamList": [
                 "70210001;70210002;70210003;70210004;70210005;70210006;70210011;70210012;70210013;70210014;70210021;70210022;70210023;70210024;70210031;70210032;70210033;70210034;70210041;70210042;70210043;70210044;70210051;70210052;70210053;70210054;70211001;70211002;70211011;70211012;70211021;70211022;70211031;70211032;70211101;70211102;70211103;70211104;70211111;70211112;70211121;70211122;70211123;70211131;70211132",
                 "",
                 ""
@@ -1403,7 +1403,7 @@
         "Id": 60060,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "3",
                 "",
                 ""
@@ -1426,7 +1426,7 @@
         "Id": 60061,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "3",
                 "",
                 ""
@@ -1449,7 +1449,7 @@
         "Id": 60062,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "13",
                 "1",
                 "1"
@@ -1472,7 +1472,7 @@
         "Id": 60063,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "60",
                 "",
                 ""
@@ -1495,7 +1495,7 @@
         "Id": 60064,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "70",
                 "",
                 ""
@@ -1518,7 +1518,7 @@
         "Id": 60065,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CITY_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "2",
                 "9",
                 ""
@@ -1541,7 +1541,7 @@
         "Id": 60066,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_BOSS_REWARD",
-            "Param": [
+            "ParamList": [
                 "1",
                 "",
                 ""
@@ -1564,7 +1564,7 @@
         "Id": 60067,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "2021",
                 "",
                 ""
@@ -1587,7 +1587,7 @@
         "Id": 60068,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "5",
                 "3",
                 ""
@@ -1610,7 +1610,7 @@
         "Id": 60069,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "70",
                 "",
                 ""
@@ -1633,7 +1633,7 @@
         "Id": 60070,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_SET_NUM",
-            "Param": [
+            "ParamList": [
                 "4",
                 "",
                 ""
@@ -1656,7 +1656,7 @@
         "Id": 60071,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "17",
                 "4",
                 "1"
@@ -1679,7 +1679,7 @@
         "Id": 60072,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "70",
                 "",
                 ""
@@ -1702,7 +1702,7 @@
         "Id": 60073,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "",
                 ""
@@ -1725,7 +1725,7 @@
         "Id": 60074,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "",
                 ""
@@ -1748,7 +1748,7 @@
         "Id": 60075,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
-            "Param": [
+            "ParamList": [
                 "70360041;70360068",
                 "",
                 ""
@@ -1771,7 +1771,7 @@
         "Id": 60076,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "305",
                 "",
                 ""
@@ -1794,7 +1794,7 @@
         "Id": 60077,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "307",
                 "",
                 ""
@@ -1817,7 +1817,7 @@
         "Id": 60078,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_DUNGEON",
-            "Param": [
+            "ParamList": [
                 "2022",
                 "",
                 ""
@@ -1840,7 +1840,7 @@
         "Id": 60079,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_UNLOCK_GATE_TEMPLE",
-            "Param": [
+            "ParamList": [
                 "70360041;70360068",
                 "",
                 ""
@@ -1863,7 +1863,7 @@
         "Id": 60080,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_FINISH_TOWER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "6",
                 "3",
                 ""
@@ -1886,7 +1886,7 @@
         "Id": 60081,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "",
                 ""
@@ -1909,7 +1909,7 @@
         "Id": 60082,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_AVATAR_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "80",
                 "",
                 ""
@@ -1932,7 +1932,7 @@
         "Id": 60083,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_SET_NUM",
-            "Param": [
+            "ParamList": [
                 "5",
                 "",
                 ""
@@ -1955,7 +1955,7 @@
         "Id": 60084,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_RELIQUARY_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "21",
                 "5",
                 "1"
@@ -1978,7 +1978,7 @@
         "Id": 60085,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_PROMOTE",
-            "Param": [
+            "ParamList": [
                 "5",
                 "",
                 ""
@@ -2001,7 +2001,7 @@
         "Id": 60086,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WEAPON_UPGRADE",
-            "Param": [
+            "ParamList": [
                 "80",
                 "",
                 ""
@@ -2024,7 +2024,7 @@
         "Id": 60087,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "305",
                 "",
                 ""
@@ -2047,7 +2047,7 @@
         "Id": 60088,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "307",
                 "",
                 ""

@@ -646,5 +646,17 @@
     {
         "DungeonId": 3579,
         "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3380,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3480,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
+    },
+    {
+        "DungeonId": 3580,
+        "DungeonType": "DUNGEON_TYPE_TOWER"
     }
 ]

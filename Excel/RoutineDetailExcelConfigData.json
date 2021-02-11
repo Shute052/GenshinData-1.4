@@ -9,17 +9,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 537622841,
-        "Unknown2": 1685306741,
-        "Unknown3": 2193792537,
+        "NameTextMapHash": 537622841,
+        "DescTextMapHash": 1685306741,
+        "GoalTextMapHash": 2193792537,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_402",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -34,17 +34,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 2
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2452958265,
-        "Unknown2": 264414749,
-        "Unknown3": 401568281,
+        "NameTextMapHash": 2452958265,
+        "DescTextMapHash": 264414749,
+        "GoalTextMapHash": 401568281,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_436",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -60,17 +60,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 565204777,
-        "Unknown2": 3446255093,
-        "Unknown3": 1053655953,
+        "NameTextMapHash": 565204777,
+        "DescTextMapHash": 3446255093,
+        "GoalTextMapHash": 1053655953,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_437",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -86,17 +86,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 1219007193,
-        "Unknown2": 2394889989,
-        "Unknown3": 3979033801,
+        "NameTextMapHash": 1219007193,
+        "DescTextMapHash": 2394889989,
+        "GoalTextMapHash": 3979033801,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_438",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -112,17 +112,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 3
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 1694822201,
-        "Unknown2": 1302923013,
-        "Unknown3": 1298469089,
+        "NameTextMapHash": 1694822201,
+        "DescTextMapHash": 1302923013,
+        "GoalTextMapHash": 1298469089,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_439",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -138,17 +138,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2179317905,
-        "Unknown2": 48727949,
-        "Unknown3": 3720595665,
+        "NameTextMapHash": 2179317905,
+        "DescTextMapHash": 48727949,
+        "GoalTextMapHash": 3720595665,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_440",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -163,17 +163,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 190700521,
-        "Unknown2": 3182293405,
-        "Unknown3": 1956446897,
+        "NameTextMapHash": 190700521,
+        "DescTextMapHash": 3182293405,
+        "GoalTextMapHash": 1956446897,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_461",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -188,17 +188,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 853637041,
-        "Unknown2": 474574573,
-        "Unknown3": 3176013425,
+        "NameTextMapHash": 853637041,
+        "DescTextMapHash": 474574573,
+        "GoalTextMapHash": 3176013425,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_462",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -213,17 +213,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2967444073,
-        "Unknown2": 100321701,
-        "Unknown3": 1220552873,
+        "NameTextMapHash": 2967444073,
+        "DescTextMapHash": 100321701,
+        "GoalTextMapHash": 1220552873,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_463",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -239,17 +239,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 3
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2517519129,
-        "Unknown2": 3662262069,
-        "Unknown3": 3664934025,
+        "NameTextMapHash": 2517519129,
+        "DescTextMapHash": 3662262069,
+        "GoalTextMapHash": 3664934025,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_464",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -264,17 +264,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 3
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 130368921,
-        "Unknown2": 1391119757,
-        "Unknown3": 1424518345,
+        "NameTextMapHash": 130368921,
+        "DescTextMapHash": 1391119757,
+        "GoalTextMapHash": 1424518345,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_465",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -289,17 +289,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 3749299657,
-        "Unknown2": 2737049533,
-        "Unknown3": 780290689,
+        "NameTextMapHash": 3749299657,
+        "DescTextMapHash": 2737049533,
+        "GoalTextMapHash": 780290689,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_503",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -315,17 +315,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 1796683825,
-        "Unknown2": 270618453,
-        "Unknown3": 2187319809,
+        "NameTextMapHash": 1796683825,
+        "DescTextMapHash": 270618453,
+        "GoalTextMapHash": 2187319809,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_504",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -340,17 +340,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2133565057,
-        "Unknown2": 2295728693,
-        "Unknown3": 3435515025,
+        "NameTextMapHash": 2133565057,
+        "DescTextMapHash": 2295728693,
+        "GoalTextMapHash": 3435515025,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_585",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -365,17 +365,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2828645345,
-        "Unknown2": 3706576141,
-        "Unknown3": 4112536273,
+        "NameTextMapHash": 2828645345,
+        "DescTextMapHash": 3706576141,
+        "GoalTextMapHash": 4112536273,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_588",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -390,17 +390,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 508122641,
-        "Unknown2": 1376049821,
-        "Unknown3": 1720373049,
+        "NameTextMapHash": 508122641,
+        "DescTextMapHash": 1376049821,
+        "GoalTextMapHash": 1720373049,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_589",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -416,17 +416,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 3
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 3858972529,
-        "Unknown2": 1320257397,
-        "Unknown3": 2972357889,
+        "NameTextMapHash": 3858972529,
+        "DescTextMapHash": 1320257397,
+        "GoalTextMapHash": 2972357889,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_590",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -441,17 +441,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 4037358785,
-        "Unknown2": 153347469,
-        "Unknown3": 3280536825,
+        "NameTextMapHash": 4037358785,
+        "DescTextMapHash": 153347469,
+        "GoalTextMapHash": 3280536825,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_591",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -467,17 +467,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 2
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 443194953,
-        "Unknown2": 3560725197,
-        "Unknown3": 1991536441,
+        "NameTextMapHash": 443194953,
+        "DescTextMapHash": 3560725197,
+        "GoalTextMapHash": 1991536441,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_593",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -492,17 +492,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 2
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2210396625,
-        "Unknown2": 673031077,
-        "Unknown3": 437339689,
+        "NameTextMapHash": 2210396625,
+        "DescTextMapHash": 673031077,
+        "GoalTextMapHash": 437339689,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_594",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -518,17 +518,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 3
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2355327449,
-        "Unknown2": 2466181909,
-        "Unknown3": 1067720361,
+        "NameTextMapHash": 2355327449,
+        "DescTextMapHash": 2466181909,
+        "GoalTextMapHash": 1067720361,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_625",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -544,17 +544,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 2
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2994145401,
-        "Unknown2": 2735809541,
-        "Unknown3": 2363540129,
+        "NameTextMapHash": 2994145401,
+        "DescTextMapHash": 2735809541,
+        "GoalTextMapHash": 2363540129,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_626",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -570,17 +570,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2765568153,
-        "Unknown2": 1578487669,
-        "Unknown3": 1334949049,
+        "NameTextMapHash": 2765568153,
+        "DescTextMapHash": 1578487669,
+        "GoalTextMapHash": 1334949049,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_627",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -596,17 +596,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 2472242009,
-        "Unknown2": 3360569357,
-        "Unknown3": 2010132785,
+        "NameTextMapHash": 2472242009,
+        "DescTextMapHash": 3360569357,
+        "GoalTextMapHash": 2010132785,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_628",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -622,17 +622,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 1602583825,
-        "Unknown2": 840874789,
-        "Unknown3": 3372647497,
+        "NameTextMapHash": 1602583825,
+        "DescTextMapHash": 840874789,
+        "GoalTextMapHash": 3372647497,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_629",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -647,17 +647,17 @@
             "FinishType": "ROUTINE_CHALLENGE_FINISH",
             "Progress": 1
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 3665427041,
-        "Unknown2": 935396261,
-        "Unknown3": 2118967193,
+        "NameTextMapHash": 3665427041,
+        "DescTextMapHash": 935396261,
+        "GoalTextMapHash": 2118967193,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_630",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -673,17 +673,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 2
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 923728793,
-        "Unknown2": 2475364749,
-        "Unknown3": 2997746105,
+        "NameTextMapHash": 923728793,
+        "DescTextMapHash": 2475364749,
+        "GoalTextMapHash": 2997746105,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_631",
         "RadarRadius": 10,
         "EnterDistance": 20,
@@ -699,17 +699,17 @@
             "FinishType": "ROUTINE_FINISH_KILL_MONSTER",
             "Progress": 4
         },
-        "Cond": [
+        "CondVec": [
             {},
             {}
         ],
-        "Action": [
+        "ActionVec": [
             {},
             {}
         ],
-        "Unknown1": 4081102993,
-        "Unknown2": 1264092605,
-        "Unknown3": 397159569,
+        "NameTextMapHash": 4081102993,
+        "DescTextMapHash": 1264092605,
+        "GoalTextMapHash": 397159569,
         "CenterPosition": "ROUTINE_SNOW_MOUNTAIN_632",
         "RadarRadius": 10,
         "EnterDistance": 20,

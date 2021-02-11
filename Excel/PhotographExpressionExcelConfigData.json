@@ -3,13 +3,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1425691205,
-        "Unknown2": 32196458,
+        "EmotionDescriptionTextMapHash": 1425691205,
+        "UnlockDescTextMapHash": 32196458,
         "FetterId": 10401,
         "AvatarId": 10000021,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -18,14 +18,14 @@
         "EmotionName": "HiClosed_02",
         "PhonemeName": "P_Smile_05",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 218730669,
-        "Unknown2": 550424018,
+        "EmotionDescriptionTextMapHash": 218730669,
+        "UnlockDescTextMapHash": 550424018,
         "FetterId": 10402,
         "AvatarId": 10000021,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -36,14 +36,14 @@
         "EmotionName": "HiClosed_07",
         "PhonemeName": "P_Doya_01",
         "Icon": "UI_EmotIcon_Blink",
-        "Unknown1": 30379941,
-        "Unknown2": 2777886834,
+        "EmotionDescriptionTextMapHash": 30379941,
+        "UnlockDescTextMapHash": 2777886834,
         "FetterId": 10403,
         "AvatarId": 10000021,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -54,13 +54,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1595072269,
-        "Unknown2": 1179319362,
+        "EmotionDescriptionTextMapHash": 1595072269,
+        "UnlockDescTextMapHash": 1179319362,
         "FetterId": 4401,
         "AvatarId": 10000003,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -69,14 +69,14 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 4022704373,
-        "Unknown2": 1672630938,
+        "EmotionDescriptionTextMapHash": 4022704373,
+        "UnlockDescTextMapHash": 1672630938,
         "FetterId": 4402,
         "AvatarId": 10000003,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -87,14 +87,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Default_01",
         "Icon": "UI_EmotIcon_Smile",
-        "Unknown1": 999197205,
-        "Unknown2": 1258176650,
+        "EmotionDescriptionTextMapHash": 999197205,
+        "UnlockDescTextMapHash": 1258176650,
         "FetterId": 4403,
         "AvatarId": 10000003,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -105,13 +105,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 256711077,
-        "Unknown2": 4085990250,
+        "EmotionDescriptionTextMapHash": 256711077,
+        "UnlockDescTextMapHash": 4085990250,
         "FetterId": 1401,
         "AvatarId": 10000005,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -120,13 +120,13 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 2959014501,
-        "Unknown2": 2670927282,
+        "EmotionDescriptionTextMapHash": 2959014501,
+        "UnlockDescTextMapHash": 2670927282,
         "FetterId": 1402,
         "AvatarId": 10000005,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -135,13 +135,13 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 1290896925,
-        "Unknown2": 1618589322,
+        "EmotionDescriptionTextMapHash": 1290896925,
+        "UnlockDescTextMapHash": 1618589322,
         "FetterId": 1403,
         "AvatarId": 10000005,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -150,13 +150,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 773037317,
-        "Unknown2": 4222878538,
+        "EmotionDescriptionTextMapHash": 773037317,
+        "UnlockDescTextMapHash": 4222878538,
         "FetterId": 5401,
         "AvatarId": 10000006,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -165,14 +165,14 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 809099733,
-        "Unknown2": 2669180906,
+        "EmotionDescriptionTextMapHash": 809099733,
+        "UnlockDescTextMapHash": 2669180906,
         "FetterId": 5402,
         "AvatarId": 10000006,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -183,14 +183,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Smile_01",
         "Icon": "UI_EmotIcon_Smile",
-        "Unknown1": 3724046365,
-        "Unknown2": 1543483946,
+        "EmotionDescriptionTextMapHash": 3724046365,
+        "UnlockDescTextMapHash": 1543483946,
         "FetterId": 5403,
         "AvatarId": 10000006,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -201,13 +201,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1541030309,
-        "Unknown2": 2627288362,
+        "EmotionDescriptionTextMapHash": 1541030309,
+        "UnlockDescTextMapHash": 2627288362,
         "FetterId": 2401,
         "AvatarId": 10000007,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -216,13 +216,13 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 2481636341,
-        "Unknown2": 830223242,
+        "EmotionDescriptionTextMapHash": 2481636341,
+        "UnlockDescTextMapHash": 830223242,
         "FetterId": 2402,
         "AvatarId": 10000007,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -231,13 +231,13 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 714068205,
-        "Unknown2": 3349325882,
+        "EmotionDescriptionTextMapHash": 714068205,
+        "UnlockDescTextMapHash": 3349325882,
         "FetterId": 2403,
         "AvatarId": 10000007,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -246,13 +246,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 80446133,
-        "Unknown2": 3510141130,
+        "EmotionDescriptionTextMapHash": 80446133,
+        "UnlockDescTextMapHash": 3510141130,
         "FetterId": 6401,
         "AvatarId": 10000014,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -261,14 +261,14 @@
         "EmotionName": "Gentle_04",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 2620191021,
-        "Unknown2": 4092165074,
+        "EmotionDescriptionTextMapHash": 2620191021,
+        "UnlockDescTextMapHash": 4092165074,
         "FetterId": 6402,
         "AvatarId": 10000014,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -279,14 +279,14 @@
         "EmotionName": "HiClosed_06",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Blink",
-        "Unknown1": 2170230029,
-        "Unknown2": 1170471706,
+        "EmotionDescriptionTextMapHash": 2170230029,
+        "UnlockDescTextMapHash": 1170471706,
         "FetterId": 6403,
         "AvatarId": 10000014,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -297,13 +297,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 2382049549,
-        "Unknown2": 1789911066,
+        "EmotionDescriptionTextMapHash": 2382049549,
+        "UnlockDescTextMapHash": 1789911066,
         "FetterId": 7401,
         "AvatarId": 10000015,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -312,14 +312,14 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 2049345173,
-        "Unknown2": 118594066,
+        "EmotionDescriptionTextMapHash": 2049345173,
+        "UnlockDescTextMapHash": 118594066,
         "FetterId": 7402,
         "AvatarId": 10000015,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -330,14 +330,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Doya_01",
         "Icon": "UI_EmotIcon_Smile",
-        "Unknown1": 1486133989,
-        "Unknown2": 1381281138,
+        "EmotionDescriptionTextMapHash": 1486133989,
+        "UnlockDescTextMapHash": 1381281138,
         "FetterId": 7403,
         "AvatarId": 10000015,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -348,13 +348,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1378770125,
-        "Unknown2": 869340746,
+        "EmotionDescriptionTextMapHash": 1378770125,
+        "UnlockDescTextMapHash": 869340746,
         "FetterId": 8401,
         "AvatarId": 10000016,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -363,14 +363,14 @@
         "EmotionName": "Normal_05",
         "PhonemeName": "P_Neko_01",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 316735037,
-        "Unknown2": 3363486570,
+        "EmotionDescriptionTextMapHash": 316735037,
+        "UnlockDescTextMapHash": 3363486570,
         "FetterId": 8402,
         "AvatarId": 10000016,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -381,14 +381,14 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 3290088813,
-        "Unknown2": 4197406538,
+        "EmotionDescriptionTextMapHash": 3290088813,
+        "UnlockDescTextMapHash": 4197406538,
         "FetterId": 8403,
         "AvatarId": 10000016,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -399,13 +399,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 2328091061,
-        "Unknown2": 3571115098,
+        "EmotionDescriptionTextMapHash": 2328091061,
+        "UnlockDescTextMapHash": 3571115098,
         "FetterId": 9401,
         "AvatarId": 10000020,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -414,14 +414,14 @@
         "EmotionName": "Normal_05",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 523972749,
-        "Unknown2": 3157422010,
+        "EmotionDescriptionTextMapHash": 523972749,
+        "UnlockDescTextMapHash": 3157422010,
         "FetterId": 9402,
         "AvatarId": 10000020,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -432,14 +432,14 @@
         "EmotionName": "Angry_03",
         "PhonemeName": "P_Angry_03",
         "Icon": "UI_EmotIcon_Earnest",
-        "Unknown1": 3606460565,
-        "Unknown2": 1611478770,
+        "EmotionDescriptionTextMapHash": 3606460565,
+        "UnlockDescTextMapHash": 1611478770,
         "FetterId": 9403,
         "AvatarId": 10000020,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -450,13 +450,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 806966245,
-        "Unknown2": 3243816770,
+        "EmotionDescriptionTextMapHash": 806966245,
+        "UnlockDescTextMapHash": 3243816770,
         "FetterId": 11401,
         "AvatarId": 10000022,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -465,14 +465,14 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 271383445,
-        "Unknown2": 1361752522,
+        "EmotionDescriptionTextMapHash": 271383445,
+        "UnlockDescTextMapHash": 1361752522,
         "FetterId": 11402,
         "AvatarId": 10000022,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -483,14 +483,14 @@
         "EmotionName": "HiClosed_06",
         "PhonemeName": "P_Pero_02",
         "Icon": "UI_EmotIcon_Blink",
-        "Unknown1": 2686200237,
-        "Unknown2": 2844632786,
+        "EmotionDescriptionTextMapHash": 2686200237,
+        "UnlockDescTextMapHash": 2844632786,
         "FetterId": 11403,
         "AvatarId": 10000022,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -501,13 +501,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1459167821,
-        "Unknown2": 1014878146,
+        "EmotionDescriptionTextMapHash": 1459167821,
+        "UnlockDescTextMapHash": 1014878146,
         "FetterId": 12401,
         "AvatarId": 10000023,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -516,14 +516,14 @@
         "EmotionName": "Gentle_04",
         "PhonemeName": "P_Angry_02",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 492370549,
-        "Unknown2": 3726545642,
+        "EmotionDescriptionTextMapHash": 492370549,
+        "UnlockDescTextMapHash": 3726545642,
         "FetterId": 12402,
         "AvatarId": 10000023,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -534,14 +534,14 @@
         "EmotionName": "Surprise_01",
         "PhonemeName": "P_Smile_05",
         "Icon": "UI_EmotIcon_Expect",
-        "Unknown1": 3122361893,
-        "Unknown2": 3140565938,
+        "EmotionDescriptionTextMapHash": 3122361893,
+        "UnlockDescTextMapHash": 3140565938,
         "FetterId": 12403,
         "AvatarId": 10000023,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -552,13 +552,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1972952373,
-        "Unknown2": 2271549882,
+        "EmotionDescriptionTextMapHash": 1972952373,
+        "UnlockDescTextMapHash": 2271549882,
         "FetterId": 14401,
         "AvatarId": 10000024,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -567,14 +567,14 @@
         "EmotionName": "Angry_01",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 1490773981,
-        "Unknown2": 423426786,
+        "EmotionDescriptionTextMapHash": 1490773981,
+        "UnlockDescTextMapHash": 423426786,
         "FetterId": 14402,
         "AvatarId": 10000024,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -585,14 +585,14 @@
         "EmotionName": "Default_01",
         "PhonemeName": "P_Smile_03",
         "Icon": "UI_EmotIcon_Confidence",
-        "Unknown1": 1120513413,
-        "Unknown2": 2523462770,
+        "EmotionDescriptionTextMapHash": 1120513413,
+        "UnlockDescTextMapHash": 2523462770,
         "FetterId": 14403,
         "AvatarId": 10000024,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -603,13 +603,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 386957469,
-        "Unknown2": 771767706,
+        "EmotionDescriptionTextMapHash": 386957469,
+        "UnlockDescTextMapHash": 771767706,
         "FetterId": 13401,
         "AvatarId": 10000025,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -618,14 +618,14 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 1621311789,
-        "Unknown2": 3609347090,
+        "EmotionDescriptionTextMapHash": 1621311789,
+        "UnlockDescTextMapHash": 3609347090,
         "FetterId": 13402,
         "AvatarId": 10000025,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -636,14 +636,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Smile_02",
         "Icon": "UI_EmotIcon_Smile",
-        "Unknown1": 1078293821,
-        "Unknown2": 3092903010,
+        "EmotionDescriptionTextMapHash": 1078293821,
+        "UnlockDescTextMapHash": 3092903010,
         "FetterId": 13403,
         "AvatarId": 10000025,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -654,13 +654,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 3455193349,
-        "Unknown2": 2169422386,
+        "EmotionDescriptionTextMapHash": 3455193349,
+        "UnlockDescTextMapHash": 2169422386,
         "FetterId": 15401,
         "AvatarId": 10000027,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -669,14 +669,14 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 4034873573,
-        "Unknown2": 351247906,
+        "EmotionDescriptionTextMapHash": 4034873573,
+        "UnlockDescTextMapHash": 351247906,
         "FetterId": 15402,
         "AvatarId": 10000027,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -687,14 +687,14 @@
         "EmotionName": "LowClosed_01",
         "PhonemeName": "P_Default_01",
         "Icon": "UI_EmotIcon_Smile",
-        "Unknown1": 2766012405,
-        "Unknown2": 2871179778,
+        "EmotionDescriptionTextMapHash": 2766012405,
+        "UnlockDescTextMapHash": 2871179778,
         "FetterId": 15403,
         "AvatarId": 10000027,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -705,13 +705,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 2980898701,
-        "Unknown2": 3166858778,
+        "EmotionDescriptionTextMapHash": 2980898701,
+        "UnlockDescTextMapHash": 3166858778,
         "FetterId": 18401,
         "AvatarId": 10000029,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -720,14 +720,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Smile_05",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 233179893,
-        "Unknown2": 2503152362,
+        "EmotionDescriptionTextMapHash": 233179893,
+        "UnlockDescTextMapHash": 2503152362,
         "FetterId": 18402,
         "AvatarId": 10000029,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -738,14 +738,14 @@
         "EmotionName": "Gentle_04",
         "PhonemeName": "P_Angry_04",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 3612814613,
-        "Unknown2": 2386467946,
+        "EmotionDescriptionTextMapHash": 3612814613,
+        "UnlockDescTextMapHash": 2386467946,
         "FetterId": 18403,
         "AvatarId": 10000029,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -756,13 +756,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 2848242853,
-        "Unknown2": 798468802,
+        "EmotionDescriptionTextMapHash": 2848242853,
+        "UnlockDescTextMapHash": 798468802,
         "FetterId": 17401,
         "AvatarId": 10000030,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -771,14 +771,14 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Smile_01",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 2769887149,
-        "Unknown2": 3757281010,
+        "EmotionDescriptionTextMapHash": 2769887149,
+        "UnlockDescTextMapHash": 3757281010,
         "FetterId": 17402,
         "AvatarId": 10000030,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -789,14 +789,14 @@
         "EmotionName": "LowClosed_01",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Ponder",
-        "Unknown1": 853655885,
-        "Unknown2": 277251066,
+        "EmotionDescriptionTextMapHash": 853655885,
+        "UnlockDescTextMapHash": 277251066,
         "FetterId": 17403,
         "AvatarId": 10000030,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -807,13 +807,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 4058610341,
-        "Unknown2": 194285202,
+        "EmotionDescriptionTextMapHash": 4058610341,
+        "UnlockDescTextMapHash": 194285202,
         "FetterId": 19401,
         "AvatarId": 10000031,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -822,14 +822,14 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_U_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 1457658765,
-        "Unknown2": 674497066,
+        "EmotionDescriptionTextMapHash": 1457658765,
+        "UnlockDescTextMapHash": 674497066,
         "FetterId": 19402,
         "AvatarId": 10000031,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -840,14 +840,14 @@
         "EmotionName": "Angry_02",
         "PhonemeName": "P_Doya_02",
         "Icon": "UI_EmotIcon_Confidence",
-        "Unknown1": 3488374429,
-        "Unknown2": 4250497066,
+        "EmotionDescriptionTextMapHash": 3488374429,
+        "UnlockDescTextMapHash": 4250497066,
         "FetterId": 19403,
         "AvatarId": 10000031,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -858,13 +858,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1608402437,
-        "Unknown2": 2263688874,
+        "EmotionDescriptionTextMapHash": 1608402437,
+        "UnlockDescTextMapHash": 2263688874,
         "FetterId": 20401,
         "AvatarId": 10000032,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -873,14 +873,14 @@
         "EmotionName": "Normal_01",
         "PhonemeName": "P_Smile_05",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 2216871725,
-        "Unknown2": 3461547098,
+        "EmotionDescriptionTextMapHash": 2216871725,
+        "UnlockDescTextMapHash": 3461547098,
         "FetterId": 20402,
         "AvatarId": 10000032,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -891,14 +891,14 @@
         "EmotionName": "Angry_03",
         "PhonemeName": "P_Doya_02",
         "Icon": "UI_EmotIcon_Confidence",
-        "Unknown1": 1197784541,
-        "Unknown2": 436942634,
+        "EmotionDescriptionTextMapHash": 1197784541,
+        "UnlockDescTextMapHash": 436942634,
         "FetterId": 20403,
         "AvatarId": 10000032,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -909,13 +909,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 341689541,
-        "Unknown2": 3437009970,
+        "EmotionDescriptionTextMapHash": 341689541,
+        "UnlockDescTextMapHash": 3437009970,
         "FetterId": 23401,
         "AvatarId": 10000033,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -924,14 +924,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Smile_02",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 527134061,
-        "Unknown2": 713172722,
+        "EmotionDescriptionTextMapHash": 527134061,
+        "UnlockDescTextMapHash": 713172722,
         "FetterId": 23402,
         "AvatarId": 10000033,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -942,14 +942,14 @@
         "EmotionName": "Angry_02",
         "PhonemeName": "P_Smile_01",
         "Icon": "UI_EmotIcon_Confidence",
-        "Unknown1": 63878621,
-        "Unknown2": 4236658602,
+        "EmotionDescriptionTextMapHash": 63878621,
+        "UnlockDescTextMapHash": 4236658602,
         "FetterId": 23403,
         "AvatarId": 10000033,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -960,13 +960,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1283175149,
-        "Unknown2": 3600223562,
+        "EmotionDescriptionTextMapHash": 1283175149,
+        "UnlockDescTextMapHash": 3600223562,
         "FetterId": 21401,
         "AvatarId": 10000034,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -975,14 +975,14 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 1876736189,
-        "Unknown2": 3908853674,
+        "EmotionDescriptionTextMapHash": 1876736189,
+        "UnlockDescTextMapHash": 3908853674,
         "FetterId": 21402,
         "AvatarId": 10000034,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -993,14 +993,14 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 1734122709,
-        "Unknown2": 2364045570,
+        "EmotionDescriptionTextMapHash": 1734122709,
+        "UnlockDescTextMapHash": 2364045570,
         "FetterId": 21403,
         "AvatarId": 10000034,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1011,13 +1011,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 681218157,
-        "Unknown2": 3322826450,
+        "EmotionDescriptionTextMapHash": 681218157,
+        "UnlockDescTextMapHash": 3322826450,
         "FetterId": 24401,
         "AvatarId": 10000035,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1026,14 +1026,14 @@
         "EmotionName": "Default_01",
         "PhonemeName": "P_Default_01",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 98573045,
-        "Unknown2": 2752413490,
+        "EmotionDescriptionTextMapHash": 98573045,
+        "UnlockDescTextMapHash": 2752413490,
         "FetterId": 24402,
         "AvatarId": 10000035,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1044,14 +1044,14 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_Default_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 154318925,
-        "Unknown2": 465256194,
+        "EmotionDescriptionTextMapHash": 154318925,
+        "UnlockDescTextMapHash": 465256194,
         "FetterId": 24403,
         "AvatarId": 10000035,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1062,13 +1062,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 804914437,
-        "Unknown2": 1365883082,
+        "EmotionDescriptionTextMapHash": 804914437,
+        "UnlockDescTextMapHash": 1365883082,
         "FetterId": 22401,
         "AvatarId": 10000036,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1077,14 +1077,14 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 1573197197,
-        "Unknown2": 3000599402,
+        "EmotionDescriptionTextMapHash": 1573197197,
+        "UnlockDescTextMapHash": 3000599402,
         "FetterId": 22402,
         "AvatarId": 10000036,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1095,14 +1095,14 @@
         "EmotionName": "Surpreise_01",
         "PhonemeName": "P_O_01",
         "Icon": "UI_EmotIcon_Expect",
-        "Unknown1": 105872733,
-        "Unknown2": 1870890570,
+        "EmotionDescriptionTextMapHash": 105872733,
+        "UnlockDescTextMapHash": 1870890570,
         "FetterId": 22403,
         "AvatarId": 10000036,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1113,13 +1113,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1541142589,
-        "Unknown2": 990219274,
+        "EmotionDescriptionTextMapHash": 1541142589,
+        "UnlockDescTextMapHash": 990219274,
         "FetterId": 25401,
         "AvatarId": 10000037,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1128,14 +1128,14 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 770016501,
-        "Unknown2": 1926530802,
+        "EmotionDescriptionTextMapHash": 770016501,
+        "UnlockDescTextMapHash": 1926530802,
         "FetterId": 25402,
         "AvatarId": 10000037,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1146,14 +1146,14 @@
         "EmotionName": "MidClosed_05",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Ponder",
-        "Unknown1": 45500269,
-        "Unknown2": 2622779194,
+        "EmotionDescriptionTextMapHash": 45500269,
+        "UnlockDescTextMapHash": 2622779194,
         "FetterId": 25403,
         "AvatarId": 10000037,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1164,13 +1164,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 3767532637,
-        "Unknown2": 767406610,
+        "EmotionDescriptionTextMapHash": 3767532637,
+        "UnlockDescTextMapHash": 767406610,
         "FetterId": 35401,
         "AvatarId": 10000038,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1179,14 +1179,14 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 700938013,
-        "Unknown2": 1948510826,
+        "EmotionDescriptionTextMapHash": 700938013,
+        "UnlockDescTextMapHash": 1948510826,
         "FetterId": 35402,
         "AvatarId": 10000038,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1197,14 +1197,14 @@
         "EmotionName": "Doubt_01",
         "PhonemeName": "P_Default_01",
         "Icon": "UI_EmotIcon_Ponder",
-        "Unknown1": 2749273437,
-        "Unknown2": 2856655298,
+        "EmotionDescriptionTextMapHash": 2749273437,
+        "UnlockDescTextMapHash": 2856655298,
         "FetterId": 35403,
         "AvatarId": 10000038,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1215,13 +1215,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 2724000933,
-        "Unknown2": 978574418,
+        "EmotionDescriptionTextMapHash": 2724000933,
+        "UnlockDescTextMapHash": 978574418,
         "FetterId": 34401,
         "AvatarId": 10000039,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1230,14 +1230,14 @@
         "EmotionName": "Gentle_01",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 1127341405,
-        "Unknown2": 1015144850,
+        "EmotionDescriptionTextMapHash": 1127341405,
+        "UnlockDescTextMapHash": 1015144850,
         "FetterId": 34402,
         "AvatarId": 10000039,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1248,14 +1248,14 @@
         "EmotionName": "Sweat_03",
         "PhonemeName": "P_Neko_02",
         "Icon": "UI_EmotIcon_Confidence",
-        "Unknown1": 1505844669,
-        "Unknown2": 1901920562,
+        "EmotionDescriptionTextMapHash": 1505844669,
+        "UnlockDescTextMapHash": 1901920562,
         "FetterId": 34403,
         "AvatarId": 10000039,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1266,13 +1266,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1891039661,
-        "Unknown2": 3448444258,
+        "EmotionDescriptionTextMapHash": 1891039661,
+        "UnlockDescTextMapHash": 3448444258,
         "FetterId": 30401,
         "AvatarId": 10000041,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1281,14 +1281,14 @@
         "EmotionName": "Angry_02",
         "PhonemeName": "P_Smile_04",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 1593085941,
-        "Unknown2": 4277800826,
+        "EmotionDescriptionTextMapHash": 1593085941,
+        "UnlockDescTextMapHash": 4277800826,
         "FetterId": 30402,
         "AvatarId": 10000041,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1299,14 +1299,14 @@
         "EmotionName": "Gentle_03",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 2596275981,
-        "Unknown2": 867724626,
+        "EmotionDescriptionTextMapHash": 2596275981,
+        "UnlockDescTextMapHash": 867724626,
         "FetterId": 30403,
         "AvatarId": 10000041,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1317,13 +1317,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 679585301,
-        "Unknown2": 1360555562,
+        "EmotionDescriptionTextMapHash": 679585301,
+        "UnlockDescTextMapHash": 1360555562,
         "FetterId": 32401,
         "AvatarId": 10000042,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1332,14 +1332,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Smile_02",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 3319589877,
-        "Unknown2": 799459706,
+        "EmotionDescriptionTextMapHash": 3319589877,
+        "UnlockDescTextMapHash": 799459706,
         "FetterId": 32402,
         "AvatarId": 10000042,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1350,14 +1350,14 @@
         "EmotionName": "Normal_05",
         "PhonemeName": "P_Angry_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 3554126565,
-        "Unknown2": 2326420706,
+        "EmotionDescriptionTextMapHash": 3554126565,
+        "UnlockDescTextMapHash": 2326420706,
         "FetterId": 32403,
         "AvatarId": 10000042,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1368,13 +1368,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 1020381205,
-        "Unknown2": 2982681250,
+        "EmotionDescriptionTextMapHash": 1020381205,
+        "UnlockDescTextMapHash": 2982681250,
         "FetterId": 31401,
         "AvatarId": 10000043,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1383,14 +1383,14 @@
         "EmotionName": "Gentle_04",
         "PhonemeName": "P_U_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 3792926773,
-        "Unknown2": 4201590722,
+        "EmotionDescriptionTextMapHash": 3792926773,
+        "UnlockDescTextMapHash": 4201590722,
         "FetterId": 31402,
         "AvatarId": 10000043,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1401,14 +1401,14 @@
         "EmotionName": "Angry_02",
         "PhonemeName": "P_Pero_01",
         "Icon": "UI_EmotIcon_Expect",
-        "Unknown1": 2401892269,
-        "Unknown2": 2112918658,
+        "EmotionDescriptionTextMapHash": 2401892269,
+        "UnlockDescTextMapHash": 2112918658,
         "FetterId": 31403,
         "AvatarId": 10000043,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     4
                 ]
             }
@@ -1419,13 +1419,13 @@
         "EmotionName": "",
         "PhonemeName": "",
         "Icon": "UI_EmotIcon_Normal",
-        "Unknown1": 2453261709,
-        "Unknown2": 89974010,
+        "EmotionDescriptionTextMapHash": 2453261709,
+        "UnlockDescTextMapHash": 89974010,
         "FetterId": 33401,
         "AvatarId": 10000044,
         "OpenConds": [
             {
-                "Param": []
+                "ParamList": []
             }
         ],
         "FinishConds": []
@@ -1434,14 +1434,14 @@
         "EmotionName": "HiClosed_01",
         "PhonemeName": "P_Smile_05",
         "Icon": "UI_EmotIcon_Happy",
-        "Unknown1": 455686109,
-        "Unknown2": 1998583898,
+        "EmotionDescriptionTextMapHash": 455686109,
+        "UnlockDescTextMapHash": 1998583898,
         "FetterId": 33402,
         "AvatarId": 10000044,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
                     2
                 ]
             }
@@ -1452,14 +1452,116 @@
         "EmotionName": "Gentle_02",
         "PhonemeName": "P_N_01",
         "Icon": "UI_EmotIcon_Lose",
-        "Unknown1": 3796078221,
-        "Unknown2": 1484556338,
+        "EmotionDescriptionTextMapHash": 3796078221,
+        "UnlockDescTextMapHash": 1484556338,
         "FetterId": 33403,
         "AvatarId": 10000044,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_FETTER_LEVEL",
-                "Param": [
+                "ParamList": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "EmotionDescriptionTextMapHash": 1703332381,
+        "UnlockDescTextMapHash": 3928747058,
+        "FetterId": 16401,
+        "AvatarId": 10000026,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_01",
+        "PhonemeName": "P_Default_01",
+        "Icon": "UI_EmotIcon_Earnest",
+        "EmotionDescriptionTextMapHash": 3285780805,
+        "UnlockDescTextMapHash": 175712122,
+        "FetterId": 16402,
+        "AvatarId": 10000026,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "LowClosed_01",
+        "PhonemeName": "P_Normal_01",
+        "Icon": "UI_EmotIcon_Ponder",
+        "EmotionDescriptionTextMapHash": 2823426397,
+        "UnlockDescTextMapHash": 275699338,
+        "FetterId": 16403,
+        "AvatarId": 10000026,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "EmotionDescriptionTextMapHash": 2439131765,
+        "UnlockDescTextMapHash": 549669386,
+        "FetterId": 36401,
+        "AvatarId": 10000046,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "HiClosed_07",
+        "PhonemeName": "P_Pero_02",
+        "Icon": "UI_EmotIcon_Happy",
+        "EmotionDescriptionTextMapHash": 3092151261,
+        "UnlockDescTextMapHash": 1303214202,
+        "FetterId": 36402,
+        "AvatarId": 10000046,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "MidClosed_01",
+        "PhonemeName": "P_Smile_02",
+        "Icon": "UI_EmotIcon_Lose",
+        "EmotionDescriptionTextMapHash": 4267657117,
+        "UnlockDescTextMapHash": 424554298,
+        "FetterId": 36403,
+        "AvatarId": 10000046,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
                     4
                 ]
             }

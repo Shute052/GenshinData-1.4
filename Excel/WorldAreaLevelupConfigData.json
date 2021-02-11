@@ -4,26 +4,26 @@
         "AreaId": 1,
         "Level": 1,
         "ConsumeItem": {},
-        "Action": [
+        "ActionVec": [
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -35,29 +35,29 @@
             "ItemId": 107001,
             "ItemNum": 3
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -69,29 +69,29 @@
             "ItemId": 107001,
             "ItemNum": 10
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -100,26 +100,26 @@
         "AreaId": 2,
         "Level": 1,
         "ConsumeItem": {},
-        "Action": [
+        "ActionVec": [
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -131,40 +131,40 @@
             "ItemId": 107001,
             "ItemNum": 1
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
                 "Type": "WORLD_AREA_ACTION_UNLOCK_FORCE",
-                "Param1": [
+                "Param1Vec": [
                     1,
                     2,
                     3,
                     4
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
                 "Type": "WORLD_AREA_ACTION_ACTIVATE_ITEM",
-                "Param1": [
+                "Param1Vec": [
                     70220012
                 ],
-                "Param2": [
+                "Param2Vec": [
                     70220011
                 ]
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -176,29 +176,29 @@
             "ItemId": 107001,
             "ItemNum": 10
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -207,26 +207,26 @@
         "AreaId": 3,
         "Level": 1,
         "ConsumeItem": {},
-        "Action": [
+        "ActionVec": [
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -238,29 +238,29 @@
             "ItemId": 107001,
             "ItemNum": 3
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -272,29 +272,29 @@
             "ItemId": 107001,
             "ItemNum": 10
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -303,26 +303,26 @@
         "AreaId": 4,
         "Level": 1,
         "ConsumeItem": {},
-        "Action": [
+        "ActionVec": [
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -334,29 +334,29 @@
             "ItemId": 107001,
             "ItemNum": 3
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     },
@@ -368,29 +368,29 @@
             "ItemId": 107001,
             "ItemNum": 10
         },
-        "Action": [
+        "ActionVec": [
             {
                 "Type": "WORLD_AREA_ACTION_IMPROVE_STAMINA",
-                "Param1": [
+                "Param1Vec": [
                     5
                 ],
-                "Param2": []
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             },
             {
-                "Param1": [],
-                "Param2": []
+                "Param1Vec": [],
+                "Param2Vec": []
             }
         ]
     }

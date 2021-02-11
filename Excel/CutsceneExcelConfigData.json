@@ -226,5 +226,13 @@
     {
         "Id": 3008523,
         "Path": "Scene_CutScene/Cs_Scene_WallPaintChamber"
+    },
+    {
+        "Id": 341301601,
+        "Path": "Scene_CutScene/Cs_Scene_ExpendArea_TestLevelCutscene"
+    },
+    {
+        "Id": 111001,
+        "Path": "Scene_CutScene/Cs_Scene_LYLQ11113_HiddenDoor"
     }
 ]

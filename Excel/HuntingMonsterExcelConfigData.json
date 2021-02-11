@@ -18,7 +18,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3005
@@ -45,7 +45,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             3006
@@ -72,7 +72,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             3007
@@ -99,7 +99,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2004,
             3008
@@ -126,7 +126,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2005,
             3009
@@ -153,7 +153,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             3005
@@ -180,7 +180,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2005,
             3008
@@ -207,7 +207,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2006,
             3009
@@ -234,7 +234,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3007
@@ -261,7 +261,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             3006
@@ -288,7 +288,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2004,
             3008
@@ -314,7 +314,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             3008
@@ -340,7 +340,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3008
@@ -368,7 +368,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3004
@@ -396,7 +396,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2004,
             3003
@@ -424,7 +424,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             3001
@@ -451,7 +451,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             3001
@@ -478,7 +478,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3002
@@ -505,7 +505,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             3001
@@ -532,7 +532,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3002
@@ -563,7 +563,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2004,
@@ -594,7 +594,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             2003,
@@ -625,7 +625,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2002,
@@ -655,7 +655,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             2004,
@@ -685,7 +685,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2003,
@@ -715,7 +715,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2004,
@@ -745,7 +745,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             2003,
@@ -775,7 +775,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2004,
@@ -805,7 +805,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             2004,
@@ -835,7 +835,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2003,
@@ -865,7 +865,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             2004,
@@ -895,7 +895,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2002,
@@ -924,7 +924,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2009,
             3004
@@ -952,7 +952,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2009,
             3002
@@ -980,7 +980,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2009,
             3004
@@ -1008,7 +1008,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2009,
             3001
@@ -1035,7 +1035,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2009,
             3003
@@ -1062,7 +1062,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2009,
             3001
@@ -1093,7 +1093,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2006,
             2004,
@@ -1126,7 +1126,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2005,
             2001,
@@ -1158,7 +1158,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             2004,
@@ -1195,7 +1195,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2007,
             3013
@@ -1226,7 +1226,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             2006,
@@ -1258,7 +1258,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             2004,
@@ -1291,7 +1291,7 @@
         "SearchPointNum": 3,
         "RefreshCond": [],
         "InitialPose": 100,
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             2006,
@@ -1324,7 +1324,7 @@
         "SearchPointNum": 3,
         "RefreshCond": [],
         "InitialPose": 100,
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             2005,
@@ -1362,7 +1362,7 @@
         "SearchPointNum": 3,
         "RefreshCond": [],
         "InitialPose": 100,
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2007,
             3013
@@ -1393,7 +1393,7 @@
         "SearchPointNum": 3,
         "RefreshCond": [],
         "InitialPose": 100,
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2003,
             2004,
@@ -1429,7 +1429,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2007,
             3013
@@ -1457,7 +1457,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2002,
             3001
@@ -1486,7 +1486,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2004,
             3003,
@@ -1515,7 +1515,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2004,
             3007
@@ -1543,7 +1543,7 @@
         "LimitTime": 600,
         "SearchPointNum": 3,
         "RefreshCond": [],
-        "ClueTextId": [
+        "ClueTextIdList": [
             1001,
             2001,
             3004

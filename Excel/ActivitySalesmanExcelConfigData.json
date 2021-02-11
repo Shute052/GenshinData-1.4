@@ -1,7 +1,7 @@
 [
     {
         "ScheduleId": 5003001,
-        "DailyConfigId": [
+        "DailyConfigIdList": [
             1,
             2,
             3,
@@ -10,7 +10,7 @@
             6,
             7
         ],
-        "NormalRewardId": [
+        "NormalRewardIdList": [
             470001,
             470002,
             470003,
@@ -18,10 +18,10 @@
             470005,
             470006
         ],
-        "SpecialRewardId": [
+        "SpecialRewardIdList": [
             470007
         ],
-        "SpecialProb": [
+        "SpecialProbList": [
             0.14000000059604645,
             0.14000000059604645,
             0.14000000059604645,
@@ -37,7 +37,7 @@
     },
     {
         "ScheduleId": 5012001,
-        "DailyConfigId": [
+        "DailyConfigIdList": [
             8,
             9,
             10,
@@ -46,7 +46,7 @@
             13,
             14
         ],
-        "NormalRewardId": [
+        "NormalRewardIdList": [
             3005001,
             3005002,
             3005003,
@@ -55,8 +55,8 @@
             3005006,
             3005007
         ],
-        "SpecialRewardId": [],
-        "SpecialProb": [
+        "SpecialRewardIdList": [],
+        "SpecialProbList": [
             0.14000000059604645,
             0.14000000059604645,
             0.14000000059604645,

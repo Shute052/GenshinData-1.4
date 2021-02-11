@@ -26,6 +26,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 1.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -56,6 +61,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 2.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -86,6 +96,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 3.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -116,6 +131,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 4.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -146,6 +166,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 5.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -176,6 +201,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 6.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -206,6 +236,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 7.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -236,6 +271,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 8.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -266,6 +306,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 9.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -296,6 +341,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 10.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -326,6 +376,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 11.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -356,6 +411,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 12.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -386,6 +446,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 13.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -416,6 +481,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 14.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -446,6 +516,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 15.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -476,6 +551,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 16.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -506,6 +586,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 17.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -536,6 +621,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 18.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -566,6 +656,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 19.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -596,6 +691,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 20.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -626,6 +726,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 21.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -656,6 +761,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 22.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -686,6 +796,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 23.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -716,6 +831,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 24.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -746,6 +866,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 25.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -776,6 +901,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 26.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -806,6 +936,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 27.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -836,6 +971,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 28.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -866,6 +1006,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 29.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -896,6 +1041,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 30.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -926,6 +1076,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 31.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -956,6 +1111,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 32.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -986,6 +1146,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 33.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1016,6 +1181,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 34.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1046,6 +1216,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 35.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1076,6 +1251,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 36.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1106,6 +1286,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 37.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1136,6 +1321,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 38.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1166,6 +1356,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 39.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1196,6 +1391,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 40.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1226,6 +1426,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 41.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1256,6 +1461,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 42.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1286,6 +1496,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 43.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1316,6 +1531,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 44.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1346,6 +1566,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 45.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1376,6 +1601,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 46.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1406,6 +1636,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 47.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1436,6 +1671,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 48.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1466,6 +1706,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 49.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1496,6 +1741,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 50.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1526,6 +1776,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 51.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 1.0
             }
         ]
     },
@@ -1556,6 +1811,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 52.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 2.5
             }
         ]
     },
@@ -1586,6 +1846,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 53.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 4.0
             }
         ]
     },
@@ -1616,6 +1881,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 54.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 5.5
             }
         ]
     },
@@ -1646,6 +1916,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 55.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 7.0
             }
         ]
     },
@@ -1676,6 +1951,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 56.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 8.5
             }
         ]
     },
@@ -1706,6 +1986,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 57.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 10.0
             }
         ]
     },
@@ -1736,6 +2021,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 58.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 11.5
             }
         ]
     },
@@ -1766,6 +2056,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 59.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 13.0
             }
         ]
     },
@@ -1796,6 +2091,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 60.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -1826,6 +2126,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 61.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -1856,6 +2161,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 62.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -1886,6 +2196,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 63.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -1916,6 +2231,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 64.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -1946,6 +2266,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 65.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -1976,6 +2301,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 66.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2006,6 +2336,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 67.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2036,6 +2371,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 68.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2066,6 +2406,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 69.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2096,6 +2441,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 70.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2126,6 +2476,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 71.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2156,6 +2511,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 72.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2186,6 +2546,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 73.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2216,6 +2581,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 74.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2246,6 +2616,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 75.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2276,6 +2651,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 76.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2306,6 +2686,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 77.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2336,6 +2721,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 78.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2366,6 +2756,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 79.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2396,6 +2791,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 80.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2426,6 +2826,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 81.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2456,6 +2861,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 82.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2486,6 +2896,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 83.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2516,6 +2931,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 84.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2546,6 +2966,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 85.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2576,6 +3001,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 86.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2606,6 +3036,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 87.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2636,6 +3071,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 88.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2666,6 +3106,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 89.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2696,6 +3141,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 90.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2726,6 +3176,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 91.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2756,6 +3211,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 92.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2786,6 +3246,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 93.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2816,6 +3281,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 94.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2846,6 +3316,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 95.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2876,6 +3351,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 96.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2906,6 +3386,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 97.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2936,6 +3421,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 98.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2966,6 +3456,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 99.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -2996,6 +3491,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 100.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3026,6 +3526,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 101.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3056,6 +3561,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 102.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3086,6 +3596,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 103.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3116,6 +3631,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 104.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3146,6 +3666,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 105.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3176,6 +3701,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 106.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3206,6 +3736,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 107.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3236,6 +3771,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 108.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3266,6 +3806,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 109.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3296,6 +3841,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 110.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3326,6 +3876,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 111.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3356,6 +3911,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 112.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3386,6 +3946,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 113.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3416,6 +3981,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 114.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3446,6 +4016,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 115.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3476,6 +4051,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 116.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3506,6 +4086,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 117.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3536,6 +4121,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 118.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3566,6 +4156,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 119.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3596,6 +4191,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 120.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3626,6 +4226,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 121.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3656,6 +4261,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 122.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3686,6 +4296,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 123.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3716,6 +4331,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 124.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3746,6 +4366,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 125.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3776,6 +4401,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 126.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3806,6 +4436,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 127.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3836,6 +4471,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 128.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3866,6 +4506,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 129.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3896,6 +4541,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 130.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3926,6 +4576,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 131.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3956,6 +4611,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 132.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -3986,6 +4646,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 133.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4016,6 +4681,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 134.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4046,6 +4716,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 135.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4076,6 +4751,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 136.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4106,6 +4786,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 137.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4136,6 +4821,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 138.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4166,6 +4856,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 139.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4196,6 +4891,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 140.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4226,6 +4926,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 141.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4256,6 +4961,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 142.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4286,6 +4996,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 143.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4316,6 +5031,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 144.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4346,6 +5066,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 145.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4376,6 +5101,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 146.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4406,6 +5136,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 147.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4436,6 +5171,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 148.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4466,6 +5206,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 149.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4496,6 +5241,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 150.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4526,6 +5276,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 151.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4556,6 +5311,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 152.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4586,6 +5346,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 153.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4616,6 +5381,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 154.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4646,6 +5416,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 155.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4676,6 +5451,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 156.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4706,6 +5486,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 157.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4736,6 +5521,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 158.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4766,6 +5556,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 159.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4796,6 +5591,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 160.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4826,6 +5626,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 161.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4856,6 +5661,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 162.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4886,6 +5696,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 163.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4916,6 +5731,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 164.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4946,6 +5766,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 165.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -4976,6 +5801,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 166.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5006,6 +5836,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 167.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5036,6 +5871,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 168.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5066,6 +5906,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 169.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5096,6 +5941,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 170.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5126,6 +5976,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 171.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5156,6 +6011,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 172.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5186,6 +6046,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 173.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5216,6 +6081,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 174.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5246,6 +6116,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 175.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5276,6 +6151,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 176.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5306,6 +6186,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 177.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5336,6 +6221,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 178.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5366,6 +6256,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 179.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5396,6 +6291,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 180.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5426,6 +6326,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 181.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5456,6 +6361,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 182.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5486,6 +6396,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 183.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5516,6 +6431,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 184.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5546,6 +6466,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 185.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5576,6 +6501,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 186.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5606,6 +6536,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 187.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5636,6 +6571,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 188.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5666,6 +6606,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 189.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5696,6 +6641,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 190.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5726,6 +6676,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 191.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5756,6 +6711,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 192.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5786,6 +6746,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 193.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5816,6 +6781,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 194.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5846,6 +6816,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 195.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5876,6 +6851,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 196.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5906,6 +6886,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 197.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5936,6 +6921,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 198.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5966,6 +6956,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 199.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     },
@@ -5996,6 +6991,11 @@
                 "Type": "GROW_CURVE_PROGRESSION",
                 "Arith": "ARITH_MULTI",
                 "Value": 200.0
+            },
+            {
+                "Type": "GROW_CURVE_TOWERATK",
+                "Arith": "ARITH_MULTI",
+                "Value": 14.5
             }
         ]
     }

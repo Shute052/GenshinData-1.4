@@ -3,7 +3,7 @@
         "Id": 1,
         "ActivityId": 2001,
         "NameTextMapHash": 2943366583,
-        "AvatarId": [
+        "AvatarIdList": [
             10000033,
             10000041
         ]
@@ -12,7 +12,7 @@
         "Id": 2,
         "ActivityId": 2001,
         "NameTextMapHash": 3068120895,
-        "AvatarId": [
+        "AvatarIdList": [
             10000031,
             10000006,
             10000024
@@ -22,7 +22,7 @@
         "Id": 3,
         "ActivityId": 2001,
         "NameTextMapHash": 4002395063,
-        "AvatarId": [
+        "AvatarIdList": [
             10000027,
             10000034
         ]
@@ -31,7 +31,7 @@
         "Id": 4,
         "ActivityId": 2001,
         "NameTextMapHash": 4084595015,
-        "AvatarId": [
+        "AvatarIdList": [
             10000036
         ]
     },
@@ -39,7 +39,7 @@
         "Id": 5,
         "ActivityId": 2001,
         "NameTextMapHash": 1105117607,
-        "AvatarId": [
+        "AvatarIdList": [
             10000023
         ]
     }

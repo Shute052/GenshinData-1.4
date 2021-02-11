@@ -1,6 +1,6 @@
 [
     {
-        "Content": [
+        "ContentVec": [
             {
                 "MaterialId": 224,
                 "MaterialNum": 2
@@ -47,7 +47,7 @@
         "PriceTier": "Tier_10"
     },
     {
-        "Content": [
+        "ContentVec": [
             {
                 "MaterialId": 224,
                 "MaterialNum": 2

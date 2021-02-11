@@ -20,7 +20,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -43,7 +43,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -68,7 +68,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -91,7 +91,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -116,7 +116,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -141,7 +141,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -166,7 +166,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -191,7 +191,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -216,7 +216,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -240,8 +240,10 @@
         "OpenConds": [],
         "FinishConds": [
             {
-                "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "CondType": "FETTER_COND_FINISH_QUEST",
+                "ParamList": [
+                    39604
+                ]
             }
         ]
     },
@@ -266,7 +268,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -291,7 +293,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -316,7 +318,32 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
+            }
+        ]
+    },
+    {
+        "InfoBirthMonth": 4,
+        "InfoBirthDay": 17,
+        "AvatarNativeTextMapHash": 413877289,
+        "AvatarVisionBeforTextMapHash": 550531300,
+        "AvatarConstellationBeforTextMapHash": 3401180666,
+        "AvatarTitleTextMapHash": 2182504186,
+        "AvatarDetailTextMapHash": 1863419602,
+        "AvatarAssocType": "ASSOC_TYPE_LIYUE",
+        "CvChineseTextMapHash": 414772070,
+        "CvJapaneseTextMapHash": 2350391048,
+        "CvEnglishTextMapHash": 975590796,
+        "CvKoreanTextMapHash": 3918463151,
+        "AvatarVisionAfterTextMapHash": 3648530745,
+        "AvatarConstellationAfterTextMapHash": 2421570635,
+        "FetterId": 115,
+        "AvatarId": 10000026,
+        "OpenConds": [],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "ParamList": []
             }
         ]
     },
@@ -341,7 +368,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -366,7 +393,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -391,7 +418,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_FINISH_QUEST",
-                "Param": [
+                "ParamList": [
                     102510
                 ]
             }
@@ -418,7 +445,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -443,7 +470,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -468,7 +495,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -493,7 +520,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -518,7 +545,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -543,7 +570,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -568,7 +595,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -593,7 +620,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -618,7 +645,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -643,7 +670,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -668,7 +695,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -693,7 +720,7 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
             }
         ]
     },
@@ -718,7 +745,32 @@
         "FinishConds": [
             {
                 "CondType": "FETTER_COND_NOT_OPEN",
-                "Param": []
+                "ParamList": []
+            }
+        ]
+    },
+    {
+        "InfoBirthMonth": 7,
+        "InfoBirthDay": 15,
+        "AvatarNativeTextMapHash": 3485382673,
+        "AvatarVisionBeforTextMapHash": 3112476852,
+        "AvatarConstellationBeforTextMapHash": 3041688594,
+        "AvatarTitleTextMapHash": 662587002,
+        "AvatarDetailTextMapHash": 2488599434,
+        "AvatarAssocType": "ASSOC_TYPE_LIYUE",
+        "CvChineseTextMapHash": 3694314910,
+        "CvJapaneseTextMapHash": 1286278240,
+        "CvEnglishTextMapHash": 2549651252,
+        "CvKoreanTextMapHash": 291020487,
+        "AvatarVisionAfterTextMapHash": 719537873,
+        "AvatarConstellationAfterTextMapHash": 3861029139,
+        "FetterId": 132,
+        "AvatarId": 10000046,
+        "OpenConds": [],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "ParamList": []
             }
         ]
     }

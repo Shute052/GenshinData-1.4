@@ -428,6 +428,10 @@
         "DescTextMapHash": 2084539205
     },
     {
+        "Id": 30702,
+        "DescTextMapHash": 688460285
+    },
+    {
         "Id": 30801,
         "DescTextMapHash": 3940825229
     },
@@ -706,5 +710,41 @@
     {
         "Id": 1103114,
         "DescTextMapHash": 2205710309
+    },
+    {
+        "Id": 1111101,
+        "DescTextMapHash": 4024856501
+    },
+    {
+        "Id": 1111201,
+        "DescTextMapHash": 112916741
+    },
+    {
+        "Id": 1110001,
+        "DescTextMapHash": 2358374173
+    },
+    {
+        "Id": 1110002,
+        "DescTextMapHash": 1633250997
+    },
+    {
+        "Id": 1110003,
+        "DescTextMapHash": 2088372869
+    },
+    {
+        "Id": 1110004,
+        "DescTextMapHash": 3371694045
+    },
+    {
+        "Id": 1110005,
+        "DescTextMapHash": 622840237
+    },
+    {
+        "Id": 1110006,
+        "DescTextMapHash": 2211159861
+    },
+    {
+        "Id": 1110007,
+        "DescTextMapHash": 1828928413
     }
 ]

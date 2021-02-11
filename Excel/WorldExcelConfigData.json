@@ -1,8 +1,9 @@
 [
     {
         "Id": 1,
+        "Type": "WORLD_NORMAL",
         "MainSceneId": 3,
-        "SubSceneId": [
+        "SubSceneIdVec": [
             1004,
             1008,
             1009,

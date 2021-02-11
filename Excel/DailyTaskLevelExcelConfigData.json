@@ -1,13 +1,13 @@
 [
     {
-        "Id": 1,
+        "ID": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 5,
         "ScoreDropId": 203000000,
         "ScorePreviewRewardId": 2001
     },
     {
-        "Id": 2,
+        "ID": 2,
         "MinPlayerLevel": 6,
         "MaxPlayerLevel": 10,
         "GroupReviseLevel": 4,
@@ -15,7 +15,7 @@
         "ScorePreviewRewardId": 2002
     },
     {
-        "Id": 3,
+        "ID": 3,
         "MinPlayerLevel": 11,
         "MaxPlayerLevel": 15,
         "GroupReviseLevel": 10,
@@ -23,7 +23,7 @@
         "ScorePreviewRewardId": 2003
     },
     {
-        "Id": 4,
+        "ID": 4,
         "MinPlayerLevel": 16,
         "MaxPlayerLevel": 20,
         "GroupReviseLevel": 16,
@@ -31,7 +31,7 @@
         "ScorePreviewRewardId": 2004
     },
     {
-        "Id": 5,
+        "ID": 5,
         "MinPlayerLevel": 21,
         "MaxPlayerLevel": 25,
         "GroupReviseLevel": 17,
@@ -39,7 +39,7 @@
         "ScorePreviewRewardId": 2005
     },
     {
-        "Id": 6,
+        "ID": 6,
         "MinPlayerLevel": 26,
         "MaxPlayerLevel": 30,
         "GroupReviseLevel": 22,
@@ -47,7 +47,7 @@
         "ScorePreviewRewardId": 2006
     },
     {
-        "Id": 7,
+        "ID": 7,
         "MinPlayerLevel": 31,
         "MaxPlayerLevel": 35,
         "GroupReviseLevel": 25,
@@ -55,7 +55,7 @@
         "ScorePreviewRewardId": 2007
     },
     {
-        "Id": 8,
+        "ID": 8,
         "MinPlayerLevel": 36,
         "MaxPlayerLevel": 40,
         "GroupReviseLevel": 23,
@@ -63,7 +63,7 @@
         "ScorePreviewRewardId": 2008
     },
     {
-        "Id": 9,
+        "ID": 9,
         "MinPlayerLevel": 41,
         "MaxPlayerLevel": 45,
         "GroupReviseLevel": 21,
@@ -71,7 +71,7 @@
         "ScorePreviewRewardId": 2009
     },
     {
-        "Id": 10,
+        "ID": 10,
         "MinPlayerLevel": 46,
         "MaxPlayerLevel": 50,
         "GroupReviseLevel": 21,
@@ -79,7 +79,7 @@
         "ScorePreviewRewardId": 2010
     },
     {
-        "Id": 11,
+        "ID": 11,
         "MinPlayerLevel": 51,
         "MaxPlayerLevel": 55,
         "GroupReviseLevel": 15,
@@ -87,7 +87,7 @@
         "ScorePreviewRewardId": 2011
     },
     {
-        "Id": 12,
+        "ID": 12,
         "MinPlayerLevel": 56,
         "MaxPlayerLevel": 60,
         "GroupReviseLevel": 13,

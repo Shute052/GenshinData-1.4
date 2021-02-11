@@ -1,7 +1,7 @@
 [
     {
         "CityId": 1,
-        "ExploreArea": [
+        "ExploreAreaVec": [
             1,
             2,
             3,
@@ -21,7 +21,7 @@
     },
     {
         "CityId": 2,
-        "ExploreArea": [
+        "ExploreAreaVec": [
             5,
             6,
             7,

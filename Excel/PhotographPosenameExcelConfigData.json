@@ -3,7 +3,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3844864745,
-        "Unknown1": 3044280939,
+        "UnlockDescTextMapHash": 3044280939,
         "FetterId": 10301,
         "AvatarId": 10000021,
         "OpenConds": [
@@ -15,10 +15,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3413356177,
-        "Unknown1": 4258109499,
+        "UnlockDescTextMapHash": 4258109499,
         "FetterId": 10302,
         "AvatarId": 10000021,
         "OpenConds": [
@@ -30,10 +30,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 4144582801,
-        "Unknown1": 1067455339,
+        "UnlockDescTextMapHash": 1067455339,
         "FetterId": 10303,
         "AvatarId": 10000021,
         "OpenConds": [
@@ -47,7 +47,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3919972993,
-        "Unknown1": 2460279147,
+        "UnlockDescTextMapHash": 2460279147,
         "FetterId": 4301,
         "AvatarId": 10000003,
         "OpenConds": [
@@ -59,10 +59,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1211064993,
-        "Unknown1": 2236156139,
+        "UnlockDescTextMapHash": 2236156139,
         "FetterId": 4302,
         "AvatarId": 10000003,
         "OpenConds": [
@@ -74,10 +74,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 4255404065,
-        "Unknown1": 2516096323,
+        "UnlockDescTextMapHash": 2516096323,
         "FetterId": 4303,
         "AvatarId": 10000003,
         "OpenConds": [
@@ -91,7 +91,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3167224609,
-        "Unknown1": 1290368155,
+        "UnlockDescTextMapHash": 1290368155,
         "FetterId": 1301,
         "AvatarId": 10000005,
         "OpenConds": [
@@ -103,10 +103,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 2283711601,
-        "Unknown1": 1428796603,
+        "UnlockDescTextMapHash": 1428796603,
         "FetterId": 1302,
         "AvatarId": 10000005,
         "OpenConds": [
@@ -118,10 +118,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 2585217849,
-        "Unknown1": 2525159547,
+        "UnlockDescTextMapHash": 2525159547,
         "FetterId": 1303,
         "AvatarId": 10000005,
         "OpenConds": [
@@ -135,7 +135,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2904578369,
-        "Unknown1": 3449090787,
+        "UnlockDescTextMapHash": 3449090787,
         "FetterId": 5301,
         "AvatarId": 10000006,
         "OpenConds": [
@@ -147,10 +147,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3103705993,
-        "Unknown1": 4162460435,
+        "UnlockDescTextMapHash": 4162460435,
         "FetterId": 5302,
         "AvatarId": 10000006,
         "OpenConds": [
@@ -162,10 +162,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3333594889,
-        "Unknown1": 2417609379,
+        "UnlockDescTextMapHash": 2417609379,
         "FetterId": 5303,
         "AvatarId": 10000006,
         "OpenConds": [
@@ -179,7 +179,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 1050057769,
-        "Unknown1": 307543171,
+        "UnlockDescTextMapHash": 307543171,
         "FetterId": 2301,
         "AvatarId": 10000007,
         "OpenConds": [
@@ -191,10 +191,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1394773577,
-        "Unknown1": 694420347,
+        "UnlockDescTextMapHash": 694420347,
         "FetterId": 2302,
         "AvatarId": 10000007,
         "OpenConds": [
@@ -206,10 +206,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3692504609,
-        "Unknown1": 2833074555,
+        "UnlockDescTextMapHash": 2833074555,
         "FetterId": 2303,
         "AvatarId": 10000007,
         "OpenConds": [
@@ -223,7 +223,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 1242136033,
-        "Unknown1": 472519779,
+        "UnlockDescTextMapHash": 472519779,
         "FetterId": 6301,
         "AvatarId": 10000014,
         "OpenConds": [
@@ -235,10 +235,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3815662169,
-        "Unknown1": 3469723835,
+        "UnlockDescTextMapHash": 3469723835,
         "FetterId": 6302,
         "AvatarId": 10000014,
         "OpenConds": [
@@ -250,10 +250,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3640874305,
-        "Unknown1": 3387681227,
+        "UnlockDescTextMapHash": 3387681227,
         "FetterId": 6303,
         "AvatarId": 10000014,
         "OpenConds": [
@@ -267,7 +267,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3792238889,
-        "Unknown1": 1311643427,
+        "UnlockDescTextMapHash": 1311643427,
         "FetterId": 7301,
         "AvatarId": 10000015,
         "OpenConds": [
@@ -279,10 +279,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3375516745,
-        "Unknown1": 528870459,
+        "UnlockDescTextMapHash": 528870459,
         "FetterId": 7302,
         "AvatarId": 10000015,
         "OpenConds": [
@@ -294,10 +294,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 4214971425,
-        "Unknown1": 1602057595,
+        "UnlockDescTextMapHash": 1602057595,
         "FetterId": 7303,
         "AvatarId": 10000015,
         "OpenConds": [
@@ -311,7 +311,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2765154929,
-        "Unknown1": 3603293995,
+        "UnlockDescTextMapHash": 3603293995,
         "FetterId": 8301,
         "AvatarId": 10000016,
         "OpenConds": [
@@ -323,10 +323,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 923886945,
-        "Unknown1": 3463368523,
+        "UnlockDescTextMapHash": 3463368523,
         "FetterId": 8302,
         "AvatarId": 10000016,
         "OpenConds": [
@@ -338,10 +338,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3053795337,
-        "Unknown1": 460198827,
+        "UnlockDescTextMapHash": 460198827,
         "FetterId": 8303,
         "AvatarId": 10000016,
         "OpenConds": [
@@ -355,7 +355,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 1595610513,
-        "Unknown1": 1197801427,
+        "UnlockDescTextMapHash": 1197801427,
         "FetterId": 9301,
         "AvatarId": 10000020,
         "OpenConds": [
@@ -367,10 +367,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3419603857,
-        "Unknown1": 52728483,
+        "UnlockDescTextMapHash": 52728483,
         "FetterId": 9302,
         "AvatarId": 10000020,
         "OpenConds": [
@@ -382,10 +382,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1200385841,
-        "Unknown1": 4138723051,
+        "UnlockDescTextMapHash": 4138723051,
         "FetterId": 9303,
         "AvatarId": 10000020,
         "OpenConds": [
@@ -399,7 +399,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3698113049,
-        "Unknown1": 3838796787,
+        "UnlockDescTextMapHash": 3838796787,
         "FetterId": 11301,
         "AvatarId": 10000022,
         "OpenConds": [
@@ -411,10 +411,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 2994940961,
-        "Unknown1": 751671627,
+        "UnlockDescTextMapHash": 751671627,
         "FetterId": 11302,
         "AvatarId": 10000022,
         "OpenConds": [
@@ -426,10 +426,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1415514785,
-        "Unknown1": 4239007411,
+        "UnlockDescTextMapHash": 4239007411,
         "FetterId": 11303,
         "AvatarId": 10000022,
         "OpenConds": [
@@ -443,7 +443,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2150474921,
-        "Unknown1": 3894383123,
+        "UnlockDescTextMapHash": 3894383123,
         "FetterId": 12301,
         "AvatarId": 10000023,
         "OpenConds": [
@@ -455,10 +455,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1158865217,
-        "Unknown1": 3789612299,
+        "UnlockDescTextMapHash": 3789612299,
         "FetterId": 12302,
         "AvatarId": 10000023,
         "OpenConds": [
@@ -470,10 +470,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1057990345,
-        "Unknown1": 3736908107,
+        "UnlockDescTextMapHash": 3736908107,
         "FetterId": 12303,
         "AvatarId": 10000023,
         "OpenConds": [
@@ -487,7 +487,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2978942721,
-        "Unknown1": 324804755,
+        "UnlockDescTextMapHash": 324804755,
         "FetterId": 14301,
         "AvatarId": 10000024,
         "OpenConds": [
@@ -499,10 +499,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 4213128049,
-        "Unknown1": 2748126979,
+        "UnlockDescTextMapHash": 2748126979,
         "FetterId": 14302,
         "AvatarId": 10000024,
         "OpenConds": [
@@ -514,10 +514,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1253427497,
-        "Unknown1": 3012856387,
+        "UnlockDescTextMapHash": 3012856387,
         "FetterId": 14303,
         "AvatarId": 10000024,
         "OpenConds": [
@@ -531,7 +531,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2310599025,
-        "Unknown1": 4141395899,
+        "UnlockDescTextMapHash": 4141395899,
         "FetterId": 13301,
         "AvatarId": 10000025,
         "OpenConds": [
@@ -543,10 +543,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 4210444097,
-        "Unknown1": 3857567835,
+        "UnlockDescTextMapHash": 3857567835,
         "FetterId": 13302,
         "AvatarId": 10000025,
         "OpenConds": [
@@ -558,10 +558,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1751300313,
-        "Unknown1": 2351879187,
+        "UnlockDescTextMapHash": 2351879187,
         "FetterId": 13303,
         "AvatarId": 10000025,
         "OpenConds": [
@@ -574,8 +574,52 @@
     {
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
+        "PoseNameTextMapHash": 798184913,
+        "UnlockDescTextMapHash": 662632315,
+        "FetterId": 16301,
+        "AvatarId": 10000026,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Think01",
+        "AnimatorstateId": 20101,
+        "PoseIcon": "UI_PoseIcon_Thinking",
+        "PoseNameTextMapHash": 2231979201,
+        "UnlockDescTextMapHash": 2478021707,
+        "FetterId": 16302,
+        "AvatarId": 10000026,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Akimbo02",
+        "AnimatorstateId": 20111,
+        "PoseIcon": "UI_PoseIcon_Akimbo",
+        "PoseNameTextMapHash": 3777097081,
+        "UnlockDescTextMapHash": 2794840267,
+        "FetterId": 16303,
+        "AvatarId": 10000026,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Standby",
+        "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2567341641,
-        "Unknown1": 3052149035,
+        "UnlockDescTextMapHash": 3052149035,
         "FetterId": 15301,
         "AvatarId": 10000027,
         "OpenConds": [
@@ -587,10 +631,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1178438105,
-        "Unknown1": 2831435787,
+        "UnlockDescTextMapHash": 2831435787,
         "FetterId": 15302,
         "AvatarId": 10000027,
         "OpenConds": [
@@ -602,10 +646,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3285384289,
-        "Unknown1": 625665971,
+        "UnlockDescTextMapHash": 625665971,
         "FetterId": 15303,
         "AvatarId": 10000027,
         "OpenConds": [
@@ -619,7 +663,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3160033793,
-        "Unknown1": 157555611,
+        "UnlockDescTextMapHash": 157555611,
         "FetterId": 18301,
         "AvatarId": 10000029,
         "OpenConds": [
@@ -631,10 +675,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 2893622441,
-        "Unknown1": 3665743435,
+        "UnlockDescTextMapHash": 3665743435,
         "FetterId": 18302,
         "AvatarId": 10000029,
         "OpenConds": [
@@ -646,10 +690,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 545593769,
-        "Unknown1": 79540355,
+        "UnlockDescTextMapHash": 79540355,
         "FetterId": 18303,
         "AvatarId": 10000029,
         "OpenConds": [
@@ -663,7 +707,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 271132129,
-        "Unknown1": 4063980355,
+        "UnlockDescTextMapHash": 4063980355,
         "FetterId": 17301,
         "AvatarId": 10000030,
         "OpenConds": [
@@ -675,10 +719,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3508456313,
-        "Unknown1": 2685451867,
+        "UnlockDescTextMapHash": 2685451867,
         "FetterId": 17302,
         "AvatarId": 10000030,
         "OpenConds": [
@@ -690,10 +734,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 2975399545,
-        "Unknown1": 2418586475,
+        "UnlockDescTextMapHash": 2418586475,
         "FetterId": 17303,
         "AvatarId": 10000030,
         "OpenConds": [
@@ -707,7 +751,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 669393233,
-        "Unknown1": 786191627,
+        "UnlockDescTextMapHash": 786191627,
         "FetterId": 19301,
         "AvatarId": 10000031,
         "OpenConds": [
@@ -719,10 +763,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3015749233,
-        "Unknown1": 1651928915,
+        "UnlockDescTextMapHash": 1651928915,
         "FetterId": 19302,
         "AvatarId": 10000031,
         "OpenConds": [
@@ -734,10 +778,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1315604249,
-        "Unknown1": 3535821963,
+        "UnlockDescTextMapHash": 3535821963,
         "FetterId": 19303,
         "AvatarId": 10000031,
         "OpenConds": [
@@ -751,7 +795,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 1545563321,
-        "Unknown1": 1492321883,
+        "UnlockDescTextMapHash": 1492321883,
         "FetterId": 20301,
         "AvatarId": 10000032,
         "OpenConds": [
@@ -763,10 +807,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3946584841,
-        "Unknown1": 1563430219,
+        "UnlockDescTextMapHash": 1563430219,
         "FetterId": 20302,
         "AvatarId": 10000032,
         "OpenConds": [
@@ -778,10 +822,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1620219377,
-        "Unknown1": 1335007747,
+        "UnlockDescTextMapHash": 1335007747,
         "FetterId": 20303,
         "AvatarId": 10000032,
         "OpenConds": [
@@ -795,7 +839,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3168637361,
-        "Unknown1": 2202433539,
+        "UnlockDescTextMapHash": 2202433539,
         "FetterId": 23301,
         "AvatarId": 10000033,
         "OpenConds": [
@@ -807,10 +851,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 4027843649,
-        "Unknown1": 1410528291,
+        "UnlockDescTextMapHash": 1410528291,
         "FetterId": 23302,
         "AvatarId": 10000033,
         "OpenConds": [
@@ -822,10 +866,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1048661665,
-        "Unknown1": 4168767011,
+        "UnlockDescTextMapHash": 4168767011,
         "FetterId": 23303,
         "AvatarId": 10000033,
         "OpenConds": [
@@ -839,7 +883,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3590348377,
-        "Unknown1": 167588171,
+        "UnlockDescTextMapHash": 167588171,
         "FetterId": 21301,
         "AvatarId": 10000034,
         "OpenConds": [
@@ -851,10 +895,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 2876904633,
-        "Unknown1": 1166651379,
+        "UnlockDescTextMapHash": 1166651379,
         "FetterId": 21302,
         "AvatarId": 10000034,
         "OpenConds": [
@@ -866,10 +910,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3211890553,
-        "Unknown1": 3436693827,
+        "UnlockDescTextMapHash": 3436693827,
         "FetterId": 21303,
         "AvatarId": 10000034,
         "OpenConds": [
@@ -883,7 +927,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3684642361,
-        "Unknown1": 2039431419,
+        "UnlockDescTextMapHash": 2039431419,
         "FetterId": 24301,
         "AvatarId": 10000035,
         "OpenConds": [
@@ -895,10 +939,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3908551529,
-        "Unknown1": 464585499,
+        "UnlockDescTextMapHash": 464585499,
         "FetterId": 24302,
         "AvatarId": 10000035,
         "OpenConds": [
@@ -910,10 +954,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3940219753,
-        "Unknown1": 1432257131,
+        "UnlockDescTextMapHash": 1432257131,
         "FetterId": 24303,
         "AvatarId": 10000035,
         "OpenConds": [
@@ -927,7 +971,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 1397563137,
-        "Unknown1": 1492843731,
+        "UnlockDescTextMapHash": 1492843731,
         "FetterId": 22301,
         "AvatarId": 10000036,
         "OpenConds": [
@@ -939,10 +983,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1713073097,
-        "Unknown1": 2364243595,
+        "UnlockDescTextMapHash": 2364243595,
         "FetterId": 22302,
         "AvatarId": 10000036,
         "OpenConds": [
@@ -954,10 +998,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 2441195449,
-        "Unknown1": 2252548483,
+        "UnlockDescTextMapHash": 2252548483,
         "FetterId": 22303,
         "AvatarId": 10000036,
         "OpenConds": [
@@ -971,7 +1015,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3846103713,
-        "Unknown1": 3522946019,
+        "UnlockDescTextMapHash": 3522946019,
         "FetterId": 25301,
         "AvatarId": 10000037,
         "OpenConds": [
@@ -983,10 +1027,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 3659521817,
-        "Unknown1": 4092312307,
+        "UnlockDescTextMapHash": 4092312307,
         "FetterId": 25302,
         "AvatarId": 10000037,
         "OpenConds": [
@@ -998,10 +1042,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1175634561,
-        "Unknown1": 4214948635,
+        "UnlockDescTextMapHash": 4214948635,
         "FetterId": 25303,
         "AvatarId": 10000037,
         "OpenConds": [
@@ -1015,7 +1059,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 3291642513,
-        "Unknown1": 34036003,
+        "UnlockDescTextMapHash": 34036003,
         "FetterId": 35301,
         "AvatarId": 10000038,
         "OpenConds": [
@@ -1027,10 +1071,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 2463914233,
-        "Unknown1": 1869737619,
+        "UnlockDescTextMapHash": 1869737619,
         "FetterId": 35302,
         "AvatarId": 10000038,
         "OpenConds": [
@@ -1042,10 +1086,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 369357337,
-        "Unknown1": 4219336227,
+        "UnlockDescTextMapHash": 4219336227,
         "FetterId": 35303,
         "AvatarId": 10000038,
         "OpenConds": [
@@ -1059,7 +1103,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 762131825,
-        "Unknown1": 101832419,
+        "UnlockDescTextMapHash": 101832419,
         "FetterId": 34301,
         "AvatarId": 10000039,
         "OpenConds": [
@@ -1071,10 +1115,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1092166529,
-        "Unknown1": 3155607811,
+        "UnlockDescTextMapHash": 3155607811,
         "FetterId": 34302,
         "AvatarId": 10000039,
         "OpenConds": [
@@ -1086,10 +1130,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 3539382105,
-        "Unknown1": 2861875515,
+        "UnlockDescTextMapHash": 2861875515,
         "FetterId": 34303,
         "AvatarId": 10000039,
         "OpenConds": [
@@ -1103,7 +1147,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 846691169,
-        "Unknown1": 149358411,
+        "UnlockDescTextMapHash": 149358411,
         "FetterId": 30301,
         "AvatarId": 10000041,
         "OpenConds": [
@@ -1115,10 +1159,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 4020759241,
-        "Unknown1": 790706555,
+        "UnlockDescTextMapHash": 790706555,
         "FetterId": 30302,
         "AvatarId": 10000041,
         "OpenConds": [
@@ -1130,10 +1174,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 239889073,
-        "Unknown1": 2360597451,
+        "UnlockDescTextMapHash": 2360597451,
         "FetterId": 30303,
         "AvatarId": 10000041,
         "OpenConds": [
@@ -1147,7 +1191,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2089148929,
-        "Unknown1": 798128179,
+        "UnlockDescTextMapHash": 798128179,
         "FetterId": 32301,
         "AvatarId": 10000042,
         "OpenConds": [
@@ -1159,10 +1203,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 2245719097,
-        "Unknown1": 3327730587,
+        "UnlockDescTextMapHash": 3327730587,
         "FetterId": 32302,
         "AvatarId": 10000042,
         "OpenConds": [
@@ -1174,10 +1218,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 2171374161,
-        "Unknown1": 2835873355,
+        "UnlockDescTextMapHash": 2835873355,
         "FetterId": 32303,
         "AvatarId": 10000042,
         "OpenConds": [
@@ -1191,7 +1235,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 2881127553,
-        "Unknown1": 3567232131,
+        "UnlockDescTextMapHash": 3567232131,
         "FetterId": 31301,
         "AvatarId": 10000043,
         "OpenConds": [
@@ -1203,10 +1247,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 1400548705,
-        "Unknown1": 1061597347,
+        "UnlockDescTextMapHash": 1061597347,
         "FetterId": 31302,
         "AvatarId": 10000043,
         "OpenConds": [
@@ -1218,10 +1262,10 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 2724461873,
-        "Unknown1": 3952170795,
+        "UnlockDescTextMapHash": 3952170795,
         "FetterId": 31303,
         "AvatarId": 10000043,
         "OpenConds": [
@@ -1235,7 +1279,7 @@
         "PoseFile": "Standby",
         "PoseIcon": "UI_PoseIcon_Default",
         "PoseNameTextMapHash": 4011043401,
-        "Unknown1": 391291211,
+        "UnlockDescTextMapHash": 391291211,
         "FetterId": 33301,
         "AvatarId": 10000044,
         "OpenConds": [
@@ -1247,10 +1291,10 @@
     },
     {
         "PoseFile": "Think01",
-        "AnimatorStateId": 20101,
+        "AnimatorstateId": 20101,
         "PoseIcon": "UI_PoseIcon_Thinking",
         "PoseNameTextMapHash": 869252105,
-        "Unknown1": 622261587,
+        "UnlockDescTextMapHash": 622261587,
         "FetterId": 33302,
         "AvatarId": 10000044,
         "OpenConds": [
@@ -1262,12 +1306,56 @@
     },
     {
         "PoseFile": "Akimbo02",
-        "AnimatorStateId": 20111,
+        "AnimatorstateId": 20111,
         "PoseIcon": "UI_PoseIcon_Akimbo",
         "PoseNameTextMapHash": 1534245017,
-        "Unknown1": 2651345051,
+        "UnlockDescTextMapHash": 2651345051,
         "FetterId": 33303,
         "AvatarId": 10000044,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Standby",
+        "PoseIcon": "UI_PoseIcon_Default",
+        "PoseNameTextMapHash": 1744092793,
+        "UnlockDescTextMapHash": 667445507,
+        "FetterId": 36301,
+        "AvatarId": 10000046,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Think01",
+        "AnimatorstateId": 20101,
+        "PoseIcon": "UI_PoseIcon_Thinking",
+        "PoseNameTextMapHash": 1564379593,
+        "UnlockDescTextMapHash": 3326439163,
+        "FetterId": 36302,
+        "AvatarId": 10000046,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Akimbo02",
+        "AnimatorstateId": 20111,
+        "PoseIcon": "UI_PoseIcon_Akimbo",
+        "PoseNameTextMapHash": 3264329905,
+        "UnlockDescTextMapHash": 194808139,
+        "FetterId": 36303,
+        "AvatarId": 10000046,
         "OpenConds": [
             {
                 "ParamList": []

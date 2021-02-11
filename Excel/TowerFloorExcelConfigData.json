@@ -254,5 +254,21 @@
         "UnlockStarCount": 6,
         "FloorLevelConfigId": 1315,
         "BgImage": "UI_TowerPic_5"
+    },
+    {
+        "FloorId": 1017,
+        "FloorIndex": 12,
+        "LevelGroupId": 17,
+        "OverrideMonsterLevel": 95,
+        "TeamNum": 2,
+        "RewardIdFiveStars": 610012,
+        "RewardIdTenStars": 610032,
+        "RewardIdFifteenStars": 610052,
+        "RewardIdThreeStars": 610012,
+        "RewardIdSixStars": 610032,
+        "RewardIdNineStars": 610052,
+        "UnlockStarCount": 6,
+        "FloorLevelConfigId": 1363,
+        "BgImage": "UI_TowerPic_5"
     }
 ]

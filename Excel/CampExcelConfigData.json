@@ -3,7 +3,7 @@
         "Id": 1001,
         "CommentTextMapHash": 4156169108,
         "TrophicLevel": 3,
-        "EnemyCamp": [
+        "EnemyCampList": [
             4001,
             5001,
             5002,
@@ -17,13 +17,13 @@
         "Id": 2001,
         "CommentTextMapHash": 3522742044,
         "TrophicLevel": 3,
-        "EnemyCamp": []
+        "EnemyCampList": []
     },
     {
         "Id": 3001,
         "CommentTextMapHash": 3416609972,
         "TrophicLevel": 4,
-        "EnemyCamp": [
+        "EnemyCampList": [
             4001,
             5001,
             5002,
@@ -37,7 +37,7 @@
         "Id": 4001,
         "CommentTextMapHash": 345023044,
         "TrophicLevel": 5,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             9001,
@@ -51,7 +51,7 @@
         "Id": 5001,
         "CommentTextMapHash": 279052964,
         "TrophicLevel": 5,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             4001,
@@ -65,7 +65,7 @@
         "Id": 5002,
         "CommentTextMapHash": 1295470028,
         "TrophicLevel": 5,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             4001,
@@ -79,7 +79,7 @@
         "Id": 5003,
         "CommentTextMapHash": 264607196,
         "TrophicLevel": 5,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             4001,
@@ -93,7 +93,7 @@
         "Id": 5004,
         "CommentTextMapHash": 3995140484,
         "TrophicLevel": 5,
-        "EnemyCamp": [
+        "EnemyCampList": [
             3001,
             4001,
             5002,
@@ -107,7 +107,7 @@
         "Id": 5005,
         "CommentTextMapHash": 183791244,
         "TrophicLevel": 5,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             5002,
@@ -120,12 +120,12 @@
         "Id": 5006,
         "CommentTextMapHash": 1061446492,
         "TrophicLevel": 3,
-        "EnemyCamp": []
+        "EnemyCampList": []
     },
     {
         "Id": 9001,
         "CommentTextMapHash": 1709020644,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             4001,
@@ -137,7 +137,7 @@
     {
         "Id": 9002,
         "CommentTextMapHash": 4199524708,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             4001,
@@ -149,7 +149,7 @@
     {
         "Id": 9999,
         "CommentTextMapHash": 1379042500,
-        "EnemyCamp": [
+        "EnemyCampList": [
             1001,
             3001,
             4001,

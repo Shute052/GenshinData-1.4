@@ -106,7 +106,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 1
+        "SystemOpenUiId": 1
     },
     {
         "Id": 30,
@@ -155,7 +155,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 13
+        "SystemOpenUiId": 13
     },
     {
         "Id": 13,
@@ -398,7 +398,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 11
+        "SystemOpenUiId": 11
     },
     {
         "Id": 56,
@@ -458,6 +458,78 @@
     },
     {
         "Id": 66,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 67,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 68,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 69,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 70,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 71,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 72,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 73,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 74,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
+        "Id": 75,
         "AllowClientOpen": true,
         "Cond": [
             {},
@@ -622,7 +694,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 12
+        "SystemOpenUiId": 12
     },
     {
         "Id": 1100,
@@ -714,7 +786,7 @@
                 "Param": 35001
             }
         ],
-        "SystemOpenUIId": 9
+        "SystemOpenUiId": 9
     },
     {
         "Id": 1403,
@@ -735,7 +807,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 2
+        "SystemOpenUiId": 2
     },
     {
         "Id": 1201,
@@ -776,7 +848,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 10
+        "SystemOpenUiId": 10
     },
     {
         "Id": 55,
@@ -815,7 +887,7 @@
             },
             {}
         ],
-        "SystemOpenUIId": 14
+        "SystemOpenUiId": 14
     },
     {
         "Id": 800,
@@ -876,6 +948,16 @@
             },
             {}
         ],
-        "SystemOpenUIId": 15
+        "SystemOpenUiId": 15
+    },
+    {
+        "Id": 1407,
+        "Cond": [
+            {
+                "CondType": "OPEN_STATE_COND_QUEST",
+                "Param": 7181210
+            },
+            {}
+        ]
     }
 ]

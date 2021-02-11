@@ -882,6 +882,27 @@
         ]
     },
     {
+        "TextMapId": "INFO_MALE_PRONOUN_BROANDSIS",
+        "TextMapContentTextMapHash": 3521101174,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "INFO_FEMALE_PRONOUN_HE",
+        "TextMapContentTextMapHash": 2832501497,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "INFO_MALE_PRONOUN_SHE",
+        "TextMapContentTextMapHash": 1788917894,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "INFO_MALE_PRONOUN_BIGBROTHER",
         "TextMapContentTextMapHash": 1037286086,
         "ParamTypes": [
@@ -3661,6 +3682,13 @@
         ]
     },
     {
+        "TextMapId": "ITEM_SLOT_COUNT_DOWN_DAY",
+        "TextMapContentTextMapHash": 3354039768,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "ITEM_GOT_DIALOG_REASON_MAIL",
         "TextMapContentTextMapHash": 1535520566,
         "ParamTypes": [
@@ -4193,6 +4221,27 @@
         ]
     },
     {
+        "TextMapId": "SHOP_TYPE_ACTIVITY_SEA_LAMP",
+        "TextMapContentTextMapHash": 1949231870,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "SHOP_TYPE_NPC_Licai",
+        "TextMapContentTextMapHash": 3716627764,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "SHOP_TYPE_NPC_Yueshu",
+        "TextMapContentTextMapHash": 3717248972,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "QUEST_TIP_Q469_DIZZY",
         "TextMapContentTextMapHash": 3336175673,
         "ParamTypes": [
@@ -4515,6 +4564,13 @@
         ]
     },
     {
+        "TextMapId": "QUEST_Message_Q1110301",
+        "TextMapContentTextMapHash": 54160256,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "QUEST_Message_Q71012",
         "TextMapContentTextMapHash": 2515361288,
         "ParamTypes": [
@@ -4629,6 +4685,125 @@
     {
         "TextMapId": "QUEST_Message_Q4111401",
         "TextMapContentTextMapHash": 2327707872,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q1800005",
+        "TextMapContentTextMapHash": 2595899568,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q4133410",
+        "TextMapContentTextMapHash": 3167019488,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q4133417",
+        "TextMapContentTextMapHash": 2349702120,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q1906505",
+        "TextMapContentTextMapHash": 1578590480,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q1906201",
+        "TextMapContentTextMapHash": 906260360,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q1906604",
+        "TextMapContentTextMapHash": 3397936888,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q1906807",
+        "TextMapContentTextMapHash": 3125673472,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41311081",
+        "TextMapContentTextMapHash": 1348369728,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41312001",
+        "TextMapContentTextMapHash": 647645408,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41312002",
+        "TextMapContentTextMapHash": 1325770104,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41312003",
+        "TextMapContentTextMapHash": 3956295024,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41312004",
+        "TextMapContentTextMapHash": 2176205240,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41313001",
+        "TextMapContentTextMapHash": 2675455472,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q41313002",
+        "TextMapContentTextMapHash": 47962072,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q4134303",
+        "TextMapContentTextMapHash": 2138278448,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q4134305",
+        "TextMapContentTextMapHash": 4121371056,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q1110316",
+        "TextMapContentTextMapHash": 394296544,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -4830,6 +5005,13 @@
         ]
     },
     {
+        "TextMapId": "QUEST_Message_Q71815",
+        "TextMapContentTextMapHash": 2455507496,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "QUEST_Message_Q39801",
         "TextMapContentTextMapHash": 354993192,
         "ParamTypes": [
@@ -4867,6 +5049,41 @@
     {
         "TextMapId": "QUEST_MESSAGE_Q41213",
         "TextMapContentTextMapHash": 2495568622,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_MESSAGE_Q19042_1",
+        "TextMapContentTextMapHash": 746058854,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_MESSAGE_Q19042_2",
+        "TextMapContentTextMapHash": 3218836182,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_MESSAGE_Q19042_3",
+        "TextMapContentTextMapHash": 984729974,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_MESSAGE_Q4134101",
+        "TextMapContentTextMapHash": 1024655422,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_MESSAGE_Q4134107",
+        "TextMapContentTextMapHash": 349881582,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -5509,8 +5726,15 @@
         ]
     },
     {
-        "TextMapId": "COOP_Message_Q1904402",
-        "TextMapContentTextMapHash": 886415660,
+        "TextMapId": "QUEST_Message_Q4133701",
+        "TextMapContentTextMapHash": 2902663976,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "QUEST_Message_Q4133702",
+        "TextMapContentTextMapHash": 1683270104,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -6727,8 +6951,57 @@
         ]
     },
     {
+        "TextMapId": "COVERT_CHANGE_FORMULA",
+        "TextMapContentTextMapHash": 685349466,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "COVERT_FORMULA_LIST",
+        "TextMapContentTextMapHash": 14018499,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "COVERT_PROCESS",
+        "TextMapContentTextMapHash": 4000161698,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "COVERT_AMOUNT",
+        "TextMapContentTextMapHash": 426781170,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "COVERT_MATERIAL",
+        "TextMapContentTextMapHash": 2264249778,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_COMMON_NOTICE_REMAIN",
         "TextMapContentTextMapHash": 879595380,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "PERSONAL_LINE_HUTAO",
+        "TextMapContentTextMapHash": 916873295,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "PERSONAL_LINE_HUTAO_LINE_START",
+        "TextMapContentTextMapHash": 2516588754,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -9247,6 +9520,13 @@
         ]
     },
     {
+        "TextMapId": "UI_SETTING_INPUT_TYPE_TOUCHSCREEN",
+        "TextMapContentTextMapHash": 3521411752,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_SETTING_DEFAULT_SENSITIVITY",
         "TextMapContentTextMapHash": 2048597990,
         "ParamTypes": [
@@ -10115,6 +10395,13 @@
         ]
     },
     {
+        "TextMapId": "UI_DUNGEON_ENTRY_Hutao",
+        "TextMapContentTextMapHash": 1924662539,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_WORLD_LIST",
         "TextMapContentTextMapHash": 1046634707,
         "ParamTypes": [
@@ -10229,6 +10516,13 @@
     {
         "TextMapId": "UI_COOKING_QTE_START_BUTTON",
         "TextMapContentTextMapHash": 1233545841,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_COOKING_QTE_AUTO_COUNT",
+        "TextMapContentTextMapHash": 2618460477,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -10495,6 +10789,20 @@
     {
         "TextMapId": "UI_MAIL_VIEW_LINK",
         "TextMapContentTextMapHash": 632333862,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MAIL_DELETE_ALL_TITLE",
+        "TextMapContentTextMapHash": 45406056,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MAIL_DELETE_ALL_DESC",
+        "TextMapContentTextMapHash": 819015792,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -11650,6 +11958,90 @@
     {
         "TextMapId": "UI_GUIDE_EXITMULTIPLAYER",
         "TextMapContentTextMapHash": 1281072026,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_BUILD",
+        "TextMapContentTextMapHash": 1604764690,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_REBUILD",
+        "TextMapContentTextMapHash": 1437447290,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_MONSTER",
+        "TextMapContentTextMapHash": 2468460474,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_CARD",
+        "TextMapContentTextMapHash": 1344469842,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_MISSION_CHECK",
+        "TextMapContentTextMapHash": 3235166557,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_MISSION_CHECK_PC",
+        "TextMapContentTextMapHash": 2110893880,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_BUILD_SELECT",
+        "TextMapContentTextMapHash": 3566735067,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_CHALLENGE_START",
+        "TextMapContentTextMapHash": 4081959652,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_MISSION_CHECK_PS",
+        "TextMapContentTextMapHash": 2685016744,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_THEATREMACHANICUS_MULTIPLAYER",
+        "TextMapContentTextMapHash": 403536410,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_CONVERT_GUIDE_TAB",
+        "TextMapContentTextMapHash": 2115868535,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GUIDE_CONVERT_GUIDE_LIST",
+        "TextMapContentTextMapHash": 293771711,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -13790,6 +14182,13 @@
         ]
     },
     {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_DETAIL_04",
+        "TextMapContentTextMapHash": 296541113,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_GACHA_TIME_REMAINING",
         "TextMapContentTextMapHash": 2014041249,
         "ParamTypes": [
@@ -14380,6 +14779,111 @@
     {
         "TextMapId": "UI_GACHA_SHOW_PANEL_A030_UP2_NAME",
         "TextMapContentTextMapHash": 4052017419,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A031_TITLE",
+        "TextMapContentTextMapHash": 3198629880,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A031_UP1_NAME1",
+        "TextMapContentTextMapHash": 3056164347,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A031_UP1_TITLE1",
+        "TextMapContentTextMapHash": 1955896275,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A032_TITLE",
+        "TextMapContentTextMapHash": 224018143,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A032_UP1_NAME1",
+        "TextMapContentTextMapHash": 2220886285,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A032_UP1_TITLE1",
+        "TextMapContentTextMapHash": 742625469,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A033_TITLE",
+        "TextMapContentTextMapHash": 205947989,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A033_UP1_NAME1",
+        "TextMapContentTextMapHash": 1086339956,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A033_UP1_TITLE1",
+        "TextMapContentTextMapHash": 1184892628,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A034_UP1_NAME1",
+        "TextMapContentTextMapHash": 173324188,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A034_UP1_NAME2",
+        "TextMapContentTextMapHash": 689633524,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A034_UP2_NAME",
+        "TextMapContentTextMapHash": 1996534913,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A035_UP1_NAME1",
+        "TextMapContentTextMapHash": 2719673910,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A035_UP1_NAME2",
+        "TextMapContentTextMapHash": 1205556486,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_GACHA_SHOW_PANEL_A035_UP2_NAME",
+        "TextMapContentTextMapHash": 3990140800,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -16555,6 +17059,55 @@
         ]
     },
     {
+        "TextMapId": "UI_FRIEND_AVATAR_DETAIL_UNAVAILABLE",
+        "TextMapContentTextMapHash": 1392680716,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_FRIEND_CHECK_RELIC_NONE",
+        "TextMapContentTextMapHash": 913101912,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_FRIEND_MAIN_PAGE",
+        "TextMapContentTextMapHash": 1438392422,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_FRIEND_CARD_PAGE",
+        "TextMapContentTextMapHash": 2148858577,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_FRIEND_CHECK_PROFILE",
+        "TextMapContentTextMapHash": 1959010927,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_FRIEND_REMARK_NAME",
+        "TextMapContentTextMapHash": 2227153132,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_FRIEND_NO_CARD",
+        "TextMapContentTextMapHash": 930776830,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_ACTIVITY_SEALAMP_TAB_01",
         "TextMapContentTextMapHash": 3247235244,
         "ParamTypes": [
@@ -17257,6 +17810,13 @@
     {
         "TextMapId": "UI_ACTIVITY_SIGNIN_PAGETITLE_10010",
         "TextMapContentTextMapHash": 1745876066,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_SIGNIN_PAGETITLE_10011",
+        "TextMapContentTextMapHash": 192360474,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -18578,6 +19138,104 @@
         ]
     },
     {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_TYPE",
+        "TextMapContentTextMapHash": 1254240774,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_RESIN_EXCHANGE",
+        "TextMapContentTextMapHash": 4055647321,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_TYPE_RESIN_CARD",
+        "TextMapContentTextMapHash": 3550389866,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_DESC_RESIN_CARD",
+        "TextMapContentTextMapHash": 2768288862,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_DESC_RESIN_LIMITED",
+        "TextMapContentTextMapHash": 4202930174,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_DESC_FRAGILE_RESIN",
+        "TextMapContentTextMapHash": 1728169114,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_DESC_HCOIN",
+        "TextMapContentTextMapHash": 116396057,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_GET",
+        "TextMapContentTextMapHash": 3059676022,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_EXCHANGE",
+        "TextMapContentTextMapHash": 1982174262,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_USE",
+        "TextMapContentTextMapHash": 1646563174,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_EXPIRED_TYPE_DAY",
+        "TextMapContentTextMapHash": 59691529,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_EXPIRED_TYPE_HOUR",
+        "TextMapContentTextMapHash": 3639531417,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_EXPIRED_TYPE_MIN",
+        "TextMapContentTextMapHash": 2403663017,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BUY_WORLD_STAMINA_EXPIRED_TYPE_LESSMIN",
+        "TextMapContentTextMapHash": 1282279969,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_WORLD_STAMINA_REWARD_COST",
         "TextMapContentTextMapHash": 1007897640,
         "ParamTypes": [
@@ -18727,6 +19385,13 @@
     {
         "TextMapId": "UI_TOWER_CLOSE_HINT",
         "TextMapContentTextMapHash": 1780832587,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_TOWER_LEAVE_HINT",
+        "TextMapContentTextMapHash": 916877939,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -19712,6 +20377,13 @@
         ]
     },
     {
+        "TextMapId": "UI_ONLINE_MATCH_CANCEL_CONFIRM_TITLE",
+        "TextMapContentTextMapHash": 52937433,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_BP_PAGE_TITLE",
         "TextMapContentTextMapHash": 742643765,
         "ParamTypes": [
@@ -20407,6 +21079,13 @@
     {
         "TextMapId": "UI_ACTIVITY_CRUCIBLE_GAGDGET_BTN",
         "TextMapContentTextMapHash": 2334390048,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_TOWERDEFENCE_GAGDGET_BTN",
+        "TextMapContentTextMapHash": 15794799,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -21987,6 +22666,13 @@
         ]
     },
     {
+        "TextMapId": "UI_STC_BAGPAGE_CAPACITY_TITLE",
+        "TextMapContentTextMapHash": 1246168891,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_GADGETINTERACT_TEXT1",
         "TextMapContentTextMapHash": 2717423107,
         "ParamTypes": [
@@ -22869,6 +23555,139 @@
         ]
     },
     {
+        "TextMapId": "UI_CODEX_ANIMAL_MONSTER",
+        "TextMapContentTextMapHash": 3267312526,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_ANIMAL",
+        "TextMapContentTextMapHash": 1356326774,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_MONSTER_NONE",
+        "TextMapContentTextMapHash": 1013227412,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_ANIMAL_NONE",
+        "TextMapContentTextMapHash": 142693023,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_ZOOM",
+        "TextMapContentTextMapHash": 512236110,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_ELEMENTAL",
+        "TextMapContentTextMapHash": 2938316552,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_HILICHURL",
+        "TextMapContentTextMapHash": 1530652312,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_ABYSS",
+        "TextMapContentTextMapHash": 3920603248,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_FATUI",
+        "TextMapContentTextMapHash": 3277657184,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_AUTOMATRON",
+        "TextMapContentTextMapHash": 262608808,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_HUMAN",
+        "TextMapContentTextMapHash": 3217362200,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_BEAST",
+        "TextMapContentTextMapHash": 1479331136,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_BOSS",
+        "TextMapContentTextMapHash": 1424978784,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_AVIARY",
+        "TextMapContentTextMapHash": 1113130328,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_ANIMAL",
+        "TextMapContentTextMapHash": 1696400536,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_FISH",
+        "TextMapContentTextMapHash": 2780476720,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_CATEGORY_CRITTER",
+        "TextMapContentTextMapHash": 4037388960,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_NAME_LOCKED",
+        "TextMapContentTextMapHash": 266997631,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_CODEX_ANIMAL_ROTATE",
+        "TextMapContentTextMapHash": 2300880334,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_AVATAR_CODEX_SORT_DEFAULT",
         "TextMapContentTextMapHash": 2683222364,
         "ParamTypes": [
@@ -23443,6 +24262,20 @@
         ]
     },
     {
+        "TextMapId": "UI_WIDGET_PACKET_ANCHOR_DELETE_TITLE",
+        "TextMapContentTextMapHash": 2948626078,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_PACKET_ANCHOR_DELETE_DESC",
+        "TextMapContentTextMapHash": 2511800150,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_WIDGET_LUNCHBOX_NONE_SELECTED",
         "TextMapContentTextMapHash": 1012080629,
         "ParamTypes": [
@@ -23578,6 +24411,62 @@
     {
         "TextMapId": "UI_WIDGET_DETECTOR_FAILED",
         "TextMapContentTextMapHash": 381105203,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_MIRACLERING_COLLISION",
+        "TextMapContentTextMapHash": 4150967147,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_GENERAL_FORBIDDEN_IN_FOCUS",
+        "TextMapContentTextMapHash": 3749699892,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_GENERAL_FORBIDDEN_IN_BATTLE",
+        "TextMapContentTextMapHash": 3141453716,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_GENERAL_FORBIDDEN_NOT_GOOD_AREA",
+        "TextMapContentTextMapHash": 1025898535,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_GENERAL_FORBIDDEN_NOT_GOOD_STATE",
+        "TextMapContentTextMapHash": 119627743,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_GENERAL_FORBIDDEN_NOT_BIGWORLD",
+        "TextMapContentTextMapHash": 1241926909,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_GENERAL_FORBIDDEN_OTHER_WORLD",
+        "TextMapContentTextMapHash": 2691286655,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_WIDGET_COMMON_COLLISION",
+        "TextMapContentTextMapHash": 1297964626,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -25494,6 +26383,349 @@
         ]
     },
     {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TITLE1",
+        "TextMapContentTextMapHash": 927150007,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TITLE2",
+        "TextMapContentTextMapHash": 563581711,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TITLE3",
+        "TextMapContentTextMapHash": 2952841999,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_BUTTON1",
+        "TextMapContentTextMapHash": 2473244151,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_BUTTON2",
+        "TextMapContentTextMapHash": 2988718383,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TIPS1",
+        "TextMapContentTextMapHash": 207201575,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TITLE1",
+        "TextMapContentTextMapHash": 3163188247,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS1",
+        "TextMapContentTextMapHash": 3268543671,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_BUTTON1",
+        "TextMapContentTextMapHash": 1744306151,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_BUTTON2",
+        "TextMapContentTextMapHash": 1375400551,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TITLE2",
+        "TextMapContentTextMapHash": 2454685151,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TITLE3",
+        "TextMapContentTextMapHash": 333527759,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_TIPS_TITLE1",
+        "TextMapContentTextMapHash": 2147829019,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_TIPS_TIPS1",
+        "TextMapContentTextMapHash": 3850814667,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_TIPS_TIPS3",
+        "TextMapContentTextMapHash": 2984706515,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CAMERA_TIPS1",
+        "TextMapContentTextMapHash": 3665126467,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CAMERA_TIPS2",
+        "TextMapContentTextMapHash": 1356880043,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TITLE1",
+        "TextMapContentTextMapHash": 587272310,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS1",
+        "TextMapContentTextMapHash": 4210586582,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS2",
+        "TextMapContentTextMapHash": 4294008638,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_TIPS_TIPS2",
+        "TextMapContentTextMapHash": 2348636707,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS3",
+        "TextMapContentTextMapHash": 106610302,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS4",
+        "TextMapContentTextMapHash": 2120233518,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS5",
+        "TextMapContentTextMapHash": 420456678,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS2",
+        "TextMapContentTextMapHash": 1198367215,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS3",
+        "TextMapContentTextMapHash": 618463303,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS4",
+        "TextMapContentTextMapHash": 3912290143,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_BUTTON3",
+        "TextMapContentTextMapHash": 1961389591,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TITLE2",
+        "TextMapContentTextMapHash": 3868024574,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_BUTTON1",
+        "TextMapContentTextMapHash": 3232744342,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_EXPLAIN_TITLE",
+        "TextMapContentTextMapHash": 2494106286,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_EXPLAIN_DESC",
+        "TextMapContentTextMapHash": 542305550,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS5",
+        "TextMapContentTextMapHash": 2445300111,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TIPS2",
+        "TextMapContentTextMapHash": 3844837759,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TIPS3",
+        "TextMapContentTextMapHash": 852442567,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TIPS4",
+        "TextMapContentTextMapHash": 1603681295,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS6",
+        "TextMapContentTextMapHash": 2491226862,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_REWARD_TIPS7",
+        "TextMapContentTextMapHash": 4117815686,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_NPC_TITLE",
+        "TextMapContentTextMapHash": 3550875964,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_NPC_DESC",
+        "TextMapContentTextMapHash": 3016187540,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TIME1",
+        "TextMapContentTextMapHash": 1671088727,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_ACTIVITY_TIME2",
+        "TextMapContentTextMapHash": 2841044759,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_MAP_TIPS1",
+        "TextMapContentTextMapHash": 3524016189,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS6",
+        "TextMapContentTextMapHash": 1995582735,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS7",
+        "TextMapContentTextMapHash": 1005664159,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS8",
+        "TextMapContentTextMapHash": 1920763839,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS9",
+        "TextMapContentTextMapHash": 2330861455,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS10",
+        "TextMapContentTextMapHash": 2551135111,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_BLESSING_CHANGE_TIPS11",
+        "TextMapContentTextMapHash": 668540143,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_TRANSPORT_ENTRY_UNLOCK_CONDITION",
         "TextMapContentTextMapHash": 2327958170,
         "ParamTypes": [
@@ -25515,8 +26747,792 @@
         ]
     },
     {
+        "TextMapId": "UI_MIRACLERING_CONDITION",
+        "TextMapContentTextMapHash": 4175379872,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PROGRESS_COUNT_1",
+        "TextMapContentTextMapHash": 290624148,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PROGRESS_COUNT_2",
+        "TextMapContentTextMapHash": 1517613180,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_START",
+        "TextMapContentTextMapHash": 2539420784,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_ADD_CONFIRM_1",
+        "TextMapContentTextMapHash": 1864196136,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_ADD_CONFIRM_2",
+        "TextMapContentTextMapHash": 3055109568,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_ADD_CONFIRM_3",
+        "TextMapContentTextMapHash": 4185712088,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PROGRESS_BATTLE",
+        "TextMapContentTextMapHash": 2288246526,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PUT",
+        "TextMapContentTextMapHash": 937786072,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_RECYCLE",
+        "TextMapContentTextMapHash": 2000810104,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PROGRESS_NOT_ENOUGH",
+        "TextMapContentTextMapHash": 3659133898,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PROGRESS_ENOUGH",
+        "TextMapContentTextMapHash": 2781902438,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_PACK_EXCEED_MAX_WEIGHT",
+        "TextMapContentTextMapHash": 3164093974,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_TOYS_MIRACLERING",
         "TextMapContentTextMapHash": 886625471,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RULE",
+        "TextMapContentTextMapHash": 919874287,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RULE_CONTENT",
+        "TextMapContentTextMapHash": 2844222077,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RECORD",
+        "TextMapContentTextMapHash": 1517379327,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RECORD_NONE",
+        "TextMapContentTextMapHash": 3267852925,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_NPC_POSITION",
+        "TextMapContentTextMapHash": 2072258646,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_QUOTA",
+        "TextMapContentTextMapHash": 1701673135,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CLOSEHINT",
+        "TextMapContentTextMapHash": 551840623,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_REWARD_REMIND",
+        "TextMapContentTextMapHash": 421538281,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_REWARD_POSITION",
+        "TextMapContentTextMapHash": 3274950281,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RECORD_DETAIL",
+        "TextMapContentTextMapHash": 3301181629,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TAB",
+        "TextMapContentTextMapHash": 434984127,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TAB_TITLE",
+        "TextMapContentTextMapHash": 2195505682,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_FINISH",
+        "TextMapContentTextMapHash": 1012070943,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_REWARD1",
+        "TextMapContentTextMapHash": 3203066879,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_LIMIT",
+        "TextMapContentTextMapHash": 2538604630,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHOOSE_CHAR",
+        "TextMapContentTextMapHash": 2787300270,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE",
+        "TextMapContentTextMapHash": 4009777807,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_COUNTDOWM",
+        "TextMapContentTextMapHash": 1068072054,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TRIUMPH",
+        "TextMapContentTextMapHash": 2694510743,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_USEDUP",
+        "TextMapContentTextMapHash": 1095582487,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_LACK",
+        "TextMapContentTextMapHash": 2647428782,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_ING",
+        "TextMapContentTextMapHash": 1250161855,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RECALL",
+        "TextMapContentTextMapHash": 1359519735,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_RECEIVE_REWARD",
+        "TextMapContentTextMapHash": 2253563162,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHARLIST",
+        "TextMapContentTextMapHash": 2231505199,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TRIUMPH_RATE",
+        "TextMapContentTextMapHash": 1497780935,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TIMES_AVALIABLE",
+        "TextMapContentTextMapHash": 3061927164,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CLOSE_OVER1DAY",
+        "TextMapContentTextMapHash": 2359130196,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CLOSE_IN24H",
+        "TextMapContentTextMapHash": 2875438252,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_OPEN_HINT",
+        "TextMapContentTextMapHash": 3469719498,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_FINISH_REWARD",
+        "TextMapContentTextMapHash": 3770370911,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_POS",
+        "TextMapContentTextMapHash": 2013513550,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_BONUS_ELEMENT",
+        "TextMapContentTextMapHash": 3007844938,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_REWARD",
+        "TextMapContentTextMapHash": 2784048086,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_TITLE",
+        "TextMapContentTextMapHash": 2927425142,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_LIMIT_HINT",
+        "TextMapContentTextMapHash": 2663539412,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_HELP",
+        "TextMapContentTextMapHash": 2522826775,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_SEND",
+        "TextMapContentTextMapHash": 91560823,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_USED",
+        "TextMapContentTextMapHash": 3913535614,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_NOTENOUGH",
+        "TextMapContentTextMapHash": 4251655326,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHAR_ORIGIN",
+        "TextMapContentTextMapHash": 3392851070,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TRIUMPH_HINT",
+        "TextMapContentTextMapHash": 1303175775,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_GET_REWARD",
+        "TextMapContentTextMapHash": 3245500234,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_ING",
+        "TextMapContentTextMapHash": 3063160726,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_DETAIL",
+        "TextMapContentTextMapHash": 1695440646,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_UNLOCK_NOTIFY",
+        "TextMapContentTextMapHash": 2872055416,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_REWARD_NOTIFY",
+        "TextMapContentTextMapHash": 2332364281,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TRIUMPH_RULE",
+        "TextMapContentTextMapHash": 643930967,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_DESCRIBE",
+        "TextMapContentTextMapHash": 3940133175,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_HELP_NONE",
+        "TextMapContentTextMapHash": 3222754829,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_PROGRESS",
+        "TextMapContentTextMapHash": 1187229422,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_ENTRY",
+        "TextMapContentTextMapHash": 3281293342,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_ENTRY_HINT",
+        "TextMapContentTextMapHash": 1337200654,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_REENTRY_HINT",
+        "TextMapContentTextMapHash": 1889652188,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_NPC_TALK",
+        "TextMapContentTextMapHash": 2146576694,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TIME_NEED",
+        "TextMapContentTextMapHash": 2335221186,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TRIUMPH_RATE2",
+        "TextMapContentTextMapHash": 2639722367,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_QUIT_CONFIRM",
+        "TextMapContentTextMapHash": 2821862007,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_REMOVE_CHAR",
+        "TextMapContentTextMapHash": 1842239082,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_REPLACE_CHAR",
+        "TextMapContentTextMapHash": 2198669036,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_PS_DETAIL",
+        "TextMapContentTextMapHash": 2498813009,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_PS_REWARD_DETAIL",
+        "TextMapContentTextMapHash": 3516521132,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_TRIUMPH_TITLE",
+        "TextMapContentTextMapHash": 793233415,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_END",
+        "TextMapContentTextMapHash": 1518272735,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_HELP_HINT",
+        "TextMapContentTextMapHash": 2557402909,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_FINISH",
+        "TextMapContentTextMapHash": 4224445838,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EXPEDITION_CHALLENGE_LOCKED",
+        "TextMapContentTextMapHash": 3243607630,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_DROPBONUS_COST_DAILY",
+        "TextMapContentTextMapHash": 3967928798,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_BOUNS_DOUBLE",
+        "TextMapContentTextMapHash": 2129674639,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_BOUNS_TRIBLE",
+        "TextMapContentTextMapHash": 1758810783,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_EXISTS_TIME_TODAY",
+        "TextMapContentTextMapHash": 2513701981,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_TITLE_1",
+        "TextMapContentTextMapHash": 206046807,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_TITLE_2",
+        "TextMapContentTextMapHash": 661622815,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_TITLE_3",
+        "TextMapContentTextMapHash": 1316687711,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_DETAIL_1",
+        "TextMapContentTextMapHash": 1550971450,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_DETAIL_2",
+        "TextMapContentTextMapHash": 1625061082,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_MAINPAGE_DETAIL_3",
+        "TextMapContentTextMapHash": 771990186,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_MORA",
+        "TextMapContentTextMapHash": 630262893,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_EXP",
+        "TextMapContentTextMapHash": 3945969101,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_MORA_MD",
+        "TextMapContentTextMapHash": 356049182,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_MORA_LY",
+        "TextMapContentTextMapHash": 2944956886,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_EXP_MD",
+        "TextMapContentTextMapHash": 3532970689,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_EXP_LY",
+        "TextMapContentTextMapHash": 3486258489,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_BLOSSOM_ALL",
+        "TextMapContentTextMapHash": 510594637,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_RATE",
+        "TextMapContentTextMapHash": 2085325470,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_RATE_1",
+        "TextMapContentTextMapHash": 163530268,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_EXPLAIN_1",
+        "TextMapContentTextMapHash": 469942000,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_EXPLAIN_2",
+        "TextMapContentTextMapHash": 256028848,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_BONUS_MAINPAGE_EXPLAIN_3",
+        "TextMapContentTextMapHash": 3913096584,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_TAB_1",
+        "TextMapContentTextMapHash": 1972129885,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_TAB_2",
+        "TextMapContentTextMapHash": 2804896517,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_OPACTIVITY_TAB_3",
+        "TextMapContentTextMapHash": 214000861,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_NO_ITEM_TIPS_TITLE",
+        "TextMapContentTextMapHash": 2494458475,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_NO_ITEM_TIPS_DESC",
+        "TextMapContentTextMapHash": 3150222315,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_BAG_TITLE",
+        "TextMapContentTextMapHash": 3929143528,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MIRACLERING_REWARD_DETAIL",
+        "TextMapContentTextMapHash": 334956556,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_NPC_TITLE",
+        "TextMapContentTextMapHash": 2898386663,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_NPC_DESC",
+        "TextMapContentTextMapHash": 161627615,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ITEM_TIMEREMAINING",
+        "TextMapContentTextMapHash": 2719299232,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -27608,6 +29624,342 @@
         ]
     },
     {
+        "TextMapId": "RetOpActivityBonusNotFound",
+        "TextMapContentTextMapHash": 3510900429,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetOpActivityNotOpen",
+        "TextMapContentTextMapHash": 3674314277,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingContentClosed",
+        "TextMapContentTextMapHash": 4099379557,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingNotActive",
+        "TextMapContentTextMapHash": 509747869,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingNotTodayEntity",
+        "TextMapContentTextMapHash": 3039820101,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingEntityExceedScanNumLimit",
+        "TextMapContentTextMapHash": 4105468101,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingDailyScanNumExceedLimit",
+        "TextMapContentTextMapHash": 560802245,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingRedeemRewardNumExceedLimit",
+        "TextMapContentTextMapHash": 2411472493,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingRedeemPicNumNotEnough",
+        "TextMapContentTextMapHash": 2413483165,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingPicNotEnough",
+        "TextMapContentTextMapHash": 168360269,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingPicHasReceived",
+        "TextMapContentTextMapHash": 3509398309,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBlessingTargetRecvNumExceed",
+        "TextMapContentTextMapHash": 980798157,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetBonusCountExceedDoubleLimit",
+        "TextMapContentTextMapHash": 143750173,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetWidgetRecycle",
+        "TextMapContentTextMapHash": 54919733,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationUnauthorized",
+        "TextMapContentTextMapHash": 3934799413,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationSceneNotFound",
+        "TextMapContentTextMapHash": 921111661,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationNotInInitState",
+        "TextMapContentTextMapHash": 391019189,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationBildingPointNotEnought",
+        "TextMapContentTextMapHash": 3792967285,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationNotInBuiltState",
+        "TextMapContentTextMapHash": 3440434621,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationOpNotSupported",
+        "TextMapContentTextMapHash": 3243802485,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationReqPlayerNotInScene",
+        "TextMapContentTextMapHash": 3961796701,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationLockedByAnotherPlayer",
+        "TextMapContentTextMapHash": 2572088029,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationNotLocked",
+        "TextMapContentTextMapHash": 2768351477,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationDuplicateLock",
+        "TextMapContentTextMapHash": 825279461,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationPlayerNotFound",
+        "TextMapContentTextMapHash": 1579530813,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationPlayerGearNotFound",
+        "TextMapContentTextMapHash": 1789129373,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationRotaionDisabled",
+        "TextMapContentTextMapHash": 2789163589,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleNotInDungeon",
+        "TextMapContentTextMapHash": 3108175853,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattlePlayNotFound",
+        "TextMapContentTextMapHash": 49204237,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleDuplicatePickCard",
+        "TextMapContentTextMapHash": 256249349,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattlePlayerNotInPlay",
+        "TextMapContentTextMapHash": 3979692709,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardNotAvailable",
+        "TextMapContentTextMapHash": 556495461,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleNotInCardStage",
+        "TextMapContentTextMapHash": 473572141,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardIsWaiting",
+        "TextMapContentTextMapHash": 269966637,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardAllConfirmed",
+        "TextMapContentTextMapHash": 851966277,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardAlreadyConfirmed",
+        "TextMapContentTextMapHash": 1652632389,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardConfirmedByOther",
+        "TextMapContentTextMapHash": 1262051157,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardNotEnoughPoints",
+        "TextMapContentTextMapHash": 1510652773,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationReachDungeonGearLimit",
+        "TextMapContentTextMapHash": 1042816213,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationReachSingleGearLimit",
+        "TextMapContentTextMapHash": 2987297261,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetGadgetFoundationRotationOnGoing",
+        "TextMapContentTextMapHash": 2321528773,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusCoinNotEnough",
+        "TextMapContentTextMapHash": 130057501,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusPrevDifficultLevelBlock",
+        "TextMapContentTextMapHash": 1560596261,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusTeachNotFinish",
+        "TextMapContentTextMapHash": 455271909,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusTicketNotEnough",
+        "TextMapContentTextMapHash": 3554149533,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusNotOpen",
+        "TextMapContentTextMapHash": 2917649389,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusDifficultNotSupport",
+        "TextMapContentTextMapHash": 1067439165,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "RetMechanicusBattleCardAlreadySkipped",
+        "TextMapContentTextMapHash": 700819605,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "MSG_UNKNOWN",
         "TextMapContentTextMapHash": 646688318,
         "ParamTypes": [
@@ -27706,6 +30058,13 @@
         ]
     },
     {
+        "TextMapId": "EnetAccountPasswordChange",
+        "TextMapContentTextMapHash": 2320800841,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "MsgBlockRefreshCountdown",
         "TextMapContentTextMapHash": 3421870481,
         "ParamTypes": [
@@ -27734,6 +30093,13 @@
         ]
     },
     {
+        "TextMapId": "MsgMechanicusCoinLimit",
+        "TextMapContentTextMapHash": 1887593889,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "NPC_TITLE_WAGNER_DAY",
         "TextMapContentTextMapHash": 2579169492,
         "ParamTypes": [
@@ -27755,8 +30121,22 @@
         ]
     },
     {
+        "TextMapId": "NPC_TITLE_1022",
+        "TextMapContentTextMapHash": 683512841,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "NPC_TITLE_1417",
         "TextMapContentTextMapHash": 4039999393,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_141701",
+        "TextMapContentTextMapHash": 1473322457,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -27799,6 +30179,13 @@
     {
         "TextMapId": "NPC_TITLE_1465",
         "TextMapContentTextMapHash": 3225410057,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_146501",
+        "TextMapContentTextMapHash": 1181920153,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -27904,6 +30291,13 @@
     {
         "TextMapId": "NPC_TITLE_1512",
         "TextMapContentTextMapHash": 2779943073,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_151201",
+        "TextMapContentTextMapHash": 3462518233,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]
@@ -29302,6 +31696,13 @@
         ]
     },
     {
+        "TextMapId": "NPC_TITLE_143901",
+        "TextMapContentTextMapHash": 1697164777,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "NPC_TITLE_144101",
         "TextMapContentTextMapHash": 3688524145,
         "ParamTypes": [
@@ -29834,6 +32235,62 @@
         ]
     },
     {
+        "TextMapId": "NPC_TITLE_30039",
+        "TextMapContentTextMapHash": 311869753,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_30040",
+        "TextMapContentTextMapHash": 562414337,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_30041",
+        "TextMapContentTextMapHash": 4270730505,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_30042",
+        "TextMapContentTextMapHash": 362710449,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_30043",
+        "TextMapContentTextMapHash": 3056959193,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_30044",
+        "TextMapContentTextMapHash": 3889564905,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_20217",
+        "TextMapContentTextMapHash": 887765377,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "NPC_TITLE_10343",
+        "TextMapContentTextMapHash": 1833333545,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
         "TextMapId": "UI_ACTIVITY_ASTER_AIMI_BUTTON",
         "TextMapContentTextMapHash": 3032689913,
         "ParamTypes": [
@@ -30340,6 +32797,1406 @@
     {
         "TextMapId": "UI_ACTIVITY_DRAGONSPINE_ICEBOSS_DES",
         "TextMapContentTextMapHash": 2676384656,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_TITLE",
+        "TextMapContentTextMapHash": 3185893049,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_PLAYTIME_END",
+        "TextMapContentTextMapHash": 3622811179,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MAINQUEST",
+        "TextMapContentTextMapHash": 683293857,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS",
+        "TextMapContentTextMapHash": 2331029321,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINIQUEST",
+        "TextMapContentTextMapHash": 1836221145,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_SHOP",
+        "TextMapContentTextMapHash": 1792868193,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_ENTRANCE",
+        "TextMapContentTextMapHash": 1807467329,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_ENTRANCE_UNLOCK",
+        "TextMapContentTextMapHash": 1153428710,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_GAMEPLAY_DESC",
+        "TextMapContentTextMapHash": 1330373245,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_SECTION",
+        "TextMapContentTextMapHash": 543224849,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_SEALAMP_CHOICE_CONFIRM",
+        "TextMapContentTextMapHash": 2694743247,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_ENTRANCE",
+        "TextMapContentTextMapHash": 3007355989,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_ENTRANCE_UNLOCK",
+        "TextMapContentTextMapHash": 399486676,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_TAG",
+        "TextMapContentTextMapHash": 987343453,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_SELECT",
+        "TextMapContentTextMapHash": 548641181,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_COST",
+        "TextMapContentTextMapHash": 1101490549,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_GET_BUTTON",
+        "TextMapContentTextMapHash": 1561950927,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_PREVIEW",
+        "TextMapContentTextMapHash": 1556040853,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_PREVIEW_BUTTON",
+        "TextMapContentTextMapHash": 3779094282,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CONTRACT_DONE",
+        "TextMapContentTextMapHash": 971623973,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_TITLE",
+        "TextMapContentTextMapHash": 1901728865,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_DESC",
+        "TextMapContentTextMapHash": 2440558953,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_WORDS",
+        "TextMapContentTextMapHash": 3687784825,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_BUTTON_GOTO",
+        "TextMapContentTextMapHash": 1016110315,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MAINQUEST_DESC",
+        "TextMapContentTextMapHash": 1672777464,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_XIAO_QUEST_BEGIN",
+        "TextMapContentTextMapHash": 2951501028,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MAINQUEST_BUTTON_GOTO",
+        "TextMapContentTextMapHash": 1982589895,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MAINQUEST_REWARD",
+        "TextMapContentTextMapHash": 2071996256,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MAINQUEST_BUTTON_QUEST_DONE",
+        "TextMapContentTextMapHash": 1733851027,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_XIAO_QUEST_LEVEL",
+        "TextMapContentTextMapHash": 3485363580,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_XIAO_QUEST_NAME",
+        "TextMapContentTextMapHash": 3572895900,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_SECTION1_NAME",
+        "TextMapContentTextMapHash": 2924548680,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_SECTION2_NAME",
+        "TextMapContentTextMapHash": 993279286,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_SECTION3_NAME",
+        "TextMapContentTextMapHash": 2051335492,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LIGHTS_BLOCKING",
+        "TextMapContentTextMapHash": 4220403801,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_TITLE",
+        "TextMapContentTextMapHash": 1489373758,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_REWARD",
+        "TextMapContentTextMapHash": 369130662,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_GOTO",
+        "TextMapContentTextMapHash": 3813649894,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_PROGRESS",
+        "TextMapContentTextMapHash": 2219607462,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_PROGRESS_ACCEPT_BUTTON",
+        "TextMapContentTextMapHash": 570431211,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_ACCEPT",
+        "TextMapContentTextMapHash": 988205870,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_LOOKOVER",
+        "TextMapContentTextMapHash": 3059434486,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MINI_QUEST_G0T0_LOOKOVER",
+        "TextMapContentTextMapHash": 2822947602,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_LOOKOVER_LIGHT",
+        "TextMapContentTextMapHash": 3755298637,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MESSAGE_MINIQUEST1",
+        "TextMapContentTextMapHash": 3908096517,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_MESSAGE_MINIQUEST2",
+        "TextMapContentTextMapHash": 2706839749,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_BLESS",
+        "TextMapContentTextMapHash": 1745481265,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_BLOCKING_TITLE",
+        "TextMapContentTextMapHash": 2113064701,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_BLOCKING_BUTTON_CANCEL",
+        "TextMapContentTextMapHash": 3893306441,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_BLOCKING_BUTTON_GOTO",
+        "TextMapContentTextMapHash": 3601582857,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_NAME",
+        "TextMapContentTextMapHash": 470131349,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_DESC",
+        "TextMapContentTextMapHash": 1269531149,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_LIMIT",
+        "TextMapContentTextMapHash": 328280917,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_LEVEL",
+        "TextMapContentTextMapHash": 2605275469,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_GADGET_LEVEL",
+        "TextMapContentTextMapHash": 2273003040,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_CURRENCY",
+        "TextMapContentTextMapHash": 2162409261,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_REWARD",
+        "TextMapContentTextMapHash": 2171251309,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_SECTION1",
+        "TextMapContentTextMapHash": 3636388957,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_SECTION2",
+        "TextMapContentTextMapHash": 3738547605,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_SECTION3",
+        "TextMapContentTextMapHash": 806662589,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_GADGET_BUTTON",
+        "TextMapContentTextMapHash": 888887912,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_HANDBOOK_BUTTON",
+        "TextMapContentTextMapHash": 4026671254,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_RULE_BUTTON",
+        "TextMapContentTextMapHash": 982328439,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_GOTO_BUTTON",
+        "TextMapContentTextMapHash": 641634028,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TICKETS_DESC",
+        "TextMapContentTextMapHash": 1622703858,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_QUEST_CONDITION1",
+        "TextMapContentTextMapHash": 1958603364,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_QUEST_CONDITION2",
+        "TextMapContentTextMapHash": 329489724,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_QUEST_CONDITION3",
+        "TextMapContentTextMapHash": 3682716948,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_HANDBOOK_TITLE",
+        "TextMapContentTextMapHash": 381538030,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_HANDBOOK_TAB_MAP",
+        "TextMapContentTextMapHash": 3127155661,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_HANDBOOK_TAB_CHALLENGE",
+        "TextMapContentTextMapHash": 678189645,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_HANDBOOK_DESC",
+        "TextMapContentTextMapHash": 2187245926,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_HANDBOOK_CHALLENGE_DESC",
+        "TextMapContentTextMapHash": 3267551877,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_MAPCENTER",
+        "TextMapContentTextMapHash": 3167064269,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_MPPLAY_BUTTON",
+        "TextMapContentTextMapHash": 934301182,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_CHALLENGE_BUTTON",
+        "TextMapContentTextMapHash": 346128640,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_PLAYMODE_DESC",
+        "TextMapContentTextMapHash": 1518083054,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_CHALLENGE_COST",
+        "TextMapContentTextMapHash": 4031479736,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_LAUNCH_DESC",
+        "TextMapContentTextMapHash": 2239173197,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EVEN_MOUNTAINS_TREMBLE_TITLE",
+        "TextMapContentTextMapHash": 1099654455,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EVEN_MOUNTAINS_TREMBLE_DESC",
+        "TextMapContentTextMapHash": 323151599,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EVEN_MOUNTAINS_TREMBLE_REWARD",
+        "TextMapContentTextMapHash": 2811138151,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EVEN_MOUNTAINS_TREMBLE_INVESTIGATE_BUTTON",
+        "TextMapContentTextMapHash": 3375136654,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EVEN_MOUNTAINS_TREMBLE_CHALLENGE_BUTTON",
+        "TextMapContentTextMapHash": 704169922,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_EVEN_MOUNTAINS_TREMBLE_UNLOCK_QUEST",
+        "TextMapContentTextMapHash": 2014130344,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TICKET",
+        "TextMapContentTextMapHash": 2749474093,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_CURRENT_REWARD",
+        "TextMapContentTextMapHash": 1029156116,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_SEQUENCE_TIPS",
+        "TextMapContentTextMapHash": 1232443142,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_SEQUENCE_CLOSE",
+        "TextMapContentTextMapHash": 1254429326,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_CONSUME",
+        "TextMapContentTextMapHash": 276571357,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_BUILD",
+        "TextMapContentTextMapHash": 3599577283,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_BACK",
+        "TextMapContentTextMapHash": 599043099,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_REBUILD",
+        "TextMapContentTextMapHash": 2919610763,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_ROTATE",
+        "TextMapContentTextMapHash": 3916023467,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_TOWERCOUNT",
+        "TextMapContentTextMapHash": 2206309699,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INTERACT",
+        "TextMapContentTextMapHash": 3434262035,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_TOWERCOUNTNUM",
+        "TextMapContentTextMapHash": 1622657875,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_DESTROY",
+        "TextMapContentTextMapHash": 2100300755,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CONTROLLERTIPS",
+        "TextMapContentTextMapHash": 2460595283,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_QUIT_TITLE",
+        "TextMapContentTextMapHash": 4234440052,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_QUIT_DESC",
+        "TextMapContentTextMapHash": 2843686908,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_QUIT_DESC_SP",
+        "TextMapContentTextMapHash": 1604687539,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_QUIT_SUBDESC",
+        "TextMapContentTextMapHash": 935171972,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_ESCAPEDCOUNT",
+        "TextMapContentTextMapHash": 3372247723,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_REMAININGCOUNT",
+        "TextMapContentTextMapHash": 2006043403,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_STARTWAVE_BTN",
+        "TextMapContentTextMapHash": 4224348543,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_STARTWAVE_TITLE",
+        "TextMapContentTextMapHash": 3531607743,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_STARTWAVE_DESC",
+        "TextMapContentTextMapHash": 3928571727,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WAVETITLE",
+        "TextMapContentTextMapHash": 2145508707,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WAVESUBTITLE",
+        "TextMapContentTextMapHash": 1884987347,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WAVESUCCESS",
+        "TextMapContentTextMapHash": 594344675,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CP",
+        "TextMapContentTextMapHash": 2903880507,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WARN_TOWERBUSY",
+        "TextMapContentTextMapHash": 2653117896,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WARN_TOWERBUILT",
+        "TextMapContentTextMapHash": 3764106184,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WARN_TOWERLIMIT",
+        "TextMapContentTextMapHash": 3539523856,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_ALERT_TOWERLIMIT",
+        "TextMapContentTextMapHash": 1324293242,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_TITLE",
+        "TextMapContentTextMapHash": 811562907,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_TAB_MONSTER",
+        "TextMapContentTextMapHash": 2145699787,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_TAB_MAPS",
+        "TextMapContentTextMapHash": 3351068091,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_TAB_TOWERS",
+        "TextMapContentTextMapHash": 2207793755,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_TAB_CARDS",
+        "TextMapContentTextMapHash": 2553761979,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_TAB_SUM",
+        "TextMapContentTextMapHash": 2990559739,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_CARDS_SUCCESS",
+        "TextMapContentTextMapHash": 938421424,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_CARDS_FAILED",
+        "TextMapContentTextMapHash": 437810728,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_CARDS_ONGOING",
+        "TextMapContentTextMapHash": 3124706840,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_SUM_TITLE",
+        "TextMapContentTextMapHash": 3019243211,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_WAVE",
+        "TextMapContentTextMapHash": 454205647,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_BUILDTIME",
+        "TextMapContentTextMapHash": 3466252751,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_CP",
+        "TextMapContentTextMapHash": 231203639,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_SELECTCARD",
+        "TextMapContentTextMapHash": 3496260951,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_CHALLENGE",
+        "TextMapContentTextMapHash": 3438975495,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_CURSE",
+        "TextMapContentTextMapHash": 1600481855,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_CURSETIPS",
+        "TextMapContentTextMapHash": 3312045079,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_COST",
+        "TextMapContentTextMapHash": 1575887575,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_CONFIRM",
+        "TextMapContentTextMapHash": 3337672911,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_WAITINGFORCONFIRM",
+        "TextMapContentTextMapHash": 1333786543,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_INFO_BTN",
+        "TextMapContentTextMapHash": 1716730268,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_SKIP_BTN",
+        "TextMapContentTextMapHash": 2529026164,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_MONSTER",
+        "TextMapContentTextMapHash": 2531032599,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_INFO_CARDS_NONE",
+        "TextMapContentTextMapHash": 2241696656,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_WARN_NOTENOUGHCP",
+        "TextMapContentTextMapHash": 2797182776,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_WAITING",
+        "TextMapContentTextMapHash": 3072728415,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_SUCCESS",
+        "TextMapContentTextMapHash": 1346463822,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_FAILED",
+        "TextMapContentTextMapHash": 2079518486,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_DIFFICULTYRATIO",
+        "TextMapContentTextMapHash": 3760600030,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_TDCOINSLIMIT",
+        "TextMapContentTextMapHash": 473549454,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_TOTALCOINS",
+        "TextMapContentTextMapHash": 1217598486,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_AUTOQUITTIMER",
+        "TextMapContentTextMapHash": 1356210750,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_RESULTS_QUITBTN",
+        "TextMapContentTextMapHash": 1281636854,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_SKIP_TITLE",
+        "TextMapContentTextMapHash": 3617764332,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_LANTERNRITE_CHESS_TD_CARDS_SKIP_DESC",
+        "TextMapContentTextMapHash": 1130466220,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_DIFFICULT_LEVEL_MAX",
+        "TextMapContentTextMapHash": 517409081,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_LEVEL_MAX",
+        "TextMapContentTextMapHash": 2413677110,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_CURRENCY_MAX",
+        "TextMapContentTextMapHash": 1398788071,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_SEALAMP_UNLOCK_1",
+        "TextMapContentTextMapHash": 1657862944,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_SEALAMP_UNLOCK_2",
+        "TextMapContentTextMapHash": 3143637008,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_SEALAMP_UNLOCK_3",
+        "TextMapContentTextMapHash": 723267168,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_LEVEL",
+        "TextMapContentTextMapHash": 1158066215,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_ATTACK",
+        "TextMapContentTextMapHash": 2634860079,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_ATTACK_SPEED",
+        "TextMapContentTextMapHash": 2724779419,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_ATTACK_RANGE",
+        "TextMapContentTextMapHash": 4268059675,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_HANDBOOK_MAP_TIPS",
+        "TextMapContentTextMapHash": 3115676532,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_HANDBOOL_CHANLLENGE_TIPS",
+        "TextMapContentTextMapHash": 3655376655,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHNICUS_DIFFICULT",
+        "TextMapContentTextMapHash": 4127701121,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHNICUS_DIFFICULT_UNLOCK_TIPS",
+        "TextMapContentTextMapHash": 162997086,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_TICKET_NOT_ENOUGHT",
+        "TextMapContentTextMapHash": 1633514233,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_NOT_OPEN_TITTLE",
+        "TextMapContentTextMapHash": 2040969194,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_NOT_OPEN_DESC",
+        "TextMapContentTextMapHash": 980035234,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_COND_SEALAMP_PHASE_1",
+        "TextMapContentTextMapHash": 4135161623,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_COND_SEALAMP_PHASE_2",
+        "TextMapContentTextMapHash": 2952067999,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_ACTIVITY_COND_SEALAMP_PHASE_3",
+        "TextMapContentTextMapHash": 849306623,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_GOT_MAX",
+        "TextMapContentTextMapHash": 1961028874,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_GOT_CURSEQUENCE_LEVEL_MAX",
+        "TextMapContentTextMapHash": 2131286019,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_MAP_TAB",
+        "TextMapContentTextMapHash": 3064096364,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_CHANLLENGE_TAB",
+        "TextMapContentTextMapHash": 3674787468,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_CUR_EFFECT",
+        "TextMapContentTextMapHash": 1447711635,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_NEXT_EFFECT",
+        "TextMapContentTextMapHash": 2616170868,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHNICUS_DIFFICULT_UNLOCK_TIPS_FORMER",
+        "TextMapContentTextMapHash": 1038514058,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHNICUS_GEAR_COIN_LIMIT",
+        "TextMapContentTextMapHash": 2325036899,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_NAME_1",
+        "TextMapContentTextMapHash": 3760711601,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_NAME_2",
+        "TextMapContentTextMapHash": 4294089329,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_NAME_3",
+        "TextMapContentTextMapHash": 3516420409,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_NAME_4",
+        "TextMapContentTextMapHash": 1746599233,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_NAME_5",
+        "TextMapContentTextMapHash": 3177941321,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_NAME_6",
+        "TextMapContentTextMapHash": 1683790441,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_CAN_BE_UNLOCKED",
+        "TextMapContentTextMapHash": 3342914358,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_UPGRADE",
+        "TextMapContentTextMapHash": 437362473,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_UNLOCKED",
+        "TextMapContentTextMapHash": 3166610881,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_TEACH_MISSON",
+        "TextMapContentTextMapHash": 1467560695,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_ATTACKSPEED",
+        "TextMapContentTextMapHash": 641158191,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_ATTACKRANGE",
+        "TextMapContentTextMapHash": 840078455,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_WATCHER_LOCKED",
+        "TextMapContentTextMapHash": 2103874160,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_GEAR_LOCK_TIPS",
+        "TextMapContentTextMapHash": 4258241512,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_MAP_LOCKED",
+        "TextMapContentTextMapHash": 462057100,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_SEQUENCE_TITLE",
+        "TextMapContentTextMapHash": 1177504834,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_PUNISH_TIME",
+        "TextMapContentTextMapHash": 1321186006,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_PRE_MISSION_CHECK",
+        "TextMapContentTextMapHash": 2030598548,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_UPGRADE_SUCCESS",
+        "TextMapContentTextMapHash": 781409419,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_UNLOCKED_SUCCESS",
+        "TextMapContentTextMapHash": 2954392768,
+        "ParamTypes": [
+            "TEXT_PARAM_NONE"
+        ]
+    },
+    {
+        "TextMapId": "UI_MECHANICUS_TITLE_FORMAT",
+        "TextMapContentTextMapHash": 1055078167,
         "ParamTypes": [
             "TEXT_PARAM_NONE"
         ]

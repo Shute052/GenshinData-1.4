@@ -310,6 +310,16 @@
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
     },
     {
+        "Id": 20201,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "Id": 20301,
+        "TagStr": "深渊法师",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
         "Id": 30101,
         "TagStr": "先遣队",
         "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
@@ -478,6 +488,31 @@
         "Id": 60301,
         "TagStr": "幼岩龙蜥",
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "Id": 60401,
+        "TagStr": "岩龙蜥",
+        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
+    },
+    {
+        "Id": 60501,
+        "TagStr": "古岩龙蜥水",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "Id": 60502,
+        "TagStr": "古岩龙蜥火",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "Id": 60503,
+        "TagStr": "古岩龙蜥冰",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
+    },
+    {
+        "Id": 60504,
+        "TagStr": "古岩龙蜥电",
+        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
     },
     {
         "Id": 60601,

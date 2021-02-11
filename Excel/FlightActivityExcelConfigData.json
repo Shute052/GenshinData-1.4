@@ -10,7 +10,7 @@
             2,
             3
         ],
-        "DailyFactor": [
+        "DailyFactorVec": [
             {
                 "TimeFactor": 120,
                 "GoldFactor": 4000

@@ -1,41 +1,41 @@
 [
     {
-        "ElementType": "FIRE",
+        "ElementType": "Fire",
         "ElementIcon": "UI_Buff_Element_Fire",
         "Rank": 1
     },
     {
-        "ElementType": "WATER",
+        "ElementType": "Water",
         "ElementIcon": "UI_Buff_Element_Water",
         "Rank": 2
     },
     {
-        "ElementType": "GRASS",
+        "ElementType": "Grass",
         "ElementIcon": "UI_Buff_Element_Grass",
         "Rank": 3
     },
     {
-        "ElementType": "ELECTRIC",
+        "ElementType": "Electric",
         "ElementIcon": "UI_Buff_Element_Elect",
         "Rank": 4
     },
     {
-        "ElementType": "WIND",
+        "ElementType": "Wind",
         "ElementIcon": "UI_Buff_Element_Wind",
         "Rank": 5
     },
     {
-        "ElementType": "FROZEN",
+        "ElementType": "Frozen",
         "ElementIcon": "UI_Buff_Element_Frost",
         "Rank": 6
     },
     {
-        "ElementType": "ICE",
+        "ElementType": "Ice",
         "ElementIcon": "UI_Buff_Element_Frost",
         "Rank": 7
     },
     {
-        "ElementType": "ROCK",
+        "ElementType": "Rock",
         "ElementIcon": "UI_Buff_Element_Roach",
         "Rank": 8
     }

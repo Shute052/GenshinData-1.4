@@ -23,9 +23,9 @@
     {
         "PropName": "Actor_CriticalDelta",
         "OverallMin": -3.0,
-        "OverallMax": 1.0,
+        "OverallMax": 3.0,
         "LimitTagMin": -3.0,
-        "LimitTagMax": 1.0,
+        "LimitTagMax": 3.0,
         "SucceedOwner": true
     },
     {
@@ -140,58 +140,58 @@
     {
         "PropName": "Actor_FireSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_ElecSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_WaterSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_GrassSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_WindSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_IceSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_RockSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_PhysicalSubHurtDelta",
         "OverallMin": -2.0,
-        "OverallMax": 1.0,
-        "LimitTagMin": -1.0,
-        "LimitTagMax": 1.0
+        "OverallMax": 3.0,
+        "LimitTagMin": -2.0,
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Actor_AddGravityScale",
@@ -210,9 +210,9 @@
     {
         "PropName": "Actor_ShieldCostMinusRatio",
         "OverallMin": -5.0,
-        "OverallMax": 0.800000011920929,
+        "OverallMax": 3.0,
         "LimitTagMin": -2.0,
-        "LimitTagMax": 0.6700000166893005
+        "LimitTagMax": 3.0
     },
     {
         "PropName": "Entity_ChargeSpeedRatioDelta",

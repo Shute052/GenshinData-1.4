@@ -6,8 +6,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 60,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100017,
                 "Count": 1
@@ -17,7 +17,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110001,
                 "Count": 1
@@ -34,8 +34,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 180,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100078,
                 "Count": 1
@@ -45,7 +45,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110002,
                 "Count": 1
@@ -62,8 +62,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 300,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100064,
                 "Count": 3
@@ -76,7 +76,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110003,
                 "Count": 1
@@ -93,8 +93,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 300,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100078,
                 "Count": 2
@@ -104,7 +104,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110004,
                 "Count": 1
@@ -121,8 +121,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 300,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 2
@@ -135,7 +135,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110005,
                 "Count": 1
@@ -152,8 +152,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 180,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100012,
                 "Count": 2
@@ -163,7 +163,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110006,
                 "Count": 1
@@ -180,8 +180,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 1200,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100073,
                 "Count": 4
@@ -191,7 +191,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 100074,
                 "Count": 1
@@ -208,8 +208,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 600,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100002,
                 "Count": 3
@@ -225,7 +225,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110008,
                 "Count": 1
@@ -242,8 +242,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 600,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100078,
                 "Count": 3
@@ -253,7 +253,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110009,
                 "Count": 1
@@ -270,8 +270,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 900,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 2
@@ -284,7 +284,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110010,
                 "Count": 1
@@ -301,8 +301,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 1200,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100061,
                 "Count": 3
@@ -312,7 +312,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 110011,
                 "Count": 1
@@ -329,8 +329,8 @@
         "Type": "COMPOUND_COOK",
         "IsDefaultUnlocked": true,
         "CostTime": 60,
-        "Queuesize": 99,
-        "Input": [
+        "QueueSize": 99,
+        "InputVec": [
             {
                 "Id": 100094,
                 "Count": 1
@@ -340,7 +340,7 @@
             {},
             {}
         ],
-        "Output": [
+        "OutputVec": [
             {
                 "Id": 100061,
                 "Count": 1

@@ -2,196 +2,196 @@
     {
         "Id": 11001,
         "AbilityStates": [
-            "ELEMENTICE",
-            "ISGHOSTTOENEMY",
-            "ELEMENTBURNING",
-            "ELEMENTGRASSGROWING",
-            "IGNORETRIGGERBULLET",
-            "ELEMENTELECTRIC",
-            "ELEMENTCONDUCTIVE",
-            "ELEMENTWIND",
-            "SPEEDDOWN",
-            "MUTETAUNT"
+            "ElementFreeze",
+            "ElementBurning",
+            "ElementWet",
+            "ElementFrozen",
+            "ElementShock",
+            "ElementFire",
+            "ElementIce",
+            "ElementElectric",
+            "ElementWind",
+            "ElementPetrifaction"
         ]
     },
     {
         "Id": 11002,
         "AbilityStates": [
-            "ELEMENTICE",
-            "ISGHOSTTOENEMY",
-            "ELEMENTBURNING",
-            "ELEMENTGRASSGROWING",
-            "IGNORETRIGGERBULLET",
-            "ELEMENTSHOCK",
-            "ELEMENTCONDUCTIVE",
-            "SPEEDUP",
-            "DEFENSEDOWN",
-            "MUTETAUNT"
+            "ElementFreeze",
+            "ElementBurning",
+            "ElementWet",
+            "ElementFrozen",
+            "ElementShock",
+            "Struggle",
+            "ElementIce",
+            "DefenseDown",
+            "SpeedDown",
+            "ElementPetrifaction"
         ]
     },
     {
         "Id": 11003,
         "AbilityStates": [
-            "ELEMENTICE",
-            "ELEMENTGRASSGROWING",
-            "ELEMENTSHOCK",
-            "ELEMENTFROZEN",
-            "SPEEDUP",
-            "LIMBO",
-            "ELEMENTCONDUCTIVE",
-            "MUTETAUNT",
-            "NONE",
-            "NONE"
+            "ElementFreeze",
+            "ElementFrozen",
+            "Struggle",
+            "Paralyze",
+            "DefenseDown",
+            "MuteTaunt",
+            "ElementIce",
+            "ElementPetrifaction",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 12001,
         "AbilityStates": [
-            "ELEMENTICE",
-            "ISGHOSTTOENEMY",
-            "ELEMENTBURNING",
-            "ELEMENTGRASSGROWING",
-            "IGNORETRIGGERBULLET",
-            "MUTETAUNT",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementFreeze",
+            "ElementBurning",
+            "ElementWet",
+            "ElementFrozen",
+            "ElementShock",
+            "ElementPetrifaction",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 12002,
         "AbilityStates": [
-            "ELEMENTELECTRIC",
-            "ELEMENTCONDUCTIVE",
-            "ELEMENTWIND",
-            "SPEEDDOWN",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementFire",
+            "ElementIce",
+            "ElementElectric",
+            "ElementWind",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 13001,
         "AbilityStates": [
-            "ELEMENTICE",
-            "ELEMENTCONDUCTIVE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementFreeze",
+            "ElementIce",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 13002,
         "AbilityStates": [
-            "ELEMENTICE",
-            "ELEMENTSHOCK",
-            "MUTETAUNT",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementFreeze",
+            "Struggle",
+            "ElementPetrifaction",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 14001,
         "AbilityStates": [
-            "ELEMENTSHOCK",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "Struggle",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 14002,
         "AbilityStates": [
-            "ELEMENTICE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementFreeze",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 14003,
         "AbilityStates": [
-            "ELEMENTROCK",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementConductive",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 14004,
         "AbilityStates": [
-            "IGNORETRIGGERBULLET",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementShock",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 14005,
         "AbilityStates": [
-            "ELEMENTGRASSGROWING",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementFrozen",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     },
     {
         "Id": 14006,
         "AbilityStates": [
-            "MUTETAUNT",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE",
-            "NONE"
+            "ElementPetrifaction",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
         ]
     }
 ]

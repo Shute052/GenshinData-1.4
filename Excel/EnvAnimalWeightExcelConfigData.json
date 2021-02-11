@@ -1,249 +1,249 @@
 [
     {
         "EnvType": "ENVIRONMENT_GENERAL",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 70590006,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_GRASS",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 70590008,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 200,
-                "AliveHour": {
+                "AliveHourMap": {
                     "18": 24,
                     "0": 6
                 }
             },
             {
                 "AnimalId": 70590006,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 400,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 70590007,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 400,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_RIVERSIDE",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 28010101,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010102,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010301,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010302,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_MOUNTAIN",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 28010201,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010202,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010203,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_CRAB",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 28010101,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010102,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 28010103,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_BUTTERFLY",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 70590006,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 70590007,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_GRASSSHOPPER",
-        "Weight": [
+        "WeightVec": [
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_BUSH",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 28010201,
-                "EntityType": "MONSTER",
+                "EntityType": "Monster",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 70590008,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {
+                "AliveHourMap": {
                     "18": 24,
                     "0": 6
                 }
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_FIREFLY",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 70590008,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {
+                "AliveHourMap": {
                     "18": 24,
                     "0": 6
                 }
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     },
     {
         "EnvType": "ENVIRONMENT_WOODS",
-        "Weight": [
+        "WeightVec": [
             {
                 "AnimalId": 70590008,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 800,
-                "AliveHour": {
+                "AliveHourMap": {
                     "18": 24,
                     "0": 6
                 }
             },
             {
                 "AnimalId": 70590006,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
                 "AnimalId": 70590007,
-                "EntityType": "GADGET",
+                "EntityType": "Gadget",
                 "Weight": 100,
-                "AliveHour": {}
+                "AliveHourMap": {}
             },
             {
-                "AliveHour": {}
+                "AliveHourMap": {}
             }
         ]
     }

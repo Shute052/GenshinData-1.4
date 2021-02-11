@@ -2,48 +2,48 @@
     {
         "EntryId": 1,
         "PlayId": 1,
-        "ServerLuaCallGroup": [],
+        "ServerLuaCallGroupList": [],
         "ResinCost": 40,
-        "Reward": [
+        "RewardVec": [
             {
-                "DropId": 209000600,
+                "DropID": 209000600,
                 "RewardPreview": 4201
             },
             {
-                "DropId": 209000800,
+                "DropID": 209000800,
                 "RewardPreview": 4202
             },
             {
-                "DropId": 209000900,
+                "DropID": 209000900,
                 "RewardPreview": 4203
             },
             {
-                "DropId": 209001000,
+                "DropID": 209001000,
                 "RewardPreview": 4204
             },
             {
-                "DropId": 209001100,
+                "DropID": 209001100,
                 "RewardPreview": 4205
             },
             {
-                "DropId": 209001200,
+                "DropID": 209001200,
                 "RewardPreview": 4206
             },
             {
-                "DropId": 209001300,
+                "DropID": 209001300,
                 "RewardPreview": 4207
             },
             {
-                "DropId": 209001400,
+                "DropID": 209001400,
                 "RewardPreview": 4208
             },
             {
-                "DropId": 209001500,
+                "DropID": 209001500,
                 "RewardPreview": 4209
             }
         ],
-        "ActivateGroup": [],
-        "Group": [
+        "ActivateGroupList": [],
+        "GroupList": [
             133003549,
             133003550,
             133003554,
@@ -56,19 +56,19 @@
         "RewardGroupId": 305001001,
         "RewardConfigId": 3,
         "PrepareTime": 20,
-        "CenterPos": [
+        "CenterPosList": [
             2342.75,
             283.8999938964844,
             -1730.97998046875
         ],
         "CenterRadius": 250,
-        "TargetPos": [
+        "TargetPosList": [
             2346.30810546875,
             238.78399658203125,
             -1735.8680419921875
         ],
         "ReviseId": 1,
-        "Rate": [
+        "RateList": [
             300,
             500,
             660,
@@ -79,52 +79,52 @@
     {
         "EntryId": 2,
         "PlayId": 2,
-        "ServerLuaCallGroup": [
+        "ServerLuaCallGroupList": [
             133001413
         ],
         "ResinCost": 40,
-        "Reward": [
+        "RewardVec": [
             {
-                "DropId": 210020000,
+                "DropID": 210020000,
                 "RewardPreview": 9110
             },
             {
-                "DropId": 210020010,
+                "DropID": 210020010,
                 "RewardPreview": 9111
             },
             {
-                "DropId": 210020020,
+                "DropID": 210020020,
                 "RewardPreview": 9112
             },
             {
-                "DropId": 210020030,
+                "DropID": 210020030,
                 "RewardPreview": 9113
             },
             {
-                "DropId": 210020040,
+                "DropID": 210020040,
                 "RewardPreview": 9114
             },
             {
-                "DropId": 210020050,
+                "DropID": 210020050,
                 "RewardPreview": 9115
             },
             {
-                "DropId": 210020060,
+                "DropID": 210020060,
                 "RewardPreview": 9116
             },
             {
-                "DropId": 210020070,
+                "DropID": 210020070,
                 "RewardPreview": 9117
             },
             {
-                "DropId": 210020080,
+                "DropID": 210020080,
                 "RewardPreview": 9118
             }
         ],
-        "ActivateGroup": [
+        "ActivateGroupList": [
             133001413
         ],
-        "Group": [
+        "GroupList": [
             133001426,
             133001427,
             133001498
@@ -138,19 +138,19 @@
         "RewardGroupId": 133001413,
         "GeneralRewardConfigId": 413124,
         "PrepareTime": 20,
-        "CenterPos": [
+        "CenterPosList": [
             1883.0,
             196.0113067626953,
             -1553.0
         ],
         "CenterRadius": 250,
-        "TargetPos": [
+        "TargetPosList": [
             1883.0,
             196.0113067626953,
             -1553.0
         ],
         "ReviseId": 2,
-        "Rate": [
+        "RateList": [
             300,
             500,
             660,
@@ -161,52 +161,52 @@
     {
         "EntryId": 3,
         "PlayId": 3,
-        "ServerLuaCallGroup": [
+        "ServerLuaCallGroupList": [
             133002418
         ],
         "ClientShowType": "MP_PLAY_SHOW_NO_RESIN",
-        "Reward": [
+        "RewardVec": [
             {
-                "DropId": 211000301,
+                "DropID": 211000301,
                 "RewardPreview": 30331
             },
             {
-                "DropId": 211000302,
+                "DropID": 211000302,
                 "RewardPreview": 30332
             },
             {
-                "DropId": 211000303,
+                "DropID": 211000303,
                 "RewardPreview": 30333
             },
             {
-                "DropId": 211000304,
+                "DropID": 211000304,
                 "RewardPreview": 30334
             },
             {
-                "DropId": 211000305,
+                "DropID": 211000305,
                 "RewardPreview": 30335
             },
             {
-                "DropId": 211000306,
+                "DropID": 211000306,
                 "RewardPreview": 30336
             },
             {
-                "DropId": 211000307,
+                "DropID": 211000307,
                 "RewardPreview": 30337
             },
             {
-                "DropId": 211000308,
+                "DropID": 211000308,
                 "RewardPreview": 30338
             },
             {
-                "DropId": 211000309,
+                "DropID": 211000309,
                 "RewardPreview": 30339
             }
         ],
-        "ActivateGroup": [
+        "ActivateGroupList": [
             133002418
         ],
-        "Group": [],
+        "GroupList": [],
         "BornGroupId": 133002418,
         "BornConfigId": 418038,
         "SafeGroupId": 133002418,
@@ -216,19 +216,19 @@
         "RewardGroupId": 133002418,
         "GeneralRewardConfigId": 418008,
         "PrepareTime": 20,
-        "CenterPos": [
+        "CenterPosList": [
             1080.6300048828125,
             285.8599853515625,
             -439.30999755859375
         ],
         "CenterRadius": 250,
-        "TargetPos": [
+        "TargetPosList": [
             1080.6300048828125,
             285.8599853515625,
             -439.30999755859375
         ],
         "ReviseId": 5,
-        "Rate": [
+        "RateList": [
             300,
             500,
             660,

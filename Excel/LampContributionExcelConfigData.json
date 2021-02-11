@@ -1,27 +1,22 @@
 [
     {
         "Id": 1,
-        "Contribution": 800,
-        "RewardId": 460101
+        "Contribution": 800
     },
     {
         "Id": 2,
-        "Contribution": 2400,
-        "RewardId": 460102
+        "Contribution": 2400
     },
     {
         "Id": 3,
-        "Contribution": 4800,
-        "RewardId": 460103
+        "Contribution": 4800
     },
     {
         "Id": 4,
-        "Contribution": 8000,
-        "RewardId": 460104
+        "Contribution": 8000
     },
     {
         "Id": 5,
-        "Contribution": 12000,
-        "RewardId": 460105
+        "Contribution": 12000
     }
 ]

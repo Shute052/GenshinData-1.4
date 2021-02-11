@@ -7,9 +7,9 @@
         "IsAutoMatch": true,
         "MinPlayers": 2,
         "MaxPlayers": 4,
-        "IsAllownAnyTime": true,
+        "IsAllowInAnyTime": true,
         "IsMatchNecessary": true,
-        "Buff": [],
+        "BuffList": [],
         "PushTipsId": 6001,
         "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_CrucibleBg"
     },
@@ -21,8 +21,8 @@
         "IsAutoMatch": true,
         "MinPlayers": 2,
         "MaxPlayers": 4,
-        "IsAllownAnyTime": true,
-        "Buff": [
+        "IsAllowInAnyTime": true,
+        "BuffList": [
             1,
             2
         ],
@@ -37,8 +37,8 @@
         "IsAutoMatch": true,
         "MinPlayers": 2,
         "MaxPlayers": 4,
-        "IsAllownAnyTime": true,
-        "Buff": [],
+        "IsAllowInAnyTime": true,
+        "BuffList": [],
         "PushTipsId": 9003,
         "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Dragonspine"
     }

@@ -2766,6 +2766,34 @@
         "DescTextMapHash": 3198001738
     },
     {
+        "ClientId": 10405,
+        "Id": 1357,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AtkAtkSpeedUpLowHP_Ver_1_13",
+        "DescTextMapHash": 327650490
+    },
+    {
+        "ClientId": 10406,
+        "Id": 1357,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_CriticalUpLowHP_Ver_1_13",
+        "DescTextMapHash": 1523622242
+    },
+    {
+        "ClientId": 10407,
+        "Id": 1358,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AreaAttackLowHP_Ver_1_13",
+        "DescTextMapHash": 4206201274
+    },
+    {
+        "ClientId": 10408,
+        "Id": 1359,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AttackUpAreaDamageLowHP_Ver_1_13",
+        "DescTextMapHash": 567287546
+    },
+    {
         "ClientId": 10409,
         "Id": 1360,
         "Show": true,
@@ -2785,5 +2813,31 @@
         "Show": true,
         "LevelConfigName": "LevelEntity_EffigyChallenge_MonsterHp_100",
         "DescTextMapHash": 2324193386
+    },
+    {
+        "ClientId": 10412,
+        "Id": 1363,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1098050194
+    },
+    {
+        "ClientId": 10413,
+        "Id": 1363,
+        "LevelConfigName": "LevelEntity_Monster_HpUp_Lv4",
+        "DescTextMapHash": 50003562
+    },
+    {
+        "ClientId": 10417,
+        "Id": 1365,
+        "LevelConfigName": "LevelEntity_Activity_TowerDefence_AvatarDebuff",
+        "DescTextMapHash": 1091727858
+    },
+    {
+        "ClientId": 10418,
+        "Id": 1363,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 4281087034
     }
 ]

@@ -387,7 +387,7 @@
         "SpecialDescTextMapHash": 972153545,
         "TypeDescTextMapHash": 3423452310,
         "EffectIcon": "",
-        "EffectGadgetId": 70800031,
+        "EffectGadgetID": 70800031,
         "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -423,7 +423,7 @@
         "SpecialDescTextMapHash": 2614994409,
         "TypeDescTextMapHash": 2433116486,
         "EffectIcon": "",
-        "EffectGadgetId": 70800031,
+        "EffectGadgetID": 70800031,
         "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -459,7 +459,7 @@
         "SpecialDescTextMapHash": 3712290129,
         "TypeDescTextMapHash": 2263030910,
         "EffectIcon": "",
-        "EffectGadgetId": 70800031,
+        "EffectGadgetID": 70800031,
         "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -507,6 +507,112 @@
         "Icon": "UI_ItemIcon_114",
         "ItemType": "ITEM_VIRTUAL",
         "GadgetId": 70590029
+    },
+    {
+        "InteractionTitleTextMapHash": 2216056367,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 4198495503,
+        "SpecialDescTextMapHash": 3424582073,
+        "TypeDescTextMapHash": 953455030,
+        "EffectIcon": "",
+        "EffectGadgetID": 70800031,
+        "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115,
+        "NameTextMapHash": 1142549868,
+        "DescTextMapHash": 704623389,
+        "Icon": "UI_ItemIcon_200005",
+        "ItemType": "ITEM_VIRTUAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2928560767,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 921658423,
+        "SpecialDescTextMapHash": 154464673,
+        "TypeDescTextMapHash": 685617078,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 116,
+        "NameTextMapHash": 3064897620,
+        "DescTextMapHash": 1784522989,
+        "Icon": "UI_ItemIcon_116",
+        "ItemType": "ITEM_VIRTUAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3186802015,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 2271933303,
+        "SpecialDescTextMapHash": 463717377,
+        "TypeDescTextMapHash": 1726929630,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 117,
+        "NameTextMapHash": 1899348124,
+        "DescTextMapHash": 2687319733,
+        "Icon": "UI_ItemIcon_117",
+        "ItemType": "ITEM_VIRTUAL"
     },
     {
         "InteractionTitleTextMapHash": 3829838887,
@@ -2705,6 +2811,46 @@
         "ItemType": "ITEM_MATERIAL"
     },
     {
+        "InteractionTitleTextMapHash": 2780931583,
+        "MaterialType": "MATERIAL_AVATAR",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_AVATAR",
+                "UseParam": [
+                    "10000046",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 5,
+        "EffectDescTextMapHash": 931250175,
+        "SpecialDescTextMapHash": 2763543833,
+        "TypeDescTextMapHash": 1083036782,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 1046,
+        "NameTextMapHash": 601370988,
+        "DescTextMapHash": 3668151189,
+        "Icon": "UI_AvatarIcon_Hutao_Card",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
         "InteractionTitleTextMapHash": 3395871759,
         "MaterialType": "MATERIAL_TALENT",
         "StackLimit": 1000,
@@ -3881,6 +4027,44 @@
         "Icon": "UI_ItemIcon_1103",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 20
+    },
+    {
+        "InteractionTitleTextMapHash": 2094715927,
+        "MaterialType": "MATERIAL_TALENT",
+        "StackLimit": 1000,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 5,
+        "EffectDescTextMapHash": 3901858783,
+        "SpecialDescTextMapHash": 3612098185,
+        "TypeDescTextMapHash": 577398542,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 1146,
+        "NameTextMapHash": 1291822500,
+        "DescTextMapHash": 1198574749,
+        "Icon": "UI_ItemIcon_1102",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 30
     },
     {
         "InteractionTitleTextMapHash": 2175163815,
@@ -10981,7 +11165,7 @@
         "SpecialDescTextMapHash": 1543402873,
         "TypeDescTextMapHash": 388955086,
         "EffectIcon": "",
-        "EffectGadgetId": 70300049,
+        "EffectGadgetID": 70300049,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -11021,7 +11205,7 @@
         "SpecialDescTextMapHash": 472495289,
         "TypeDescTextMapHash": 2889256374,
         "EffectIcon": "",
-        "EffectGadgetId": 70300049,
+        "EffectGadgetID": 70300049,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -11061,7 +11245,7 @@
         "SpecialDescTextMapHash": 2840401121,
         "TypeDescTextMapHash": 99284942,
         "EffectIcon": "",
-        "EffectGadgetId": 70300049,
+        "EffectGadgetID": 70300049,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -11587,7 +11771,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100178,
         "NameTextMapHash": 2042647852,
         "DescTextMapHash": 292708357,
@@ -11630,7 +11814,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100179,
         "NameTextMapHash": 20695108,
         "DescTextMapHash": 2098540189,
@@ -11673,7 +11857,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100180,
         "NameTextMapHash": 3035998620,
         "DescTextMapHash": 3549271237,
@@ -11755,7 +11939,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 24,
+        "SetID": 24,
         "Id": 100182,
         "NameTextMapHash": 108400932,
         "DescTextMapHash": 282802045,
@@ -11798,7 +11982,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 24,
+        "SetID": 24,
         "Id": 100183,
         "NameTextMapHash": 1872237036,
         "DescTextMapHash": 2810898125,
@@ -12007,7 +12191,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100188,
         "NameTextMapHash": 820228180,
         "DescTextMapHash": 3973597541,
@@ -12050,7 +12234,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100189,
         "NameTextMapHash": 2251277196,
         "DescTextMapHash": 864027885,
@@ -12093,7 +12277,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100190,
         "NameTextMapHash": 1252262452,
         "DescTextMapHash": 2230353909,
@@ -12136,7 +12320,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100191,
         "NameTextMapHash": 1063608916,
         "DescTextMapHash": 860115773,
@@ -12179,7 +12363,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100192,
         "NameTextMapHash": 3558295740,
         "DescTextMapHash": 1136308277,
@@ -12222,7 +12406,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100193,
         "NameTextMapHash": 3797727532,
         "DescTextMapHash": 2716497357,
@@ -12265,7 +12449,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100194,
         "NameTextMapHash": 3642104972,
         "DescTextMapHash": 4143217021,
@@ -12308,7 +12492,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100195,
         "NameTextMapHash": 2799552044,
         "DescTextMapHash": 1195217477,
@@ -12351,7 +12535,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 2,
+        "SetID": 2,
         "Id": 100196,
         "NameTextMapHash": 793564644,
         "DescTextMapHash": 2390573069,
@@ -12394,7 +12578,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 2,
+        "SetID": 2,
         "Id": 100197,
         "NameTextMapHash": 3913907804,
         "DescTextMapHash": 3890123765,
@@ -12437,7 +12621,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100198,
         "NameTextMapHash": 3143072972,
         "DescTextMapHash": 456481141,
@@ -12480,7 +12664,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100199,
         "NameTextMapHash": 1544551724,
         "DescTextMapHash": 3472540301,
@@ -12523,7 +12707,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100200,
         "NameTextMapHash": 3301022588,
         "DescTextMapHash": 1486860693,
@@ -12566,7 +12750,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1027,
+        "SetID": 1027,
         "Id": 100201,
         "NameTextMapHash": 73344476,
         "DescTextMapHash": 906062821,
@@ -12609,7 +12793,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100202,
         "NameTextMapHash": 2060335556,
         "DescTextMapHash": 4215361797,
@@ -12652,7 +12836,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100203,
         "NameTextMapHash": 226067828,
         "DescTextMapHash": 4276648229,
@@ -12695,7 +12879,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100204,
         "NameTextMapHash": 799165620,
         "DescTextMapHash": 3999629781,
@@ -12738,7 +12922,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100205,
         "NameTextMapHash": 2317657372,
         "DescTextMapHash": 3170326013,
@@ -12781,7 +12965,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100206,
         "NameTextMapHash": 669626940,
         "DescTextMapHash": 383114789,
@@ -12824,7 +13008,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100207,
         "NameTextMapHash": 1605094708,
         "DescTextMapHash": 1255196445,
@@ -12867,7 +13051,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 5,
+        "SetID": 5,
         "Id": 100208,
         "NameTextMapHash": 3697554724,
         "DescTextMapHash": 37149365,
@@ -13066,7 +13250,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1027,
+        "SetID": 1027,
         "Id": 100213,
         "NameTextMapHash": 3294128860,
         "DescTextMapHash": 202457877,
@@ -13148,7 +13332,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100215,
         "NameTextMapHash": 154158212,
         "DescTextMapHash": 2427670453,
@@ -13191,7 +13375,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100216,
         "NameTextMapHash": 4030738940,
         "DescTextMapHash": 4071238197,
@@ -13234,7 +13418,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100217,
         "NameTextMapHash": 2894113052,
         "DescTextMapHash": 1123439557,
@@ -13277,7 +13461,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100218,
         "NameTextMapHash": 557708884,
         "DescTextMapHash": 339857421,
@@ -13320,7 +13504,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100219,
         "NameTextMapHash": 2553686220,
         "DescTextMapHash": 3115677309,
@@ -13363,7 +13547,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100220,
         "NameTextMapHash": 1305688460,
         "DescTextMapHash": 1229236997,
@@ -13406,7 +13590,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 21,
+        "SetID": 21,
         "Id": 100221,
         "NameTextMapHash": 2717021740,
         "DescTextMapHash": 3685883485,
@@ -13487,7 +13671,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1028,
+        "SetID": 1028,
         "Id": 100223,
         "NameTextMapHash": 2887962404,
         "DescTextMapHash": 1478259877,
@@ -13611,7 +13795,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100226,
         "NameTextMapHash": 2999711684,
         "DescTextMapHash": 4032292277,
@@ -13654,7 +13838,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100227,
         "NameTextMapHash": 2694921740,
         "DescTextMapHash": 1228569205,
@@ -13697,7 +13881,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100228,
         "NameTextMapHash": 409063596,
         "DescTextMapHash": 4291142853,
@@ -13740,7 +13924,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1007,
+        "SetID": 1007,
         "Id": 100229,
         "NameTextMapHash": 2552353980,
         "DescTextMapHash": 2107438661,
@@ -13783,7 +13967,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1007,
+        "SetID": 1007,
         "Id": 100230,
         "NameTextMapHash": 86212156,
         "DescTextMapHash": 53657629,
@@ -13826,7 +14010,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1007,
+        "SetID": 1007,
         "Id": 100239,
         "NameTextMapHash": 2771826980,
         "DescTextMapHash": 991363405,
@@ -13869,7 +14053,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1007,
+        "SetID": 1007,
         "Id": 100240,
         "NameTextMapHash": 3397803356,
         "DescTextMapHash": 1201625197,
@@ -13912,7 +14096,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1007,
+        "SetID": 1007,
         "Id": 100241,
         "NameTextMapHash": 1287378052,
         "DescTextMapHash": 141708173,
@@ -16728,7 +16912,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1028,
+        "SetID": 1028,
         "Id": 100361,
         "NameTextMapHash": 4014535492,
         "DescTextMapHash": 459863837,
@@ -16846,7 +17030,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1011,
+        "SetID": 1011,
         "Id": 100364,
         "NameTextMapHash": 4166044980,
         "DescTextMapHash": 4075381189,
@@ -16925,7 +17109,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1020,
+        "SetID": 1020,
         "Id": 100366,
         "NameTextMapHash": 1575162372,
         "DescTextMapHash": 4276541741,
@@ -16965,7 +17149,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1020,
+        "SetID": 1020,
         "Id": 100367,
         "NameTextMapHash": 3321083916,
         "DescTextMapHash": 4124930453,
@@ -17005,7 +17189,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1020,
+        "SetID": 1020,
         "Id": 100368,
         "NameTextMapHash": 1651256964,
         "DescTextMapHash": 1249920333,
@@ -17045,7 +17229,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1020,
+        "SetID": 1020,
         "Id": 100369,
         "NameTextMapHash": 494247172,
         "DescTextMapHash": 599819693,
@@ -17771,7 +17955,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100388,
         "NameTextMapHash": 2806382396,
         "DescTextMapHash": 2353418533,
@@ -17814,7 +17998,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100389,
         "NameTextMapHash": 3076885628,
         "DescTextMapHash": 190796869,
@@ -17857,7 +18041,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100390,
         "NameTextMapHash": 1381748732,
         "DescTextMapHash": 4099703901,
@@ -17900,7 +18084,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100391,
         "NameTextMapHash": 453056004,
         "DescTextMapHash": 558371733,
@@ -18210,7 +18394,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1008,
+        "SetID": 1008,
         "Id": 100399,
         "NameTextMapHash": 1823692700,
         "DescTextMapHash": 1740809733,
@@ -18253,7 +18437,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1008,
+        "SetID": 1008,
         "Id": 100400,
         "NameTextMapHash": 1472621812,
         "DescTextMapHash": 2601499045,
@@ -18335,7 +18519,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1026,
+        "SetID": 1026,
         "Id": 100402,
         "NameTextMapHash": 798257228,
         "DescTextMapHash": 444497397,
@@ -18378,7 +18562,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1024,
+        "SetID": 1024,
         "Id": 100403,
         "NameTextMapHash": 2258683644,
         "DescTextMapHash": 1098752181,
@@ -18499,7 +18683,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1009,
+        "SetID": 1009,
         "Id": 100406,
         "NameTextMapHash": 3166983148,
         "DescTextMapHash": 412981837,
@@ -18542,7 +18726,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1009,
+        "SetID": 1009,
         "Id": 100407,
         "NameTextMapHash": 1322558860,
         "DescTextMapHash": 975624197,
@@ -18585,7 +18769,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1009,
+        "SetID": 1009,
         "Id": 100408,
         "NameTextMapHash": 1960809244,
         "DescTextMapHash": 3520228077,
@@ -18706,7 +18890,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1010,
+        "SetID": 1010,
         "Id": 100411,
         "NameTextMapHash": 86226452,
         "DescTextMapHash": 2388510509,
@@ -18749,7 +18933,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1010,
+        "SetID": 1010,
         "Id": 100412,
         "NameTextMapHash": 34850412,
         "DescTextMapHash": 4027059501,
@@ -19521,7 +19705,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1011,
+        "SetID": 1011,
         "Id": 100432,
         "NameTextMapHash": 1126981836,
         "DescTextMapHash": 1232429221,
@@ -19564,7 +19748,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1011,
+        "SetID": 1011,
         "Id": 100433,
         "NameTextMapHash": 3149480212,
         "DescTextMapHash": 1517738925,
@@ -19607,7 +19791,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1011,
+        "SetID": 1011,
         "Id": 100434,
         "NameTextMapHash": 3918044828,
         "DescTextMapHash": 2796500037,
@@ -19650,7 +19834,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1011,
+        "SetID": 1011,
         "Id": 100435,
         "NameTextMapHash": 770828524,
         "DescTextMapHash": 2193751405,
@@ -19693,7 +19877,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1011,
+        "SetID": 1011,
         "Id": 100436,
         "NameTextMapHash": 812242044,
         "DescTextMapHash": 3926210925,
@@ -19736,7 +19920,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1012,
+        "SetID": 1012,
         "Id": 100437,
         "NameTextMapHash": 1843098252,
         "DescTextMapHash": 3819070613,
@@ -19779,7 +19963,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1012,
+        "SetID": 1012,
         "Id": 100438,
         "NameTextMapHash": 1457858676,
         "DescTextMapHash": 1963748309,
@@ -19822,7 +20006,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1012,
+        "SetID": 1012,
         "Id": 100439,
         "NameTextMapHash": 1183991940,
         "DescTextMapHash": 3853760157,
@@ -19865,7 +20049,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1012,
+        "SetID": 1012,
         "Id": 100440,
         "NameTextMapHash": 3033733292,
         "DescTextMapHash": 1682574213,
@@ -19908,7 +20092,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100441,
         "NameTextMapHash": 2695427124,
         "DescTextMapHash": 563475701,
@@ -19949,7 +20133,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1013,
+        "SetID": 1013,
         "Id": 100442,
         "NameTextMapHash": 3510588708,
         "DescTextMapHash": 1401160565,
@@ -19990,7 +20174,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1013,
+        "SetID": 1013,
         "Id": 100443,
         "NameTextMapHash": 2930065364,
         "DescTextMapHash": 3027424413,
@@ -20031,7 +20215,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1013,
+        "SetID": 1013,
         "Id": 100444,
         "NameTextMapHash": 264607268,
         "DescTextMapHash": 1898696565,
@@ -20072,7 +20256,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1013,
+        "SetID": 1013,
         "Id": 100445,
         "NameTextMapHash": 649455100,
         "DescTextMapHash": 2518963701,
@@ -21272,7 +21456,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1014,
+        "SetID": 1014,
         "Id": 100480,
         "NameTextMapHash": 768510452,
         "DescTextMapHash": 3475105133,
@@ -21315,7 +21499,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1014,
+        "SetID": 1014,
         "Id": 100481,
         "NameTextMapHash": 502631652,
         "DescTextMapHash": 3956586645,
@@ -21358,7 +21542,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1014,
+        "SetID": 1014,
         "Id": 100482,
         "NameTextMapHash": 996689428,
         "DescTextMapHash": 620995949,
@@ -21401,7 +21585,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1014,
+        "SetID": 1014,
         "Id": 100483,
         "NameTextMapHash": 328351724,
         "DescTextMapHash": 1064508477,
@@ -22326,7 +22510,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1015,
+        "SetID": 1015,
         "Id": 100507,
         "NameTextMapHash": 296158804,
         "DescTextMapHash": 263930493,
@@ -22369,7 +22553,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1015,
+        "SetID": 1015,
         "Id": 100508,
         "NameTextMapHash": 1387192236,
         "DescTextMapHash": 2414593789,
@@ -22412,7 +22596,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1015,
+        "SetID": 1015,
         "Id": 100509,
         "NameTextMapHash": 1627509868,
         "DescTextMapHash": 3193131717,
@@ -24566,7 +24750,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1016,
+        "SetID": 1016,
         "Id": 100565,
         "NameTextMapHash": 999682764,
         "DescTextMapHash": 1308385669,
@@ -24609,7 +24793,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1016,
+        "SetID": 1016,
         "Id": 100566,
         "NameTextMapHash": 3414728828,
         "DescTextMapHash": 3661409853,
@@ -24652,7 +24836,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1016,
+        "SetID": 1016,
         "Id": 100567,
         "NameTextMapHash": 1925559700,
         "DescTextMapHash": 2845557869,
@@ -24695,7 +24879,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1017,
+        "SetID": 1017,
         "Id": 100568,
         "NameTextMapHash": 2868361620,
         "DescTextMapHash": 3401892229,
@@ -24738,7 +24922,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1017,
+        "SetID": 1017,
         "Id": 100569,
         "NameTextMapHash": 2515234348,
         "DescTextMapHash": 3942525325,
@@ -24781,7 +24965,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1017,
+        "SetID": 1017,
         "Id": 100570,
         "NameTextMapHash": 4199192708,
         "DescTextMapHash": 801502629,
@@ -24824,7 +25008,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1017,
+        "SetID": 1017,
         "Id": 100571,
         "NameTextMapHash": 764070484,
         "DescTextMapHash": 3772055357,
@@ -24867,7 +25051,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1017,
+        "SetID": 1017,
         "Id": 100572,
         "NameTextMapHash": 2722748860,
         "DescTextMapHash": 2712875877,
@@ -24910,7 +25094,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1018,
+        "SetID": 1018,
         "Id": 100573,
         "NameTextMapHash": 1018685844,
         "DescTextMapHash": 3244431101,
@@ -24953,7 +25137,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1018,
+        "SetID": 1018,
         "Id": 100574,
         "NameTextMapHash": 3311859404,
         "DescTextMapHash": 1820457677,
@@ -24996,7 +25180,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1018,
+        "SetID": 1018,
         "Id": 100575,
         "NameTextMapHash": 4186870100,
         "DescTextMapHash": 2452143645,
@@ -25039,7 +25223,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1018,
+        "SetID": 1018,
         "Id": 100576,
         "NameTextMapHash": 3234083484,
         "DescTextMapHash": 1644311277,
@@ -25082,7 +25266,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1019,
+        "SetID": 1019,
         "Id": 100577,
         "NameTextMapHash": 948951332,
         "DescTextMapHash": 4213756357,
@@ -25125,7 +25309,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1019,
+        "SetID": 1019,
         "Id": 100578,
         "NameTextMapHash": 624707572,
         "DescTextMapHash": 2729053909,
@@ -25168,7 +25352,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1019,
+        "SetID": 1019,
         "Id": 100579,
         "NameTextMapHash": 2590632060,
         "DescTextMapHash": 214924005,
@@ -25211,7 +25395,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1019,
+        "SetID": 1019,
         "Id": 100580,
         "NameTextMapHash": 1789380860,
         "DescTextMapHash": 2770454789,
@@ -25447,7 +25631,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1022,
+        "SetID": 1022,
         "Id": 100586,
         "NameTextMapHash": 444442900,
         "DescTextMapHash": 3654199173,
@@ -25490,7 +25674,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1022,
+        "SetID": 1022,
         "Id": 100587,
         "NameTextMapHash": 2806121820,
         "DescTextMapHash": 4277738333,
@@ -25533,7 +25717,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1022,
+        "SetID": 1022,
         "Id": 100588,
         "NameTextMapHash": 3818763716,
         "DescTextMapHash": 2662403221,
@@ -25576,7 +25760,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1022,
+        "SetID": 1022,
         "Id": 100589,
         "NameTextMapHash": 1967781492,
         "DescTextMapHash": 1920838325,
@@ -25619,7 +25803,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1023,
+        "SetID": 1023,
         "Id": 100590,
         "NameTextMapHash": 3939745164,
         "DescTextMapHash": 946929597,
@@ -25662,7 +25846,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1023,
+        "SetID": 1023,
         "Id": 100591,
         "NameTextMapHash": 2244692692,
         "DescTextMapHash": 2878854317,
@@ -25705,7 +25889,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1023,
+        "SetID": 1023,
         "Id": 100592,
         "NameTextMapHash": 480672820,
         "DescTextMapHash": 388593237,
@@ -25748,7 +25932,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1023,
+        "SetID": 1023,
         "Id": 100593,
         "NameTextMapHash": 1459437828,
         "DescTextMapHash": 853696885,
@@ -26283,7 +26467,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100607,
         "NameTextMapHash": 1105142068,
         "DescTextMapHash": 3413267949,
@@ -26326,7 +26510,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100608,
         "NameTextMapHash": 4056977052,
         "DescTextMapHash": 4020147549,
@@ -26369,7 +26553,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1,
+        "SetID": 1,
         "Id": 100609,
         "NameTextMapHash": 1364437420,
         "DescTextMapHash": 1754236205,
@@ -26412,7 +26596,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 4,
+        "SetID": 4,
         "Id": 100610,
         "NameTextMapHash": 3278221900,
         "DescTextMapHash": 2503476477,
@@ -26455,7 +26639,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100611,
         "NameTextMapHash": 2256558212,
         "DescTextMapHash": 2348596653,
@@ -26498,7 +26682,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100612,
         "NameTextMapHash": 2519869860,
         "DescTextMapHash": 1295675045,
@@ -26541,7 +26725,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100613,
         "NameTextMapHash": 3204003804,
         "DescTextMapHash": 1800078701,
@@ -26584,7 +26768,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 3,
+        "SetID": 3,
         "Id": 100614,
         "NameTextMapHash": 2343022228,
         "DescTextMapHash": 3053548693,
@@ -26627,7 +26811,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1009,
+        "SetID": 1009,
         "Id": 100615,
         "NameTextMapHash": 1112428852,
         "DescTextMapHash": 3044774949,
@@ -26973,7 +27157,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1024,
+        "SetID": 1024,
         "Id": 100624,
         "NameTextMapHash": 4248064828,
         "DescTextMapHash": 3054301173,
@@ -27463,7 +27647,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1008,
+        "SetID": 1008,
         "Id": 100637,
         "NameTextMapHash": 1326557756,
         "DescTextMapHash": 1608435669,
@@ -27506,7 +27690,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1008,
+        "SetID": 1008,
         "Id": 100638,
         "NameTextMapHash": 3026096084,
         "DescTextMapHash": 83283677,
@@ -27588,7 +27772,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1024,
+        "SetID": 1024,
         "Id": 100640,
         "NameTextMapHash": 3736214228,
         "DescTextMapHash": 1946680917,
@@ -27631,7 +27815,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1024,
+        "SetID": 1024,
         "Id": 100641,
         "NameTextMapHash": 4080207020,
         "DescTextMapHash": 2694011261,
@@ -27674,7 +27858,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1025,
+        "SetID": 1025,
         "Id": 100642,
         "NameTextMapHash": 1115072996,
         "DescTextMapHash": 1969112629,
@@ -27693,7 +27877,7 @@
             {
                 "UseOp": "ITEM_USE_UNLOCK_CODEX",
                 "UseParam": [
-                    "50026002",
+                    "50026004",
                     "",
                     "",
                     "",
@@ -27717,7 +27901,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1025,
+        "SetID": 1025,
         "Id": 100643,
         "NameTextMapHash": 3867832724,
         "DescTextMapHash": 1257459629,
@@ -27736,7 +27920,7 @@
             {
                 "UseOp": "ITEM_USE_UNLOCK_CODEX",
                 "UseParam": [
-                    "50026003",
+                    "50026005",
                     "",
                     "",
                     "",
@@ -27760,7 +27944,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1025,
+        "SetID": 1025,
         "Id": 100644,
         "NameTextMapHash": 3727079212,
         "DescTextMapHash": 2294120317,
@@ -29266,6 +29450,154 @@
         "Rank": 10
     },
     {
+        "InteractionTitleTextMapHash": 3236573959,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2443146087,
+        "SpecialDescTextMapHash": 1824440297,
+        "TypeDescTextMapHash": 1913905646,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100682,
+        "NameTextMapHash": 232402180,
+        "DescTextMapHash": 3905988765,
+        "Icon": "UI_ItemIcon_108084",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2729953807,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3887669583,
+        "SpecialDescTextMapHash": 3522878033,
+        "TypeDescTextMapHash": 2282006534,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100683,
+        "NameTextMapHash": 3462848332,
+        "DescTextMapHash": 1216689773,
+        "Icon": "UI_ItemIcon_100530",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1513053319,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 818740423,
+        "SpecialDescTextMapHash": 2925476537,
+        "TypeDescTextMapHash": 3200121598,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100684,
+        "NameTextMapHash": 1467085092,
+        "DescTextMapHash": 289012981,
+        "Icon": "UI_ItemIcon_200003",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1507822327,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3210796495,
+        "SpecialDescTextMapHash": 4252841329,
+        "TypeDescTextMapHash": 786033638,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100685,
+        "NameTextMapHash": 1066614940,
+        "DescTextMapHash": 2531725917,
+        "Icon": "UI_ItemIcon_200004",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
         "InteractionTitleTextMapHash": 890227567,
         "MaterialType": "MATERIAL_QUEST",
         "StackLimit": 1,
@@ -29481,7 +29813,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1022,
+        "SetID": 1022,
         "Id": 100691,
         "NameTextMapHash": 2613266084,
         "DescTextMapHash": 1621507717,
@@ -29490,6 +29822,193 @@
         "Weight": 1,
         "Rank": 10,
         "GadgetId": 71700144
+    },
+    {
+        "InteractionTitleTextMapHash": 2776002871,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 10000,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3900839031,
+        "SpecialDescTextMapHash": 4210196689,
+        "TypeDescTextMapHash": 437541438,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100694,
+        "NameTextMapHash": 1321728380,
+        "DescTextMapHash": 3172199581,
+        "Icon": "UI_ItemIcon_100309",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 107287791,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2835102535,
+        "SpecialDescTextMapHash": 1370951865,
+        "TypeDescTextMapHash": 2367839374,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100695,
+        "NameTextMapHash": 588429188,
+        "DescTextMapHash": 1179723685,
+        "Icon": "UI_ItemIcon_100316",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2193722183,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3097711519,
+        "SpecialDescTextMapHash": 1828747673,
+        "TypeDescTextMapHash": 4016806366,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100696,
+        "NameTextMapHash": 2258631764,
+        "DescTextMapHash": 3958861349,
+        "Icon": "UI_ItemIcon_100171",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3568844535,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 4023015567,
+        "SpecialDescTextMapHash": 2549195809,
+        "TypeDescTextMapHash": 1606507814,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100697,
+        "NameTextMapHash": 1861786868,
+        "DescTextMapHash": 4112323453,
+        "Icon": "UI_ItemIcon_100172",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3350024367,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3248072151,
+        "SpecialDescTextMapHash": 1775692865,
+        "TypeDescTextMapHash": 3570024678,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100698,
+        "NameTextMapHash": 3268486780,
+        "DescTextMapHash": 3697086893,
+        "Icon": "UI_ItemIcon_100105",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
     },
     {
         "InteractionTitleTextMapHash": 3563402487,
@@ -29787,7 +30306,7 @@
         "SatiationParams": [],
         "DestroyReturnMaterial": [],
         "DestroyReturnMaterialCount": [],
-        "SetId": 1006,
+        "SetID": 1006,
         "Id": 100706,
         "NameTextMapHash": 1533586764,
         "DescTextMapHash": 2994485461,
@@ -29872,6 +30391,45 @@
         "Rank": 10
     },
     {
+        "InteractionTitleTextMapHash": 3472449079,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 183034975,
+        "SpecialDescTextMapHash": 1893994313,
+        "TypeDescTextMapHash": 1334628126,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100709,
+        "NameTextMapHash": 738473652,
+        "DescTextMapHash": 1759753557,
+        "Icon": "UI_ItemIcon_100429",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700074
+    },
+    {
         "InteractionTitleTextMapHash": 3188608359,
         "MaterialType": "MATERIAL_QUEST",
         "StackLimit": 1,
@@ -29908,6 +30466,84 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 209634175,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3400602623,
+        "SpecialDescTextMapHash": 4020771889,
+        "TypeDescTextMapHash": 4104861382,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100711,
+        "NameTextMapHash": 3681958684,
+        "DescTextMapHash": 3343087101,
+        "Icon": "UI_ItemIcon_100171",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700181
+    },
+    {
+        "InteractionTitleTextMapHash": 360135335,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 233407623,
+        "SpecialDescTextMapHash": 3743918737,
+        "TypeDescTextMapHash": 1560705494,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100712,
+        "NameTextMapHash": 3063100980,
+        "DescTextMapHash": 785960925,
+        "Icon": "UI_ItemIcon_100112",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700182
     },
     {
         "InteractionTitleTextMapHash": 1804413431,
@@ -30023,6 +30659,200 @@
         "Weight": 1,
         "Rank": 10,
         "GadgetId": 71700169
+    },
+    {
+        "InteractionTitleTextMapHash": 3667450919,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1608992287,
+        "SpecialDescTextMapHash": 4283297449,
+        "TypeDescTextMapHash": 2171039918,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100721,
+        "NameTextMapHash": 4198444676,
+        "DescTextMapHash": 639615077,
+        "Icon": "UI_ItemIcon_200001",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 4050103023,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1098861207,
+        "SpecialDescTextMapHash": 3581041017,
+        "TypeDescTextMapHash": 4217456494,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100722,
+        "NameTextMapHash": 2287843516,
+        "DescTextMapHash": 4200498661,
+        "Icon": "UI_ItemIcon_200002",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 4065230431,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 2,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 348134231,
+        "SpecialDescTextMapHash": 1458371057,
+        "TypeDescTextMapHash": 2981903094,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100723,
+        "NameTextMapHash": 371002804,
+        "DescTextMapHash": 1207258829,
+        "Icon": "UI_ItemIcon_200004",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1277408143,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_MAKE_GADGET",
+                "UseParam": [
+                    "70800017",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 961903423,
+        "SpecialDescTextMapHash": 256223569,
+        "TypeDescTextMapHash": 328622942,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100724,
+        "NameTextMapHash": 3439710724,
+        "DescTextMapHash": 4064607533,
+        "Icon": "UI_ItemIcon_200004",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 70800017
+    },
+    {
+        "InteractionTitleTextMapHash": 2459427327,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2192797567,
+        "SpecialDescTextMapHash": 4181345657,
+        "TypeDescTextMapHash": 3214573054,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100729,
+        "NameTextMapHash": 419093516,
+        "DescTextMapHash": 362074213,
+        "Icon": "UI_ItemIcon_200004",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
     },
     {
         "InteractionTitleTextMapHash": 3142010415,
@@ -30268,6 +31098,906 @@
         "Weight": 1,
         "Rank": 302,
         "GadgetId": 70710258
+    },
+    {
+        "InteractionTitleTextMapHash": 2883195791,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 4144986199,
+        "SpecialDescTextMapHash": 134682169,
+        "TypeDescTextMapHash": 269394038,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100725,
+        "NameTextMapHash": 1223798444,
+        "DescTextMapHash": 566944269,
+        "Icon": "UI_ItemIcon_100721",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3573216055,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3121053703,
+        "SpecialDescTextMapHash": 2760728425,
+        "TypeDescTextMapHash": 3445445614,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100726,
+        "NameTextMapHash": 1776109500,
+        "DescTextMapHash": 341928701,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2593261359,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1149849815,
+        "SpecialDescTextMapHash": 363260737,
+        "TypeDescTextMapHash": 192122086,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100728,
+        "NameTextMapHash": 1890794164,
+        "DescTextMapHash": 399522749,
+        "Icon": "UI_ItemIcon_100057",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 2935636359,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50009005",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1416706823,
+        "SpecialDescTextMapHash": 1835671081,
+        "TypeDescTextMapHash": 3776048382,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1008,
+        "Id": 100730,
+        "NameTextMapHash": 2811371076,
+        "DescTextMapHash": 204034053,
+        "Icon": "UI_ItemIcon_100399",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700185
+    },
+    {
+        "InteractionTitleTextMapHash": 2000313903,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50009006",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1412297239,
+        "SpecialDescTextMapHash": 3522086521,
+        "TypeDescTextMapHash": 1093401966,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1008,
+        "Id": 100731,
+        "NameTextMapHash": 154303276,
+        "DescTextMapHash": 4087162045,
+        "Icon": "UI_ItemIcon_100399",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700186
+    },
+    {
+        "InteractionTitleTextMapHash": 3753929847,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50027002",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1154494567,
+        "SpecialDescTextMapHash": 372123489,
+        "TypeDescTextMapHash": 714723214,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1026,
+        "Id": 100732,
+        "NameTextMapHash": 4010152156,
+        "DescTextMapHash": 2499788093,
+        "Icon": "UI_ItemIcon_100402",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700187
+    },
+    {
+        "InteractionTitleTextMapHash": 3014097071,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50027003",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 1673327399,
+        "SpecialDescTextMapHash": 3542808921,
+        "TypeDescTextMapHash": 3717834678,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1026,
+        "Id": 100733,
+        "NameTextMapHash": 273042588,
+        "DescTextMapHash": 146800829,
+        "Icon": "UI_ItemIcon_100402",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700188
+    },
+    {
+        "InteractionTitleTextMapHash": 3337435879,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50018006",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 986873703,
+        "SpecialDescTextMapHash": 2404880409,
+        "TypeDescTextMapHash": 1391502254,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1017,
+        "Id": 100734,
+        "NameTextMapHash": 567120452,
+        "DescTextMapHash": 2530790605,
+        "Icon": "UI_ItemIcon_100568",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700189
+    },
+    {
+        "InteractionTitleTextMapHash": 3736659239,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50018007",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2976386567,
+        "SpecialDescTextMapHash": 2486803321,
+        "TypeDescTextMapHash": 2419385278,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1017,
+        "Id": 100735,
+        "NameTextMapHash": 1599965132,
+        "DescTextMapHash": 3365314069,
+        "Icon": "UI_ItemIcon_100568",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700190
+    },
+    {
+        "InteractionTitleTextMapHash": 648180631,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 5,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_CODEX",
+                "UseParam": [
+                    "50018008",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1410669607,
+        "SpecialDescTextMapHash": 3713552361,
+        "TypeDescTextMapHash": 760847318,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "SetID": 1017,
+        "Id": 100736,
+        "NameTextMapHash": 4205212420,
+        "DescTextMapHash": 2815893685,
+        "Icon": "UI_ItemIcon_100568",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 71700191
+    },
+    {
+        "InteractionTitleTextMapHash": 2395296967,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3176553735,
+        "SpecialDescTextMapHash": 1516133641,
+        "TypeDescTextMapHash": 1648147222,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100737,
+        "NameTextMapHash": 4042183700,
+        "DescTextMapHash": 3834501365,
+        "Icon": "UI_ItemIcon_100428",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3901029911,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3667058335,
+        "SpecialDescTextMapHash": 3044731489,
+        "TypeDescTextMapHash": 2579879606,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100738,
+        "NameTextMapHash": 3558893892,
+        "DescTextMapHash": 2418874629,
+        "Icon": "UI_ItemIcon_108126",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3567271567,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3242577159,
+        "SpecialDescTextMapHash": 4200023737,
+        "TypeDescTextMapHash": 1887997718,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100741,
+        "NameTextMapHash": 4140689044,
+        "DescTextMapHash": 1573873621,
+        "Icon": "UI_ItemIcon_200004",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 144639815,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2382268087,
+        "SpecialDescTextMapHash": 4053850161,
+        "TypeDescTextMapHash": 2618100926,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100747,
+        "NameTextMapHash": 2478354124,
+        "DescTextMapHash": 4082346205,
+        "Icon": "UI_ItemIcon_118101",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1575849495,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 1687197423,
+        "SpecialDescTextMapHash": 3468936033,
+        "TypeDescTextMapHash": 1521751846,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100748,
+        "NameTextMapHash": 1208982692,
+        "DescTextMapHash": 3317865077,
+        "Icon": "UI_ItemIcon_112039",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 525769175,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3046991407,
+        "SpecialDescTextMapHash": 4273678209,
+        "TypeDescTextMapHash": 4237943438,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100749,
+        "NameTextMapHash": 4050547948,
+        "DescTextMapHash": 4440437,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 120306743,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 2698523543,
+        "SpecialDescTextMapHash": 4079812409,
+        "TypeDescTextMapHash": 2829830430,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100750,
+        "NameTextMapHash": 3326798620,
+        "DescTextMapHash": 4213650781,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3075161671,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 999,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3249356623,
+        "SpecialDescTextMapHash": 1426921345,
+        "TypeDescTextMapHash": 757497254,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100751,
+        "NameTextMapHash": 766862964,
+        "DescTextMapHash": 300594661,
+        "Icon": "UI_ItemIcon_200004",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 488134207,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3138314655,
+        "SpecialDescTextMapHash": 4175494441,
+        "TypeDescTextMapHash": 594631934,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100752,
+        "NameTextMapHash": 3480404268,
+        "DescTextMapHash": 1187699669,
+        "Icon": "UI_ItemIcon_100101",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 1417498575,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1407727495,
+        "SpecialDescTextMapHash": 56441545,
+        "TypeDescTextMapHash": 1214659302,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100753,
+        "NameTextMapHash": 2369254180,
+        "DescTextMapHash": 3223094045,
+        "Icon": "UI_ItemIcon_100031",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 4035288599,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 1714159599,
+        "SpecialDescTextMapHash": 3211911001,
+        "TypeDescTextMapHash": 2683234734,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100754,
+        "NameTextMapHash": 766763228,
+        "DescTextMapHash": 2007890429,
+        "Icon": "UI_ItemIcon_100056",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 4021378959,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "EffectDescTextMapHash": 3889766191,
+        "SpecialDescTextMapHash": 2867361073,
+        "TypeDescTextMapHash": 3242092014,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100755,
+        "NameTextMapHash": 188948900,
+        "DescTextMapHash": 4246094853,
+        "Icon": "UI_ItemIcon_100026",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 10
+    },
+    {
+        "InteractionTitleTextMapHash": 3440281439,
+        "MaterialType": "MATERIAL_QUEST",
+        "StackLimit": 3,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 1,
+        "EffectDescTextMapHash": 1464457823,
+        "SpecialDescTextMapHash": 4185954545,
+        "TypeDescTextMapHash": 4111407574,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 100756,
+        "NameTextMapHash": 4096399748,
+        "DescTextMapHash": 2765707901,
+        "Icon": "UI_ItemIcon_100306",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 10
     },
     {
         "InteractionTitleTextMapHash": 1457126079,
@@ -32522,6 +34252,46 @@
         "GadgetId": 70600004
     },
     {
+        "InteractionTitleTextMapHash": 3283276887,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 3214457591,
+        "SpecialDescTextMapHash": 1970372153,
+        "TypeDescTextMapHash": 1049393030,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 104201,
+        "NameTextMapHash": 618584892,
+        "DescTextMapHash": 1174165525,
+        "Icon": "UI_ItemIcon_104201",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 121,
+        "GadgetId": 70600004
+    },
+    {
         "InteractionTitleTextMapHash": 2085327839,
         "MaterialType": "MATERIAL_AVATAR_MATERIAL",
         "StackLimit": 2000,
@@ -33282,166 +35052,6 @@
         "GadgetId": 70600055
     },
     {
-        "InteractionTitleTextMapHash": 2336724543,
-        "MaterialType": "MATERIAL_RELIQUARY_MATERIAL",
-        "StackLimit": 1000,
-        "ItemUse": [
-            {
-                "UseParam": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "UseParam": [
-                    "",
-                    ""
-                ]
-            }
-        ],
-        "RankLevel": 1,
-        "EffectDescTextMapHash": 4105531847,
-        "SpecialDescTextMapHash": 3917901065,
-        "TypeDescTextMapHash": 3426147934,
-        "EffectIcon": "",
-        "EffectName": "",
-        "PicPath": [],
-        "SatiationParams": [],
-        "DestroyReturnMaterial": [],
-        "DestroyReturnMaterialCount": [],
-        "Id": 105001,
-        "NameTextMapHash": 2042903364,
-        "DescTextMapHash": 2606269365,
-        "Icon": "UI_ItemIcon_105001",
-        "ItemType": "ITEM_MATERIAL",
-        "Weight": 1,
-        "Rank": 6,
-        "GadgetId": 70600011
-    },
-    {
-        "InteractionTitleTextMapHash": 1377001999,
-        "MaterialType": "MATERIAL_RELIQUARY_MATERIAL",
-        "StackLimit": 1000,
-        "ItemUse": [
-            {
-                "UseParam": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "UseParam": [
-                    "",
-                    ""
-                ]
-            }
-        ],
-        "RankLevel": 2,
-        "EffectDescTextMapHash": 4057290631,
-        "SpecialDescTextMapHash": 3049968977,
-        "TypeDescTextMapHash": 1244463446,
-        "EffectIcon": "",
-        "EffectName": "",
-        "PicPath": [],
-        "SatiationParams": [],
-        "DestroyReturnMaterial": [],
-        "DestroyReturnMaterialCount": [],
-        "Id": 105002,
-        "NameTextMapHash": 1324699428,
-        "DescTextMapHash": 1600990469,
-        "Icon": "UI_ItemIcon_105002",
-        "ItemType": "ITEM_MATERIAL",
-        "Weight": 1,
-        "Rank": 6,
-        "GadgetId": 70600012
-    },
-    {
-        "InteractionTitleTextMapHash": 4226672711,
-        "MaterialType": "MATERIAL_RELIQUARY_MATERIAL",
-        "StackLimit": 1000,
-        "ItemUse": [
-            {
-                "UseParam": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "UseParam": [
-                    "",
-                    ""
-                ]
-            }
-        ],
-        "RankLevel": 3,
-        "EffectDescTextMapHash": 3841957791,
-        "SpecialDescTextMapHash": 3266799849,
-        "TypeDescTextMapHash": 2944145862,
-        "EffectIcon": "",
-        "EffectName": "",
-        "PicPath": [],
-        "SatiationParams": [],
-        "DestroyReturnMaterial": [],
-        "DestroyReturnMaterialCount": [],
-        "Id": 105003,
-        "NameTextMapHash": 1201996076,
-        "DescTextMapHash": 1113597373,
-        "Icon": "UI_ItemIcon_105003",
-        "ItemType": "ITEM_MATERIAL",
-        "Weight": 1,
-        "Rank": 6,
-        "GadgetId": 70600013
-    },
-    {
-        "InteractionTitleTextMapHash": 4050075831,
-        "MaterialType": "MATERIAL_RELIQUARY_MATERIAL",
-        "StackLimit": 1000,
-        "ItemUse": [
-            {
-                "UseParam": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
-                ]
-            },
-            {
-                "UseParam": [
-                    "",
-                    ""
-                ]
-            }
-        ],
-        "RankLevel": 4,
-        "EffectDescTextMapHash": 1543453199,
-        "SpecialDescTextMapHash": 2555736081,
-        "TypeDescTextMapHash": 4191348958,
-        "EffectIcon": "",
-        "EffectName": "",
-        "PicPath": [],
-        "SatiationParams": [],
-        "DestroyReturnMaterial": [],
-        "DestroyReturnMaterialCount": [],
-        "Id": 105004,
-        "NameTextMapHash": 2344228548,
-        "DescTextMapHash": 1822957709,
-        "Icon": "UI_ItemIcon_105004",
-        "ItemType": "ITEM_MATERIAL",
-        "Weight": 1,
-        "Rank": 6,
-        "GadgetId": 70600014
-    },
-    {
         "InteractionTitleTextMapHash": 1732141159,
         "MaterialType": "MATERIAL_CONSUME",
         "CdTime": 1,
@@ -33557,7 +35167,7 @@
         "SpecialDescTextMapHash": 2402509681,
         "TypeDescTextMapHash": 2361679966,
         "EffectIcon": "",
-        "EffectGadgetId": 70800003,
+        "EffectGadgetID": 70800003,
         "EffectName": "Eff_WindCrystal_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -33640,7 +35250,7 @@
         "SpecialDescTextMapHash": 3904143857,
         "TypeDescTextMapHash": 1004484630,
         "EffectIcon": "",
-        "EffectGadgetId": 70800015,
+        "EffectGadgetID": 70800015,
         "EffectName": "Eff_RockCrystal_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -33875,7 +35485,7 @@
         "SpecialDescTextMapHash": 4069014761,
         "TypeDescTextMapHash": 2861844382,
         "EffectIcon": "",
-        "EffectGadgetId": 70800031,
+        "EffectGadgetID": 70800031,
         "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -33917,7 +35527,7 @@
         "SpecialDescTextMapHash": 3165832449,
         "TypeDescTextMapHash": 1496023518,
         "EffectIcon": "",
-        "EffectGadgetId": 70800031,
+        "EffectGadgetID": 70800031,
         "EffectName": "Eff_SceneObj_EssenceTreasure_01_Absorb",
         "PicPath": [],
         "SatiationParams": [],
@@ -41542,6 +43152,446 @@
         "Rank": 621
     },
     {
+        "InteractionTitleTextMapHash": 1726971199,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200301",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 3994402687,
+        "SpecialDescTextMapHash": 3561518449,
+        "TypeDescTextMapHash": 267754910,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108179,
+        "NameTextMapHash": 1640969428,
+        "DescTextMapHash": 320731765,
+        "Icon": "UI_ItemIcon_108180",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 323
+    },
+    {
+        "InteractionTitleTextMapHash": 822684199,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200302",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 1387200487,
+        "SpecialDescTextMapHash": 1084426257,
+        "TypeDescTextMapHash": 1943834182,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108180,
+        "NameTextMapHash": 507618308,
+        "DescTextMapHash": 651696381,
+        "Icon": "UI_ItemIcon_108180",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 323
+    },
+    {
+        "InteractionTitleTextMapHash": 2044216751,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200303",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 4169196823,
+        "SpecialDescTextMapHash": 1859495337,
+        "TypeDescTextMapHash": 3152671134,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108181,
+        "NameTextMapHash": 2593707372,
+        "DescTextMapHash": 6222829,
+        "Icon": "UI_ItemIcon_108180",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 323
+    },
+    {
+        "InteractionTitleTextMapHash": 1241507135,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200201",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 2796366671,
+        "SpecialDescTextMapHash": 121825721,
+        "TypeDescTextMapHash": 1913700622,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108188,
+        "NameTextMapHash": 2717765356,
+        "DescTextMapHash": 2806137597,
+        "Icon": "UI_ItemIcon_108189",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 342
+    },
+    {
+        "InteractionTitleTextMapHash": 2188883863,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200202",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 1378649231,
+        "SpecialDescTextMapHash": 2830048617,
+        "TypeDescTextMapHash": 1286167966,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108189,
+        "NameTextMapHash": 2331401324,
+        "DescTextMapHash": 3923843869,
+        "Icon": "UI_ItemIcon_108189",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 342
+    },
+    {
+        "InteractionTitleTextMapHash": 3052948295,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200203",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 3251984991,
+        "SpecialDescTextMapHash": 3079892265,
+        "TypeDescTextMapHash": 2151019158,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108190,
+        "NameTextMapHash": 2160205180,
+        "DescTextMapHash": 2731361933,
+        "Icon": "UI_ItemIcon_108189",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 342
+    },
+    {
+        "InteractionTitleTextMapHash": 1672522687,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "140201",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_STRANGE",
+        "EffectDescTextMapHash": 1675574687,
+        "SpecialDescTextMapHash": 2961313457,
+        "TypeDescTextMapHash": 796777062,
+        "EffectIcon": "UI_Buff_Item_Atk_CritRate",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108191,
+        "NameTextMapHash": 382109252,
+        "DescTextMapHash": 2730536757,
+        "Icon": "UI_ItemIcon_108192",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 547
+    },
+    {
+        "InteractionTitleTextMapHash": 608489415,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "140202",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_ORDINARY",
+        "EffectDescTextMapHash": 965263455,
+        "SpecialDescTextMapHash": 3963959961,
+        "TypeDescTextMapHash": 4205965894,
+        "EffectIcon": "UI_Buff_Item_Atk_CritRate",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108192,
+        "NameTextMapHash": 3219176076,
+        "DescTextMapHash": 1579768533,
+        "Icon": "UI_ItemIcon_108192",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 547
+    },
+    {
+        "InteractionTitleTextMapHash": 2610685527,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "140203",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 1296488631,
+        "SpecialDescTextMapHash": 260135737,
+        "TypeDescTextMapHash": 3888570750,
+        "EffectIcon": "UI_Buff_Item_Atk_CritRate",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108193,
+        "NameTextMapHash": 3137858364,
+        "DescTextMapHash": 609682085,
+        "Icon": "UI_ItemIcon_108192",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 547
+    },
+    {
+        "InteractionTitleTextMapHash": 3193418783,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 120,
+        "CdGroup": 99,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_DEAD_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_RELIVE_AVATAR",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "200204",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 1453877799,
+        "SpecialDescTextMapHash": 3764295049,
+        "TypeDescTextMapHash": 1134559294,
+        "EffectIcon": "UI_Buff_Item_Recovery_Revive",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108200,
+        "NameTextMapHash": 1745083764,
+        "DescTextMapHash": 1802123117,
+        "Icon": "UI_ItemIcon_108200",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 342
+    },
+    {
         "InteractionTitleTextMapHash": 1426167079,
         "MaterialType": "MATERIAL_NOTICE_ADD_HP",
         "StackLimit": 2000,
@@ -42140,6 +44190,305 @@
         "Rank": 613
     },
     {
+        "InteractionTitleTextMapHash": 2634911047,
+        "MaterialType": "MATERIAL_NOTICE_ADD_HP",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_SPECIFY_ALIVE_AVATAR",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "105103",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 1,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 3033900367,
+        "SpecialDescTextMapHash": 197215977,
+        "TypeDescTextMapHash": 4213080334,
+        "EffectIcon": "UI_Buff_Item_Recovery_HpAdd",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [
+            15,
+            55000
+        ],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108215,
+        "NameTextMapHash": 2812053444,
+        "DescTextMapHash": 1302294653,
+        "Icon": "UI_ItemIcon_108108",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 273
+    },
+    {
+        "InteractionTitleTextMapHash": 4219505271,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "110203",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 4212689399,
+        "SpecialDescTextMapHash": 3646164897,
+        "TypeDescTextMapHash": 490580350,
+        "EffectIcon": "UI_Buff_Item_Atk_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108216,
+        "NameTextMapHash": 3358022300,
+        "DescTextMapHash": 2048420909,
+        "Icon": "UI_ItemIcon_Recipe_4002",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 541
+    },
+    {
+        "InteractionTitleTextMapHash": 2619609215,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "230203",
+                    "900",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 141737487,
+        "SpecialDescTextMapHash": 3399186305,
+        "TypeDescTextMapHash": 1081246334,
+        "EffectIcon": "UI_Buff_Item_Other_SPReduceConsume",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108217,
+        "NameTextMapHash": 3936192244,
+        "DescTextMapHash": 2291036989,
+        "Icon": "UI_ItemIcon_108120",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 443
+    },
+    {
+        "InteractionTitleTextMapHash": 1324790591,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "120203",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 3282078655,
+        "SpecialDescTextMapHash": 3583949409,
+        "TypeDescTextMapHash": 1169243822,
+        "EffectIcon": "UI_Buff_Item_Def_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108218,
+        "NameTextMapHash": 491210204,
+        "DescTextMapHash": 1974139653,
+        "Icon": "UI_ItemIcon_108087",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 642
+    },
+    {
+        "InteractionTitleTextMapHash": 4206977095,
+        "MaterialType": "MATERIAL_FOOD",
+        "CdTime": 300,
+        "CdGroup": 98,
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_CUR_STAMINA",
+                "UseParam": [
+                    "60",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 2404596599,
+        "SpecialDescTextMapHash": 2530548241,
+        "TypeDescTextMapHash": 2218782902,
+        "EffectIcon": "UI_Buff_Item_Other_SPAdd",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108219,
+        "NameTextMapHash": 2181139780,
+        "DescTextMapHash": 887953829,
+        "Icon": "UI_ItemIcon_108142",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 444
+    },
+    {
+        "InteractionTitleTextMapHash": 322126007,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "140303",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 4121466415,
+        "SpecialDescTextMapHash": 226620449,
+        "TypeDescTextMapHash": 3028536270,
+        "EffectIcon": "UI_Buff_Item_Atk_CritRate",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108220,
+        "NameTextMapHash": 844903636,
+        "DescTextMapHash": 3371942909,
+        "Icon": "UI_ItemIcon_108132",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 525
+    },
+    {
+        "InteractionTitleTextMapHash": 1181731487,
+        "MaterialType": "MATERIAL_FOOD",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "UseTarget": "ITEM_USE_TARGET_CUR_TEAM",
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_ADD_SERVER_BUFF",
+                "UseParam": [
+                    "150303",
+                    "300",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "FoodQuality": "FOOD_QUALITY_DELICIOUS",
+        "EffectDescTextMapHash": 3316241191,
+        "SpecialDescTextMapHash": 3131506801,
+        "TypeDescTextMapHash": 708741990,
+        "EffectIcon": "UI_Buff_Item_Def_Add",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 108221,
+        "NameTextMapHash": 2258386540,
+        "DescTextMapHash": 2044761485,
+        "Icon": "UI_ItemIcon_108156",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 622
+    },
+    {
         "InteractionTitleTextMapHash": 1756088967,
         "MaterialType": "MATERIAL_CONSUME",
         "StackLimit": 2000,
@@ -42205,7 +44554,7 @@
         "SpecialDescTextMapHash": 3245843633,
         "TypeDescTextMapHash": 3271408998,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42248,7 +44597,7 @@
         "SpecialDescTextMapHash": 2071805953,
         "TypeDescTextMapHash": 2622073518,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42291,7 +44640,7 @@
         "SpecialDescTextMapHash": 2696795169,
         "TypeDescTextMapHash": 780638062,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42334,7 +44683,7 @@
         "SpecialDescTextMapHash": 2160418049,
         "TypeDescTextMapHash": 2155804414,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42377,7 +44726,7 @@
         "SpecialDescTextMapHash": 3631519089,
         "TypeDescTextMapHash": 3590163654,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42420,7 +44769,7 @@
         "SpecialDescTextMapHash": 253819273,
         "TypeDescTextMapHash": 2844834646,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42463,7 +44812,7 @@
         "SpecialDescTextMapHash": 548393737,
         "TypeDescTextMapHash": 2366456510,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42506,7 +44855,7 @@
         "SpecialDescTextMapHash": 1793945161,
         "TypeDescTextMapHash": 1842125118,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42549,7 +44898,7 @@
         "SpecialDescTextMapHash": 3532285553,
         "TypeDescTextMapHash": 1565053462,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42592,7 +44941,7 @@
         "SpecialDescTextMapHash": 1474372281,
         "TypeDescTextMapHash": 2103011590,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42635,7 +44984,7 @@
         "SpecialDescTextMapHash": 517953065,
         "TypeDescTextMapHash": 3548020406,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42678,7 +45027,7 @@
         "SpecialDescTextMapHash": 1901424561,
         "TypeDescTextMapHash": 753322326,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42721,7 +45070,7 @@
         "SpecialDescTextMapHash": 3705735553,
         "TypeDescTextMapHash": 4091925326,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42764,7 +45113,7 @@
         "SpecialDescTextMapHash": 586603225,
         "TypeDescTextMapHash": 1455003638,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42807,7 +45156,7 @@
         "SpecialDescTextMapHash": 1216572497,
         "TypeDescTextMapHash": 2603982566,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42850,7 +45199,7 @@
         "SpecialDescTextMapHash": 497382905,
         "TypeDescTextMapHash": 3668932942,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42893,7 +45242,7 @@
         "SpecialDescTextMapHash": 2402825705,
         "TypeDescTextMapHash": 720629470,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42936,7 +45285,7 @@
         "SpecialDescTextMapHash": 1931471217,
         "TypeDescTextMapHash": 2754611038,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -42979,7 +45328,7 @@
         "SpecialDescTextMapHash": 1079346353,
         "TypeDescTextMapHash": 3998413062,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43022,7 +45371,7 @@
         "SpecialDescTextMapHash": 2409951369,
         "TypeDescTextMapHash": 933220734,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43065,7 +45414,7 @@
         "SpecialDescTextMapHash": 3997893393,
         "TypeDescTextMapHash": 2858137054,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43108,7 +45457,7 @@
         "SpecialDescTextMapHash": 2749340945,
         "TypeDescTextMapHash": 1215272694,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43151,7 +45500,7 @@
         "SpecialDescTextMapHash": 1274009033,
         "TypeDescTextMapHash": 3230504454,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43194,7 +45543,7 @@
         "SpecialDescTextMapHash": 3566209169,
         "TypeDescTextMapHash": 1524730382,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43237,7 +45586,7 @@
         "SpecialDescTextMapHash": 1000657593,
         "TypeDescTextMapHash": 393290414,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43280,7 +45629,7 @@
         "SpecialDescTextMapHash": 2898598705,
         "TypeDescTextMapHash": 3810453886,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43323,7 +45672,7 @@
         "SpecialDescTextMapHash": 2982024577,
         "TypeDescTextMapHash": 1843837838,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43366,7 +45715,7 @@
         "SpecialDescTextMapHash": 1640866241,
         "TypeDescTextMapHash": 3345239318,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43409,7 +45758,7 @@
         "SpecialDescTextMapHash": 1080602089,
         "TypeDescTextMapHash": 2644532630,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43452,7 +45801,7 @@
         "SpecialDescTextMapHash": 1727527385,
         "TypeDescTextMapHash": 1958605454,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43495,7 +45844,7 @@
         "SpecialDescTextMapHash": 3936465009,
         "TypeDescTextMapHash": 11329262,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43538,7 +45887,7 @@
         "SpecialDescTextMapHash": 814522489,
         "TypeDescTextMapHash": 2460860118,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43581,7 +45930,7 @@
         "SpecialDescTextMapHash": 1000132465,
         "TypeDescTextMapHash": 2335039222,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43624,7 +45973,7 @@
         "SpecialDescTextMapHash": 3892331481,
         "TypeDescTextMapHash": 1497336598,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43667,7 +46016,7 @@
         "SpecialDescTextMapHash": 1790003641,
         "TypeDescTextMapHash": 3500054894,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43710,7 +46059,7 @@
         "SpecialDescTextMapHash": 3650532905,
         "TypeDescTextMapHash": 197557214,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43753,7 +46102,7 @@
         "SpecialDescTextMapHash": 3844997721,
         "TypeDescTextMapHash": 3602752750,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43796,7 +46145,7 @@
         "SpecialDescTextMapHash": 249571769,
         "TypeDescTextMapHash": 2778327622,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43839,7 +46188,7 @@
         "SpecialDescTextMapHash": 2360079137,
         "TypeDescTextMapHash": 3992459158,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43882,7 +46231,7 @@
         "SpecialDescTextMapHash": 1445487161,
         "TypeDescTextMapHash": 74301030,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43925,7 +46274,7 @@
         "SpecialDescTextMapHash": 4019677521,
         "TypeDescTextMapHash": 4226102478,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -43968,7 +46317,7 @@
         "SpecialDescTextMapHash": 1894443585,
         "TypeDescTextMapHash": 3092934014,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44011,7 +46360,7 @@
         "SpecialDescTextMapHash": 2900607521,
         "TypeDescTextMapHash": 3605888422,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44054,7 +46403,7 @@
         "SpecialDescTextMapHash": 125051729,
         "TypeDescTextMapHash": 3911704990,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44097,7 +46446,7 @@
         "SpecialDescTextMapHash": 2259997129,
         "TypeDescTextMapHash": 3564036822,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44140,7 +46489,7 @@
         "SpecialDescTextMapHash": 3301920489,
         "TypeDescTextMapHash": 1931515638,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44183,7 +46532,7 @@
         "SpecialDescTextMapHash": 2388947297,
         "TypeDescTextMapHash": 851097126,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44226,7 +46575,7 @@
         "SpecialDescTextMapHash": 859957497,
         "TypeDescTextMapHash": 2512751630,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44235,6 +46584,135 @@
         "Id": 109431,
         "NameTextMapHash": 1917898596,
         "DescTextMapHash": 3080037221,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3136046535,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "3111",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 3,
+        "EffectDescTextMapHash": 3529140383,
+        "SpecialDescTextMapHash": 3869008185,
+        "TypeDescTextMapHash": 1430877150,
+        "EffectIcon": "",
+        "EffectGadgetID": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109433,
+        "NameTextMapHash": 4011505844,
+        "DescTextMapHash": 1202552549,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 1731448999,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "2109",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 1296340719,
+        "SpecialDescTextMapHash": 1910321793,
+        "TypeDescTextMapHash": 1094460470,
+        "EffectIcon": "",
+        "EffectGadgetID": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109436,
+        "NameTextMapHash": 2660349940,
+        "DescTextMapHash": 3848380245,
+        "Icon": "UI_ItemIcon_109000",
+        "ItemType": "ITEM_MATERIAL",
+        "Rank": 101,
+        "GadgetId": 70600021,
+        "GlobalItemLimit": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 2221585815,
+        "MaterialType": "MATERIAL_CONSUME",
+        "StackLimit": 2000,
+        "MaxUseCount": 1,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_UNLOCK_COOK_RECIPE",
+                "UseParam": [
+                    "2110",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 2,
+        "EffectDescTextMapHash": 301722239,
+        "SpecialDescTextMapHash": 3685262769,
+        "TypeDescTextMapHash": 1050771982,
+        "EffectIcon": "",
+        "EffectGadgetID": 70600021,
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 109437,
+        "NameTextMapHash": 555908260,
+        "DescTextMapHash": 3159043405,
         "Icon": "UI_ItemIcon_109000",
         "ItemType": "ITEM_MATERIAL",
         "Rank": 101,
@@ -44269,7 +46747,7 @@
         "SpecialDescTextMapHash": 3392770977,
         "TypeDescTextMapHash": 369454630,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44312,7 +46790,7 @@
         "SpecialDescTextMapHash": 2788722225,
         "TypeDescTextMapHash": 3684541318,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44355,7 +46833,7 @@
         "SpecialDescTextMapHash": 1843867913,
         "TypeDescTextMapHash": 3734870542,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -44398,7 +46876,7 @@
         "SpecialDescTextMapHash": 3214535417,
         "TypeDescTextMapHash": 3946001214,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -47900,6 +50378,46 @@
         "GadgetId": 70600055
     },
     {
+        "InteractionTitleTextMapHash": 3528827111,
+        "MaterialType": "MATERIAL_AVATAR_MATERIAL",
+        "StackLimit": 2000,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 3555022031,
+        "SpecialDescTextMapHash": 3873934185,
+        "TypeDescTextMapHash": 2198254886,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 113016,
+        "NameTextMapHash": 4143495132,
+        "DescTextMapHash": 3388452565,
+        "Icon": "UI_ItemIcon_113016",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1,
+        "Rank": 113,
+        "GadgetId": 70600054
+    },
+    {
         "InteractionTitleTextMapHash": 678485999,
         "MaterialType": "MATERIAL_AVATAR_MATERIAL",
         "StackLimit": 2000,
@@ -49333,14 +51851,14 @@
     },
     {
         "InteractionTitleTextMapHash": 2107611071,
-        "MaterialType": "MATERIAL_SELECTABLE_CHEST",
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
         "StackLimit": 2000,
         "MaxUseCount": 99,
         "ItemUse": [
             {
-                "UseOp": "ITEM_USE_ADD_SELECT_ITEM",
+                "UseOp": "ITEM_USE_CHEST_SELECT_ITEM",
                 "UseParam": [
-                    "104112,104122,104142,104152,104162,104172",
+                    "104112:1,104122:1,104142:1,104152:1,104162:1,104172:1",
                     "",
                     "",
                     "",
@@ -49373,7 +51891,7 @@
     },
     {
         "InteractionTitleTextMapHash": 1896965639,
-        "MaterialType": "MATERIAL_SELECTABLE_CHEST",
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
         "StackLimit": 2000,
         "MaxUseCount": 99,
         "ItemUse": [
@@ -49412,7 +51930,7 @@
     },
     {
         "InteractionTitleTextMapHash": 2429610999,
-        "MaterialType": "MATERIAL_SELECTABLE_CHEST",
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
         "StackLimit": 2000,
         "MaxUseCount": 99,
         "ItemUse": [
@@ -49451,7 +51969,7 @@
     },
     {
         "InteractionTitleTextMapHash": 185406359,
-        "MaterialType": "MATERIAL_SELECTABLE_CHEST",
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
         "StackLimit": 2000,
         "MaxUseCount": 99,
         "ItemUse": [
@@ -49490,14 +52008,14 @@
     },
     {
         "InteractionTitleTextMapHash": 2664186383,
-        "MaterialType": "MATERIAL_SELECTABLE_CHEST",
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
         "StackLimit": 2000,
         "MaxUseCount": 99,
         "ItemUse": [
             {
-                "UseOp": "ITEM_USE_ADD_SELECT_ITEM",
+                "UseOp": "ITEM_USE_CHEST_SELECT_ITEM",
                 "UseParam": [
-                    "104302,104305,104308,104311,104314,104317",
+                    "104302:1,104305:1,104308:1,104311:1,104314:1,104317:1",
                     "",
                     "",
                     "",
@@ -49530,7 +52048,7 @@
     },
     {
         "InteractionTitleTextMapHash": 1182434343,
-        "MaterialType": "MATERIAL_SELECTABLE_CHEST",
+        "MaterialType": "MATERIAL_CHEST_BATCH_USE",
         "StackLimit": 2000,
         "MaxUseCount": 99,
         "ItemUse": [
@@ -49929,6 +52447,47 @@
         "NameTextMapHash": 1268047660,
         "DescTextMapHash": 512965189,
         "Icon": "UI_ItemIcon_115027",
+        "ItemType": "ITEM_MATERIAL",
+        "Weight": 1
+    },
+    {
+        "InteractionTitleTextMapHash": 3353461671,
+        "MaterialType": "MATERIAL_CHEST",
+        "StackLimit": 2000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_OPEN_RANDOM_CHEST",
+                "UseParam": [
+                    "23010105",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2642333815,
+        "SpecialDescTextMapHash": 3544874433,
+        "TypeDescTextMapHash": 922329438,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 115029,
+        "NameTextMapHash": 2017943060,
+        "DescTextMapHash": 1385264885,
+        "Icon": "UI_ItemIcon_115020",
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1
     },
@@ -50763,7 +53322,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 6,
-        "GadgetId": 70700007
+        "GadgetId": 70600053
     },
     {
         "InteractionTitleTextMapHash": 535491207,
@@ -50803,7 +53362,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 6,
-        "GadgetId": 70700007
+        "GadgetId": 70600053
     },
     {
         "InteractionTitleTextMapHash": 1918679015,
@@ -50843,7 +53402,7 @@
         "ItemType": "ITEM_MATERIAL",
         "Weight": 1,
         "Rank": 6,
-        "GadgetId": 70700007
+        "GadgetId": 70600053
     },
     {
         "InteractionTitleTextMapHash": 3673990095,
@@ -50883,7 +53442,7 @@
         "DescTextMapHash": 138982141,
         "Icon": "UI_ItemIcon_200004",
         "ItemType": "ITEM_MATERIAL",
-        "GadgetId": 70800017
+        "GadgetId": 70600054
     },
     {
         "InteractionTitleTextMapHash": 2958656735,
@@ -53286,6 +55845,223 @@
         "ItemType": "ITEM_MATERIAL"
     },
     {
+        "InteractionTitleTextMapHash": 344622031,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 1588832415,
+        "SpecialDescTextMapHash": 3715965369,
+        "TypeDescTextMapHash": 1954158406,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Xiao_Alpha",
+            "UI_NameCardPic_Xiao_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210058,
+        "NameTextMapHash": 975317892,
+        "DescTextMapHash": 2744682389,
+        "Icon": "UI_NameCardIcon_Xiao",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3413146999,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 4207160471,
+        "SpecialDescTextMapHash": 1805529201,
+        "TypeDescTextMapHash": 2469125022,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Hutao_Alpha",
+            "UI_NameCardPic_Hutao_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210059,
+        "NameTextMapHash": 1848039196,
+        "DescTextMapHash": 1736939717,
+        "Icon": "UI_NameCardIcon_Hutao",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3009856583,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2781641839,
+        "SpecialDescTextMapHash": 2307706233,
+        "TypeDescTextMapHash": 3808696278,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_Bp4_Alpha",
+            "UI_NameCardPic_Bp4_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 210060,
+        "NameTextMapHash": 4005497196,
+        "DescTextMapHash": 508040173,
+        "Icon": "UI_NameCardIcon_Bp4",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3349581135,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2497439599,
+        "SpecialDescTextMapHash": 3931365345,
+        "TypeDescTextMapHash": 484836958,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_LanternRite_Alpha",
+            "UI_NameCardPic_LanternRite_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "IsHidden": true,
+        "Id": 210061,
+        "NameTextMapHash": 1358846364,
+        "DescTextMapHash": 4194898037,
+        "Icon": "UI_NameCardIcon_LanternRite",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 2136394959,
+        "MaterialType": "MATERIAL_NAMECARD",
+        "StackLimit": 1000,
+        "MaxUseCount": 99,
+        "UseOnGain": true,
+        "ItemUse": [
+            {
+                "UseOp": "ITEM_USE_GAIN_NAME_CARD",
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 2853871935,
+        "SpecialDescTextMapHash": 2654127193,
+        "TypeDescTextMapHash": 2872083662,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [
+            "UI_NameCardPic_TheatreMechanicus_Alpha",
+            "UI_NameCardPic_TheatreMechanicus_P"
+        ],
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "IsHidden": true,
+        "Id": 210062,
+        "NameTextMapHash": 2402595316,
+        "DescTextMapHash": 2038386997,
+        "Icon": "UI_NameCardIcon_TheatreMechanicus",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
         "InteractionTitleTextMapHash": 3499041735,
         "MaterialType": "MATERIAL_WIDGET",
         "StackLimit": 99,
@@ -53854,6 +56630,120 @@
         "ItemType": "ITEM_MATERIAL"
     },
     {
+        "InteractionTitleTextMapHash": 3355236823,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 4134639807,
+        "SpecialDescTextMapHash": 3804331481,
+        "TypeDescTextMapHash": 2453584182,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220019,
+        "NameTextMapHash": 513782900,
+        "DescTextMapHash": 2907578909,
+        "Icon": "UI_ItemIcon_220019",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3887007679,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 3730606119,
+        "SpecialDescTextMapHash": 2736092321,
+        "TypeDescTextMapHash": 188451662,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220020,
+        "NameTextMapHash": 4181509124,
+        "DescTextMapHash": 4216901133,
+        "Icon": "UI_ItemIcon_220020",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
+        "InteractionTitleTextMapHash": 3687198767,
+        "MaterialType": "MATERIAL_WIDGET",
+        "StackLimit": 1,
+        "ItemUse": [
+            {
+                "UseParam": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "UseParam": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "RankLevel": 4,
+        "EffectDescTextMapHash": 3070953207,
+        "SpecialDescTextMapHash": 3339937177,
+        "TypeDescTextMapHash": 1321199030,
+        "EffectIcon": "",
+        "EffectName": "",
+        "PicPath": [],
+        "CloseBagAfterUsed": true,
+        "SatiationParams": [],
+        "DestroyReturnMaterial": [],
+        "DestroyReturnMaterialCount": [],
+        "Id": 220021,
+        "NameTextMapHash": 2102620660,
+        "DescTextMapHash": 1897810349,
+        "Icon": "UI_ItemIcon_220021",
+        "ItemType": "ITEM_MATERIAL"
+    },
+    {
         "InteractionTitleTextMapHash": 2861026311,
         "MaterialType": "MATERIAL_CONSUME",
         "StackLimit": 2000,
@@ -53881,7 +56771,7 @@
         "SpecialDescTextMapHash": 810287977,
         "TypeDescTextMapHash": 378316230,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -53923,7 +56813,7 @@
         "SpecialDescTextMapHash": 2303552017,
         "TypeDescTextMapHash": 3945968814,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -53965,7 +56855,7 @@
         "SpecialDescTextMapHash": 1019697201,
         "TypeDescTextMapHash": 3508511510,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54007,7 +56897,7 @@
         "SpecialDescTextMapHash": 4037847865,
         "TypeDescTextMapHash": 2676397358,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54049,7 +56939,7 @@
         "SpecialDescTextMapHash": 1323358609,
         "TypeDescTextMapHash": 433403622,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54091,7 +56981,7 @@
         "SpecialDescTextMapHash": 202420889,
         "TypeDescTextMapHash": 1200779742,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54133,7 +57023,7 @@
         "SpecialDescTextMapHash": 3527055713,
         "TypeDescTextMapHash": 3935379350,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54175,7 +57065,7 @@
         "SpecialDescTextMapHash": 1364793705,
         "TypeDescTextMapHash": 610292598,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54217,7 +57107,7 @@
         "SpecialDescTextMapHash": 2620764233,
         "TypeDescTextMapHash": 2636274950,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54259,7 +57149,7 @@
         "SpecialDescTextMapHash": 3578423905,
         "TypeDescTextMapHash": 1779795950,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54301,7 +57191,7 @@
         "SpecialDescTextMapHash": 704843169,
         "TypeDescTextMapHash": 1227305638,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54344,7 +57234,7 @@
         "SpecialDescTextMapHash": 484817601,
         "TypeDescTextMapHash": 1307934662,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],
@@ -54387,7 +57277,7 @@
         "SpecialDescTextMapHash": 2748640065,
         "TypeDescTextMapHash": 3306086566,
         "EffectIcon": "",
-        "EffectGadgetId": 70600021,
+        "EffectGadgetID": 70600021,
         "EffectName": "",
         "PicPath": [],
         "SatiationParams": [],

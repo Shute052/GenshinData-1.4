@@ -1,14 +1,14 @@
 [
     {
-        "Id": 10100,
+        "ID": 10100,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003170
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003474
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -23,15 +23,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10101,
+        "ID": 10101,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003136
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003477
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -46,15 +46,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10102,
+        "ID": 10102,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001034
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001306
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -69,15 +69,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10103,
+        "ID": 10103,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001158
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001307
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -92,13 +92,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10104,
+        "ID": 10104,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133002267
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -113,13 +113,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10106,
+        "ID": 10106,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133002318
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -134,15 +134,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10107,
+        "ID": 10107,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003096
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003503
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -157,12 +157,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10200,
+        "ID": 10200,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003102,
             133003291,
             133003295,
@@ -171,7 +171,7 @@
             133003296,
             133003314
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003478
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -186,16 +186,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10201,
+        "ID": 10201,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003124,
             133003129
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003479
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -210,15 +210,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10202,
+        "ID": 10202,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001357
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001309
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -233,16 +233,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10203,
+        "ID": 10203,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133004243,
             133004244
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004263
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -257,17 +257,17 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10204,
+        "ID": 10204,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133004101,
             133004102,
             133004103
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004264
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -282,19 +282,19 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10205,
+        "ID": 10205,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133007019,
             133007152,
             133007039,
             133007079,
             133007058
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007231
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -309,18 +309,18 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10206,
+        "ID": 10206,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133002224,
             133002223,
             133002231,
             133002235
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002268
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -335,12 +335,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10500,
+        "ID": 10500,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133004129,
             133004126,
             133004084,
@@ -348,7 +348,7 @@
             133004127,
             133004101
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004253
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -363,13 +363,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10502,
+        "ID": 10502,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133001295
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -384,16 +384,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10503,
+        "ID": 10503,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001089,
             133001108
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001296
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -408,15 +408,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10504,
+        "ID": 10504,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001090
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001297
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -431,13 +431,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10505,
+        "ID": 10505,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133007226
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -452,13 +452,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10506,
+        "ID": 10506,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133004254
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -473,15 +473,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10507,
+        "ID": 10507,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003095
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003467
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -496,18 +496,18 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10300,
+        "ID": 10300,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001232,
             133001216,
             133001217,
             133001223
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001291
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -523,12 +523,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10301,
+        "ID": 10301,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003001,
             133003378,
             133003367,
@@ -537,7 +537,7 @@
             133003399,
             133003438
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003455
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -553,13 +553,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10302,
+        "ID": 10302,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133001308
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -575,19 +575,19 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10303,
+        "ID": 10303,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001234,
             133001235,
             133001211,
             133001210,
             133001067
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001310
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -603,12 +603,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10304,
+        "ID": 10304,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001142,
             133001247,
             133001263,
@@ -616,7 +616,7 @@
             133001144,
             133001143
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001311
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -632,18 +632,18 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10305,
+        "ID": 10305,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133004120,
             133004076,
             133004065,
             133004125
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004250
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -659,16 +659,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10306,
+        "ID": 10306,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133007211,
             133007212
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007232
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -684,12 +684,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10400,
+        "ID": 10400,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001160,
             133001280,
             133001258,
@@ -699,7 +699,7 @@
             133001263,
             133001069
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001304
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -714,17 +714,17 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10401,
+        "ID": 10401,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003092,
             133003154,
             133003285
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003480
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -739,16 +739,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10402,
+        "ID": 10402,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133002085,
             133002084
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002269
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -763,16 +763,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10403,
+        "ID": 10403,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133002232,
             133002237
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002270
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -787,18 +787,18 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10404,
+        "ID": 10404,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133004242,
             133004193,
             133004043,
             133004240
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004265
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -813,12 +813,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10405,
+        "ID": 10405,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003324,
             133003269,
             133003222,
@@ -826,7 +826,7 @@
             133003337,
             133003218
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003481
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -841,12 +841,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10700,
+        "ID": 10700,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133001034,
             133001158,
             133001371,
@@ -854,7 +854,7 @@
             133001145,
             133001404
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001379
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -871,12 +871,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10701,
+        "ID": 10701,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003322,
             133003318,
             133003269,
@@ -885,7 +885,7 @@
             133003212,
             133003211
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003521
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -902,12 +902,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10702,
+        "ID": 10702,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003530,
             133003315,
             133003596,
@@ -916,7 +916,7 @@
             133003593,
             133003221
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003597
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -933,18 +933,18 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 10800,
+        "ID": 10800,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133002138,
             133002351,
             133002368,
             133002341
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002374
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -961,17 +961,17 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 10801,
+        "ID": 10801,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003218,
             133003272,
             133003214
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003539
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -988,12 +988,12 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 10900,
+        "ID": 10900,
         "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133003528,
             133003176,
             133003214,
@@ -1001,7 +1001,7 @@
             133001404,
             133001403
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003534
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -1018,13 +1018,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 11000,
+        "ID": 11000,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008488
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -1041,13 +1041,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 11001,
+        "ID": 11001,
         "CityId": 1,
         "PoolId": 1003,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008495
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -1064,13 +1064,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 11100,
+        "ID": 11100,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008493
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -1087,13 +1087,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 11200,
+        "ID": 11200,
         "CityId": 1,
         "PoolId": 1002,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008512
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -1110,13 +1110,13 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 11300,
-        "CityId": 2,
+        "ID": 11300,
+        "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008492
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -1133,13 +1133,13 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 11301,
-        "CityId": 2,
+        "ID": 11301,
+        "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008514
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -1156,13 +1156,13 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 11400,
-        "CityId": 2,
+        "ID": 11400,
+        "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008513
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -1179,13 +1179,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 11401,
-        "CityId": 2,
+        "ID": 11401,
+        "CityId": 1,
         "PoolId": 1001,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133008491
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -1202,13 +1202,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 20500,
+        "ID": 20500,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2000101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "EventTest01",
         "EnterDistance": 40,
@@ -1218,13 +1218,13 @@
         "TargetTextMapHash": 3636982312
     },
     {
-        "Id": 20501,
+        "ID": 20501,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20501",
         "EnterDistance": 40,
@@ -1234,13 +1234,13 @@
         "TargetTextMapHash": 198500768
     },
     {
-        "Id": 20502,
+        "ID": 20502,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20502",
         "EnterDistance": 40,
@@ -1250,13 +1250,13 @@
         "TargetTextMapHash": 1414268464
     },
     {
-        "Id": 20503,
+        "ID": 20503,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20503",
         "EnterDistance": 40,
@@ -1266,13 +1266,13 @@
         "TargetTextMapHash": 1327964368
     },
     {
-        "Id": 20400,
+        "ID": 20400,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2000501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20005NPC",
         "EnterDistance": 50,
@@ -1282,13 +1282,13 @@
         "TargetTextMapHash": 33046336
     },
     {
-        "Id": 20401,
+        "ID": 20401,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2002501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20025NPC",
         "EnterDistance": 50,
@@ -1298,13 +1298,13 @@
         "TargetTextMapHash": 1496048008
     },
     {
-        "Id": 20402,
+        "ID": 20402,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2003501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20025NPC",
         "EnterDistance": 50,
@@ -1314,13 +1314,13 @@
         "TargetTextMapHash": 3840670600
     },
     {
-        "Id": 20403,
+        "ID": 20403,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20005NPC",
         "EnterDistance": 50,
@@ -1330,13 +1330,13 @@
         "TargetTextMapHash": 2606593520
     },
     {
-        "Id": 20300,
+        "ID": 20300,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2000601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event102",
         "EnterDistance": 20,
@@ -1346,13 +1346,13 @@
         "TargetTextMapHash": 613814280
     },
     {
-        "Id": 20301,
+        "ID": 20301,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event20301",
         "EnterDistance": 20,
@@ -1362,13 +1362,13 @@
         "TargetTextMapHash": 1827864304
     },
     {
-        "Id": 20302,
+        "ID": 20302,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2002601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event20302",
         "EnterDistance": 20,
@@ -1378,13 +1378,13 @@
         "TargetTextMapHash": 296393544
     },
     {
-        "Id": 20100,
+        "ID": 20100,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2000709,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20007NPC",
         "EnterDistance": 50,
@@ -1394,13 +1394,13 @@
         "TargetTextMapHash": 3544601664
     },
     {
-        "Id": 20101,
+        "ID": 20101,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001709,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20017NPC",
         "EnterDistance": 50,
@@ -1410,13 +1410,13 @@
         "TargetTextMapHash": 952273632
     },
     {
-        "Id": 20102,
+        "ID": 20102,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001809,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20018NPC",
         "EnterDistance": 50,
@@ -1426,13 +1426,13 @@
         "TargetTextMapHash": 267816416
     },
     {
-        "Id": 20200,
+        "ID": 20200,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2000801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_20200",
         "EnterDistance": 40,
@@ -1442,13 +1442,13 @@
         "TargetTextMapHash": 3676642304
     },
     {
-        "Id": 20201,
+        "ID": 20201,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2002701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20201",
         "EnterDistance": 40,
@@ -1458,13 +1458,13 @@
         "TargetTextMapHash": 3978110208
     },
     {
-        "Id": 20202,
+        "ID": 20202,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2002801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20202",
         "EnterDistance": 40,
@@ -1474,13 +1474,13 @@
         "TargetTextMapHash": 3162400992
     },
     {
-        "Id": 20700,
+        "ID": 20700,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2000909,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20009NPC01",
         "EnterDistance": 40,
@@ -1490,13 +1490,13 @@
         "TargetTextMapHash": 3545574560
     },
     {
-        "Id": 20701,
+        "ID": 20701,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001009,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20010NPC01",
         "EnterDistance": 40,
@@ -1506,13 +1506,13 @@
         "TargetTextMapHash": 2438218304
     },
     {
-        "Id": 20702,
+        "ID": 20702,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2001509,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q20015NPC01",
         "EnterDistance": 40,
@@ -1522,13 +1522,13 @@
         "TargetTextMapHash": 211386192
     },
     {
-        "Id": 21000,
+        "ID": 21000,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2003601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_21000",
         "EnterDistance": 10,
@@ -1538,13 +1538,13 @@
         "TargetTextMapHash": 996709008
     },
     {
-        "Id": 20900,
+        "ID": 20900,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2003801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20900",
         "EnterDistance": 10,
@@ -1554,13 +1554,13 @@
         "TargetTextMapHash": 822226928
     },
     {
-        "Id": 21100,
+        "ID": 21100,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2003701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20037NPC01GDWTBG",
         "EnterDistance": 10,
@@ -1570,13 +1570,13 @@
         "TargetTextMapHash": 767303776
     },
     {
-        "Id": 21200,
+        "ID": 21200,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2003901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_21200",
         "EnterDistance": 10,
@@ -1586,13 +1586,13 @@
         "TargetTextMapHash": 1751442480
     },
     {
-        "Id": 20600,
+        "ID": 20600,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2004001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_20600",
         "EnterDistance": 10,
@@ -1602,13 +1602,13 @@
         "TargetTextMapHash": 3859381472
     },
     {
-        "Id": 21300,
+        "ID": 21300,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2004101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_21300",
         "EnterDistance": 40,
@@ -1618,13 +1618,13 @@
         "TargetTextMapHash": 2483964144
     },
     {
-        "Id": 21600,
+        "ID": 21600,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2004401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_21600",
         "EnterDistance": 10,
@@ -1634,13 +1634,13 @@
         "TargetTextMapHash": 107318896
     },
     {
-        "Id": 21601,
+        "ID": 21601,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2005001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_21600",
         "EnterDistance": 10,
@@ -1650,13 +1650,13 @@
         "TargetTextMapHash": 64677280
     },
     {
-        "Id": 21602,
+        "ID": 21602,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2005301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_21600",
         "EnterDistance": 10,
@@ -1666,13 +1666,13 @@
         "TargetTextMapHash": 714868816
     },
     {
-        "Id": 21603,
+        "ID": 21603,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2006501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_21600",
         "EnterDistance": 10,
@@ -1682,13 +1682,13 @@
         "TargetTextMapHash": 4034922224
     },
     {
-        "Id": 21604,
+        "ID": 21604,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 2,
         "QuestId": 2006601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_21600",
         "EnterDistance": 10,
@@ -1698,13 +1698,13 @@
         "TargetTextMapHash": 2592628136
     },
     {
-        "Id": 21400,
+        "ID": 21400,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2004201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20042NPC1Born",
         "EnterDistance": 10,
@@ -1714,13 +1714,13 @@
         "TargetTextMapHash": 12008328
     },
     {
-        "Id": 21500,
+        "ID": 21500,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2004301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20043NPC1Born",
         "EnterDistance": 10,
@@ -1730,13 +1730,13 @@
         "TargetTextMapHash": 2855393928
     },
     {
-        "Id": 21800,
+        "ID": 21800,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2004701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Npc1529Route1_3",
         "EnterDistance": 40,
@@ -1746,13 +1746,13 @@
         "TargetTextMapHash": 2588748864
     },
     {
-        "Id": 21700,
+        "ID": 21700,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2004801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_21700",
         "EnterDistance": 10,
@@ -1762,13 +1762,13 @@
         "TargetTextMapHash": 2455089152
     },
     {
-        "Id": 21900,
+        "ID": 21900,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2004901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_21900",
         "EnterDistance": 10,
@@ -1778,13 +1778,13 @@
         "TargetTextMapHash": 310572944
     },
     {
-        "Id": 22000,
+        "ID": 22000,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2005101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_22000",
         "EnterDistance": 10,
@@ -1794,13 +1794,13 @@
         "TargetTextMapHash": 1636491240
     },
     {
-        "Id": 22100,
+        "ID": 22100,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2005401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_22100",
         "EnterDistance": 10,
@@ -1810,13 +1810,13 @@
         "TargetTextMapHash": 2066982160
     },
     {
-        "Id": 22200,
+        "ID": 22200,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2005801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_22200",
         "EnterDistance": 10,
@@ -1826,13 +1826,13 @@
         "TargetTextMapHash": 3095382424
     },
     {
-        "Id": 22400,
+        "ID": 22400,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2006201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_22400",
         "EnterDistance": 40,
@@ -1842,13 +1842,13 @@
         "TargetTextMapHash": 1729701592
     },
     {
-        "Id": 22500,
+        "ID": 22500,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2006001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_22500",
         "EnterDistance": 40,
@@ -1858,13 +1858,13 @@
         "TargetTextMapHash": 4049208464
     },
     {
-        "Id": 22600,
+        "ID": 22600,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2002301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event22600NPCSpawn3",
         "EnterDistance": 10,
@@ -1874,13 +1874,13 @@
         "TargetTextMapHash": 442694624
     },
     {
-        "Id": 22700,
+        "ID": 22700,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2006101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Npc1537Born",
         "EnterDistance": 20,
@@ -1890,13 +1890,13 @@
         "TargetTextMapHash": 214891200
     },
     {
-        "Id": 22800,
+        "ID": 22800,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2006301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20063JackBorn",
         "EnterDistance": 10,
@@ -1906,13 +1906,13 @@
         "TargetTextMapHash": 1826257264
     },
     {
-        "Id": 22900,
+        "ID": 22900,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2005901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_22900",
         "EnterDistance": 10,
@@ -1922,13 +1922,13 @@
         "TargetTextMapHash": 2833403104
     },
     {
-        "Id": 24700,
+        "ID": 24700,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20511_AnDongNiInitPos",
         "EnterDistance": 10,
@@ -1938,13 +1938,13 @@
         "TargetTextMapHash": 1367732008
     },
     {
-        "Id": 24701,
+        "ID": 24701,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20511_AnDongNiInitPos",
         "EnterDistance": 10,
@@ -1954,13 +1954,13 @@
         "TargetTextMapHash": 1064726616
     },
     {
-        "Id": 24702,
+        "ID": 24702,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20511_AnDongNiInitPos",
         "EnterDistance": 10,
@@ -1970,13 +1970,13 @@
         "TargetTextMapHash": 439189360
     },
     {
-        "Id": 23000,
+        "ID": 23000,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2010201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Npc1537Born",
         "EnterDistance": 10,
@@ -1986,13 +1986,13 @@
         "TargetTextMapHash": 544269880
     },
     {
-        "Id": 24800,
+        "ID": 24800,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20514_AnDongNiInitPos",
         "EnterDistance": 10,
@@ -2002,13 +2002,13 @@
         "TargetTextMapHash": 3905768240
     },
     {
-        "Id": 24801,
+        "ID": 24801,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20514_AnDongNiInitPos",
         "EnterDistance": 10,
@@ -2018,13 +2018,13 @@
         "TargetTextMapHash": 587054848
     },
     {
-        "Id": 24802,
+        "ID": 24802,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20514_AnDongNiInitPos",
         "EnterDistance": 10,
@@ -2034,13 +2034,13 @@
         "TargetTextMapHash": 2383996520
     },
     {
-        "Id": 24900,
+        "ID": 24900,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20517_Rudolf_InitPos",
         "EnterDistance": 10,
@@ -2050,13 +2050,13 @@
         "TargetTextMapHash": 1442952264
     },
     {
-        "Id": 24100,
+        "ID": 24100,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20518_Vile_InitPos",
         "EnterDistance": 10,
@@ -2066,13 +2066,13 @@
         "TargetTextMapHash": 2592690248
     },
     {
-        "Id": 24101,
+        "ID": 24101,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2051901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20518_Vile_InitPos",
         "EnterDistance": 10,
@@ -2082,13 +2082,13 @@
         "TargetTextMapHash": 414939920
     },
     {
-        "Id": 23100,
+        "ID": 23100,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2006801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "NpcFemaleDayStand09Born",
         "EnterDistance": 10,
@@ -2098,13 +2098,13 @@
         "TargetTextMapHash": 3651269160
     },
     {
-        "Id": 23300,
+        "ID": 23300,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2010301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20103NPCBorn",
         "EnterDistance": 10,
@@ -2114,13 +2114,13 @@
         "TargetTextMapHash": 1881735376
     },
     {
-        "Id": 24300,
+        "ID": 24300,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2070001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20700_Start",
         "EnterDistance": 10,
@@ -2130,13 +2130,13 @@
         "TargetTextMapHash": 2006574984
     },
     {
-        "Id": 23600,
+        "ID": 23600,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2060001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_23600_Revised",
         "EnterDistance": 10,
@@ -2146,13 +2146,13 @@
         "TargetTextMapHash": 3932800856
     },
     {
-        "Id": 24000,
+        "ID": 24000,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2070101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20701_Start",
         "EnterDistance": 10,
@@ -2162,13 +2162,13 @@
         "TargetTextMapHash": 1837419088
     },
     {
-        "Id": 24500,
+        "ID": 24500,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2070201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20702_Start",
         "EnterDistance": 10,
@@ -2178,13 +2178,13 @@
         "TargetTextMapHash": 3643711360
     },
     {
-        "Id": 24600,
+        "ID": 24600,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2070301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20703_Start",
         "EnterDistance": 10,
@@ -2194,13 +2194,13 @@
         "TargetTextMapHash": 2308054608
     },
     {
-        "Id": 27700,
+        "ID": 27700,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2070401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20704_Start",
         "EnterDistance": 10,
@@ -2210,13 +2210,13 @@
         "TargetTextMapHash": 2318861360
     },
     {
-        "Id": 24200,
+        "ID": 24200,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2010401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Npc1596Born",
         "EnterDistance": 10,
@@ -2226,13 +2226,13 @@
         "TargetTextMapHash": 4086613504
     },
     {
-        "Id": 28600,
+        "ID": 28600,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 4112501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q41125jieke",
         "EnterDistance": 10,
@@ -2242,13 +2242,13 @@
         "TargetTextMapHash": 3534408512
     },
     {
-        "Id": 28900,
+        "ID": 28900,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2006901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20069_npc",
         "EnterDistance": 10,
@@ -2258,13 +2258,13 @@
         "TargetTextMapHash": 2503685256
     },
     {
-        "Id": 29000,
+        "ID": 29000,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2007015,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20069_npc",
         "EnterDistance": 10,
@@ -2274,13 +2274,13 @@
         "TargetTextMapHash": 1349466232
     },
     {
-        "Id": 29001,
+        "ID": 29001,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2007112,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20069_npc",
         "EnterDistance": 10,
@@ -2290,13 +2290,13 @@
         "TargetTextMapHash": 2650916176
     },
     {
-        "Id": 29002,
+        "ID": 29002,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2007213,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20069_npc",
         "EnterDistance": 10,
@@ -2306,13 +2306,13 @@
         "TargetTextMapHash": 3354320680
     },
     {
-        "Id": 29100,
+        "ID": 29100,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2007301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20073_startPos",
         "EnterDistance": 10,
@@ -2322,13 +2322,13 @@
         "TargetTextMapHash": 1982044552
     },
     {
-        "Id": 28800,
+        "ID": 28800,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2052001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20520tommy",
         "EnterDistance": 10,
@@ -2338,13 +2338,13 @@
         "TargetTextMapHash": 1805397720
     },
     {
-        "Id": 29200,
+        "ID": 29200,
         "CityId": 1,
         "PoolId": 2003,
         "Rarity": 1,
         "QuestId": 2052101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q20521target",
         "EnterDistance": 10,
@@ -2354,14 +2354,14 @@
         "TargetTextMapHash": 2178821344
     },
     {
-        "Id": 15000,
+        "ID": 15000,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133105270
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105257
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2376,14 +2376,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15001,
+        "ID": 15001,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102145
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102552
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2398,14 +2398,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15002,
+        "ID": 15002,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133108109
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108086
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2420,15 +2420,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15100,
+        "ID": 15100,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103315,
             133103336
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103270
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -2445,14 +2445,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15101,
+        "ID": 15101,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101079
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101096
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -2469,15 +2469,15 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15103,
+        "ID": 15103,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102577,
             133102590
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102565
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -2494,14 +2494,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15104,
+        "ID": 15104,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133108088
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108093
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -2518,14 +2518,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15105,
+        "ID": 15105,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104231
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104421
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -2542,14 +2542,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15200,
+        "ID": 15200,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103115
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103267
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2564,14 +2564,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15201,
+        "ID": 15201,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104294
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104511
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2586,14 +2586,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15202,
+        "ID": 15202,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101061
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101092
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2608,14 +2608,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15203,
+        "ID": 15203,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103245
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103295
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2630,15 +2630,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15204,
+        "ID": 15204,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102525,
             133102641
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102567
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2653,14 +2653,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15205,
+        "ID": 15205,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104266
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104402
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2675,15 +2675,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15206,
+        "ID": 15206,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104202,
             133104346
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104404
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2698,12 +2698,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15207,
+        "ID": 15207,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133101104
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2718,14 +2718,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15208,
+        "ID": 15208,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133105112
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105264
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2740,16 +2740,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15300,
+        "ID": 15300,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133103030,
             133103334
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103266
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2764,16 +2764,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15302,
+        "ID": 15302,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133104188,
             133104005
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104406
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2788,15 +2788,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15303,
+        "ID": 15303,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133101167
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101105
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2811,17 +2811,17 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15304,
+        "ID": 15304,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133105010,
             133105144,
             133105215
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105262
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2836,15 +2836,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15400,
+        "ID": 15400,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133101091
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101094
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2859,13 +2859,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15401,
+        "ID": 15401,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133103310
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2880,16 +2880,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15403,
+        "ID": 15403,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133105245,
             133105267
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102566
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2904,13 +2904,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15404,
+        "ID": 15404,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133104407
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2925,16 +2925,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15405,
+        "ID": 15405,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
         "Rarity": 2,
-        "OldGroup": [
+        "OldGroupVec": [
             133104334,
             133104435
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104410
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -2949,15 +2949,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15501,
+        "ID": 15501,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102193,
             133102020
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102550
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -2973,12 +2973,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15502,
+        "ID": 15502,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133101098
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -2994,14 +2994,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15503,
+        "ID": 15503,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102146
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102562
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -3017,14 +3017,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15504,
+        "ID": 15504,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104129
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104408
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -3040,14 +3040,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15505,
+        "ID": 15505,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104183
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104409
         ],
         "FinishType": "DAILY_FINISH_GADGET_ID_NUM",
@@ -3063,16 +3063,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15600,
+        "ID": 15600,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102469,
             133102470,
             133102379
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102555
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3087,14 +3087,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15601,
+        "ID": 15601,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103029
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103292
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3109,14 +3109,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15602,
+        "ID": 15602,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104040
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104405
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3131,14 +3131,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15603,
+        "ID": 15603,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133105045
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105261
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3153,16 +3153,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15604,
+        "ID": 15604,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133108035,
             133108034,
             133108037
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108091
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3177,14 +3177,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15701,
+        "ID": 15701,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103127
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103296
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3199,16 +3199,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15702,
+        "ID": 15702,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133108040,
             133108088,
             133108039
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108092
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3223,14 +3223,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15703,
+        "ID": 15703,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104351
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104411
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3245,14 +3245,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15704,
+        "ID": 15704,
         "CityId": 2,
         "PoolId": 1103,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104037
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104416
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3267,14 +3267,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15800,
+        "ID": 15800,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103288
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103298
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3289,14 +3289,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15801,
+        "ID": 15801,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103291
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103299
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3311,15 +3311,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15802,
+        "ID": 15802,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101072,
             133101136
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101102
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3334,14 +3334,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15803,
+        "ID": 15803,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101074
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101103
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3356,15 +3356,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15804,
+        "ID": 15804,
         "CityId": 2,
         "PoolId": 1104,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133105042,
             133105195
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105265
         ],
         "FinishType": "DAILY_FINISH_MONSTER_NUM",
@@ -3379,12 +3379,12 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 15900,
+        "ID": 15900,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133103269
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3401,15 +3401,15 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15901,
+        "ID": 15901,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102192,
             133102007
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102547
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3426,14 +3426,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15902,
+        "ID": 15902,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101066
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101095
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3450,17 +3450,17 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15903,
+        "ID": 15903,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103147,
             133103145,
             133103144,
             133103146
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103311
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3477,17 +3477,17 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15904,
+        "ID": 15904,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133105135,
             133105132,
             133105130,
             133105134
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102564
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3504,15 +3504,15 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 15905,
+        "ID": 15905,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104191,
             133104347
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104418
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3529,14 +3529,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16000,
+        "ID": 16000,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103161
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103271
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3553,14 +3553,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16001,
+        "ID": 16001,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102368
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102548
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3577,15 +3577,15 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16003,
+        "ID": 16003,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101166,
             133101114
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101106
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3602,14 +3602,14 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16004,
+        "ID": 16004,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101066
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101107
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3626,12 +3626,12 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16006,
+        "ID": 16006,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [],
-        "NewGroup": [
+        "OldGroupVec": [],
+        "NewGroupVec": [
             133108095
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3648,15 +3648,15 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16007,
+        "ID": 16007,
         "CityId": 2,
         "PoolId": 1101,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133104313,
             133104133
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104423
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3673,17 +3673,17 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16401,
+        "ID": 16401,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103192,
             133103029,
             133103036,
             133103033
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103460
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3700,11 +3700,11 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16402,
+        "ID": 16402,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133106194,
             133106192,
             133106214,
@@ -3712,7 +3712,7 @@
             133106122,
             133106129
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107081
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3729,11 +3729,11 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16403,
+        "ID": 16403,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133108090,
             133108080,
             133108021,
@@ -3741,7 +3741,7 @@
             133108087,
             133108075
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108112
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3758,16 +3758,16 @@
         "RadarRadius": 20.0
     },
     {
-        "Id": 16501,
+        "ID": 16501,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133105115,
             133105110,
             133105045
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105275
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3784,15 +3784,15 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16502,
+        "ID": 16502,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102325,
             133102277
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002362
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3809,14 +3809,14 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16503,
+        "ID": 16503,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133101137
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101183
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3833,17 +3833,17 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16504,
+        "ID": 16504,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103290,
             133103132,
             133103040,
             133103212
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103466
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3860,11 +3860,11 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16600,
+        "ID": 16600,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103144,
             133103159,
             133103156,
@@ -3872,7 +3872,7 @@
             133103297,
             133103273
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103455
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3889,11 +3889,11 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16601,
+        "ID": 16601,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133108033,
             133108037,
             133108042,
@@ -3901,7 +3901,7 @@
             133108044,
             133108035
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108110
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3918,18 +3918,18 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16602,
+        "ID": 16602,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133106119,
             133106118,
             133106226,
             133106058,
             133106111
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106258
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3946,11 +3946,11 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16603,
+        "ID": 16603,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133102607,
             133102497,
             133102499,
@@ -3958,7 +3958,7 @@
             133102466,
             133102498
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102724
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -3975,16 +3975,16 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 16604,
+        "ID": 16604,
         "CityId": 2,
         "PoolId": 1102,
         "Type": "DAILY_TASK_SCENE",
-        "OldGroup": [
+        "OldGroupVec": [
             133103166,
             133103174,
             133103169
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103482
         ],
         "FinishType": "DAILY_FINISH_CHALLENGE",
@@ -4001,13 +4001,13 @@
         "RadarRadius": 30.0
     },
     {
-        "Id": 25300,
+        "ID": 25300,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25300",
         "EnterDistance": 10,
@@ -4017,13 +4017,13 @@
         "TargetTextMapHash": 2203128568
     },
     {
-        "Id": 25301,
+        "ID": 25301,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25300",
         "EnterDistance": 10,
@@ -4033,13 +4033,13 @@
         "TargetTextMapHash": 3850976864
     },
     {
-        "Id": 25302,
+        "ID": 25302,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25300",
         "EnterDistance": 10,
@@ -4049,13 +4049,13 @@
         "TargetTextMapHash": 3521574984
     },
     {
-        "Id": 25400,
+        "ID": 25400,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25300",
         "EnterDistance": 10,
@@ -4065,13 +4065,13 @@
         "TargetTextMapHash": 1043153736
     },
     {
-        "Id": 25401,
+        "ID": 25401,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25300",
         "EnterDistance": 10,
@@ -4081,13 +4081,13 @@
         "TargetTextMapHash": 448268536
     },
     {
-        "Id": 25402,
+        "ID": 25402,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25300",
         "EnterDistance": 10,
@@ -4097,13 +4097,13 @@
         "TargetTextMapHash": 3298860008
     },
     {
-        "Id": 25500,
+        "ID": 25500,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25500",
         "EnterDistance": 10,
@@ -4113,13 +4113,13 @@
         "TargetTextMapHash": 2514588272
     },
     {
-        "Id": 25600,
+        "ID": 25600,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25600",
         "EnterDistance": 10,
@@ -4129,13 +4129,13 @@
         "TargetTextMapHash": 176875424
     },
     {
-        "Id": 25700,
+        "ID": 25700,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25700",
         "EnterDistance": 10,
@@ -4145,13 +4145,13 @@
         "TargetTextMapHash": 1535125832
     },
     {
-        "Id": 25800,
+        "ID": 25800,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25800",
         "EnterDistance": 10,
@@ -4161,13 +4161,13 @@
         "TargetTextMapHash": 3107831768
     },
     {
-        "Id": 25900,
+        "ID": 25900,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25900",
         "EnterDistance": 10,
@@ -4177,13 +4177,13 @@
         "TargetTextMapHash": 3250705920
     },
     {
-        "Id": 25901,
+        "ID": 25901,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25900",
         "EnterDistance": 10,
@@ -4193,13 +4193,13 @@
         "TargetTextMapHash": 2284538920
     },
     {
-        "Id": 25902,
+        "ID": 25902,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25900",
         "EnterDistance": 10,
@@ -4209,13 +4209,13 @@
         "TargetTextMapHash": 4177572448
     },
     {
-        "Id": 26000,
+        "ID": 26000,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2230501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_26000",
         "EnterDistance": 10,
@@ -4225,13 +4225,13 @@
         "TargetTextMapHash": 2141100672
     },
     {
-        "Id": 26100,
+        "ID": 26100,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q22000LuluSpawn",
         "EnterDistance": 10,
@@ -4241,13 +4241,13 @@
         "TargetTextMapHash": 4025811800
     },
     {
-        "Id": 26200,
+        "ID": 26200,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q22000LuluSpawn",
         "EnterDistance": 10,
@@ -4257,13 +4257,13 @@
         "TargetTextMapHash": 1725937792
     },
     {
-        "Id": 26300,
+        "ID": 26300,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q22000LuluSpawn",
         "EnterDistance": 10,
@@ -4273,13 +4273,13 @@
         "TargetTextMapHash": 2749076648
     },
     {
-        "Id": 26400,
+        "ID": 26400,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_26400",
         "EnterDistance": 10,
@@ -4289,13 +4289,13 @@
         "TargetTextMapHash": 4043694336
     },
     {
-        "Id": 26500,
+        "ID": 26500,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q22003JiangXueBorn",
         "EnterDistance": 10,
@@ -4305,13 +4305,13 @@
         "TargetTextMapHash": 1811353032
     },
     {
-        "Id": 25100,
+        "ID": 25100,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25100",
         "EnterDistance": 10,
@@ -4321,13 +4321,13 @@
         "TargetTextMapHash": 3184561832
     },
     {
-        "Id": 25200,
+        "ID": 25200,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25200",
         "EnterDistance": 10,
@@ -4337,13 +4337,13 @@
         "TargetTextMapHash": 3602388704
     },
     {
-        "Id": 25000,
+        "ID": 25000,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25000",
         "EnterDistance": 10,
@@ -4353,13 +4353,13 @@
         "TargetTextMapHash": 3699752512
     },
     {
-        "Id": 25001,
+        "ID": 25001,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2210901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25000",
         "EnterDistance": 10,
@@ -4369,13 +4369,13 @@
         "TargetTextMapHash": 2740333552
     },
     {
-        "Id": 25002,
+        "ID": 25002,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_25000",
         "EnterDistance": 10,
@@ -4385,13 +4385,13 @@
         "TargetTextMapHash": 4290816232
     },
     {
-        "Id": 26600,
+        "ID": 26600,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211201,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_26600_01",
         "EnterDistance": 10,
@@ -4401,13 +4401,13 @@
         "TargetTextMapHash": 2869930768
     },
     {
-        "Id": 26700,
+        "ID": 26700,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211301,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Event_26700_01",
         "EnterDistance": 10,
@@ -4417,13 +4417,13 @@
         "TargetTextMapHash": 1106634000
     },
     {
-        "Id": 26800,
+        "ID": 26800,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q22005BaoerInitPos",
         "EnterDistance": 10,
@@ -4433,13 +4433,13 @@
         "TargetTextMapHash": 2538418408
     },
     {
-        "Id": 26801,
+        "ID": 26801,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q22005BaoerInitPos",
         "EnterDistance": 10,
@@ -4449,13 +4449,13 @@
         "TargetTextMapHash": 2560366592
     },
     {
-        "Id": 26802,
+        "ID": 26802,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q22005BaoerInitPos",
         "EnterDistance": 10,
@@ -4465,13 +4465,13 @@
         "TargetTextMapHash": 2591791936
     },
     {
-        "Id": 26900,
+        "ID": 26900,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200901,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q22009SoRaYaInitPos",
         "EnterDistance": 10,
@@ -4481,13 +4481,13 @@
         "TargetTextMapHash": 1144556408
     },
     {
-        "Id": 27000,
+        "ID": 27000,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2200801,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 2,
         "CenterPosition": "Q1120201NPC",
         "EnterDistance": 10,
@@ -4497,13 +4497,13 @@
         "TargetTextMapHash": 66683136
     },
     {
-        "Id": 28000,
+        "ID": 28000,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211401,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Event_25100",
         "EnterDistance": 10,
@@ -4513,13 +4513,13 @@
         "TargetTextMapHash": 3109580680
     },
     {
-        "Id": 28100,
+        "ID": 28100,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211501,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Npc1624Born",
         "EnterDistance": 10,
@@ -4529,13 +4529,13 @@
         "TargetTextMapHash": 2674803680
     },
     {
-        "Id": 28200,
+        "ID": 28200,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211601,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Npc1624Born",
         "EnterDistance": 10,
@@ -4545,13 +4545,13 @@
         "TargetTextMapHash": 57353800
     },
     {
-        "Id": 28300,
+        "ID": 28300,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2211701,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q22117NPCBorn",
         "EnterDistance": 10,
@@ -4561,13 +4561,13 @@
         "TargetTextMapHash": 641541160
     },
     {
-        "Id": 27500,
+        "ID": 27500,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2220001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q2057NPCBorn",
         "EnterDistance": 10,
@@ -4577,13 +4577,13 @@
         "TargetTextMapHash": 1926042064
     },
     {
-        "Id": 28400,
+        "ID": 28400,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2250001,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "FinishProgress": 1,
         "TaskRewardId": 1,
         "CenterPosition": "Q22500lulu",
@@ -4594,13 +4594,13 @@
         "TargetTextMapHash": 3598356912
     },
     {
-        "Id": 28500,
+        "ID": 28500,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2270101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q22701_Start",
         "EnterDistance": 10,
@@ -4610,13 +4610,13 @@
         "TargetTextMapHash": 3500949248
     },
     {
-        "Id": 28700,
+        "ID": 28700,
         "CityId": 2,
         "PoolId": 2101,
         "Rarity": 1,
         "QuestId": 2250101,
-        "OldGroup": [],
-        "NewGroup": [],
+        "OldGroupVec": [],
+        "NewGroupVec": [],
         "TaskRewardId": 1,
         "CenterPosition": "Q22501qingzhou1",
         "EnterDistance": 10,

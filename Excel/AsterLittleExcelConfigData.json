@@ -1,16 +1,16 @@
 [
     {
         "StageId": 1,
-        "NextStageId": [
+        "NextStageIdVec": [
             2
         ],
         "OpenDay": 1,
-        "Mission": [
+        "MissionVec": [
             1,
             2,
             3
         ],
-        "WatcherId": [
+        "WatcherIdVec": [
             1200101
         ],
         "TitleTextMapHash": 2080097129,
@@ -18,14 +18,14 @@
     },
     {
         "StageId": 2,
-        "NextStageId": [],
+        "NextStageIdVec": [],
         "OpenDay": 2,
-        "Mission": [
+        "MissionVec": [
             4,
             5,
             6
         ],
-        "WatcherId": [
+        "WatcherIdVec": [
             1200102
         ],
         "TitleTextMapHash": 306149281,

@@ -238,7 +238,7 @@
         "Id": 214,
         "ContentTextMapHash": 3084995644,
         "InteeIconName": "UI_Icon_Intee_Mechanism",
-        "GuestInteeButtonShow": true
+        "GusetInteeButtonShow": true
     },
     {
         "Id": 1002,
@@ -270,7 +270,7 @@
         "Id": 2905,
         "ContentTextMapHash": 168453452,
         "InteeIconName": "UI_Icon_Intee_Mechanism",
-        "GuestInteeButtonShow": true
+        "GusetInteeButtonShow": true
     },
     {
         "Id": 33,
@@ -313,8 +313,134 @@
         "InteeIconName": "UI_Icon_Intee_Mechanism_MP"
     },
     {
+        "Id": 41,
+        "ContentTextMapHash": 2289133380,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 42,
+        "ContentTextMapHash": 2520857540,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 43,
+        "ContentTextMapHash": 4224595684,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 44,
+        "ContentTextMapHash": 1373872316,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 45,
+        "ContentTextMapHash": 2428106780,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 46,
+        "ContentTextMapHash": 3113825596,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
         "Id": 47,
         "ContentTextMapHash": 825939716,
         "InteeIconName": "UI_Icon_Intee_Investigation"
+    },
+    {
+        "Id": 48,
+        "ContentTextMapHash": 2090968340,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 49,
+        "ContentTextMapHash": 2363294268,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 50,
+        "ContentTextMapHash": 1809992924,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 3001,
+        "ContentTextMapHash": 3673168388,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 3002,
+        "ContentTextMapHash": 2568063612,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 3003,
+        "ContentTextMapHash": 3054753404,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 3004,
+        "ContentTextMapHash": 671316452,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 3005,
+        "ContentTextMapHash": 3138510268,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 51,
+        "ContentTextMapHash": 2351148756,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 52,
+        "ContentTextMapHash": 1373862572,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 53,
+        "ContentTextMapHash": 2307157596,
+        "InteeIconName": "UI_Icon_Intee_Mechanism"
+    },
+    {
+        "Id": 4001,
+        "ContentTextMapHash": 622231132,
+        "InteeIconName": "UI_Icon_Intee_BuildScore",
+        "GusetInteeButtonShow": true
+    },
+    {
+        "Id": 4002,
+        "ContentTextMapHash": 2684658364,
+        "InteeIconName": "UI_Icon_Intee_BuildScore",
+        "GusetInteeButtonShow": true
+    },
+    {
+        "Id": 4003,
+        "ContentTextMapHash": 1512239364,
+        "InteeIconName": "UI_Icon_Intee_BuildScore",
+        "GusetInteeButtonShow": true
+    },
+    {
+        "Id": 4004,
+        "ContentTextMapHash": 1744908324,
+        "InteeIconName": "UI_Icon_Intee_BuildScore",
+        "GusetInteeButtonShow": true
+    },
+    {
+        "Id": 4005,
+        "ContentTextMapHash": 877714020,
+        "InteeIconName": "UI_Icon_Intee_Mechanism",
+        "GusetInteeButtonShow": true
+    },
+    {
+        "Id": 71821,
+        "ContentTextMapHash": 3419133180,
+        "InteeIconName": "UI_Icon_Intee_PickUp"
+    },
+    {
+        "Id": 4006,
+        "ContentTextMapHash": 3064144876,
+        "InteeIconName": "UI_Icon_Intee_Mechanism",
+        "GusetInteeButtonShow": true
     }
 ]

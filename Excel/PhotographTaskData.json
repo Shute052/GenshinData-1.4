@@ -1,0 +1,38 @@
+[
+    {
+        "TaskId": 10001,
+        "SceneID": 3,
+        "CenterX": -443.4527893066406,
+        "CenterY": 247.0,
+        "CenterZ": 508.0,
+        "Radius": 10.0,
+        "TargetGadgetID": [
+            "Q11200_Player",
+            "Q1120201NPC",
+            "Q11200Chenxiang",
+            "Q1120201Chenxiang"
+        ],
+        "EndTime": 24.0,
+        "Questid": 4133302,
+        "FJILNGPKFDH": 2052324292,
+        "OPHNKCFNCKE": 3858495521
+    },
+    {
+        "TaskId": 10002,
+        "SceneID": 3,
+        "CenterX": -232.3040008544922,
+        "CenterY": 266.4020080566406,
+        "CenterZ": 219.53480529785156,
+        "Radius": 10.0,
+        "TargetGadgetID": [
+            "Npc1627Born",
+            "Q4131218Player",
+            "Q4131218Player",
+            "Q4131218JiaYi"
+        ],
+        "EndTime": 24.0,
+        "Questid": 4133303,
+        "FJILNGPKFDH": 2301631540,
+        "OPHNKCFNCKE": 3885144089
+    }
+]

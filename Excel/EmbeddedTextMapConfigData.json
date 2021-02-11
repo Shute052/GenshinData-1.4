@@ -336,6 +336,10 @@
         "TextMapContentTextMapHash": 3156035039
     },
     {
+        "TextMapId": "UI_GOTO_URL",
+        "TextMapContentTextMapHash": 4080294345
+    },
+    {
         "TextMapId": "UI_DOWNLOAD_MEDIUM_RESOURCE_TIP_UNFINISH",
         "TextMapContentTextMapHash": 786306327
     },
@@ -426,6 +430,10 @@
     {
         "TextMapId": "PICK_DOWNLOAD",
         "TextMapContentTextMapHash": 1359506199
+    },
+    {
+        "TextMapId": "UI_RESET_GAME",
+        "TextMapContentTextMapHash": 1279007211
     },
     {
         "TextMapId": "UI_LOGIN_ENTER_GAME_BTN",

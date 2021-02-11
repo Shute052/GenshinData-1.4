@@ -15,7 +15,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201001,
@@ -38,7 +38,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201002,
@@ -61,7 +61,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201003,
@@ -84,7 +84,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201004,
@@ -107,7 +107,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201005,
@@ -130,7 +130,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201006,
@@ -153,7 +153,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201007,
@@ -176,7 +176,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201008,
@@ -199,7 +199,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201009,
@@ -222,7 +222,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201010,
@@ -245,7 +245,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201011,
@@ -268,7 +268,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201012,
@@ -291,7 +291,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 201013,
@@ -314,7 +314,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 202001,
@@ -322,7 +322,7 @@
         "ShopType": 1003,
         "ItemId": 11201,
         "ItemCount": 1,
-        "CostSCoin": 600,
+        "CostScoin": 600,
         "CostItems": [
             {},
             {}
@@ -336,7 +336,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 202002,
@@ -344,7 +344,7 @@
         "ShopType": 1003,
         "ItemId": 12201,
         "ItemCount": 1,
-        "CostSCoin": 600,
+        "CostScoin": 600,
         "CostItems": [
             {},
             {}
@@ -358,7 +358,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 202003,
@@ -366,7 +366,7 @@
         "ShopType": 1003,
         "ItemId": 13201,
         "ItemCount": 1,
-        "CostSCoin": 600,
+        "CostScoin": 600,
         "CostItems": [
             {},
             {}
@@ -380,7 +380,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 202004,
@@ -388,7 +388,7 @@
         "ShopType": 1003,
         "ItemId": 14201,
         "ItemCount": 1,
-        "CostSCoin": 600,
+        "CostScoin": 600,
         "CostItems": [
             {},
             {}
@@ -402,7 +402,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 202005,
@@ -410,7 +410,7 @@
         "ShopType": 1003,
         "ItemId": 15201,
         "ItemCount": 1,
-        "CostSCoin": 600,
+        "CostScoin": 600,
         "CostItems": [
             {},
             {}
@@ -424,7 +424,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203001,
@@ -432,7 +432,7 @@
         "ShopType": 1004,
         "ItemId": 100075,
         "ItemCount": 1,
-        "CostSCoin": 60,
+        "CostScoin": 60,
         "CostItems": [
             {},
             {}
@@ -446,7 +446,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203002,
@@ -454,7 +454,7 @@
         "ShopType": 1004,
         "ItemId": 100077,
         "ItemCount": 1,
-        "CostSCoin": 80,
+        "CostScoin": 80,
         "CostItems": [
             {},
             {}
@@ -468,7 +468,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203003,
@@ -476,7 +476,7 @@
         "ShopType": 1004,
         "ItemId": 100076,
         "ItemCount": 1,
-        "CostSCoin": 80,
+        "CostScoin": 80,
         "CostItems": [
             {},
             {}
@@ -490,7 +490,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203004,
@@ -498,7 +498,7 @@
         "ShopType": 1004,
         "ItemId": 100078,
         "ItemCount": 1,
-        "CostSCoin": 100,
+        "CostScoin": 100,
         "CostItems": [
             {},
             {}
@@ -512,7 +512,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203005,
@@ -520,7 +520,7 @@
         "ShopType": 1004,
         "ItemId": 100079,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -534,7 +534,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203006,
@@ -542,7 +542,7 @@
         "ShopType": 1004,
         "ItemId": 100018,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -556,7 +556,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203007,
@@ -564,7 +564,7 @@
         "ShopType": 1004,
         "ItemId": 100080,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -578,7 +578,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 203008,
@@ -586,7 +586,7 @@
         "ShopType": 1004,
         "ItemId": 100017,
         "ItemCount": 1,
-        "CostSCoin": 100,
+        "CostScoin": 100,
         "CostItems": [
             {},
             {}
@@ -600,7 +600,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204001,
@@ -608,7 +608,7 @@
         "ShopType": 1005,
         "ItemId": 108005,
         "ItemCount": 1,
-        "CostSCoin": 200,
+        "CostScoin": 200,
         "CostItems": [
             {},
             {}
@@ -622,7 +622,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204002,
@@ -630,7 +630,7 @@
         "ShopType": 1005,
         "ItemId": 108002,
         "ItemCount": 1,
-        "CostSCoin": 1025,
+        "CostScoin": 1025,
         "CostItems": [
             {},
             {}
@@ -644,7 +644,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204003,
@@ -652,7 +652,7 @@
         "ShopType": 1005,
         "ItemId": 108012,
         "ItemCount": 1,
-        "CostSCoin": 450,
+        "CostScoin": 450,
         "CostItems": [
             {},
             {}
@@ -666,7 +666,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204004,
@@ -674,7 +674,7 @@
         "ShopType": 1005,
         "ItemId": 110001,
         "ItemCount": 1,
-        "CostSCoin": 150,
+        "CostScoin": 150,
         "CostItems": [
             {},
             {}
@@ -688,7 +688,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204005,
@@ -696,7 +696,7 @@
         "ShopType": 1005,
         "ItemId": 110002,
         "ItemCount": 1,
-        "CostSCoin": 150,
+        "CostScoin": 150,
         "CostItems": [
             {},
             {}
@@ -710,7 +710,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204006,
@@ -718,7 +718,7 @@
         "ShopType": 1005,
         "ItemId": 110003,
         "ItemCount": 1,
-        "CostSCoin": 900,
+        "CostScoin": 900,
         "CostItems": [
             {},
             {}
@@ -732,7 +732,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204007,
@@ -740,7 +740,7 @@
         "ShopType": 1005,
         "ItemId": 110004,
         "ItemCount": 1,
-        "CostSCoin": 270,
+        "CostScoin": 270,
         "CostItems": [
             {},
             {}
@@ -754,7 +754,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204008,
@@ -762,7 +762,7 @@
         "ShopType": 1005,
         "ItemId": 110005,
         "ItemCount": 1,
-        "CostSCoin": 630,
+        "CostScoin": 630,
         "CostItems": [
             {},
             {}
@@ -776,7 +776,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204009,
@@ -784,7 +784,7 @@
         "ShopType": 1005,
         "ItemId": 110006,
         "ItemCount": 1,
-        "CostSCoin": 450,
+        "CostScoin": 450,
         "CostItems": [
             {},
             {}
@@ -798,7 +798,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204010,
@@ -806,7 +806,7 @@
         "ShopType": 1005,
         "ItemId": 100074,
         "ItemCount": 1,
-        "CostSCoin": 1125,
+        "CostScoin": 1125,
         "CostItems": [
             {},
             {}
@@ -820,7 +820,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204011,
@@ -828,7 +828,7 @@
         "ShopType": 1005,
         "ItemId": 110008,
         "ItemCount": 1,
-        "CostSCoin": 1475,
+        "CostScoin": 1475,
         "CostItems": [
             {},
             {}
@@ -842,7 +842,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204012,
@@ -850,7 +850,7 @@
         "ShopType": 1005,
         "ItemId": 110009,
         "ItemCount": 1,
-        "CostSCoin": 420,
+        "CostScoin": 420,
         "CostItems": [
             {},
             {}
@@ -864,7 +864,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204013,
@@ -872,7 +872,7 @@
         "ShopType": 1005,
         "ItemId": 110010,
         "ItemCount": 1,
-        "CostSCoin": 720,
+        "CostScoin": 720,
         "CostItems": [
             {},
             {}
@@ -886,7 +886,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204014,
@@ -894,7 +894,7 @@
         "ShopType": 1005,
         "ItemId": 110011,
         "ItemCount": 1,
-        "CostSCoin": 840,
+        "CostScoin": 840,
         "CostItems": [
             {},
             {}
@@ -908,7 +908,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204015,
@@ -916,7 +916,7 @@
         "ShopType": 1005,
         "ItemId": 109401,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -928,7 +928,7 @@
         "MinPlayerLevel": 15,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204016,
@@ -936,7 +936,7 @@
         "ShopType": 1005,
         "ItemId": 109103,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -948,7 +948,7 @@
         "MinPlayerLevel": 20,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204017,
@@ -956,7 +956,7 @@
         "ShopType": 1005,
         "ItemId": 109203,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -968,7 +968,7 @@
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204018,
@@ -976,7 +976,7 @@
         "ShopType": 1005,
         "ItemId": 109106,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -988,7 +988,7 @@
         "MinPlayerLevel": 30,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204019,
@@ -996,7 +996,7 @@
         "ShopType": 1005,
         "ItemId": 109107,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -1008,7 +1008,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 204020,
@@ -1016,7 +1016,7 @@
         "ShopType": 1005,
         "ItemId": 109304,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -1028,7 +1028,7 @@
         "MinPlayerLevel": 40,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 205001,
@@ -1036,7 +1036,7 @@
         "ShopType": 1011,
         "ItemId": 100012,
         "ItemCount": 1,
-        "CostSCoin": 200,
+        "CostScoin": 200,
         "CostItems": [
             {},
             {}
@@ -1050,7 +1050,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 205002,
@@ -1058,7 +1058,7 @@
         "ShopType": 1011,
         "ItemId": 100024,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1072,7 +1072,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 205003,
@@ -1080,7 +1080,7 @@
         "ShopType": 1011,
         "ItemId": 100023,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1094,7 +1094,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 205004,
@@ -1102,7 +1102,7 @@
         "ShopType": 1011,
         "ItemId": 100055,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1116,7 +1116,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 205005,
@@ -1124,7 +1124,7 @@
         "ShopType": 1011,
         "ItemId": 100056,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1138,7 +1138,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 206001,
@@ -1146,7 +1146,7 @@
         "ShopType": 1012,
         "ItemId": 108149,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -1160,7 +1160,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 206002,
@@ -1168,7 +1168,7 @@
         "ShopType": 1012,
         "ItemId": 108150,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -1182,7 +1182,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 206003,
@@ -1190,7 +1190,7 @@
         "ShopType": 1012,
         "ItemId": 108151,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -1204,7 +1204,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 207001,
@@ -1212,7 +1212,7 @@
         "ShopType": 1013,
         "ItemId": 60211,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -1226,7 +1226,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 207002,
@@ -1234,7 +1234,7 @@
         "ShopType": 1013,
         "ItemId": 60221,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -1248,7 +1248,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 207003,
@@ -1256,7 +1256,7 @@
         "ShopType": 1013,
         "ItemId": 60231,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -1270,7 +1270,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 207004,
@@ -1278,7 +1278,7 @@
         "ShopType": 1013,
         "ItemId": 60241,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -1292,7 +1292,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 207005,
@@ -1300,7 +1300,7 @@
         "ShopType": 1013,
         "ItemId": 60251,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -1314,7 +1314,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 208001,
@@ -1322,7 +1322,7 @@
         "ShopType": 1014,
         "ItemId": 11101,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -1336,7 +1336,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 208002,
@@ -1344,7 +1344,7 @@
         "ShopType": 1014,
         "ItemId": 12101,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -1358,7 +1358,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 208003,
@@ -1366,7 +1366,7 @@
         "ShopType": 1014,
         "ItemId": 13101,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -1380,7 +1380,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 208004,
@@ -1388,7 +1388,7 @@
         "ShopType": 1014,
         "ItemId": 14101,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -1402,7 +1402,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 208005,
@@ -1410,7 +1410,7 @@
         "ShopType": 1014,
         "ItemId": 15101,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -1424,7 +1424,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 209001,
@@ -1432,7 +1432,7 @@
         "ShopType": 1015,
         "ItemId": 108008,
         "ItemCount": 1,
-        "CostSCoin": 530,
+        "CostScoin": 530,
         "CostItems": [
             {},
             {}
@@ -1446,7 +1446,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 209002,
@@ -1454,7 +1454,7 @@
         "ShopType": 1015,
         "ItemId": 108012,
         "ItemCount": 1,
-        "CostSCoin": 450,
+        "CostScoin": 450,
         "CostItems": [
             {},
             {}
@@ -1468,7 +1468,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 209003,
@@ -1476,7 +1476,7 @@
         "ShopType": 1015,
         "ItemId": 108035,
         "ItemCount": 1,
-        "CostSCoin": 1850,
+        "CostScoin": 1850,
         "CostItems": [
             {},
             {}
@@ -1490,7 +1490,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 210001,
@@ -1498,7 +1498,7 @@
         "ShopType": 1016,
         "ItemId": 108147,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -1512,7 +1512,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 211001,
@@ -1520,7 +1520,7 @@
         "ShopType": 1017,
         "ItemId": 100061,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -1534,7 +1534,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 211002,
@@ -1542,7 +1542,7 @@
         "ShopType": 1017,
         "ItemId": 100064,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -1556,7 +1556,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 211003,
@@ -1564,7 +1564,7 @@
         "ShopType": 1017,
         "ItemId": 100062,
         "ItemCount": 1,
-        "CostSCoin": 200,
+        "CostScoin": 200,
         "CostItems": [
             {},
             {}
@@ -1578,7 +1578,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 212001,
@@ -1586,7 +1586,7 @@
         "ShopType": 1018,
         "ItemId": 100015,
         "ItemCount": 1,
-        "CostSCoin": 280,
+        "CostScoin": 280,
         "CostItems": [
             {},
             {}
@@ -1600,7 +1600,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 212002,
@@ -1608,7 +1608,7 @@
         "ShopType": 1018,
         "ItemId": 100016,
         "ItemCount": 1,
-        "CostSCoin": 150,
+        "CostScoin": 150,
         "CostItems": [
             {},
             {}
@@ -1622,7 +1622,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 212003,
@@ -1630,7 +1630,7 @@
         "ShopType": 1018,
         "ItemId": 100021,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1644,7 +1644,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 212004,
@@ -1652,7 +1652,7 @@
         "ShopType": 1018,
         "ItemId": 100022,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1666,7 +1666,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 212005,
@@ -1674,7 +1674,7 @@
         "ShopType": 1018,
         "ItemId": 100025,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -1688,7 +1688,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301001,
@@ -1711,7 +1711,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301002,
@@ -1734,7 +1734,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301003,
@@ -1757,7 +1757,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301004,
@@ -1780,7 +1780,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301005,
@@ -1803,7 +1803,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301006,
@@ -1826,7 +1826,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301007,
@@ -1849,7 +1849,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301008,
@@ -1872,7 +1872,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301009,
@@ -1895,7 +1895,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301010,
@@ -1918,7 +1918,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301011,
@@ -1941,7 +1941,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301012,
@@ -1964,7 +1964,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301013,
@@ -1987,7 +1987,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301014,
@@ -2010,7 +2010,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301015,
@@ -2033,7 +2033,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 301016,
@@ -2056,7 +2056,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302001,
@@ -2064,7 +2064,7 @@
         "ShopType": 1008,
         "ItemId": 100075,
         "ItemCount": 1,
-        "CostSCoin": 60,
+        "CostScoin": 60,
         "CostItems": [
             {},
             {}
@@ -2078,7 +2078,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302002,
@@ -2086,7 +2086,7 @@
         "ShopType": 1008,
         "ItemId": 100077,
         "ItemCount": 1,
-        "CostSCoin": 80,
+        "CostScoin": 80,
         "CostItems": [
             {},
             {}
@@ -2100,7 +2100,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302003,
@@ -2108,7 +2108,7 @@
         "ShopType": 1008,
         "ItemId": 100076,
         "ItemCount": 1,
-        "CostSCoin": 80,
+        "CostScoin": 80,
         "CostItems": [
             {},
             {}
@@ -2122,7 +2122,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302004,
@@ -2130,7 +2130,7 @@
         "ShopType": 1008,
         "ItemId": 100078,
         "ItemCount": 1,
-        "CostSCoin": 100,
+        "CostScoin": 100,
         "CostItems": [
             {},
             {}
@@ -2144,7 +2144,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302005,
@@ -2152,7 +2152,7 @@
         "ShopType": 1008,
         "ItemId": 100079,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -2166,7 +2166,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302006,
@@ -2174,7 +2174,7 @@
         "ShopType": 1008,
         "ItemId": 100018,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -2188,7 +2188,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302007,
@@ -2196,7 +2196,7 @@
         "ShopType": 1008,
         "ItemId": 100080,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -2210,7 +2210,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302008,
@@ -2218,7 +2218,7 @@
         "ShopType": 1008,
         "ItemId": 100017,
         "ItemCount": 1,
-        "CostSCoin": 100,
+        "CostScoin": 100,
         "CostItems": [
             {},
             {}
@@ -2232,7 +2232,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302009,
@@ -2240,7 +2240,7 @@
         "ShopType": 1008,
         "ItemId": 100092,
         "ItemCount": 1,
-        "CostSCoin": 100,
+        "CostScoin": 100,
         "CostItems": [
             {},
             {}
@@ -2254,7 +2254,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302010,
@@ -2262,7 +2262,7 @@
         "ShopType": 1008,
         "ItemId": 100093,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -2276,7 +2276,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302011,
@@ -2284,7 +2284,7 @@
         "ShopType": 1008,
         "ItemId": 100088,
         "ItemCount": 1,
-        "CostSCoin": 100,
+        "CostScoin": 100,
         "CostItems": [
             {},
             {}
@@ -2298,7 +2298,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 302012,
@@ -2306,7 +2306,7 @@
         "ShopType": 1008,
         "ItemId": 100089,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -2320,7 +2320,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303001,
@@ -2328,7 +2328,7 @@
         "ShopType": 1010,
         "ItemId": 108005,
         "ItemCount": 1,
-        "CostSCoin": 200,
+        "CostScoin": 200,
         "CostItems": [
             {},
             {}
@@ -2342,7 +2342,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303002,
@@ -2350,7 +2350,7 @@
         "ShopType": 1010,
         "ItemId": 108002,
         "ItemCount": 1,
-        "CostSCoin": 1025,
+        "CostScoin": 1025,
         "CostItems": [
             {},
             {}
@@ -2364,7 +2364,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303003,
@@ -2372,7 +2372,7 @@
         "ShopType": 1010,
         "ItemId": 108012,
         "ItemCount": 1,
-        "CostSCoin": 450,
+        "CostScoin": 450,
         "CostItems": [
             {},
             {}
@@ -2386,7 +2386,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303004,
@@ -2394,7 +2394,7 @@
         "ShopType": 1010,
         "ItemId": 110001,
         "ItemCount": 1,
-        "CostSCoin": 150,
+        "CostScoin": 150,
         "CostItems": [
             {},
             {}
@@ -2408,7 +2408,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303005,
@@ -2416,7 +2416,7 @@
         "ShopType": 1010,
         "ItemId": 110006,
         "ItemCount": 1,
-        "CostSCoin": 450,
+        "CostScoin": 450,
         "CostItems": [
             {},
             {}
@@ -2430,7 +2430,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303006,
@@ -2438,7 +2438,7 @@
         "ShopType": 1010,
         "ItemId": 110011,
         "ItemCount": 1,
-        "CostSCoin": 840,
+        "CostScoin": 840,
         "CostItems": [
             {},
             {}
@@ -2452,7 +2452,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303007,
@@ -2460,7 +2460,7 @@
         "ShopType": 1010,
         "ItemId": 109417,
         "ItemCount": 1,
-        "CostSCoin": 1250,
+        "CostScoin": 1250,
         "CostItems": [
             {},
             {}
@@ -2472,7 +2472,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303008,
@@ -2480,7 +2480,7 @@
         "ShopType": 1010,
         "ItemId": 109409,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -2492,7 +2492,7 @@
         "MinPlayerLevel": 15,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303009,
@@ -2500,7 +2500,7 @@
         "ShopType": 1010,
         "ItemId": 109416,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -2512,7 +2512,7 @@
         "MinPlayerLevel": 20,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303010,
@@ -2520,7 +2520,7 @@
         "ShopType": 1010,
         "ItemId": 109413,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -2532,7 +2532,7 @@
         "MinPlayerLevel": 30,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303011,
@@ -2540,7 +2540,7 @@
         "ShopType": 1010,
         "ItemId": 109414,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -2552,7 +2552,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303012,
@@ -2560,7 +2560,7 @@
         "ShopType": 1010,
         "ItemId": 109423,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -2572,7 +2572,7 @@
         "MinPlayerLevel": 40,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303013,
@@ -2580,7 +2580,7 @@
         "ShopType": 1010,
         "ItemId": 109426,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -2592,7 +2592,7 @@
         "MinPlayerLevel": 40,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303014,
@@ -2600,7 +2600,7 @@
         "ShopType": 1010,
         "ItemId": 109442,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -2612,7 +2612,7 @@
         "MinPlayerLevel": 30,
         "MaxPlayerLevel": 99,
         "SortLevel": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303015,
@@ -2620,7 +2620,7 @@
         "ShopType": 1010,
         "ItemId": 100084,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -2634,7 +2634,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303016,
@@ -2642,7 +2642,7 @@
         "ShopType": 1010,
         "ItemId": 100073,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -2656,7 +2656,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303017,
@@ -2664,7 +2664,7 @@
         "ShopType": 1010,
         "ItemId": 110005,
         "ItemCount": 1,
-        "CostSCoin": 630,
+        "CostScoin": 630,
         "CostItems": [
             {},
             {}
@@ -2678,7 +2678,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303018,
@@ -2686,7 +2686,7 @@
         "ShopType": 1010,
         "ItemId": 100091,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -2700,7 +2700,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303019,
@@ -2708,7 +2708,7 @@
         "ShopType": 1010,
         "ItemId": 100026,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -2722,7 +2722,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303020,
@@ -2730,7 +2730,7 @@
         "ShopType": 1010,
         "ItemId": 100063,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -2744,7 +2744,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303021,
@@ -2752,7 +2752,7 @@
         "ShopType": 1010,
         "ItemId": 100011,
         "ItemCount": 1,
-        "CostSCoin": 180,
+        "CostScoin": 180,
         "CostItems": [
             {},
             {}
@@ -2766,7 +2766,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303022,
@@ -2774,7 +2774,7 @@
         "ShopType": 1010,
         "ItemId": 100013,
         "ItemCount": 1,
-        "CostSCoin": 260,
+        "CostScoin": 260,
         "CostItems": [
             {},
             {}
@@ -2788,7 +2788,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303023,
@@ -2796,7 +2796,7 @@
         "ShopType": 1010,
         "ItemId": 100014,
         "ItemCount": 1,
-        "CostSCoin": 350,
+        "CostScoin": 350,
         "CostItems": [
             {},
             {}
@@ -2810,7 +2810,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 303024,
@@ -2818,7 +2818,7 @@
         "ShopType": 1010,
         "ItemId": 100027,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -2832,15 +2832,15 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 7,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
-        "GoodsId": 306001,
-        "SubTagNameTextMapHash": 2167190191,
-        "ShopType": 1021,
-        "ItemId": 109419,
+        "GoodsId": 304001,
+        "SubTagNameTextMapHash": 3374557063,
+        "ShopType": 1019,
+        "ItemId": 109437,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -2852,7 +2852,179 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 304002,
+        "SubTagNameTextMapHash": 765835559,
+        "ShopType": 1019,
+        "ItemId": 108192,
+        "ItemCount": 1,
+        "CostScoin": 1925,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 304003,
+        "SubTagNameTextMapHash": 4183752159,
+        "ShopType": 1019,
+        "ItemId": 108142,
+        "ItemCount": 1,
+        "CostScoin": 2150,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 304004,
+        "SubTagNameTextMapHash": 89017495,
+        "ShopType": 1019,
+        "ItemId": 108159,
+        "ItemCount": 1,
+        "CostScoin": 12000,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 3,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 305001,
+        "SubTagNameTextMapHash": 847797687,
+        "ShopType": 1020,
+        "ItemId": 109433,
+        "ItemCount": 1,
+        "CostScoin": 5000,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 305002,
+        "SubTagNameTextMapHash": 2950200487,
+        "ShopType": 1020,
+        "ItemId": 108126,
+        "ItemCount": 1,
+        "CostScoin": 5700,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 305003,
+        "SubTagNameTextMapHash": 2495456095,
+        "ShopType": 1020,
+        "ItemId": 108180,
+        "ItemCount": 1,
+        "CostScoin": 5775,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 305004,
+        "SubTagNameTextMapHash": 4088703567,
+        "ShopType": 1020,
+        "ItemId": 108102,
+        "ItemCount": 1,
+        "CostScoin": 12200,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 3,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 306001,
+        "SubTagNameTextMapHash": 2167190191,
+        "ShopType": 1021,
+        "ItemId": 109419,
+        "ItemCount": 1,
+        "CostScoin": 2500,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 306002,
@@ -2860,7 +3032,7 @@
         "ShopType": 1021,
         "ItemId": 100031,
         "ItemCount": 1,
-        "CostSCoin": 600,
+        "CostScoin": 600,
         "CostItems": [
             {},
             {}
@@ -2874,7 +3046,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 306003,
@@ -2882,7 +3054,7 @@
         "ShopType": 1021,
         "ItemId": 100032,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -2896,7 +3068,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 306004,
@@ -2904,7 +3076,7 @@
         "ShopType": 1021,
         "ItemId": 100026,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -2918,7 +3090,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 306005,
@@ -2926,7 +3098,7 @@
         "ShopType": 1021,
         "ItemId": 100052,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -2940,7 +3112,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 306006,
@@ -2948,7 +3120,7 @@
         "ShopType": 1021,
         "ItemId": 100053,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -2962,7 +3134,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 306007,
@@ -2970,7 +3142,7 @@
         "ShopType": 1021,
         "ItemId": 100034,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -2984,7 +3156,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 307001,
@@ -2992,7 +3164,7 @@
         "ShopType": 1022,
         "ItemId": 100084,
         "ItemCount": 1,
-        "CostSCoin": 300,
+        "CostScoin": 300,
         "CostItems": [
             {},
             {}
@@ -3006,7 +3178,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 307002,
@@ -3014,7 +3186,7 @@
         "ShopType": 1022,
         "ItemId": 100084,
         "ItemCount": 3,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -3028,7 +3200,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 308001,
@@ -3036,7 +3208,7 @@
         "ShopType": 1023,
         "ItemId": 100084,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -3050,7 +3222,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 308002,
@@ -3058,7 +3230,7 @@
         "ShopType": 1023,
         "ItemId": 100073,
         "ItemCount": 1,
-        "CostSCoin": 240,
+        "CostScoin": 240,
         "CostItems": [
             {},
             {}
@@ -3072,7 +3244,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 308003,
@@ -3080,7 +3252,7 @@
         "ShopType": 1023,
         "ItemId": 100093,
         "ItemCount": 1,
-        "CostSCoin": 150,
+        "CostScoin": 150,
         "CostItems": [
             {},
             {}
@@ -3094,7 +3266,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 309001,
@@ -3102,7 +3274,7 @@
         "ShopType": 1024,
         "ItemId": 100001,
         "ItemCount": 1,
-        "CostSCoin": 200,
+        "CostScoin": 200,
         "CostItems": [
             {},
             {}
@@ -3116,7 +3288,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 310001,
@@ -3124,7 +3296,7 @@
         "ShopType": 1025,
         "ItemId": 61211,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3138,7 +3310,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 310002,
@@ -3146,7 +3318,7 @@
         "ShopType": 1025,
         "ItemId": 61221,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3160,7 +3332,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 310003,
@@ -3168,7 +3340,7 @@
         "ShopType": 1025,
         "ItemId": 61231,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3182,7 +3354,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 310004,
@@ -3190,7 +3362,7 @@
         "ShopType": 1025,
         "ItemId": 61241,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3204,7 +3376,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 310005,
@@ -3212,7 +3384,7 @@
         "ShopType": 1025,
         "ItemId": 61251,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3226,7 +3398,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 311001,
@@ -3234,7 +3406,7 @@
         "ShopType": 1026,
         "ItemId": 108109,
         "ItemCount": 1,
-        "CostSCoin": 380,
+        "CostScoin": 380,
         "CostItems": [
             {},
             {}
@@ -3248,7 +3420,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 311002,
@@ -3256,7 +3428,7 @@
         "ShopType": 1026,
         "ItemId": 108099,
         "ItemCount": 1,
-        "CostSCoin": 900,
+        "CostScoin": 900,
         "CostItems": [
             {},
             {}
@@ -3270,7 +3442,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 312001,
@@ -3278,7 +3450,7 @@
         "ShopType": 1027,
         "ItemId": 108073,
         "ItemCount": 1,
-        "CostSCoin": 6600,
+        "CostScoin": 6600,
         "CostItems": [
             {},
             {}
@@ -3292,7 +3464,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 312002,
@@ -3300,7 +3472,7 @@
         "ShopType": 1027,
         "ItemId": 108093,
         "ItemCount": 1,
-        "CostSCoin": 430,
+        "CostScoin": 430,
         "CostItems": [
             {},
             {}
@@ -3314,7 +3486,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 313001,
@@ -3322,7 +3494,7 @@
         "ShopType": 1028,
         "ItemId": 101001,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -3336,7 +3508,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 313002,
@@ -3344,7 +3516,7 @@
         "ShopType": 1028,
         "ItemId": 101002,
         "ItemCount": 1,
-        "CostSCoin": 400,
+        "CostScoin": 400,
         "CostItems": [
             {},
             {}
@@ -3358,7 +3530,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 313003,
@@ -3366,7 +3538,7 @@
         "ShopType": 1028,
         "ItemId": 100028,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -3380,7 +3552,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314001,
@@ -3388,7 +3560,7 @@
         "ShopType": 1029,
         "ItemId": 100574,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3400,7 +3572,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314002,
@@ -3408,7 +3580,7 @@
         "ShopType": 1029,
         "ItemId": 100575,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3420,7 +3592,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314003,
@@ -3428,7 +3600,7 @@
         "ShopType": 1029,
         "ItemId": 100589,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3440,7 +3612,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314004,
@@ -3448,7 +3620,7 @@
         "ShopType": 1029,
         "ItemId": 100567,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3460,7 +3632,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314005,
@@ -3468,7 +3640,7 @@
         "ShopType": 1029,
         "ItemId": 100400,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3480,7 +3652,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314006,
@@ -3488,7 +3660,7 @@
         "ShopType": 1029,
         "ItemId": 100593,
         "ItemCount": 1,
-        "CostSCoin": 3000,
+        "CostScoin": 3000,
         "CostItems": [
             {},
             {}
@@ -3500,7 +3672,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314007,
@@ -3508,7 +3680,7 @@
         "ShopType": 1029,
         "ItemId": 100432,
         "ItemCount": 1,
-        "CostSCoin": 3000,
+        "CostScoin": 3000,
         "CostItems": [
             {},
             {}
@@ -3520,7 +3692,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314008,
@@ -3528,7 +3700,7 @@
         "ShopType": 1029,
         "ItemId": 100435,
         "ItemCount": 1,
-        "CostSCoin": 3000,
+        "CostScoin": 3000,
         "CostItems": [
             {},
             {}
@@ -3540,7 +3712,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314009,
@@ -3548,7 +3720,7 @@
         "ShopType": 1029,
         "ItemId": 100436,
         "ItemCount": 1,
-        "CostSCoin": 3000,
+        "CostScoin": 3000,
         "CostItems": [
             {},
             {}
@@ -3560,7 +3732,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314010,
@@ -3568,7 +3740,7 @@
         "ShopType": 1029,
         "ItemId": 100439,
         "ItemCount": 1,
-        "CostSCoin": 3000,
+        "CostScoin": 3000,
         "CostItems": [
             {},
             {}
@@ -3580,7 +3752,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314011,
@@ -3588,7 +3760,7 @@
         "ShopType": 1029,
         "ItemId": 100638,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3600,7 +3772,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 314012,
@@ -3608,7 +3780,7 @@
         "ShopType": 1029,
         "ItemId": 100640,
         "ItemCount": 1,
-        "CostSCoin": 1500,
+        "CostScoin": 1500,
         "CostItems": [
             {},
             {}
@@ -3620,7 +3792,87 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 314013,
+        "SubTagNameTextMapHash": 4220846495,
+        "ShopType": 1029,
+        "ItemId": 100643,
+        "ItemCount": 1,
+        "CostScoin": 1500,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 10,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 314014,
+        "SubTagNameTextMapHash": 3184548599,
+        "ShopType": 1029,
+        "ItemId": 100644,
+        "ItemCount": 1,
+        "CostScoin": 1500,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 10,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 314015,
+        "SubTagNameTextMapHash": 400713311,
+        "ShopType": 1029,
+        "ItemId": 100730,
+        "ItemCount": 1,
+        "CostScoin": 1500,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 10,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 314016,
+        "SubTagNameTextMapHash": 945916111,
+        "ShopType": 1029,
+        "ItemId": 100731,
+        "ItemCount": 1,
+        "CostScoin": 1500,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 10,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 315001,
@@ -3628,7 +3880,7 @@
         "ShopType": 1030,
         "ItemId": 108148,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -3642,7 +3894,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 315002,
@@ -3650,7 +3902,7 @@
         "ShopType": 1030,
         "ItemId": 108093,
         "ItemCount": 1,
-        "CostSCoin": 430,
+        "CostScoin": 430,
         "CostItems": [
             {},
             {}
@@ -3664,7 +3916,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 315003,
@@ -3672,7 +3924,7 @@
         "ShopType": 1030,
         "ItemId": 108099,
         "ItemCount": 1,
-        "CostSCoin": 900,
+        "CostScoin": 900,
         "CostItems": [
             {},
             {}
@@ -3686,7 +3938,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316001,
@@ -3694,7 +3946,7 @@
         "ShopType": 1031,
         "ItemId": 109424,
         "ItemCount": 1,
-        "CostSCoin": 2500,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -3706,7 +3958,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316002,
@@ -3714,7 +3966,7 @@
         "ShopType": 1031,
         "ItemId": 109422,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -3726,7 +3978,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316003,
@@ -3734,7 +3986,7 @@
         "ShopType": 1031,
         "ItemId": 100088,
         "ItemCount": 1,
-        "CostSCoin": 120,
+        "CostScoin": 120,
         "CostItems": [
             {},
             {}
@@ -3748,7 +4000,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316004,
@@ -3756,7 +4008,7 @@
         "ShopType": 1031,
         "ItemId": 100089,
         "ItemCount": 1,
-        "CostSCoin": 150,
+        "CostScoin": 150,
         "CostItems": [
             {},
             {}
@@ -3770,7 +4022,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316005,
@@ -3778,7 +4030,7 @@
         "ShopType": 1031,
         "ItemId": 100029,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -3792,7 +4044,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316006,
@@ -3800,7 +4052,7 @@
         "ShopType": 1031,
         "ItemId": 100030,
         "ItemCount": 1,
-        "CostSCoin": 50000,
+        "CostScoin": 50000,
         "CostItems": [
             {},
             {}
@@ -3814,7 +4066,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316007,
@@ -3822,7 +4074,7 @@
         "ShopType": 1031,
         "ItemId": 109443,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
         "CostItems": [
             {},
             {}
@@ -3834,7 +4086,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 316008,
@@ -3842,7 +4094,7 @@
         "ShopType": 1031,
         "ItemId": 108129,
         "ItemCount": 1,
-        "CostSCoin": 6150,
+        "CostScoin": 6150,
         "CostItems": [
             {},
             {}
@@ -3856,7 +4108,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 317001,
@@ -3864,7 +4116,7 @@
         "ShopType": 1032,
         "ItemId": 108148,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -3878,7 +4130,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 318001,
@@ -3886,7 +4138,7 @@
         "ShopType": 1033,
         "ItemId": 63211,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3900,7 +4152,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 318002,
@@ -3908,7 +4160,7 @@
         "ShopType": 1033,
         "ItemId": 63221,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3922,7 +4174,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 318003,
@@ -3930,7 +4182,7 @@
         "ShopType": 1033,
         "ItemId": 63231,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3944,7 +4196,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 318004,
@@ -3952,7 +4204,7 @@
         "ShopType": 1033,
         "ItemId": 63241,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3966,7 +4218,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 318005,
@@ -3974,7 +4226,7 @@
         "ShopType": 1033,
         "ItemId": 63251,
         "ItemCount": 1,
-        "CostSCoin": 2000,
+        "CostScoin": 2000,
         "CostItems": [
             {},
             {}
@@ -3988,7 +4240,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 319001,
@@ -3996,7 +4248,7 @@
         "ShopType": 1034,
         "ItemId": 108081,
         "ItemCount": 1,
-        "CostSCoin": 1550,
+        "CostScoin": 1550,
         "CostItems": [
             {},
             {}
@@ -4010,7 +4262,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 319002,
@@ -4018,7 +4270,7 @@
         "ShopType": 1034,
         "ItemId": 108090,
         "ItemCount": 1,
-        "CostSCoin": 1775,
+        "CostScoin": 1775,
         "CostItems": [
             {},
             {}
@@ -4032,7 +4284,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 319003,
@@ -4040,7 +4292,7 @@
         "ShopType": 1034,
         "ItemId": 108012,
         "ItemCount": 1,
-        "CostSCoin": 450,
+        "CostScoin": 450,
         "CostItems": [
             {},
             {}
@@ -4054,7 +4306,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 319004,
@@ -4062,7 +4314,181 @@
         "ShopType": 1034,
         "ItemId": 109425,
         "ItemCount": 1,
-        "CostSCoin": 5000,
+        "CostScoin": 5000,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319005,
+        "SubTagNameTextMapHash": 849356263,
+        "ShopType": 1034,
+        "ItemId": 100063,
+        "ItemCount": 1,
+        "CostScoin": 300,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 10,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 3,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319006,
+        "SubTagNameTextMapHash": 2875370207,
+        "ShopType": 1034,
+        "ItemId": 110004,
+        "ItemCount": 1,
+        "CostScoin": 270,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 10,
+        "RefreshType": "SHOP_REFRESH_WEEKLY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319007,
+        "SubTagNameTextMapHash": 2961965519,
+        "ShopType": 1034,
+        "ItemId": 110011,
+        "ItemCount": 1,
+        "CostScoin": 840,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 10,
+        "RefreshType": "SHOP_REFRESH_WEEKLY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319008,
+        "SubTagNameTextMapHash": 1518788719,
+        "ShopType": 1034,
+        "ItemId": 100029,
+        "ItemCount": 1,
+        "CostScoin": 1000,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 5,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 3,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319009,
+        "SubTagNameTextMapHash": 388334111,
+        "ShopType": 1034,
+        "ItemId": 100034,
+        "ItemCount": 1,
+        "CostScoin": 1000,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 5,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 3,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319010,
+        "SubTagNameTextMapHash": 1202408559,
+        "ShopType": 1034,
+        "ItemId": 108084,
+        "ItemCount": 1,
+        "CostScoin": 1925,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 10,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319011,
+        "SubTagNameTextMapHash": 3583970727,
+        "ShopType": 1034,
+        "ItemId": 108142,
+        "ItemCount": 1,
+        "CostScoin": 2150,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 2,
+        "RefreshType": "SHOP_REFRESH_DAILY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 10,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 319012,
+        "SubTagNameTextMapHash": 2544710415,
+        "ShopType": 1034,
+        "ItemId": 109436,
+        "ItemCount": 1,
+        "CostScoin": 2500,
         "CostItems": [
             {},
             {}
@@ -4074,161 +4500,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319005,
-        "SubTagNameTextMapHash": 849356263,
-        "ShopType": 1034,
-        "ItemId": 100063,
-        "ItemCount": 1,
-        "CostSCoin": 300,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 10,
-        "RefreshType": "SHOP_REFRESH_DAILY",
-        "RefreshParam": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 1,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319006,
-        "SubTagNameTextMapHash": 2875370207,
-        "ShopType": 1034,
-        "ItemId": 110004,
-        "ItemCount": 1,
-        "CostSCoin": 270,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 10,
-        "RefreshType": "SHOP_REFRESH_WEEKLY",
-        "RefreshParam": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 1,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319007,
-        "SubTagNameTextMapHash": 2961965519,
-        "ShopType": 1034,
-        "ItemId": 110011,
-        "ItemCount": 1,
-        "CostSCoin": 840,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 10,
-        "RefreshType": "SHOP_REFRESH_WEEKLY",
-        "RefreshParam": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 1,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319008,
-        "SubTagNameTextMapHash": 1518788719,
-        "ShopType": 1034,
-        "ItemId": 100029,
-        "ItemCount": 1,
-        "CostSCoin": 1000,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 5,
-        "RefreshType": "SHOP_REFRESH_DAILY",
-        "RefreshParam": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 1,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319009,
-        "SubTagNameTextMapHash": 388334111,
-        "ShopType": 1034,
-        "ItemId": 100034,
-        "ItemCount": 1,
-        "CostSCoin": 1000,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 5,
-        "RefreshType": "SHOP_REFRESH_DAILY",
-        "RefreshParam": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 1,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319010,
-        "SubTagNameTextMapHash": 1202408559,
-        "ShopType": 1034,
-        "ItemId": 108084,
-        "ItemCount": 1,
-        "CostSCoin": 1925,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 2,
-        "RefreshType": "SHOP_REFRESH_DAILY",
-        "RefreshParam": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 10,
-        "PlatformType": []
-    },
-    {
-        "GoodsId": 319011,
-        "SubTagNameTextMapHash": 3583970727,
-        "ShopType": 1034,
-        "ItemId": 108142,
-        "ItemCount": 1,
-        "CostSCoin": 2150,
-        "CostItems": [
-            {},
-            {}
-        ],
-        "BuyLimit": 2,
-        "RefreshType": "SHOP_REFRESH_DAILY",
-        "RefreshParam": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2035-01-01 00:00:00",
-        "MinShowLevel": 1,
-        "MinPlayerLevel": 1,
-        "MaxPlayerLevel": 99,
-        "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 320001,
@@ -4236,7 +4508,7 @@
         "ShopType": 1035,
         "ItemId": 108148,
         "ItemCount": 1,
-        "CostSCoin": 1000,
+        "CostScoin": 1000,
         "CostItems": [
             {},
             {}
@@ -4250,7 +4522,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 321001,
@@ -4272,7 +4544,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 322001,
@@ -4294,7 +4566,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 323001,
@@ -4302,7 +4574,7 @@
         "ShopType": 1039,
         "ItemId": 108020,
         "ItemCount": 1,
-        "CostSCoin": 530,
+        "CostScoin": 530,
         "CostItems": [
             {},
             {}
@@ -4316,7 +4588,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 323002,
@@ -4324,7 +4596,7 @@
         "ShopType": 1039,
         "ItemId": 108008,
         "ItemCount": 1,
-        "CostSCoin": 790,
+        "CostScoin": 790,
         "CostItems": [
             {},
             {}
@@ -4338,7 +4610,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 323003,
@@ -4346,7 +4618,7 @@
         "ShopType": 1039,
         "ItemId": 108087,
         "ItemCount": 1,
-        "CostSCoin": 1775,
+        "CostScoin": 1775,
         "CostItems": [
             {},
             {}
@@ -4360,7 +4632,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1001001,
@@ -4381,7 +4653,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1001002,
@@ -4402,7 +4674,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1001003,
@@ -4423,7 +4695,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1001004,
@@ -4444,7 +4716,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1001005,
@@ -4465,7 +4737,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1001006,
@@ -4486,7 +4758,147 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042001,
+        "SubTagNameTextMapHash": 1396725751,
+        "ShopType": 1042,
+        "ItemId": 108215,
+        "ItemCount": 1,
+        "CostScoin": 380,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 20,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042002,
+        "SubTagNameTextMapHash": 630033087,
+        "ShopType": 1042,
+        "ItemId": 108216,
+        "ItemCount": 1,
+        "CostScoin": 2025,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 15,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042003,
+        "SubTagNameTextMapHash": 1598976623,
+        "ShopType": 1042,
+        "ItemId": 108217,
+        "ItemCount": 1,
+        "CostScoin": 1550,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 15,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042004,
+        "SubTagNameTextMapHash": 4180862767,
+        "ShopType": 1042,
+        "ItemId": 108218,
+        "ItemCount": 1,
+        "CostScoin": 1775,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 15,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042005,
+        "SubTagNameTextMapHash": 2167296495,
+        "ShopType": 1042,
+        "ItemId": 108219,
+        "ItemCount": 1,
+        "CostScoin": 2150,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 15,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042006,
+        "SubTagNameTextMapHash": 2500868207,
+        "ShopType": 1042,
+        "ItemId": 108220,
+        "ItemCount": 1,
+        "CostScoin": 6225,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 10,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1042007,
+        "SubTagNameTextMapHash": 584402695,
+        "ShopType": 1042,
+        "ItemId": 108221,
+        "ItemCount": 1,
+        "CostScoin": 7050,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 10,
+        "BeginTime": "2019-12-23 00:00:00",
+        "EndTime": "2035-02-28 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102001,
@@ -4495,7 +4907,7 @@
         "ShopType": 1001,
         "ItemId": 223,
         "ItemCount": 1,
-        "CostHCoin": 160,
+        "CostHcoin": 160,
         "CostItems": [
             {},
             {}
@@ -4508,7 +4920,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102002,
@@ -4517,7 +4929,7 @@
         "ShopType": 1001,
         "ItemId": 224,
         "ItemCount": 1,
-        "CostHCoin": 160,
+        "CostHcoin": 160,
         "CostItems": [
             {},
             {}
@@ -4530,7 +4942,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102003,
@@ -4554,7 +4966,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102004,
@@ -4578,7 +4990,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102005,
@@ -4603,7 +5015,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102006,
@@ -4628,7 +5040,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102007,
@@ -4653,7 +5065,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102008,
@@ -4678,7 +5090,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102009,
@@ -4703,7 +5115,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102010,
@@ -4728,7 +5140,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102011,
@@ -4753,7 +5165,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102013,
@@ -4778,7 +5190,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102015,
@@ -4803,7 +5215,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102016,
@@ -4828,7 +5240,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102017,
@@ -4853,7 +5265,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102018,
@@ -4878,7 +5290,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102019,
@@ -4903,7 +5315,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102020,
@@ -4928,7 +5340,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102021,
@@ -4953,7 +5365,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102022,
@@ -4978,7 +5390,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102023,
@@ -5003,7 +5415,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102024,
@@ -5028,7 +5440,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102025,
@@ -5053,7 +5465,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102026,
@@ -5078,7 +5490,7 @@
         "MinPlayerLevel": 35,
         "MaxPlayerLevel": 99,
         "SortLevel": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102027,
@@ -5103,7 +5515,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102028,
@@ -5128,7 +5540,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102029,
@@ -5153,7 +5565,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102030,
@@ -5178,7 +5590,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102031,
@@ -5203,7 +5615,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102032,
@@ -5228,7 +5640,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102033,
@@ -5253,7 +5665,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 8,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102501,
@@ -5280,7 +5692,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102502,
@@ -5307,7 +5719,7 @@
         "MinPlayerLevel": 4,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102503,
@@ -5332,7 +5744,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102504,
@@ -5357,7 +5769,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102505,
@@ -5382,7 +5794,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102506,
@@ -5408,7 +5820,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102507,
@@ -5432,8 +5844,8 @@
         "MinShowLevel": 1,
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
-        "SortLevel": 3,
-        "PlatformType": []
+        "SortLevel": 8,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102509,
@@ -5457,8 +5869,8 @@
         "MinShowLevel": 1,
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
-        "SortLevel": 3,
-        "PlatformType": []
+        "SortLevel": 8,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102510,
@@ -5482,8 +5894,8 @@
         "MinShowLevel": 1,
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
-        "SortLevel": 3,
-        "PlatformType": []
+        "SortLevel": 8,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102511,
@@ -5507,8 +5919,8 @@
         "MinShowLevel": 1,
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
-        "SortLevel": 3,
-        "PlatformType": []
+        "SortLevel": 8,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102512,
@@ -5532,8 +5944,8 @@
         "MinShowLevel": 1,
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
-        "SortLevel": 3,
-        "PlatformType": []
+        "SortLevel": 8,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102513,
@@ -5557,8 +5969,8 @@
         "MinShowLevel": 1,
         "MinPlayerLevel": 25,
         "MaxPlayerLevel": 99,
-        "SortLevel": 3,
-        "PlatformType": []
+        "SortLevel": 8,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102514,
@@ -5583,7 +5995,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102515,
@@ -5608,7 +6020,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102516,
@@ -5633,7 +6045,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102517,
@@ -5658,7 +6070,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102518,
@@ -5683,7 +6095,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102519,
@@ -5708,7 +6120,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102520,
@@ -5733,7 +6145,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102521,
@@ -5758,7 +6170,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102523,
@@ -5783,7 +6195,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102524,
@@ -5808,7 +6220,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102525,
@@ -5833,7 +6245,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102526,
@@ -5858,7 +6270,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102527,
@@ -5883,7 +6295,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102528,
@@ -5908,7 +6320,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102529,
@@ -5933,7 +6345,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102530,
@@ -5958,7 +6370,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102531,
@@ -5983,7 +6395,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102532,
@@ -6008,7 +6420,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102533,
@@ -6033,7 +6445,7 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 102534,
@@ -6058,7 +6470,32 @@
         "MinPlayerLevel": 10,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 102535,
+        "SubTagNameTextMapHash": 1822505530,
+        "SubTabId": 3,
+        "ShopType": 1001,
+        "ItemId": 104201,
+        "ItemCount": 10,
+        "CostItems": [
+            {
+                "Id": 222,
+                "Count": 5
+            },
+            {}
+        ],
+        "BuyLimit": 100,
+        "RefreshType": "SHOP_REFRESH_MONTHLY",
+        "RefreshParam": 1,
+        "BeginTime": "2019-12-01 00:00:00",
+        "EndTime": "2035-01-01 00:00:00",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 10,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 3,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103010,
@@ -6067,7 +6504,7 @@
         "ItemId": 115010,
         "ShowId": 40009,
         "ItemCount": 1,
-        "CostMCoin": 300,
+        "CostMcoin": 300,
         "CostItems": [
             {},
             {}
@@ -6081,7 +6518,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 10,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103011,
@@ -6090,7 +6527,7 @@
         "ItemId": 115011,
         "ShowId": 40010,
         "ItemCount": 1,
-        "CostMCoin": 980,
+        "CostMcoin": 980,
         "CostItems": [
             {},
             {}
@@ -6104,7 +6541,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 9,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103012,
@@ -6113,7 +6550,7 @@
         "ItemId": 115019,
         "ShowId": 40011,
         "ItemCount": 1,
-        "CostMCoin": 100,
+        "CostMcoin": 100,
         "DiscountRate": 0.6000000238418579,
         "OriginalPrice": 170,
         "CostItems": [
@@ -6127,7 +6564,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 11,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103013,
@@ -6136,7 +6573,7 @@
         "ItemId": 115020,
         "ShowId": 40012,
         "ItemCount": 1,
-        "CostMCoin": 120,
+        "CostMcoin": 120,
         "DiscountRate": 0.6000000238418579,
         "OriginalPrice": 200,
         "CostItems": [
@@ -6150,7 +6587,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 11,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103014,
@@ -6159,7 +6596,7 @@
         "ItemId": 115021,
         "ShowId": 40013,
         "ItemCount": 1,
-        "CostMCoin": 680,
+        "CostMcoin": 680,
         "DiscountRate": 0.800000011920929,
         "OriginalPrice": 850,
         "CostItems": [
@@ -6173,7 +6610,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 11,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103018,
@@ -6182,7 +6619,7 @@
         "ItemId": 115023,
         "ShowId": 40015,
         "ItemCount": 1,
-        "CostMCoin": 120,
+        "CostMcoin": 120,
         "DiscountRate": 0.5,
         "OriginalPrice": 240,
         "CostItems": [
@@ -6196,7 +6633,7 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 11,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 103019,
@@ -6205,7 +6642,7 @@
         "ItemId": 115022,
         "ShowId": 40014,
         "ItemCount": 1,
-        "CostMCoin": 680,
+        "CostMcoin": 680,
         "DiscountRate": 0.8999999761581421,
         "OriginalPrice": 760,
         "CostItems": [
@@ -6219,7 +6656,76 @@
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 11,
-        "PlatformType": []
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 103020,
+        "SubTagNameTextMapHash": 4152841274,
+        "ShopType": 902,
+        "ItemId": 115023,
+        "ShowId": 40015,
+        "ItemCount": 1,
+        "CostMcoin": 120,
+        "DiscountRate": 0.5,
+        "OriginalPrice": 240,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 5,
+        "BeginTime": "2021-02-02 00:00:00",
+        "EndTime": "2021-02-18 23:59:59",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 11,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 103021,
+        "SubTagNameTextMapHash": 3064349770,
+        "ShopType": 902,
+        "ItemId": 115022,
+        "ShowId": 40014,
+        "ItemCount": 1,
+        "CostMcoin": 680,
+        "DiscountRate": 0.8999999761581421,
+        "OriginalPrice": 760,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 3,
+        "BeginTime": "2021-02-02 00:00:00",
+        "EndTime": "2021-02-18 23:59:59",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 11,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 103022,
+        "SubTagNameTextMapHash": 762058490,
+        "ShopType": 902,
+        "ItemId": 115029,
+        "ShowId": 40016,
+        "ItemCount": 1,
+        "CostMcoin": 680,
+        "DiscountRate": 0.8999999761581421,
+        "OriginalPrice": 760,
+        "CostItems": [
+            {},
+            {}
+        ],
+        "BuyLimit": 5,
+        "BeginTime": "2021-02-02 00:00:00",
+        "EndTime": "2021-02-18 23:59:59",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 11,
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002001,
@@ -6235,14 +6741,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002002,
@@ -6258,14 +6764,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002003,
@@ -6281,14 +6787,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002004,
@@ -6304,14 +6810,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002005,
@@ -6327,14 +6833,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002006,
@@ -6350,14 +6856,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002007,
@@ -6373,14 +6879,14 @@
             {}
         ],
         "BuyLimit": 150,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002008,
@@ -6396,14 +6902,14 @@
             {}
         ],
         "BuyLimit": 150,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002009,
@@ -6419,14 +6925,14 @@
             {}
         ],
         "BuyLimit": 250,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002010,
@@ -6441,8 +6947,8 @@
             },
             {}
         ],
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "Precondition": "SHOP_PRECONDITION_SPECIFY",
         "PreconditionParam": 1002009,
         "MinShowLevel": 1,
@@ -6450,7 +6956,7 @@
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 1,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002011,
@@ -6466,14 +6972,14 @@
             {}
         ],
         "BuyLimit": 12,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002012,
@@ -6489,14 +6995,14 @@
             {}
         ],
         "BuyLimit": 4,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002013,
@@ -6512,14 +7018,14 @@
             {}
         ],
         "BuyLimit": 12,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002014,
@@ -6535,14 +7041,14 @@
             {}
         ],
         "BuyLimit": 4,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002015,
@@ -6558,14 +7064,14 @@
             {}
         ],
         "BuyLimit": 12,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002016,
@@ -6581,14 +7087,14 @@
             {}
         ],
         "BuyLimit": 4,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002017,
@@ -6604,14 +7110,14 @@
             {}
         ],
         "BuyLimit": 12,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002018,
@@ -6627,14 +7133,14 @@
             {}
         ],
         "BuyLimit": 4,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002019,
@@ -6650,14 +7156,14 @@
             {}
         ],
         "BuyLimit": 12,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002020,
@@ -6673,14 +7179,14 @@
             {}
         ],
         "BuyLimit": 4,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002021,
@@ -6696,14 +7202,14 @@
             {}
         ],
         "BuyLimit": 12,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002022,
@@ -6719,14 +7225,14 @@
             {}
         ],
         "BuyLimit": 4,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002023,
@@ -6742,14 +7248,14 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002024,
@@ -6765,14 +7271,14 @@
             {}
         ],
         "BuyLimit": 100,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1002025,
@@ -6787,8 +7293,8 @@
             },
             {}
         ],
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-02-20 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "Precondition": "SHOP_PRECONDITION_SPECIFY",
         "PreconditionParam": 1002024,
         "MinShowLevel": 1,
@@ -6796,7 +7302,7 @@
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 2,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004101,
@@ -6812,14 +7318,14 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004102,
@@ -6835,14 +7341,14 @@
             {}
         ],
         "BuyLimit": 6,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004103,
@@ -6858,14 +7364,14 @@
             {}
         ],
         "BuyLimit": 6,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004104,
@@ -6881,14 +7387,14 @@
             {}
         ],
         "BuyLimit": 6,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004105,
@@ -6904,14 +7410,14 @@
             {}
         ],
         "BuyLimit": 6,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004106,
@@ -6927,14 +7433,14 @@
             {}
         ],
         "BuyLimit": 6,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004107,
@@ -6950,14 +7456,14 @@
             {}
         ],
         "BuyLimit": 6,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004108,
@@ -6973,14 +7479,14 @@
             {}
         ],
         "BuyLimit": 20,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004109,
@@ -6996,14 +7502,14 @@
             {}
         ],
         "BuyLimit": 60,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004110,
@@ -7019,14 +7525,14 @@
             {}
         ],
         "BuyLimit": 30,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 3,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004201,
@@ -7042,14 +7548,14 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004202,
@@ -7065,14 +7571,14 @@
             {}
         ],
         "BuyLimit": 20,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004203,
@@ -7088,14 +7594,14 @@
             {}
         ],
         "BuyLimit": 20,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004204,
@@ -7111,14 +7617,14 @@
             {}
         ],
         "BuyLimit": 120,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004205,
@@ -7134,14 +7640,14 @@
             {}
         ],
         "BuyLimit": 30,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 4,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004301,
@@ -7157,14 +7663,14 @@
             {}
         ],
         "BuyLimit": 2,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004302,
@@ -7180,14 +7686,14 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004303,
@@ -7203,14 +7709,14 @@
             {}
         ],
         "BuyLimit": 9,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004304,
@@ -7226,14 +7732,14 @@
             {}
         ],
         "BuyLimit": 9,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004305,
@@ -7249,14 +7755,14 @@
             {}
         ],
         "BuyLimit": 9,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004306,
@@ -7272,14 +7778,14 @@
             {}
         ],
         "BuyLimit": 9,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004307,
@@ -7295,14 +7801,14 @@
             {}
         ],
         "BuyLimit": 9,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004308,
@@ -7318,14 +7824,14 @@
             {}
         ],
         "BuyLimit": 9,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004309,
@@ -7341,14 +7847,14 @@
             {}
         ],
         "BuyLimit": 20,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1004310,
@@ -7364,14 +7870,14 @@
             {}
         ],
         "BuyLimit": 30,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 5,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003101,
@@ -7387,14 +7893,14 @@
             {}
         ],
         "BuyLimit": 3,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003102,
@@ -7410,14 +7916,14 @@
             {}
         ],
         "BuyLimit": 10,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003103,
@@ -7433,14 +7939,14 @@
             {}
         ],
         "BuyLimit": 20,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003104,
@@ -7456,14 +7962,14 @@
             {}
         ],
         "BuyLimit": 20,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "MinShowLevel": 1,
         "MinPlayerLevel": 1,
         "MaxPlayerLevel": 99,
         "SortLevel": 1,
         "SecondarySheetId": 6,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003105,
@@ -7479,8 +7985,8 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "Precondition": "SHOP_PRECONDITION_SHEET_TEASURE_MAP_REGION",
         "PreconditionParam": 14,
         "MinShowLevel": 1,
@@ -7489,7 +7995,7 @@
         "SortLevel": 1,
         "SecondarySheetId": 6,
         "ChooseOneGroupId": 1003001,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003106,
@@ -7505,8 +8011,8 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "Precondition": "SHOP_PRECONDITION_SHEET_TEASURE_MAP_REGION",
         "PreconditionParam": 14,
         "MinShowLevel": 1,
@@ -7515,7 +8021,7 @@
         "SortLevel": 1,
         "SecondarySheetId": 6,
         "ChooseOneGroupId": 1003001,
-        "PlatformType": []
+        "PlatformTypeList": []
     },
     {
         "GoodsId": 1003107,
@@ -7531,8 +8037,8 @@
             {}
         ],
         "BuyLimit": 1,
-        "BeginTime": "2019-12-01 00:00:00",
-        "EndTime": "2021-05-31 00:00:00",
+        "BeginTime": "",
+        "EndTime": "",
         "Precondition": "SHOP_PRECONDITION_SHEET_TEASURE_MAP_REGION",
         "PreconditionParam": 14,
         "MinShowLevel": 1,
@@ -7541,6 +8047,604 @@
         "SortLevel": 1,
         "SecondarySheetId": 6,
         "ChooseOneGroupId": 1003001,
-        "PlatformType": []
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005101,
+        "SubTagNameTextMapHash": 922484366,
+        "ShopType": 1043,
+        "ItemId": 104112,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 60
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005102,
+        "SubTagNameTextMapHash": 2700476998,
+        "ShopType": 1043,
+        "ItemId": 104122,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 60
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005103,
+        "SubTagNameTextMapHash": 3843495950,
+        "ShopType": 1043,
+        "ItemId": 104142,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 60
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005104,
+        "SubTagNameTextMapHash": 1005832710,
+        "ShopType": 1043,
+        "ItemId": 104152,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 60
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005105,
+        "SubTagNameTextMapHash": 349830174,
+        "ShopType": 1043,
+        "ItemId": 104162,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 60
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005106,
+        "SubTagNameTextMapHash": 3429193638,
+        "ShopType": 1043,
+        "ItemId": 104172,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 60
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005107,
+        "SubTagNameTextMapHash": 2316311214,
+        "ShopType": 1043,
+        "ItemId": 104003,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 20
+            },
+            {}
+        ],
+        "BuyLimit": 20,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005108,
+        "SubTagNameTextMapHash": 3536925502,
+        "ShopType": 1043,
+        "ItemId": 104201,
+        "ItemCount": 10,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 10
+            },
+            {}
+        ],
+        "BuyLimit": 20,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005109,
+        "SubTagNameTextMapHash": 3563953182,
+        "ShopType": 1043,
+        "ItemId": 202,
+        "ItemCount": 10000,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 20
+            },
+            {}
+        ],
+        "BuyLimit": 20,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 7,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005201,
+        "SubTagNameTextMapHash": 2395162158,
+        "ShopType": 1043,
+        "ItemId": 104319,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 1000
+            },
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 8,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005202,
+        "SubTagNameTextMapHash": 357489622,
+        "ShopType": 1043,
+        "ItemId": 104003,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 20
+            },
+            {}
+        ],
+        "BuyLimit": 60,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 8,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005203,
+        "SubTagNameTextMapHash": 1587570326,
+        "ShopType": 1043,
+        "ItemId": 104013,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 10
+            },
+            {}
+        ],
+        "BuyLimit": 30,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 8,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005204,
+        "SubTagNameTextMapHash": 2789838886,
+        "ShopType": 1043,
+        "ItemId": 202,
+        "ItemCount": 10000,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 20
+            },
+            {}
+        ],
+        "BuyLimit": 40,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 8,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005301,
+        "SubTagNameTextMapHash": 1598093694,
+        "ShopType": 1043,
+        "ItemId": 210061,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 1000
+            },
+            {}
+        ],
+        "BuyLimit": 1,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005302,
+        "SubTagNameTextMapHash": 2900654742,
+        "ShopType": 1043,
+        "ItemId": 104303,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 120
+            },
+            {}
+        ],
+        "BuyLimit": 2,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005303,
+        "SubTagNameTextMapHash": 1604812374,
+        "ShopType": 1043,
+        "ItemId": 104302,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 40
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005304,
+        "SubTagNameTextMapHash": 685831662,
+        "ShopType": 1043,
+        "ItemId": 104306,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 120
+            },
+            {}
+        ],
+        "BuyLimit": 2,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005305,
+        "SubTagNameTextMapHash": 2250942374,
+        "ShopType": 1043,
+        "ItemId": 104305,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 40
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005306,
+        "SubTagNameTextMapHash": 1697005142,
+        "ShopType": 1043,
+        "ItemId": 104309,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 120
+            },
+            {}
+        ],
+        "BuyLimit": 2,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005307,
+        "SubTagNameTextMapHash": 1218853286,
+        "ShopType": 1043,
+        "ItemId": 104308,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 40
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005308,
+        "SubTagNameTextMapHash": 347894694,
+        "ShopType": 1043,
+        "ItemId": 104312,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 120
+            },
+            {}
+        ],
+        "BuyLimit": 2,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005309,
+        "SubTagNameTextMapHash": 2985550318,
+        "ShopType": 1043,
+        "ItemId": 104311,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 40
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005310,
+        "SubTagNameTextMapHash": 956770950,
+        "ShopType": 1043,
+        "ItemId": 104315,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 120
+            },
+            {}
+        ],
+        "BuyLimit": 2,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005311,
+        "SubTagNameTextMapHash": 1324683662,
+        "ShopType": 1043,
+        "ItemId": 104314,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 40
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005312,
+        "SubTagNameTextMapHash": 4223674718,
+        "ShopType": 1043,
+        "ItemId": 104318,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 120
+            },
+            {}
+        ],
+        "BuyLimit": 2,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
+    },
+    {
+        "GoodsId": 1005313,
+        "SubTagNameTextMapHash": 2549136654,
+        "ShopType": 1043,
+        "ItemId": 104317,
+        "ItemCount": 1,
+        "CostItems": [
+            {
+                "Id": 115,
+                "Count": 40
+            },
+            {}
+        ],
+        "BuyLimit": 6,
+        "BeginTime": "",
+        "EndTime": "",
+        "MinShowLevel": 1,
+        "MinPlayerLevel": 1,
+        "MaxPlayerLevel": 99,
+        "SortLevel": 1,
+        "SecondarySheetId": 9,
+        "PlatformTypeList": []
     }
 ]

@@ -36,7 +36,7 @@
             133001514
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -46,13 +46,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133001522,
             133001523,
             133001521
@@ -93,7 +93,7 @@
             133106390
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -103,13 +103,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133106397,
             133106398,
             133106396
@@ -160,7 +160,7 @@
             133003764
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -170,13 +170,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133003774,
             133003775,
             133003776
@@ -227,7 +227,7 @@
             133104049
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -237,14 +237,14 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
         "MpGroupId": 133104121,
-        "BackupGroup": [
+        "BackupGroupList": [
             133104073,
             133104078,
             133104080
@@ -288,7 +288,7 @@
             133104120
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -298,13 +298,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133104091,
             133104093,
             133104094
@@ -359,7 +359,7 @@
             133001564
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -369,14 +369,14 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
         "MpGroupId": 133001565,
-        "BackupGroup": [
+        "BackupGroupList": [
             133001531,
             133001532,
             133001533
@@ -422,7 +422,7 @@
             133105332
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -432,13 +432,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133105306,
             133105307,
             133105308
@@ -483,7 +483,7 @@
             133007276
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -493,14 +493,14 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
         "MpGroupId": 133007292,
-        "BackupGroup": [
+        "BackupGroupList": [
             133007283,
             133007284,
             133007285
@@ -547,7 +547,7 @@
             133103598
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -557,13 +557,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133103590,
             133103589,
             133103588
@@ -609,7 +609,7 @@
             133005002
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -619,14 +619,14 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
         "MpGroupId": 133005027,
-        "BackupGroup": [
+        "BackupGroupList": [
             133005026,
             133005025,
             133005024
@@ -683,7 +683,7 @@
             133002446
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -693,13 +693,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133002458,
             133002457,
             133002460
@@ -750,7 +750,7 @@
             133103624
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -760,14 +760,14 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
         "MpGroupId": 133103639,
-        "BackupGroup": [
+        "BackupGroupList": [
             133103636,
             133103635,
             133103634
@@ -813,7 +813,7 @@
             133108167
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -823,13 +823,13 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
-        "BackupGroup": [
+        "BackupGroupList": [
             133108160,
             133108159,
             133108158
@@ -880,7 +880,7 @@
             133101245
         ],
         "ReviseLevel": 1,
-        "SpotNum": [
+        "SpotNumList": [
             3,
             5,
             8
@@ -890,14 +890,14 @@
             8,
             4
         ],
-        "MiscDropProb": [
+        "MiscDropProbList": [
             250,
             2500,
             7250
         ],
         "MiscDropId": 200020004,
         "MpGroupId": 133101247,
-        "BackupGroup": [
+        "BackupGroupList": [
             133101216,
             133101217,
             133101218

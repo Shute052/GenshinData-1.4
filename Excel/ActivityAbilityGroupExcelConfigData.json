@@ -1,55 +1,62 @@
 [
     {
-        "ActivityId": 1,
-        "AvatarId": 2001,
-        "WeaponId": 10000031
+        "Index": 1,
+        "ActivityId": 2001,
+        "AvatarId": 10000031
     },
     {
-        "ActivityId": 2,
-        "AvatarId": 2001,
-        "WeaponId": 10000033
+        "Index": 2,
+        "ActivityId": 2001,
+        "AvatarId": 10000033
     },
     {
-        "ActivityId": 3,
-        "AvatarId": 2001,
-        "WeaponId": 10000006
+        "Index": 3,
+        "ActivityId": 2001,
+        "AvatarId": 10000006
     },
     {
-        "ActivityId": 4,
-        "AvatarId": 2001,
-        "WeaponId": 10000036
+        "Index": 4,
+        "ActivityId": 2001,
+        "AvatarId": 10000036
     },
     {
-        "ActivityId": 5,
-        "AvatarId": 2001,
-        "WeaponId": 10000024
+        "Index": 5,
+        "ActivityId": 2001,
+        "AvatarId": 10000024
     },
     {
-        "ActivityId": 6,
-        "AvatarId": 2001,
-        "WeaponId": 10000027
+        "Index": 6,
+        "ActivityId": 2001,
+        "AvatarId": 10000027
     },
     {
-        "ActivityId": 7,
-        "AvatarId": 2001,
-        "WeaponId": 10000034
+        "Index": 7,
+        "ActivityId": 2001,
+        "AvatarId": 10000034
     },
     {
-        "ActivityId": 8,
-        "AvatarId": 2001,
-        "WeaponId": 10000023
+        "Index": 8,
+        "ActivityId": 2001,
+        "AvatarId": 10000023
     },
     {
-        "ActivityId": 9,
-        "AvatarId": 2001,
-        "WeaponId": 10000041
+        "Index": 9,
+        "ActivityId": 2001,
+        "AvatarId": 10000041
     },
     {
-        "ActivityId": 10,
-        "AvatarId": 3001
+        "Index": 10,
+        "ActivityId": 3001,
+        "WeaponId": 11413
     },
     {
-        "ActivityId": 0
+        "Index": 11,
+        "ActivityId": 3001,
+        "WeaponId": 11413
     },
-    {}
+    {
+        "Index": 12,
+        "ActivityId": 3001,
+        "WeaponId": 11413
+    }
 ]

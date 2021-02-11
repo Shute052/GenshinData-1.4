@@ -93,5 +93,50 @@
         "GuideName": "GuideColdClimateEntry",
         "Type": "CLIMATE_TYPE_CHANGE",
         "OpenState": "OPEN_STATE_GUIDE_COLDCLIMATE"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusBuildios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusRebuildios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_REBUILD"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusCardios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CARD"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusMissionCheck",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MISSION_CHECK"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusBuildSelect",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD_SELECT"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusChallegeStart",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CHALLENGE_START"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusMonsterios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MONSTER"
+    },
+    {
+        "GuideName": "GuideSynthesisConvert",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_CONVERT"
+    },
+    {
+        "GuideName": "GuideTheatreMachanicusMultiplayerios",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER"
     }
 ]

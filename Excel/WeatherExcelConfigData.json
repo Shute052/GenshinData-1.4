@@ -1,849 +1,918 @@
 [
     {
-        "AreaId": 1,
+        "AreaID": 1,
         "WeatherAreaId": 1,
-        "MaxHeight": "",
-        "GadgetId": 70020001,
+        "MaxHeightStr": "",
+        "GadgetID": 70020001,
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2,
+        "AreaID": 2,
         "WeatherAreaId": 2,
-        "MaxHeight": "",
-        "GadgetId": 70020002,
+        "MaxHeightStr": "",
+        "GadgetID": 70020002,
         "IsDefaultValid": true,
         "TemplateName": "Weather_WindDragon",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_WindDragon",
         "DefaultClimate": "CLIMATE_CLOUDY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 3,
+        "AreaID": 3,
         "WeatherAreaId": 3,
-        "MaxHeight": "",
-        "GadgetId": 70020003,
+        "MaxHeightStr": "",
+        "GadgetID": 70020003,
         "TemplateName": "Weather_MengDeInStorm",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_City_Storm",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 4,
+        "AreaID": 4,
         "WeatherAreaId": 4,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_LupiBoreas",
         "DefaultClimate": "CLIMATE_CLOUDY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1000,
+        "AreaID": 1000,
         "WeatherAreaId": 1000,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 5,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1001,
+        "AreaID": 1001,
         "WeatherAreaId": 1001,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1002,
+        "AreaID": 1002,
         "WeatherAreaId": 1002,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1003,
+        "AreaID": 1003,
         "WeatherAreaId": 1003,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1004,
+        "AreaID": 1004,
         "WeatherAreaId": 1004,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1005,
+        "AreaID": 1005,
         "WeatherAreaId": 1005,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1006,
+        "AreaID": 1006,
         "WeatherAreaId": 1006,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_City",
         "Priority": 25,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 1007,
+        "AreaID": 1007,
         "WeatherAreaId": 1007,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_WindDragon",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_WindDragon",
         "DefaultClimate": "CLIMATE_CLOUDY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2000,
+        "AreaID": 2000,
         "WeatherAreaId": 2000,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 5,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2001,
+        "AreaID": 2001,
         "WeatherAreaId": 2001,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_LiYueAreaQingCeVilla",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_QingCeVilla",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2002,
+        "AreaID": 2002,
         "WeatherAreaId": 2002,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2003,
+        "AreaID": 2003,
         "WeatherAreaId": 2003,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2004,
+        "AreaID": 2004,
         "WeatherAreaId": 2004,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_StoneNeedles",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_StoneNeedles",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2005,
+        "AreaID": 2005,
         "WeatherAreaId": 2005,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_City",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_City_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2006,
+        "AreaID": 2006,
         "WeatherAreaId": 2006,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Foggy",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_MIST",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2007,
+        "AreaID": 2007,
         "WeatherAreaId": 2007,
-        "MaxHeight": "250",
+        "MaxHeightStr": "250",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_LandLakeMaze",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2107,
+        "AreaID": 2107,
         "WeatherAreaId": 2007,
-        "MaxHeight": "265",
+        "MaxHeightStr": "265",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_LandLakeMaze",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2207,
+        "AreaID": 2207,
         "WeatherAreaId": 2007,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_LandLakeMaze_Lv2",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2008,
+        "AreaID": 2008,
         "WeatherAreaId": 2008,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 10,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_LiShaCountrySide",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2009,
+        "AreaID": 2009,
         "WeatherAreaId": 2009,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "TemplateName": "Weather_LiYueAreaYaoGuangTan",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_MIST",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2010,
+        "AreaID": 2010,
         "WeatherAreaId": 2010,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_LiYueAreaQingCeVilla",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_QingCeVilla",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2011,
+        "AreaID": 2011,
         "WeatherAreaId": 2011,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_BeachMine",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2012,
+        "AreaID": 2012,
         "WeatherAreaId": 2012,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_BlackFroest",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2013,
+        "AreaID": 2013,
         "WeatherAreaId": 2013,
-        "MaxHeight": "189",
+        "MaxHeightStr": "189",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_SaltOfGround",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2113,
+        "AreaID": 2113,
         "WeatherAreaId": 2013,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2014,
+        "AreaID": 2014,
         "WeatherAreaId": 2014,
-        "MaxHeight": "240",
+        "MaxHeightStr": "240",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_Treasure",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2114,
+        "AreaID": 2114,
         "WeatherAreaId": 2014,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_LiYueAreaQingCeVilla",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_QingCeVilla",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2015,
+        "AreaID": 2015,
         "WeatherAreaId": 2015,
-        "MaxHeight": "170",
+        "MaxHeightStr": "170",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 90,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_NinePillars_Tomb",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2115,
+        "AreaID": 2115,
         "WeatherAreaId": 2015,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_NinePillarsGeneral",
         "Priority": 90,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_NinePillars_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2016,
+        "AreaID": 2016,
         "WeatherAreaId": 2016,
-        "MaxHeight": "170",
+        "MaxHeightStr": "170",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_NinePillars_Tomb",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2116,
+        "AreaID": 2116,
         "WeatherAreaId": 2016,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_NinePillars_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2017,
+        "AreaID": 2017,
         "WeatherAreaId": 2017,
-        "MaxHeight": "215",
+        "MaxHeightStr": "215",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Regisvine_Ice_01",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2117,
+        "AreaID": 2117,
         "WeatherAreaId": 2017,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2018,
+        "AreaID": 2018,
         "WeatherAreaId": 2018,
-        "MaxHeight": "220",
+        "MaxHeightStr": "220",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Regisvine_Fire_01",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2118,
+        "AreaID": 2118,
         "WeatherAreaId": 2018,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2019,
+        "AreaID": 2019,
         "WeatherAreaId": 2019,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Md_Island_Foggy",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_MIST",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2020,
+        "AreaID": 2020,
         "WeatherAreaId": 2020,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_TianQiuGu",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_TianQiuGu",
         "DefaultClimate": "CLIMATE_SUNNY",
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2021,
+        "AreaID": 2021,
         "WeatherAreaId": 2021,
-        "MaxHeight": "250",
+        "MaxHeightStr": "250",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_Fountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2121,
+        "AreaID": 2121,
         "WeatherAreaId": 2021,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2022,
+        "AreaID": 2022,
         "WeatherAreaId": 2022,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2023,
+        "AreaID": 2023,
         "WeatherAreaId": 2023,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Peak",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2024,
+        "AreaID": 2024,
         "WeatherAreaId": 2024,
-        "MaxHeight": "460",
+        "MaxHeightStr": "460",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Cave",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2124,
+        "AreaID": 2124,
         "WeatherAreaId": 2024,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Peak",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2026,
+        "AreaID": 2026,
         "WeatherAreaId": 2026,
-        "MaxHeight": "180",
+        "MaxHeightStr": "180",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_SaltOfGround",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2126,
+        "AreaID": 2126,
         "WeatherAreaId": 2026,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_LiShaCountrySide",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 90001,
+        "AreaID": 90001,
         "WeatherAreaId": 90001,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_ThunderStorm",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_THUNDERSTORM",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 3000,
+        "AreaID": 3000,
         "WeatherAreaId": 3000,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_XianglingPlotLevel01_Test",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 20005
+        "SceneID": 20005
     },
     {
-        "AreaId": 3001,
+        "AreaID": 3001,
         "WeatherAreaId": 3001,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_XianglingPlotLevel01",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 20005
+        "SceneID": 20005
     },
     {
-        "AreaId": 9999,
+        "AreaID": 9999,
         "WeatherAreaId": 9999,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 10001,
+        "AreaID": 10001,
         "WeatherAreaId": 10001,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_XianglingPlotLevel01_Test",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 20005
+        "SceneID": 20005
     },
     {
-        "AreaId": 10002,
+        "AreaID": 10002,
         "WeatherAreaId": 10002,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Standard",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_XianglingPlotLevel01",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 20005
+        "SceneID": 20005
     },
     {
-        "AreaId": 2027,
+        "AreaID": 2027,
         "WeatherAreaId": 2027,
-        "MaxHeight": "295",
+        "MaxHeightStr": "295",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_DunlinsHeart",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2127,
+        "AreaID": 2127,
         "WeatherAreaId": 2027,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2028,
+        "AreaID": 2028,
         "WeatherAreaId": 2028,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_South",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2029,
+        "AreaID": 2029,
         "WeatherAreaId": 2029,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_EastCoast",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2031,
+        "AreaID": 2030,
+        "WeatherAreaId": 2030,
+        "MaxHeightStr": "240",
+        "IsDefaultValid": true,
+        "TemplateName": "Weather_Sunny",
+        "Priority": 2000,
+        "ProfileName": "Data/Environment/EnviroSystemProfile/Monster/ESP_Monster_Drake_Primo_Rock_01",
+        "DefaultClimate": "CLIMATE_SUNNY",
+        "IsUseDefault": true,
+        "SceneID": 3
+    },
+    {
+        "AreaID": 2130,
+        "WeatherAreaId": 2030,
+        "MaxHeightStr": "",
+        "IsDefaultValid": true,
+        "TemplateName": "Weather_Standard",
+        "Priority": 2000,
+        "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
+        "DefaultClimate": "CLIMATE_SUNNY",
+        "SceneID": 3
+    },
+    {
+        "AreaID": 2031,
         "WeatherAreaId": 2031,
-        "MaxHeight": "450",
+        "MaxHeightStr": "450",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Cave_Long",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2131,
+        "AreaID": 2131,
         "WeatherAreaId": 2031,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Peak",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2032,
+        "AreaID": 2032,
         "WeatherAreaId": 2032,
-        "MaxHeight": "400",
+        "MaxHeightStr": "400",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Chamber",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2025,
+        "AreaID": 2025,
         "WeatherAreaId": 2025,
-        "MaxHeight": "275",
+        "MaxHeightStr": "275",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Cave_Underboss",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2125,
+        "AreaID": 2125,
         "WeatherAreaId": 2025,
-        "MaxHeight": "300",
+        "MaxHeightStr": "300",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Boss",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2225,
+        "AreaID": 2225,
         "WeatherAreaId": 2025,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2132,
+        "AreaID": 2132,
         "WeatherAreaId": 2032,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 2100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2034,
+        "AreaID": 2034,
         "WeatherAreaId": 2034,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "TemplateName": "Weather_Sunny",
         "Priority": 2100,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Boss",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2035,
+        "AreaID": 2035,
         "WeatherAreaId": 2035,
-        "MaxHeight": "440",
+        "MaxHeightStr": "440",
         "TemplateName": "Weather_Sunny",
         "Priority": 1900,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2135,
+        "AreaID": 2135,
         "WeatherAreaId": 2035,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "TemplateName": "Weather_Sunny",
         "Priority": 1900,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_General",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2036,
+        "AreaID": 2036,
         "WeatherAreaId": 2036,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "IsDefaultValid": true,
         "TemplateName": "Weather_Sunny",
         "Priority": 50,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_GeneralTransition",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2037,
+        "AreaID": 2037,
         "WeatherAreaId": 2037,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "TemplateName": "Weather_Sunny",
         "Priority": 2000,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_PeacePeak",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2038,
+        "AreaID": 2038,
         "WeatherAreaId": 2038,
-        "MaxHeight": "460",
+        "MaxHeightStr": "460",
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_Cave",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
     },
     {
-        "AreaId": 2138,
+        "AreaID": 2138,
         "WeatherAreaId": 2038,
-        "MaxHeight": "",
+        "MaxHeightStr": "",
         "TemplateName": "Weather_Sunny",
         "Priority": 2050,
         "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Md_SnowMountain_PeacePeak",
         "DefaultClimate": "CLIMATE_SUNNY",
         "IsUseDefault": true,
-        "SceneId": 3
+        "SceneID": 3
+    },
+    {
+        "AreaID": 10003,
+        "WeatherAreaId": 10003,
+        "MaxHeightStr": "",
+        "IsDefaultValid": true,
+        "TemplateName": "Weather_Sunny",
+        "Priority": 2000,
+        "ProfileName": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Hutao_01",
+        "DefaultClimate": "CLIMATE_SUNNY",
+        "IsUseDefault": true,
+        "SceneID": 1059
+    },
+    {
+        "AreaID": 10004,
+        "WeatherAreaId": 10004,
+        "MaxHeightStr": "",
+        "IsDefaultValid": true,
+        "TemplateName": "Weather_Sunny",
+        "Priority": 2000,
+        "ProfileName": "Data/Environment/EnviroSystemProfile/Dungeon/ESP_FCdungeon_Hutao_02",
+        "DefaultClimate": "CLIMATE_SUNNY",
+        "IsUseDefault": true,
+        "SceneID": 1059
+    },
+    {
+        "AreaID": 3002,
+        "WeatherAreaId": 3002,
+        "MaxHeightStr": "",
+        "IsDefaultValid": true,
+        "TemplateName": "Weather_Standard",
+        "Priority": 5,
+        "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
+        "DefaultClimate": "CLIMATE_SUNNY",
+        "SceneID": 3
+    },
+    {
+        "AreaID": 3003,
+        "WeatherAreaId": 3003,
+        "MaxHeightStr": "",
+        "IsDefaultValid": true,
+        "TemplateName": "Weather_Standard",
+        "Priority": 5,
+        "ProfileName": "Data/Environment/EnviroSystemProfile/BigWorld/ESP_Ly_General",
+        "DefaultClimate": "CLIMATE_SUNNY",
+        "SceneID": 3
     }
 ]

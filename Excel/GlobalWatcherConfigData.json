@@ -3,13 +3,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35101,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -17,8 +17,8 @@
         "Id": 1001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "watcher_test_modifier",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:watcher_test_modifier",
                 ""
             ]
         },
@@ -28,13 +28,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -42,8 +42,8 @@
         "Id": 1002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Wet",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Wet",
                 ""
             ]
         },
@@ -52,13 +52,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -66,8 +66,8 @@
         "Id": 1003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Ice",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Ice",
                 ""
             ]
         },
@@ -77,13 +77,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -91,8 +91,8 @@
         "Id": 1004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Fire",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Fire",
                 ""
             ]
         },
@@ -101,13 +101,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -115,8 +115,8 @@
         "Id": 1005,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_StickRock",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_StickRock",
                 ""
             ]
         },
@@ -126,13 +126,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -140,8 +140,8 @@
         "Id": 1006,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Frozen",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Frozen",
                 ""
             ]
         },
@@ -150,13 +150,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -164,8 +164,8 @@
         "Id": 1007,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_FreezeWater",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_FreezeWater",
                 ""
             ]
         },
@@ -175,13 +175,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -189,8 +189,8 @@
         "Id": 1008,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Stream_ByModifierAdd",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Stream_ByModifierAdd",
                 ""
             ]
         },
@@ -200,13 +200,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -214,8 +214,8 @@
         "Id": 1009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Stream_ByHit",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Stream_ByHit",
                 ""
             ]
         },
@@ -225,13 +225,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -239,8 +239,8 @@
         "Id": 1010,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Shock",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Shock",
                 ""
             ]
         },
@@ -250,13 +250,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -264,8 +264,8 @@
         "Id": 1011,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_ConductShock",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_ConductShock",
                 ""
             ]
         },
@@ -275,13 +275,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -289,8 +289,8 @@
         "Id": 1012,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Electrified_Water",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Electrified_Water",
                 ""
             ]
         },
@@ -300,13 +300,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -314,8 +314,8 @@
         "Id": 1013,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Explode",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Explode",
                 ""
             ]
         },
@@ -325,13 +325,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -339,8 +339,8 @@
         "Id": 1014,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Superconductor",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Superconductor",
                 ""
             ]
         },
@@ -350,13 +350,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -364,8 +364,8 @@
         "Id": 1015,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Burning",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Burning",
                 ""
             ]
         },
@@ -375,13 +375,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -389,8 +389,8 @@
         "Id": 1016,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Swirl",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Swirl",
                 ""
             ]
         },
@@ -400,13 +400,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35311,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -414,8 +414,8 @@
         "Id": 1018,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_Use_ElementalBurst",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_Use_ElementalBurst",
                 ""
             ]
         },
@@ -425,13 +425,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35311,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -439,7 +439,7 @@
         "Id": 1019,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_ELEMENT_BALL",
-            "Param": [
+            "ParamList": [
                 "",
                 ""
             ]
@@ -449,13 +449,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -463,8 +463,8 @@
         "Id": 1020,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_Hit_Ore",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_Hit_Ore",
                 ""
             ]
         },
@@ -473,13 +473,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -487,8 +487,8 @@
         "Id": 1021,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_AddShield",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_AddShield",
                 ""
             ]
         },
@@ -498,13 +498,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_CURRENT_AVATAR",
-                "Param": [
+                "ParamList": [
                     2,
                     12
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -512,8 +512,8 @@
         "Id": 1022,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_HitHead",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_HitHead",
                 ""
             ]
         },
@@ -523,13 +523,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_CURRENT_AVATAR",
-                "Param": [
+                "ParamList": [
                     2,
                     12
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -537,8 +537,8 @@
         "Id": 1023,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_Weakness",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_Weakness",
                 ""
             ]
         },
@@ -548,13 +548,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_CURRENT_AVATAR",
-                "Param": [
+                "ParamList": [
                     1,
                     10000021
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -562,8 +562,8 @@
         "Id": 1025,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_Use_ElementalArt",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_Use_ElementalArt",
                 ""
             ]
         },
@@ -573,13 +573,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35725,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -587,7 +587,7 @@
         "Id": 1026,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_ENTER_AIRFLOW",
-            "Param": [
+            "ParamList": [
                 "",
                 ""
             ]
@@ -597,13 +597,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -611,8 +611,8 @@
         "Id": 1027,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_HP_Change",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_HP_Change",
                 ""
             ]
         },
@@ -622,13 +622,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -636,8 +636,8 @@
         "Id": 1028,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Melt_ByModifierAdd",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Melt_ByModifierAdd",
                 ""
             ]
         },
@@ -647,13 +647,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -661,8 +661,8 @@
         "Id": 1029,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Melt_ByHit",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Melt_ByHit",
                 ""
             ]
         },
@@ -671,13 +671,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -685,8 +685,8 @@
         "Id": 1030,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_GetFirstWindBullet",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_GetFirstWindBullet",
                 ""
             ]
         },
@@ -695,13 +695,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -709,8 +709,8 @@
         "Id": 1031,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_GetSecondWindBullet",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_GetSecondWindBullet",
                 ""
             ]
         },
@@ -719,13 +719,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -733,8 +733,8 @@
         "Id": 1032,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_SpawnWindFieldByWindBullet",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_SpawnWindFieldByWindBullet",
                 ""
             ]
         },
@@ -743,13 +743,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -757,7 +757,7 @@
         "Id": 1033,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_PLATFORM_START_MOVE",
-            "Param": [
+            "ParamList": [
                 "70710010",
                 ""
             ]
@@ -768,13 +768,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35403,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -782,8 +782,8 @@
         "Id": 1034,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_EleReaction_Crystallize",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_EleReaction_Crystallize",
                 ""
             ]
         },
@@ -792,13 +792,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -806,8 +806,8 @@
         "Id": 1035,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_Avatar_FallingAnthem",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_Avatar_FallingAnthem",
                 ""
             ]
         },
@@ -816,13 +816,37 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 1036,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_WeaponElementOverride",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
                     0
                 ]
             }
@@ -830,7 +854,7 @@
         "Id": 1100,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_PLATFORM_START_MOVE",
-            "Param": [
+            "ParamList": [
                 "70720214",
                 ""
             ]
@@ -840,13 +864,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -854,7 +878,7 @@
         "Id": 1101,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_USE_ITEM",
-            "Param": [
+            "ParamList": [
                 "101005",
                 ""
             ]
@@ -864,13 +888,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -878,8 +902,8 @@
         "Id": 1102,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_SnowMountain_1102",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1102",
                 ""
             ]
         },
@@ -888,13 +912,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -902,8 +926,8 @@
         "Id": 1103,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
-            "Param": [
-                "Watcher_SnowMountain_1103",
+            "ParamList": [
+                "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1103",
                 ""
             ]
         },
@@ -912,13 +936,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -926,7 +950,7 @@
         "Id": 1104,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_USE_ITEM",
-            "Param": [
+            "ParamList": [
                 "100671",
                 ""
             ]
@@ -936,13 +960,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -950,7 +974,7 @@
         "Id": 2009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20010901",
                 ""
             ]
@@ -960,13 +984,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -974,7 +998,7 @@
         "Id": 2015,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20011501",
                 ""
             ]
@@ -984,13 +1008,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -998,7 +1022,7 @@
         "Id": 2016,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20020101",
                 ""
             ]
@@ -1008,13 +1032,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1022,7 +1046,7 @@
         "Id": 2019,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "21010301",
                 ""
             ]
@@ -1032,13 +1056,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1046,7 +1070,7 @@
         "Id": 2027,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "21020101",
                 ""
             ]
@@ -1056,13 +1080,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1070,7 +1094,7 @@
         "Id": 2032,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "22010101",
                 ""
             ]
@@ -1080,13 +1104,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1094,7 +1118,7 @@
         "Id": 2033,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "22010201",
                 ""
             ]
@@ -1104,13 +1128,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1118,7 +1142,7 @@
         "Id": 2034,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "22010301",
                 ""
             ]
@@ -1128,13 +1152,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1142,7 +1166,7 @@
         "Id": 2035,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "24010101",
                 ""
             ]
@@ -1152,13 +1176,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1166,7 +1190,7 @@
         "Id": 2036,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20040101",
                 ""
             ]
@@ -1176,13 +1200,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1190,7 +1214,7 @@
         "Id": 2039,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "24010201",
                 ""
             ]
@@ -1200,13 +1224,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1214,7 +1238,7 @@
         "Id": 2042,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "21011201",
                 ""
             ]
@@ -1224,13 +1248,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1238,7 +1262,7 @@
         "Id": 2043,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "21020301",
                 ""
             ]
@@ -1248,13 +1272,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1262,7 +1286,7 @@
         "Id": 2044,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20040201",
                 ""
             ]
@@ -1272,13 +1296,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1286,7 +1310,7 @@
         "Id": 2045,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20040301",
                 ""
             ]
@@ -1296,13 +1320,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1310,7 +1334,7 @@
         "Id": 2046,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "21030401",
                 ""
             ]
@@ -1320,13 +1344,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1334,7 +1358,7 @@
         "Id": 2047,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "23010101",
                 ""
             ]
@@ -1344,13 +1368,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1358,7 +1382,7 @@
         "Id": 2048,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "23010201",
                 ""
             ]
@@ -1368,13 +1392,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1382,7 +1406,7 @@
         "Id": 2049,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "23010301",
                 ""
             ]
@@ -1392,13 +1416,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1406,7 +1430,7 @@
         "Id": 2050,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "23010401",
                 ""
             ]
@@ -1416,13 +1440,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1430,7 +1454,7 @@
         "Id": 2051,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "23010501",
                 ""
             ]
@@ -1440,13 +1464,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1454,7 +1478,7 @@
         "Id": 2052,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "23010601",
                 ""
             ]
@@ -1464,13 +1488,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1478,7 +1502,7 @@
         "Id": 2053,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "26020101",
                 ""
             ]
@@ -1488,13 +1512,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1502,7 +1526,7 @@
         "Id": 2054,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "26020201",
                 ""
             ]
@@ -1512,13 +1536,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1526,7 +1550,7 @@
         "Id": 2055,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "26030101",
                 ""
             ]
@@ -1536,13 +1560,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1550,7 +1574,7 @@
         "Id": 2056,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "20050101",
                 ""
             ]
@@ -1560,13 +1584,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1574,7 +1598,7 @@
         "Id": 2057,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "21020601",
                 ""
             ]
@@ -1584,13 +1608,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1598,7 +1622,7 @@
         "Id": 2058,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_MONSTER",
-            "Param": [
+            "ParamList": [
                 "24010301",
                 ""
             ]
@@ -1608,13 +1632,61 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 2059,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_NEW_MONSTER",
+            "ParamList": [
+                "26040101,26040102,26040103,26040104",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 2060,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_NEW_MONSTER",
+            "ParamList": [
+                "26050101,26050201,26050301,26050401",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
                     0
                 ]
             }
@@ -1622,7 +1694,7 @@
         "Id": 3001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "1",
                 ""
             ]
@@ -1632,13 +1704,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1646,7 +1718,7 @@
         "Id": 3002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "2",
                 ""
             ]
@@ -1656,13 +1728,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1670,7 +1742,7 @@
         "Id": 3003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "3",
                 ""
             ]
@@ -1680,13 +1752,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1694,7 +1766,7 @@
         "Id": 3004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "4",
                 ""
             ]
@@ -1704,13 +1776,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1718,7 +1790,7 @@
         "Id": 3005,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "5",
                 ""
             ]
@@ -1728,13 +1800,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1742,7 +1814,7 @@
         "Id": 3006,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "6",
                 ""
             ]
@@ -1752,13 +1824,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1766,7 +1838,7 @@
         "Id": 3007,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "7",
                 ""
             ]
@@ -1776,13 +1848,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1790,7 +1862,7 @@
         "Id": 3008,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
-            "Param": [
+            "ParamList": [
                 "8",
                 ""
             ]
@@ -1800,13 +1872,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1814,7 +1886,7 @@
         "Id": 3009,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_DUNGEON_ENTRY_TO_BE_EXPLORED",
-            "Param": [
+            "ParamList": [
                 "48",
                 ""
             ]
@@ -1825,13 +1897,13 @@
         "PredicateConfigs": [
             {
                 "PredicateType": "PREDICATE_QUEST_FINISH",
-                "Param": [
+                "ParamList": [
                     35311,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1839,7 +1911,7 @@
         "Id": 3010,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_CHANGE_INPUT_DEVICE_TYPE",
-            "Param": [
+            "ParamList": [
                 "2",
                 ""
             ]
@@ -1849,13 +1921,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1863,7 +1935,7 @@
         "Id": 4001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_AFFIX",
-            "Param": [
+            "ParamList": [
                 "1028",
                 ""
             ]
@@ -1873,13 +1945,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1887,7 +1959,7 @@
         "Id": 4002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_AFFIX",
-            "Param": [
+            "ParamList": [
                 "1029",
                 ""
             ]
@@ -1897,13 +1969,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1911,7 +1983,7 @@
         "Id": 4003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_AFFIX",
-            "Param": [
+            "ParamList": [
                 "1027",
                 ""
             ]
@@ -1921,13 +1993,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1935,7 +2007,7 @@
         "Id": 4004,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_NEW_AFFIX",
-            "Param": [
+            "ParamList": [
                 "1026",
                 ""
             ]
@@ -1945,13 +2017,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1959,7 +2031,7 @@
         "Id": 5001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_COST_MATERIAL",
-            "Param": [
+            "ParamList": [
                 "106",
                 ""
             ]
@@ -1969,13 +2041,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -1983,7 +2055,7 @@
         "Id": 5002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_PLAYER_LEVEL",
-            "Param": [
+            "ParamList": [
                 "8",
                 ""
             ]
@@ -1993,13 +2065,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -2007,7 +2079,7 @@
         "Id": 7001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "Param": [
+            "ParamList": [
                 "220008",
                 ""
             ]
@@ -2017,13 +2089,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -2031,7 +2103,7 @@
         "Id": 7002,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "Param": [
+            "ParamList": [
                 "220005",
                 ""
             ]
@@ -2041,13 +2113,13 @@
     {
         "PredicateConfigs": [
             {
-                "Param": [
+                "ParamList": [
                     0,
                     0
                 ]
             },
             {
-                "Param": [
+                "ParamList": [
                     0
                 ]
             }
@@ -2055,8 +2127,56 @@
         "Id": 7003,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "Param": [
+            "ParamList": [
                 "220004",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 7004,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MIRACLE_RING_DELIVER_ITEM",
+            "ParamList": [
+                "",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 7005,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "ParamList": [
+                "220021",
                 ""
             ]
         },

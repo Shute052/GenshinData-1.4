@@ -470,5 +470,29 @@
         "IconName": "UI_QuestIcon_Quest",
         "TitleTextMapHash": 2674818229,
         "Order": 165
+    },
+    {
+        "ParentQuestId": 41402,
+        "CityId": 2,
+        "RewardId": 2020051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 4201666181,
+        "Order": 164
+    },
+    {
+        "ParentQuestId": 71812,
+        "CityId": 2,
+        "RewardId": 2020051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 2475364037,
+        "Order": 163
+    },
+    {
+        "ParentQuestId": 71022,
+        "CityId": 2,
+        "RewardId": 2020051,
+        "IconName": "UI_QuestIcon_Quest",
+        "TitleTextMapHash": 1837986373,
+        "Order": 162
     }
 ]

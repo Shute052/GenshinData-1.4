@@ -981,7 +981,7 @@
     {
         "Name": "CONST_VALUE_ELEMENT_OVERLOAD_MAX",
         "Value": [
-            "10",
+            "1",
             "",
             "",
             "",
@@ -1003,7 +1003,7 @@
     {
         "Name": "CONST_VALUE_SWIRL_PARAM",
         "Value": [
-            "15",
+            "1",
             "1",
             "",
             "",
@@ -1345,7 +1345,7 @@
         "Name": "CONST_VALUE_SEA_LAMP_ACTIVITY",
         "Value": [
             "200004",
-            "30000000",
+            "2000",
             "120",
             "120",
             "120",
@@ -1477,7 +1477,7 @@
         "Name": "CONST_VALUE_DISTANCE_CHECK",
         "Value": [
             "50",
-            "",
+            "900",
             "",
             "",
             "",
@@ -2167,9 +2167,152 @@
         ]
     },
     {
+        "Name": "CONST_VALUE_MIRACLE_RING_CD",
+        "Value": [
+            "597600",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MIRACLE_RING_DROP_COUNT",
+        "Value": [
+            "5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MIRACLE_RING_DELIVER_VALUE",
+        "Value": [
+            "150",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_BLESSING_CONFIG",
+        "Value": [
+            "7",
+            "200030001",
+            "8",
+            "30601",
+            "30602",
+            "30603"
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MIRACLE_RING_RANDOM_DROP_PROB",
+        "Value": [
+            "0.5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MIRACLE_RING_ITEM_ADD_PACK",
+        "Value": [
+            "104001,104002,104003,104011,104012,104013",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "Name": "CONST_VALUE_MP_REWARD_RESERVED_TIME_CONFIG",
         "Value": [
             "30",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_MONSTER_BANNER_DRAKE_PRIMO_ROCK",
+        "Value": [
+            "71022",
+            "23",
+            "15160",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MECHANICUS_ROTATION_PARAM",
+        "Value": [
+            "180",
+            "90",
+            "-180",
+            "90",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_SHOP_OUTPUT_SWITCH",
+        "Value": [
+            "1",
+            "1",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MECHANICUS_CARD_PARAM",
+        "Value": [
+            "1",
+            "1",
+            "2",
+            "6",
+            "100",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_FORCE_DRAG_BACK_PARAM",
+        "Value": [
+            "10",
+            "20",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_MUIP_MAIL_REWARD_LIMIT",
+        "Value": [
+            "1000",
+            "1000000",
+            "223:10,224:10",
+            "1",
+            "1",
+            "1"
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_NECHANICUS_OPEN_QUESTID",
+        "Value": [
+            "41311",
             "",
             "",
             "",
@@ -2192,6 +2335,61 @@
         "Name": "CONST_VALUE_ASTER_MIDDLE_NPC_TALK_ID",
         "Value": [
             "4111502",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_EXPEDITION_DAILY_REFRESH_PATH_LIMIT",
+        "Value": [
+            "8",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_EXPEDITION_DAILY_COUNT_LIMIT",
+        "Value": [
+            "4",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_EXPEDITION_SUPER_ELEM_COEF",
+        "Value": [
+            "2",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_EXPEDITION_CONTENT_DURATION",
+        "Value": [
+            "7",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_EXPEDITION_CHALLENGE_HINT_CD",
+        "Value": [
+            "60",
             "",
             "",
             "",

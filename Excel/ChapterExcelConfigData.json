@@ -59,6 +59,16 @@
         "ChapterIcon": "UI_ChapterIcon_Liyue"
     },
     {
+        "Id": 1105,
+        "BeginQuestId": 1800002,
+        "EndQuestId": 1800027,
+        "NeedPlayerLevel": 36,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 2935739330,
+        "ChapterTitleTextMapHash": 4119913945,
+        "ChapterIcon": "UI_ChapterIcon_Traveler"
+    },
+    {
         "Id": 2001,
         "BeginQuestId": 46102,
         "EndQuestId": 46308,
@@ -159,10 +169,13 @@
         "Id": 2011,
         "BeginQuestId": 1110009,
         "EndQuestId": 1110311,
+        "NeedPlayerLevel": 40,
+        "ActivityId": 2002,
         "NeedBeginTimeStr": "",
         "ChapterNumTextMapHash": 183311346,
         "ChapterTitleTextMapHash": 3497614889,
-        "ChapterIcon": ""
+        "ChapterIcon": "UI_ChapterIcon_Xiao",
+        "InActivityNeedPlayerLevel": 23
     },
     {
         "Id": 2012,
@@ -225,6 +238,16 @@
         "ChapterTitleTextMapHash": 2675032633,
         "ChapterIcon": "UI_ChapterIcon_Albedo",
         "InActivityNeedPlayerLevel": 20
+    },
+    {
+        "Id": 2018,
+        "BeginQuestId": 1111002,
+        "EndQuestId": 1111307,
+        "NeedPlayerLevel": 40,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1616052106,
+        "ChapterTitleTextMapHash": 3233798537,
+        "ChapterIcon": "UI_ChapterIcon_Hutao"
     },
     {
         "Id": 10001,
@@ -358,5 +381,53 @@
         "ChapterNumTextMapHash": 1066261858,
         "ChapterTitleTextMapHash": 881196809,
         "ChapterIcon": "UI_ChapterIcon_Dragonspine"
+    },
+    {
+        "Id": 10015,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 4014588050,
+        "ChapterTitleTextMapHash": 1462150425,
+        "ChapterIcon": "UI_ChapterIcon_Common"
+    },
+    {
+        "Id": 10016,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 2186493898,
+        "ChapterTitleTextMapHash": 3600336145,
+        "ChapterIcon": "UI_ChapterIcon_Common"
+    },
+    {
+        "Id": 10017,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 3273688042,
+        "ChapterTitleTextMapHash": 4098972337,
+        "ChapterIcon": "UI_ChapterIcon_Common"
+    },
+    {
+        "Id": 10018,
+        "BeginQuestId": 4131102,
+        "EndQuestId": 4131115,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 1411148218,
+        "ChapterTitleTextMapHash": 664541089,
+        "ChapterIcon": "UI_ChapterIcon_SeaLamp"
+    },
+    {
+        "Id": 10019,
+        "BeginQuestId": 4131201,
+        "EndQuestId": 4131222,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 434732658,
+        "ChapterTitleTextMapHash": 1965053817,
+        "ChapterIcon": "UI_ChapterIcon_SeaLamp"
+    },
+    {
+        "Id": 10020,
+        "BeginQuestId": 4131301,
+        "EndQuestId": 4131312,
+        "NeedBeginTimeStr": "",
+        "ChapterNumTextMapHash": 4261502762,
+        "ChapterTitleTextMapHash": 3425914161,
+        "ChapterIcon": "UI_ChapterIcon_SeaLamp"
     }
 ]

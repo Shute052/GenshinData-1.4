@@ -325,9 +325,9 @@
         "Id": 100224,
         "TitleTextMapHash": 3652396135,
         "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_ItemIcon_100224",
-        "DocumentType": "VIDEO",
+        "DocumentType": "Video",
         "VideoPath": "Ambor_Readings.usm",
-        "SubtitleId": 300005
+        "SubtitleID": 300005
     },
     {
         "Id": 100226,
@@ -1366,9 +1366,72 @@
         "VideoPath": ""
     },
     {
+        "Id": 100711,
+        "TitleTextMapHash": 2080972623,
+        "ContentLocalizedId": 200200,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100712,
+        "TitleTextMapHash": 889327423,
+        "ContentLocalizedId": 200201,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
         "Id": 100715,
         "TitleTextMapHash": 1598586999,
         "ContentLocalizedId": 200187,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100730,
+        "TitleTextMapHash": 1578404671,
+        "ContentLocalizedId": 200202,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100731,
+        "TitleTextMapHash": 2333237639,
+        "ContentLocalizedId": 200203,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100732,
+        "TitleTextMapHash": 3757336351,
+        "ContentLocalizedId": 200204,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100733,
+        "TitleTextMapHash": 1754776567,
+        "ContentLocalizedId": 200205,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100734,
+        "TitleTextMapHash": 3069959495,
+        "ContentLocalizedId": 200206,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100735,
+        "TitleTextMapHash": 3896860223,
+        "ContentLocalizedId": 200207,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100736,
+        "TitleTextMapHash": 2247761527,
+        "ContentLocalizedId": 200208,
         "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
         "VideoPath": ""
     },
@@ -2895,6 +2958,13 @@
         "Id": 193409,
         "TitleTextMapHash": 4274644847,
         "ContentLocalizedId": 293409,
+        "PreviewPath": "ART/UI/Atlas/BagTabIcon/UI_BagTabIcon_Weapon",
+        "VideoPath": ""
+    },
+    {
+        "Id": 193501,
+        "TitleTextMapHash": 2329450847,
+        "ContentLocalizedId": 293501,
         "PreviewPath": "ART/UI/Atlas/BagTabIcon/UI_BagTabIcon_Weapon",
         "VideoPath": ""
     },

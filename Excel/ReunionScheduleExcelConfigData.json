@@ -3,8 +3,8 @@
         "Id": 1001,
         "ActivateLevel": 10,
         "FirstGiftRewardId": 3006001,
-        "DailySignInId": 1,
-        "ReunionMIssionId": 1,
+        "DailySignInId": 2,
+        "ReunionMissionId": 2,
         "ReunionPrivilegeId": 1
     }
 ]

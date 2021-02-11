@@ -22,8 +22,8 @@
         "WeaponPromoteId": 11101,
         "StoryId": 191101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 3348941200,
-        "GachaCardNameHashSuffix": -53,
+        "GachaCardNameHashSuffix": 3348941200,
+        "GachaCardNameHashPre": 203,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -63,8 +63,8 @@
         "WeaponPromoteId": 11201,
         "StoryId": 191201,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 916115113,
-        "GachaCardNameHashSuffix": -83,
+        "GachaCardNameHashSuffix": 916115113,
+        "GachaCardNameHashPre": 173,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -111,8 +111,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 176103736,
-        "GachaCardNameHashSuffix": -104,
+        "GachaCardNameHashSuffix": 176103736,
+        "GachaCardNameHashPre": 152,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -159,8 +159,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 266494027,
-        "GachaCardNameHashSuffix": 37,
+        "GachaCardNameHashSuffix": 266494027,
+        "GachaCardNameHashPre": 37,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -207,8 +207,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1697410579,
-        "GachaCardNameHashSuffix": -121,
+        "GachaCardNameHashSuffix": 1697410579,
+        "GachaCardNameHashPre": 135,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -255,8 +255,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 4100590481,
-        "GachaCardNameHashSuffix": -44,
+        "GachaCardNameHashSuffix": 4100590481,
+        "GachaCardNameHashPre": 212,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -303,8 +303,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 2477636525,
-        "GachaCardNameHashSuffix": 56,
+        "GachaCardNameHashSuffix": 2477636525,
+        "GachaCardNameHashPre": 56,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -351,8 +351,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 3273842833,
-        "GachaCardNameHashSuffix": 1,
+        "GachaCardNameHashSuffix": 3273842833,
+        "GachaCardNameHashPre": 1,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -399,8 +399,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3494691150,
-        "GachaCardNameHashSuffix": -111,
+        "GachaCardNameHashSuffix": 3494691150,
+        "GachaCardNameHashPre": 145,
         "DestroyReturnMaterial": [
             0
         ],
@@ -447,8 +447,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1928908937,
-        "GachaCardNameHashSuffix": -31,
+        "GachaCardNameHashSuffix": 1928908937,
+        "GachaCardNameHashPre": 225,
         "DestroyReturnMaterial": [
             0
         ],
@@ -495,8 +495,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2379020167,
-        "GachaCardNameHashSuffix": -105,
+        "GachaCardNameHashSuffix": 2379020167,
+        "GachaCardNameHashPre": 151,
         "DestroyReturnMaterial": [
             0
         ],
@@ -543,8 +543,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2020765994,
-        "GachaCardNameHashSuffix": -38,
+        "GachaCardNameHashSuffix": 2020765994,
+        "GachaCardNameHashPre": 218,
         "DestroyReturnMaterial": [
             0
         ],
@@ -591,8 +591,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2657414613,
-        "GachaCardNameHashSuffix": -89,
+        "GachaCardNameHashSuffix": 2657414613,
+        "GachaCardNameHashPre": 167,
         "DestroyReturnMaterial": [
             0
         ],
@@ -639,8 +639,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 158565327,
-        "GachaCardNameHashSuffix": -64,
+        "GachaCardNameHashSuffix": 158565327,
+        "GachaCardNameHashPre": 192,
         "DestroyReturnMaterial": [
             0
         ],
@@ -687,8 +687,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2058594818,
-        "GachaCardNameHashSuffix": 40,
+        "GachaCardNameHashSuffix": 2058594818,
+        "GachaCardNameHashPre": 40,
         "DestroyReturnMaterial": [
             0
         ],
@@ -735,8 +735,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1322009253,
-        "GachaCardNameHashSuffix": -117,
+        "GachaCardNameHashSuffix": 1322009253,
+        "GachaCardNameHashPre": 139,
         "DestroyReturnMaterial": [
             0
         ],
@@ -783,8 +783,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2898785106,
-        "GachaCardNameHashSuffix": -37,
+        "GachaCardNameHashSuffix": 2898785106,
+        "GachaCardNameHashPre": 219,
         "DestroyReturnMaterial": [
             0
         ],
@@ -812,22 +812,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 43.734901428222656,
-                "Type": "GROW_CURVE_ATTACK_202"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.05999999865889549,
-                "Type": "GROW_CURVE_CRITICAL_201"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Outlaw/Equip_Sword_Outlaw_OverrideTexture/Equip_Sword_Outlaw_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Outlaw_Awaken",
-        "WeaponPromoteId": 11410,
-        "StoryId": 191410,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 576826403,
-        "GachaCardNameHashSuffix": -89,
+        "GachaCardNameHashSuffix": 576826403,
+        "GachaCardNameHashPre": 167,
         "DestroyReturnMaterial": [
             0
         ],
@@ -855,22 +852,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 43.734901428222656,
-                "Type": "GROW_CURVE_ATTACK_202"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "InitValue": 0.06666699796915054,
-                "Type": "GROW_CURVE_CRITICAL_201"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Heartseeker/Equip_Sword_Heartseeker_OverrideTexture/Equip_Sword_Heartseeker_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Heartseeker_Awaken",
-        "WeaponPromoteId": 11411,
-        "StoryId": 191411,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 1023323240,
-        "GachaCardNameHashSuffix": 77,
+        "GachaCardNameHashSuffix": 1023323240,
+        "GachaCardNameHashPre": 77,
         "DestroyReturnMaterial": [
             0
         ],
@@ -912,8 +906,8 @@
         "WeaponPromoteId": 11412,
         "StoryId": 191412,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 3433003780,
-        "GachaCardNameHashSuffix": 55,
+        "GachaCardNameHashSuffix": 3433003780,
+        "GachaCardNameHashPre": 55,
         "DestroyReturnMaterial": [
             0
         ],
@@ -961,8 +955,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3978642292,
-        "GachaCardNameHashSuffix": 52,
+        "GachaCardNameHashSuffix": 3978642292,
+        "GachaCardNameHashPre": 52,
         "EnhanceRule": 1,
         "DestroyReturnMaterial": [
             0
@@ -1010,8 +1004,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 962107900,
-        "GachaCardNameHashSuffix": -18,
+        "GachaCardNameHashSuffix": 962107900,
+        "GachaCardNameHashPre": 238,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1058,8 +1052,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 3665043217,
-        "GachaCardNameHashSuffix": -19,
+        "GachaCardNameHashSuffix": 3665043217,
+        "GachaCardNameHashPre": 237,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1087,22 +1081,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.1080000028014183,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Widsith/Equip_Sword_Widsith_OverrideTexture/Equip_Sword_Widsith_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Widsith_Awaken",
-        "WeaponPromoteId": 11503,
-        "StoryId": 191503,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2409067244,
-        "GachaCardNameHashSuffix": -127,
+        "GachaCardNameHashSuffix": 2409067244,
+        "GachaCardNameHashPre": 129,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1149,8 +1140,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 1740198803,
-        "GachaCardNameHashSuffix": 84,
+        "GachaCardNameHashSuffix": 1740198803,
+        "GachaCardNameHashPre": 84,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1172,16 +1163,18 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            0,
+            111505,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 44.33580017089844,
+                "Type": "GROW_CURVE_ATTACK_304"
             },
             {
+                "PropType": "FIGHT_PROP_CRITICAL",
+                "InitValue": 0.09600000083446503,
                 "Type": "GROW_CURVE_CRITICAL_301"
             }
         ],
@@ -1189,9 +1182,14 @@
         "AwakenIcon": "UI_EquipIcon_Sword_Morax_Awaken",
         "WeaponPromoteId": 11505,
         "StoryId": 191505,
-        "AwakenCosts": [],
-        "GachaCardNameHashPre": 3535326333,
-        "GachaCardNameHashSuffix": -22,
+        "AwakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "GachaCardNameHashSuffix": 3535326333,
+        "GachaCardNameHashPre": 234,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1219,20 +1217,20 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Transcend/Equip_Sword_Transcend_OverrideTexture/Equip_Sword_Transcend_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Transcend_Awaken",
-        "WeaponPromoteId": 11506,
+        "WeaponPromoteId": 14101,
         "StoryId": 191506,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2706294933,
-        "GachaCardNameHashSuffix": 125,
+        "GachaCardNameHashSuffix": 2706294933,
+        "GachaCardNameHashPre": 125,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1260,20 +1258,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Boreas/Equip_Sword_Boreas_OverrideTexture/Equip_Sword_Boreas_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Boreas_Awaken",
-        "WeaponPromoteId": 11507,
-        "StoryId": 191507,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 973089515,
-        "GachaCardNameHashSuffix": -54,
+        "GachaCardNameHashSuffix": 973089515,
+        "GachaCardNameHashPre": 202,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1301,22 +1298,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.1080000028014183,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Pillars/Equip_Sword_Pillars_OverrideTexture/Equip_Sword_Pillars_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Pillars_Awaken",
-        "WeaponPromoteId": 11508,
-        "StoryId": 191508,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 831326989,
-        "GachaCardNameHashSuffix": 101,
+        "GachaCardNameHashSuffix": 831326989,
+        "GachaCardNameHashPre": 101,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1356,8 +1350,8 @@
         "WeaponPromoteId": 12101,
         "StoryId": 192101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 3288337370,
-        "GachaCardNameHashSuffix": 35,
+        "GachaCardNameHashSuffix": 3288337370,
+        "GachaCardNameHashPre": 35,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1397,8 +1391,8 @@
         "WeaponPromoteId": 12201,
         "StoryId": 192201,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 544317873,
-        "GachaCardNameHashSuffix": 49,
+        "GachaCardNameHashSuffix": 544317873,
+        "GachaCardNameHashPre": 49,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1445,8 +1439,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1853975585,
-        "GachaCardNameHashSuffix": -112,
+        "GachaCardNameHashSuffix": 1853975585,
+        "GachaCardNameHashPre": 144,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1493,8 +1487,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1415556819,
-        "GachaCardNameHashSuffix": 36,
+        "GachaCardNameHashSuffix": 1415556819,
+        "GachaCardNameHashPre": 36,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1541,8 +1535,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1036638865,
-        "GachaCardNameHashSuffix": 34,
+        "GachaCardNameHashSuffix": 1036638865,
+        "GachaCardNameHashPre": 34,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1589,8 +1583,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 57757500,
-        "GachaCardNameHashSuffix": 2,
+        "GachaCardNameHashSuffix": 57757500,
+        "GachaCardNameHashPre": 2,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1637,8 +1631,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 2596096229,
-        "GachaCardNameHashSuffix": -49,
+        "GachaCardNameHashSuffix": 2596096229,
+        "GachaCardNameHashPre": 207,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1685,8 +1679,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 4099821067,
-        "GachaCardNameHashSuffix": -21,
+        "GachaCardNameHashSuffix": 4099821067,
+        "GachaCardNameHashPre": 235,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -1733,8 +1727,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3739832421,
-        "GachaCardNameHashSuffix": 75,
+        "GachaCardNameHashSuffix": 3739832421,
+        "GachaCardNameHashPre": 75,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1781,8 +1775,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 23777242,
-        "GachaCardNameHashSuffix": -35,
+        "GachaCardNameHashSuffix": 23777242,
+        "GachaCardNameHashPre": 221,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1829,8 +1823,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2476832950,
-        "GachaCardNameHashSuffix": -7,
+        "GachaCardNameHashSuffix": 2476832950,
+        "GachaCardNameHashPre": 249,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1877,8 +1871,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2223812256,
-        "GachaCardNameHashSuffix": 67,
+        "GachaCardNameHashSuffix": 2223812256,
+        "GachaCardNameHashPre": 67,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1925,8 +1919,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 916950270,
-        "GachaCardNameHashSuffix": -56,
+        "GachaCardNameHashSuffix": 916950270,
+        "GachaCardNameHashPre": 200,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1973,8 +1967,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3634821416,
-        "GachaCardNameHashSuffix": 27,
+        "GachaCardNameHashSuffix": 3634821416,
+        "GachaCardNameHashPre": 27,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2021,8 +2015,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3014887376,
-        "GachaCardNameHashSuffix": -40,
+        "GachaCardNameHashSuffix": 3014887376,
+        "GachaCardNameHashPre": 216,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2069,8 +2063,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2589106325,
-        "GachaCardNameHashSuffix": 5,
+        "GachaCardNameHashSuffix": 2589106325,
+        "GachaCardNameHashPre": 5,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2117,8 +2111,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1875670885,
-        "GachaCardNameHashSuffix": 47,
+        "GachaCardNameHashSuffix": 1875670885,
+        "GachaCardNameHashPre": 47,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2140,18 +2134,18 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            112410,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 41.067100524902344,
-                "Type": "GROW_CURVE_ATTACK_204"
+                "InitValue": 42.4010009765625,
+                "Type": "GROW_CURVE_ATTACK_201"
             },
             {
                 "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.11999999731779099,
+                "InitValue": 0.09000000357627869,
                 "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
@@ -2159,9 +2153,14 @@
         "AwakenIcon": "UI_EquipIcon_Claymore_Lapis_Awaken",
         "WeaponPromoteId": 12410,
         "StoryId": 192410,
-        "AwakenCosts": [],
-        "GachaCardNameHashPre": 2190420900,
-        "GachaCardNameHashSuffix": 84,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "GachaCardNameHashSuffix": 2190420900,
+        "GachaCardNameHashPre": 84,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2208,8 +2207,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2712675064,
-        "GachaCardNameHashSuffix": -27,
+        "GachaCardNameHashSuffix": 2712675064,
+        "GachaCardNameHashPre": 229,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2256,8 +2255,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 4003214417,
-        "GachaCardNameHashSuffix": -88,
+        "GachaCardNameHashSuffix": 4003214417,
+        "GachaCardNameHashPre": 168,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2304,8 +2303,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 4113952488,
-        "GachaCardNameHashSuffix": 49,
+        "GachaCardNameHashSuffix": 4113952488,
+        "GachaCardNameHashPre": 49,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2333,22 +2332,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_CRITICAL",
-                "InitValue": 0.07199999690055847,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Widsith/Equip_Claymore_Widsith_OverrideTexture/Equip_Claymore_Widsith_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Claymore_Widsith_Awaken",
-        "WeaponPromoteId": 12503,
-        "StoryId": 192503,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 1627480080,
-        "GachaCardNameHashSuffix": -63,
+        "GachaCardNameHashSuffix": 1627480080,
+        "GachaCardNameHashPre": 193,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2395,8 +2391,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 1732088389,
-        "GachaCardNameHashSuffix": 89,
+        "GachaCardNameHashSuffix": 1732088389,
+        "GachaCardNameHashPre": 89,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2424,20 +2420,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Morax/Equip_Claymore_Morax_OverrideTexture/Equip_Claymore_Morax_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Claymore_Morax_Awaken",
-        "WeaponPromoteId": 12505,
-        "StoryId": 192505,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2434129349,
-        "GachaCardNameHashSuffix": 69,
+        "GachaCardNameHashSuffix": 2434129349,
+        "GachaCardNameHashPre": 69,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2465,20 +2460,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Appease/Equip_Claymore_Appease_OverrideTexture/Equip_Claymore_Appease_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Claymore_Appease_Awaken",
-        "WeaponPromoteId": 12506,
-        "StoryId": 192506,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 1627443127,
-        "GachaCardNameHashSuffix": -87,
+        "GachaCardNameHashSuffix": 1627443127,
+        "GachaCardNameHashPre": 169,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2506,20 +2500,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Moonlight/Equip_Claymore_Moonlight_OverrideTexture/Equip_Claymore_Moonlight_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Claymore_Moonlight_Awaken",
-        "WeaponPromoteId": 12508,
-        "StoryId": 192508,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 4180326718,
-        "GachaCardNameHashSuffix": 90,
+        "GachaCardNameHashSuffix": 4180326718,
+        "GachaCardNameHashPre": 90,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2559,8 +2552,8 @@
         "WeaponPromoteId": 13101,
         "StoryId": 193101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2043974835,
-        "GachaCardNameHashSuffix": 7,
+        "GachaCardNameHashSuffix": 2043974835,
+        "GachaCardNameHashPre": 7,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -2600,8 +2593,8 @@
         "WeaponPromoteId": 13201,
         "StoryId": 193201,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 4234149687,
-        "GachaCardNameHashSuffix": 78,
+        "GachaCardNameHashSuffix": 4234149687,
+        "GachaCardNameHashPre": 78,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -2648,8 +2641,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 3145191929,
-        "GachaCardNameHashSuffix": -93,
+        "GachaCardNameHashSuffix": 3145191929,
+        "GachaCardNameHashPre": 163,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -2696,8 +2689,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1569285405,
-        "GachaCardNameHashSuffix": 25,
+        "GachaCardNameHashSuffix": 1569285405,
+        "GachaCardNameHashPre": 25,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -2744,8 +2737,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 837291574,
-        "GachaCardNameHashSuffix": -47,
+        "GachaCardNameHashSuffix": 837291574,
+        "GachaCardNameHashPre": 209,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -2790,8 +2783,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 2031175128,
-        "GachaCardNameHashSuffix": -27,
+        "GachaCardNameHashSuffix": 2031175128,
+        "GachaCardNameHashPre": 229,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -2838,8 +2831,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2592195516,
-        "GachaCardNameHashSuffix": 45,
+        "GachaCardNameHashSuffix": 2592195516,
+        "GachaCardNameHashPre": 45,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2886,8 +2879,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 679881581,
-        "GachaCardNameHashSuffix": 10,
+        "GachaCardNameHashSuffix": 679881581,
+        "GachaCardNameHashPre": 10,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2934,8 +2927,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2190949322,
-        "GachaCardNameHashSuffix": 27,
+        "GachaCardNameHashSuffix": 2190949322,
+        "GachaCardNameHashPre": 27,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2982,8 +2975,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3820752596,
-        "GachaCardNameHashSuffix": 126,
+        "GachaCardNameHashSuffix": 3820752596,
+        "GachaCardNameHashPre": 126,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3030,8 +3023,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 645868516,
-        "GachaCardNameHashSuffix": 5,
+        "GachaCardNameHashSuffix": 645868516,
+        "GachaCardNameHashPre": 5,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3053,18 +3046,18 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            113406,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 42.4010009765625,
-                "Type": "GROW_CURVE_ATTACK_201"
+                "InitValue": 43.734901428222656,
+                "Type": "GROW_CURVE_ATTACK_202"
             },
             {
-                "PropType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-                "InitValue": 0.11259999871253967,
+                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+                "InitValue": 0.05999999865889549,
                 "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
@@ -3072,9 +3065,14 @@
         "AwakenIcon": "UI_EquipIcon_Pole_Lapis_Awaken",
         "WeaponPromoteId": 13406,
         "StoryId": 193406,
-        "AwakenCosts": [],
-        "GachaCardNameHashPre": 2881599016,
-        "GachaCardNameHashSuffix": 57,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "GachaCardNameHashSuffix": 2881599016,
+        "GachaCardNameHashPre": 57,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3121,8 +3119,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1433892679,
-        "GachaCardNameHashSuffix": 49,
+        "GachaCardNameHashSuffix": 1433892679,
+        "GachaCardNameHashPre": 49,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3169,8 +3167,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3322273238,
-        "GachaCardNameHashSuffix": 84,
+        "GachaCardNameHashSuffix": 3322273238,
+        "GachaCardNameHashPre": 84,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3217,8 +3215,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1924486301,
-        "GachaCardNameHashSuffix": 14,
+        "GachaCardNameHashSuffix": 1924486301,
+        "GachaCardNameHashPre": 14,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3240,7 +3238,7 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            0,
+            113501,
             0
         ],
         "WeaponProp": [
@@ -3250,18 +3248,23 @@
                 "Type": "GROW_CURVE_ATTACK_301"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.1080000028014183,
+                "PropType": "FIGHT_PROP_CRITICAL_HURT",
+                "InitValue": 0.14399999380111694,
                 "Type": "GROW_CURVE_CRITICAL_301"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Zephyrus/Equip_Pole_Zephyrus_OverrideTexture/Equip_Pole_Zephyrus_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Pole_Zephyrus_Awaken",
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Homa/Equip_Pole_Homa_OverrideTexture/Equip_Pole_Homa_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Pole_Homa_Awaken",
         "WeaponPromoteId": 13501,
         "StoryId": 193501,
-        "AwakenCosts": [],
-        "GachaCardNameHashPre": 1433892679,
-        "GachaCardNameHashSuffix": 49,
+        "AwakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
+        "GachaCardNameHashSuffix": 3172971311,
+        "GachaCardNameHashPre": 145,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3272,7 +3275,7 @@
         "Id": 13501,
         "NameTextMapHash": 3235324891,
         "DescTextMapHash": 3487544829,
-        "Icon": "UI_EquipIcon_Pole_Zephyrus",
+        "Icon": "UI_EquipIcon_Pole_Homa",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -3308,8 +3311,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 2548736281,
-        "GachaCardNameHashSuffix": 119,
+        "GachaCardNameHashSuffix": 2548736281,
+        "GachaCardNameHashPre": 119,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3337,22 +3340,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.1080000028014183,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Widsith/Equip_Pole_Widsith_OverrideTexture/Equip_Pole_Widsith_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Pole_Widsith_Awaken",
-        "WeaponPromoteId": 13503,
-        "StoryId": 193503,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 1814219172,
-        "GachaCardNameHashSuffix": -92,
+        "GachaCardNameHashSuffix": 1814219172,
+        "GachaCardNameHashPre": 164,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3399,8 +3399,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 866984674,
-        "GachaCardNameHashSuffix": 46,
+        "GachaCardNameHashSuffix": 866984674,
+        "GachaCardNameHashPre": 46,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3447,8 +3447,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 2361985760,
-        "GachaCardNameHashSuffix": 92,
+        "GachaCardNameHashSuffix": 2361985760,
+        "GachaCardNameHashPre": 92,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3476,22 +3476,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.1080000028014183,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Regicide/Equip_Pole_Regicide_OverrideTexture/Equip_Pole_Regicide_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Pole_Regicide_Awaken",
-        "WeaponPromoteId": 13506,
-        "StoryId": 193506,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 737217907,
-        "GachaCardNameHashSuffix": 38,
+        "GachaCardNameHashSuffix": 737217907,
+        "GachaCardNameHashPre": 38,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3507,6 +3504,46 @@
         "Weight": 1,
         "Rank": 10,
         "GadgetId": 50013506
+    },
+    {
+        "WeaponType": "WEAPON_POLE",
+        "RankLevel": 5,
+        "WeaponBaseExp": 300000,
+        "SkillAffix": [
+            0,
+            0
+        ],
+        "WeaponProp": [
+            {
+                "PropType": "FIGHT_PROP_BASE_ATTACK",
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
+            },
+            {
+                "Type": "GROW_CURVE_CRITICAL_101"
+            }
+        ],
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Santika/Equip_Pole_Santika_OverrideTexture/Equip_Pole_Santika_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Pole_Santika_Awaken",
+        "WeaponPromoteId": 14101,
+        "AwakenCosts": [],
+        "GachaCardNameHashSuffix": 1414739656,
+        "GachaCardNameHashPre": 59,
+        "DestroyReturnMaterial": [
+            0
+        ],
+        "DestroyReturnMaterialCount": [
+            0
+        ],
+        "InitialLockState": 1,
+        "Id": 13507,
+        "NameTextMapHash": 688991243,
+        "DescTextMapHash": 4156676173,
+        "Icon": "UI_EquipIcon_Pole_Santika",
+        "ItemType": "ITEM_WEAPON",
+        "Weight": 1,
+        "Rank": 10,
+        "GadgetId": 50013507
     },
     {
         "WeaponType": "WEAPON_CATALYST",
@@ -3531,8 +3568,8 @@
         "WeaponPromoteId": 14101,
         "StoryId": 194101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 3008420473,
-        "GachaCardNameHashSuffix": -29,
+        "GachaCardNameHashSuffix": 3008420473,
+        "GachaCardNameHashPre": 227,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3572,8 +3609,8 @@
         "WeaponPromoteId": 14201,
         "StoryId": 194201,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 3554959689,
-        "GachaCardNameHashSuffix": 119,
+        "GachaCardNameHashSuffix": 3554959689,
+        "GachaCardNameHashPre": 119,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3620,8 +3657,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 2255397968,
-        "GachaCardNameHashSuffix": 77,
+        "GachaCardNameHashSuffix": 2255397968,
+        "GachaCardNameHashPre": 77,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3668,8 +3705,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1161391248,
-        "GachaCardNameHashSuffix": 0,
+        "GachaCardNameHashSuffix": 1161391248,
+        "GachaCardNameHashPre": 0,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3716,8 +3753,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 506295131,
-        "GachaCardNameHashSuffix": -103,
+        "GachaCardNameHashSuffix": 506295131,
+        "GachaCardNameHashPre": 153,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3756,7 +3793,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Jade/Equip_Catalyst_Jade_OverrideTexture/Equip_Catalyst_Jade_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Jade_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14304,
         "StoryId": 194304,
         "AwakenCosts": [
@@ -3765,8 +3802,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1264623936,
-        "GachaCardNameHashSuffix": 72,
+        "GachaCardNameHashSuffix": 1264623936,
+        "GachaCardNameHashPre": 72,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3805,7 +3842,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Phoney/Equip_Catalyst_Phoney_OverrideTexture/Equip_Catalyst_Phoney_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Phoney_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14305,
         "StoryId": 194305,
         "AwakenCosts": [
@@ -3814,8 +3851,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1673592154,
-        "GachaCardNameHashSuffix": -66,
+        "GachaCardNameHashSuffix": 1673592154,
+        "GachaCardNameHashPre": 190,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3854,7 +3891,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Amber/Equip_Catalyst_Amber_OverrideTexture/Equip_Catalyst_Amber_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Amber_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14306,
         "StoryId": 194306,
         "AwakenCosts": [
@@ -3863,8 +3900,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1877631087,
-        "GachaCardNameHashSuffix": -123,
+        "GachaCardNameHashSuffix": 1877631087,
+        "GachaCardNameHashPre": 133,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -3911,8 +3948,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2160753017,
-        "GachaCardNameHashSuffix": 14,
+        "GachaCardNameHashSuffix": 2160753017,
+        "GachaCardNameHashPre": 14,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3959,8 +3996,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 4033235202,
-        "GachaCardNameHashSuffix": -18,
+        "GachaCardNameHashSuffix": 4033235202,
+        "GachaCardNameHashPre": 238,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4007,8 +4044,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 100146517,
-        "GachaCardNameHashSuffix": -114,
+        "GachaCardNameHashSuffix": 100146517,
+        "GachaCardNameHashPre": 142,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4055,8 +4092,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3139897436,
-        "GachaCardNameHashSuffix": -24,
+        "GachaCardNameHashSuffix": 3139897436,
+        "GachaCardNameHashPre": 232,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4095,7 +4132,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Resurrection/Equip_Catalyst_Resurrection_OverrideTexture/Equip_Catalyst_Resurrection_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Resurrection_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14405,
         "StoryId": 194405,
         "AwakenCosts": [
@@ -4104,8 +4141,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3859760046,
-        "GachaCardNameHashSuffix": 121,
+        "GachaCardNameHashSuffix": 3859760046,
+        "GachaCardNameHashPre": 121,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4144,7 +4181,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Proto/Equip_Catalyst_Proto_OverrideTexture/Equip_Catalyst_Proto_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Proto_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14406,
         "StoryId": 194406,
         "AwakenCosts": [
@@ -4153,8 +4190,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 3185332339,
-        "GachaCardNameHashSuffix": 65,
+        "GachaCardNameHashSuffix": 3185332339,
+        "GachaCardNameHashPre": 65,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4201,8 +4238,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 575833493,
-        "GachaCardNameHashSuffix": 82,
+        "GachaCardNameHashSuffix": 575833493,
+        "GachaCardNameHashPre": 82,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4241,7 +4278,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Blackrock/Equip_Catalyst_Blackrock_OverrideTexture/Equip_Catalyst_Blackrock_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Blackrock_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14408,
         "StoryId": 194408,
         "AwakenCosts": [
@@ -4250,8 +4287,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1108158988,
-        "GachaCardNameHashSuffix": 92,
+        "GachaCardNameHashSuffix": 1108158988,
+        "GachaCardNameHashPre": 92,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4290,7 +4327,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Truelens/Equip_Catalyst_Truelens_OverrideTexture/Equip_Catalyst_Truelens_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Truelens_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14409,
         "StoryId": 194409,
         "AwakenCosts": [
@@ -4299,8 +4336,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2673951069,
-        "GachaCardNameHashSuffix": -123,
+        "GachaCardNameHashSuffix": 2673951069,
+        "GachaCardNameHashPre": 133,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4328,22 +4365,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 42.4010009765625,
-                "Type": "GROW_CURVE_ATTACK_201"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "InitValue": 0.10000000149011612,
-                "Type": "GROW_CURVE_CRITICAL_201"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Outlaw/Equip_Catalyst_Outlaw_OverrideTexture/Equip_Catalyst_Outlaw_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Outlaw_Awaken",
-        "WeaponPromoteId": 14410,
-        "StoryId": 194410,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 772861185,
-        "GachaCardNameHashSuffix": -23,
+        "GachaCardNameHashSuffix": 772861185,
+        "GachaCardNameHashPre": 233,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4365,29 +4399,31 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            114411,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 43.734901428222656,
-                "Type": "GROW_CURVE_ATTACK_202"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.05999999865889549,
-                "Type": "GROW_CURVE_CRITICAL_201"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Lanternrite/Equip_Catalyst_Lanternrite_OverrideTexture/Equip_Catalyst_Lanternrite_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Lanternrite_Awaken",
-        "Unrotate": true,
-        "WeaponPromoteId": 14411,
-        "StoryId": 194411,
-        "AwakenCosts": [],
-        "GachaCardNameHashPre": 3987900959,
-        "GachaCardNameHashSuffix": 86,
+        "UnRotate": true,
+        "WeaponPromoteId": 14101,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "GachaCardNameHashSuffix": 3987900959,
+        "GachaCardNameHashPre": 86,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4426,7 +4462,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Everfrost/Equip_Catalyst_Everfrost_OverrideTexture/Equip_Catalyst_Everfrost_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Everfrost_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14412,
         "StoryId": 194412,
         "AwakenCosts": [
@@ -4435,8 +4471,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2973587174,
-        "GachaCardNameHashSuffix": 82,
+        "GachaCardNameHashSuffix": 2973587174,
+        "GachaCardNameHashPre": 82,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4483,8 +4519,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 187001540,
-        "GachaCardNameHashSuffix": -51,
+        "GachaCardNameHashSuffix": 187001540,
+        "GachaCardNameHashPre": 205,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4531,8 +4567,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 562554965,
-        "GachaCardNameHashSuffix": -30,
+        "GachaCardNameHashSuffix": 562554965,
+        "GachaCardNameHashPre": 226,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4560,22 +4596,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "InitValue": 0.11999999731779099,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Widsith/Equip_Catalyst_Widsith_OverrideTexture/Equip_Catalyst_Widsith_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Widsith_Awaken",
-        "WeaponPromoteId": 14503,
-        "StoryId": 194503,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 1415262739,
-        "GachaCardNameHashSuffix": 54,
+        "GachaCardNameHashSuffix": 1415262739,
+        "GachaCardNameHashPre": 54,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4614,7 +4647,7 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Kunwu/Equip_Catalyst_Kunwu_OverrideTexture/Equip_Catalyst_Kunwu_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Kunwu_Awaken",
-        "Unrotate": true,
+        "UnRotate": true,
         "WeaponPromoteId": 14504,
         "StoryId": 194504,
         "AwakenCosts": [
@@ -4623,8 +4656,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 2659753013,
-        "GachaCardNameHashSuffix": -104,
+        "GachaCardNameHashSuffix": 2659753013,
+        "GachaCardNameHashPre": 152,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4652,21 +4685,20 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Morax/Equip_Catalyst_Morax_OverrideTexture/Equip_Catalyst_Morax_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Morax_Awaken",
-        "Unrotate": true,
-        "WeaponPromoteId": 14505,
-        "StoryId": 194505,
+        "UnRotate": true,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 4290942239,
-        "GachaCardNameHashSuffix": 51,
+        "GachaCardNameHashSuffix": 4290942239,
+        "GachaCardNameHashPre": 51,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4694,21 +4726,20 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Kaleido/Equip_Catalyst_Kaleido_OverrideTexture/Equip_Catalyst_Kaleido_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Kaleido_Awaken",
-        "Unrotate": true,
-        "WeaponPromoteId": 14506,
-        "StoryId": 194506,
+        "UnRotate": true,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 1621782753,
-        "GachaCardNameHashSuffix": -29,
+        "GachaCardNameHashSuffix": 1621782753,
+        "GachaCardNameHashPre": 227,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4736,20 +4767,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Hypostasis/Equip_Catalyst_Hypostasis_OverrideTexture/Equip_Catalyst_Hypostasis_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Hypostasis_Awaken",
-        "WeaponPromoteId": 14508,
-        "StoryId": 194508,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 864224784,
-        "GachaCardNameHashSuffix": 110,
+        "GachaCardNameHashSuffix": 864224784,
+        "GachaCardNameHashPre": 110,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4789,8 +4819,8 @@
         "WeaponPromoteId": 15101,
         "StoryId": 195101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 3268741295,
-        "GachaCardNameHashSuffix": -79,
+        "GachaCardNameHashSuffix": 3268741295,
+        "GachaCardNameHashPre": 177,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -4830,8 +4860,8 @@
         "WeaponPromoteId": 15201,
         "StoryId": 195201,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2068918254,
-        "GachaCardNameHashSuffix": -17,
+        "GachaCardNameHashSuffix": 2068918254,
+        "GachaCardNameHashPre": 239,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -4878,8 +4908,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 556754703,
-        "GachaCardNameHashSuffix": -108,
+        "GachaCardNameHashSuffix": 556754703,
+        "GachaCardNameHashPre": 148,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -4926,8 +4956,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 565312932,
-        "GachaCardNameHashSuffix": 80,
+        "GachaCardNameHashSuffix": 565312932,
+        "GachaCardNameHashPre": 80,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -4974,8 +5004,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 980682567,
-        "GachaCardNameHashSuffix": -39,
+        "GachaCardNameHashSuffix": 980682567,
+        "GachaCardNameHashPre": 217,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -5022,8 +5052,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 1886251179,
-        "GachaCardNameHashSuffix": 122,
+        "GachaCardNameHashSuffix": 1886251179,
+        "GachaCardNameHashPre": 122,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -5070,8 +5100,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 4113057059,
-        "GachaCardNameHashSuffix": 112,
+        "GachaCardNameHashSuffix": 4113057059,
+        "GachaCardNameHashPre": 112,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -5118,8 +5148,8 @@
             2000,
             4000
         ],
-        "GachaCardNameHashPre": 319159537,
-        "GachaCardNameHashSuffix": -57,
+        "GachaCardNameHashSuffix": 319159537,
+        "GachaCardNameHashPre": 199,
         "DestroyRule": "DESTROY_RETURN_MATERIAL",
         "DestroyReturnMaterial": [
             104011
@@ -5166,8 +5196,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2657109870,
-        "GachaCardNameHashSuffix": 77,
+        "GachaCardNameHashSuffix": 2657109870,
+        "GachaCardNameHashPre": 77,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5214,8 +5244,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 2601636751,
-        "GachaCardNameHashSuffix": 80,
+        "GachaCardNameHashSuffix": 2601636751,
+        "GachaCardNameHashPre": 80,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5262,8 +5292,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 4260288170,
-        "GachaCardNameHashSuffix": -22,
+        "GachaCardNameHashSuffix": 4260288170,
+        "GachaCardNameHashPre": 234,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5310,8 +5340,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1614344246,
-        "GachaCardNameHashSuffix": 7,
+        "GachaCardNameHashSuffix": 1614344246,
+        "GachaCardNameHashPre": 7,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5358,8 +5388,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1121153349,
-        "GachaCardNameHashSuffix": 119,
+        "GachaCardNameHashSuffix": 1121153349,
+        "GachaCardNameHashPre": 119,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5406,8 +5436,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1017758247,
-        "GachaCardNameHashSuffix": 74,
+        "GachaCardNameHashSuffix": 1017758247,
+        "GachaCardNameHashPre": 74,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5454,8 +5484,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 1422002975,
-        "GachaCardNameHashSuffix": 62,
+        "GachaCardNameHashSuffix": 1422002975,
+        "GachaCardNameHashPre": 62,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5502,8 +5532,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 980064486,
-        "GachaCardNameHashSuffix": 10,
+        "GachaCardNameHashSuffix": 980064486,
+        "GachaCardNameHashPre": 10,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5550,8 +5580,8 @@
             4000,
             8000
         ],
-        "GachaCardNameHashPre": 847578010,
-        "GachaCardNameHashSuffix": 26,
+        "GachaCardNameHashSuffix": 847578010,
+        "GachaCardNameHashPre": 26,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5579,22 +5609,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 41.067100524902344,
-                "Type": "GROW_CURVE_ATTACK_204"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.11999999731779099,
-                "Type": "GROW_CURVE_CRITICAL_201"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Outlaw/Equip_Bow_Outlaw_OverrideTexture/Equip_Bow_Outlaw_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Outlaw_Awaken",
-        "WeaponPromoteId": 15410,
-        "StoryId": 195410,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2498436072,
-        "GachaCardNameHashSuffix": 33,
+        "GachaCardNameHashSuffix": 2498436072,
+        "GachaCardNameHashPre": 33,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5622,22 +5649,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 43.734901428222656,
-                "Type": "GROW_CURVE_ATTACK_202"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.05999999865889549,
-                "Type": "GROW_CURVE_CRITICAL_201"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Fallensun/Equip_Bow_Fallensun_OverrideTexture/Equip_Bow_Fallensun_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Fallensun_Awaken",
-        "WeaponPromoteId": 15411,
-        "StoryId": 195411,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 713335324,
-        "GachaCardNameHashSuffix": -23,
+        "GachaCardNameHashSuffix": 713335324,
+        "GachaCardNameHashPre": 233,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5665,7 +5689,7 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 9.899999618530273,
+                "InitValue": 23.2450008392334,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
@@ -5674,11 +5698,10 @@
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Nachtblind/Equip_Bow_Nachtblind_OverrideTexture/Equip_Bow_Nachtblind_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Nachtblind_Awaken",
-        "WeaponPromoteId": 15412,
-        "StoryId": 195412,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2280376223,
-        "GachaCardNameHashSuffix": -86,
+        "GachaCardNameHashSuffix": 2280376223,
+        "GachaCardNameHashPre": 170,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5725,8 +5748,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 2247736037,
-        "GachaCardNameHashSuffix": -75,
+        "GachaCardNameHashSuffix": 2247736037,
+        "GachaCardNameHashPre": 181,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5773,8 +5796,8 @@
             8000,
             16000
         ],
-        "GachaCardNameHashPre": 617960552,
-        "GachaCardNameHashSuffix": 36,
+        "GachaCardNameHashSuffix": 617960552,
+        "GachaCardNameHashPre": 36,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5802,22 +5825,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-                "InitValue": 0.11999999731779099,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Widsith/Equip_Bow_Widsith_OverrideTexture/Equip_Bow_Widsith_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Widsith_Awaken",
-        "WeaponPromoteId": 15503,
-        "StoryId": 195503,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 765414498,
-        "GachaCardNameHashSuffix": 103,
+        "GachaCardNameHashSuffix": 765414498,
+        "GachaCardNameHashPre": 103,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5839,33 +5859,25 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            115504,
+            0,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 45.9364013671875,
-                "Type": "GROW_CURVE_ATTACK_301"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
-                "InitValue": 0.1080000028014183,
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Kunwu/Equip_Bow_Kunwu_OverrideTexture/Equip_Bow_Kunwu_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Kunwu_Awaken",
-        "WeaponPromoteId": 15504,
-        "StoryId": 195504,
-        "AwakenCosts": [
-            2000,
-            4000,
-            8000,
-            16000
-        ],
-        "GachaCardNameHashPre": 668422992,
-        "GachaCardNameHashSuffix": 45,
+        "WeaponPromoteId": 14101,
+        "AwakenCosts": [],
+        "GachaCardNameHashSuffix": 668422992,
+        "GachaCardNameHashPre": 45,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5893,20 +5905,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 44.33580017089844,
-                "Type": "GROW_CURVE_ATTACK_304"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Morax/Equip_Bow_Morax_OverrideTexture/Equip_Bow_Morax_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Morax_Awaken",
-        "WeaponPromoteId": 15505,
-        "StoryId": 195505,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 4283587632,
-        "GachaCardNameHashSuffix": 65,
+        "GachaCardNameHashSuffix": 4283587632,
+        "GachaCardNameHashPre": 65,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5934,20 +5945,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 42.73509979248047,
-                "Type": "GROW_CURVE_ATTACK_305"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Moonfall/Equip_Bow_Moonfall_OverrideTexture/Equip_Bow_Moonfall_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Moonfall_Awaken",
-        "WeaponPromoteId": 15506,
-        "StoryId": 195506,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 2824780903,
-        "GachaCardNameHashSuffix": 39,
+        "GachaCardNameHashSuffix": 2824780903,
+        "GachaCardNameHashPre": 39,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5975,20 +5985,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 42.73509979248047,
-                "Type": "GROW_CURVE_ATTACK_305"
+                "InitValue": 23.2450008392334,
+                "Type": "GROW_CURVE_ATTACK_101"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_301"
+                "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Kirin/Equip_Bow_Kirin_OverrideTexture/Equip_Bow_Kirin_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Kirin_Awaken",
-        "WeaponPromoteId": 15508,
-        "StoryId": 195508,
+        "WeaponPromoteId": 14101,
         "AwakenCosts": [],
-        "GachaCardNameHashPre": 419365691,
-        "GachaCardNameHashSuffix": -7,
+        "GachaCardNameHashSuffix": 419365691,
+        "GachaCardNameHashPre": 249,
         "DestroyReturnMaterial": [
             0
         ],

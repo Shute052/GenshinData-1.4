@@ -1,7 +1,7 @@
 [
     {
         "Id": 1,
-        "WorldLevel": [
+        "WorldLevelVec": [
             1
         ],
         "DropId": 210010000,
@@ -12,7 +12,7 @@
     },
     {
         "Id": 2,
-        "WorldLevel": [
+        "WorldLevelVec": [
             1,
             2
         ],
@@ -24,7 +24,7 @@
     },
     {
         "Id": 3,
-        "WorldLevel": [
+        "WorldLevelVec": [
             1,
             2,
             3
@@ -37,7 +37,7 @@
     },
     {
         "Id": 4,
-        "WorldLevel": [
+        "WorldLevelVec": [
             2,
             3,
             4
@@ -50,7 +50,7 @@
     },
     {
         "Id": 5,
-        "WorldLevel": [
+        "WorldLevelVec": [
             3,
             4,
             5,
@@ -66,7 +66,7 @@
     },
     {
         "Id": 6,
-        "WorldLevel": [
+        "WorldLevelVec": [
             4,
             5,
             6,
@@ -81,7 +81,7 @@
     },
     {
         "Id": 7,
-        "WorldLevel": [
+        "WorldLevelVec": [
             5,
             6,
             7,
@@ -95,7 +95,7 @@
     },
     {
         "Id": 8,
-        "WorldLevel": [],
+        "WorldLevelVec": [],
         "DropId": 210010070,
         "RewardId": 9108,
         "Resin": 20,
@@ -104,7 +104,7 @@
     },
     {
         "Id": 9,
-        "WorldLevel": [],
+        "WorldLevelVec": [],
         "DropId": 210010080,
         "RewardId": 9109,
         "Resin": 20,

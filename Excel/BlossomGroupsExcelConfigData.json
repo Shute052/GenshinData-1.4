@@ -3,20 +3,20 @@
         "Id": 101001001,
         "CityId": 1,
         "SectionId": 1001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001374
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133001382
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101001002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 12,
@@ -28,20 +28,20 @@
         "Id": 101001002,
         "CityId": 1,
         "SectionId": 1001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001376
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133001393
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101001003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 12,
         "FightRadius": 30,
@@ -52,20 +52,20 @@
         "Id": 101001003,
         "CityId": 1,
         "SectionId": 1001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001375
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133001394
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101001004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 12,
         "FightRadius": 30,
@@ -76,20 +76,20 @@
         "Id": 101001004,
         "CityId": 1,
         "SectionId": 1001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001373
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133001381
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101001005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 12,
         "FightRadius": 30,
@@ -100,20 +100,20 @@
         "Id": 101001005,
         "CityId": 1,
         "SectionId": 1001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001397
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133001398
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101002002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 12,
         "FightRadius": 30,
@@ -124,20 +124,20 @@
         "Id": 101002001,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003569
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003559
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101002002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 10,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -148,20 +148,20 @@
         "Id": 101002002,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002387
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133002388
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101002003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -172,20 +172,20 @@
         "Id": 101002003,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002369
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133002371
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101002004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 8,
@@ -197,20 +197,20 @@
         "Id": 101002004,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002370
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133002372
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -221,20 +221,20 @@
         "Id": 101002005,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002377
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133002378
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -245,20 +245,20 @@
         "Id": 101003001,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003535
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003536
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101003002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 9,
         "LimitLevel": 8,
@@ -270,20 +270,20 @@
         "Id": 101003002,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003516
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003519
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101003003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -294,20 +294,20 @@
         "Id": 101003003,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003537
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003538
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101003004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 9,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -318,20 +318,20 @@
         "Id": 101003004,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003517
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003520
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101005001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 10,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -342,20 +342,20 @@
         "Id": 101003005,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003544
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003572
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101006001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 8,
@@ -367,20 +367,20 @@
         "Id": 101004001,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007235
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133007237
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101004002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 9,
         "LimitLevel": 21,
@@ -392,20 +392,20 @@
         "Id": 101004002,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007241
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133007242
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101004003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 21,
         "FightRadius": 30,
@@ -416,20 +416,20 @@
         "Id": 101004003,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007243
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133007244
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101004004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 21,
         "FightRadius": 30,
@@ -440,22 +440,22 @@
         "Id": 101004004,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007234
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133007236
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101005001,
             101003005,
             101001001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 5,
         "LimitLevel": 21,
         "FightRadius": 30,
@@ -466,20 +466,20 @@
         "Id": 101005001,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003581
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003582
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101005002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 15,
         "FightRadius": 30,
@@ -490,20 +490,20 @@
         "Id": 101005002,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003565
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003563
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101005003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 15,
@@ -515,20 +515,20 @@
         "Id": 101005003,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003570
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003560
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101005004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 15,
         "FightRadius": 30,
@@ -539,20 +539,20 @@
         "Id": 101005004,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003571
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003561
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101005005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 15,
         "FightRadius": 30,
@@ -563,21 +563,21 @@
         "Id": 101005005,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003564
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003562
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101004001,
             101001001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 15,
         "FightRadius": 30,
@@ -588,20 +588,20 @@
         "Id": 101006001,
         "CityId": 1,
         "SectionId": 1006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003566
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003573
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101006002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -612,20 +612,20 @@
         "Id": 101006002,
         "CityId": 1,
         "SectionId": 1006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003567
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133003558
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101002001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 8,
         "FightRadius": 30,
@@ -636,21 +636,21 @@
         "Id": 101007001,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002375
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133002376
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007002,
             101002005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 9,
         "LimitLevel": 16,
         "FightRadius": 30,
@@ -661,20 +661,20 @@
         "Id": 101007002,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004352
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133004353
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 16,
         "FightRadius": 30,
@@ -685,20 +685,20 @@
         "Id": 101007003,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004331
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133004336
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 16,
@@ -710,20 +710,20 @@
         "Id": 101007004,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004332
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133004337
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 16,
         "FightRadius": 30,
@@ -734,20 +734,20 @@
         "Id": 101007005,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004333
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133004338
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101007006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 9,
         "LimitLevel": 16,
         "FightRadius": 30,
@@ -758,22 +758,22 @@
         "Id": 101007006,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004334
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133004339
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             101004001,
             101003001,
             101005001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 16,
         "FightRadius": 30,
@@ -784,20 +784,20 @@
         "Id": 202001001,
         "CityId": 2,
         "SectionId": 2001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102733
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102737
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202001002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 6,
         "LimitLevel": 18,
@@ -809,20 +809,20 @@
         "Id": 202001002,
         "CityId": 2,
         "SectionId": 2001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102742
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102748
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202001003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -833,20 +833,20 @@
         "Id": 202001003,
         "CityId": 2,
         "SectionId": 2001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102743
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102750
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202001004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -857,20 +857,20 @@
         "Id": 202001004,
         "CityId": 2,
         "SectionId": 2001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102744
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102749
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202001005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 5,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -881,20 +881,20 @@
         "Id": 202001005,
         "CityId": 2,
         "SectionId": 2001,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102745
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102751
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202007001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -905,20 +905,20 @@
         "Id": 202002001,
         "CityId": 2,
         "SectionId": 2002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102754
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102755
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202002002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 8,
         "LimitLevel": 18,
@@ -930,20 +930,20 @@
         "Id": 202002002,
         "CityId": 2,
         "SectionId": 2002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102752
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102753
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202002003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -954,18 +954,18 @@
         "Id": 202002003,
         "CityId": 2,
         "SectionId": 2002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102759
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             202002004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -976,20 +976,20 @@
         "Id": 202002004,
         "CityId": 2,
         "SectionId": 2002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102756
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102757
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202008001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -1000,20 +1000,20 @@
         "Id": 202003001,
         "CityId": 2,
         "SectionId": 2003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102776
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102782
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202003002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 10,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -1024,20 +1024,20 @@
         "Id": 202003002,
         "CityId": 2,
         "SectionId": 2003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105277
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133105278
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202003003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 24,
@@ -1049,18 +1049,18 @@
         "Id": 202003003,
         "CityId": 2,
         "SectionId": 2003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104595
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             202003004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1071,20 +1071,20 @@
         "Id": 202003004,
         "CityId": 2,
         "SectionId": 2003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104614
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104616
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202003005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1095,20 +1095,20 @@
         "Id": 202003005,
         "CityId": 2,
         "SectionId": 2003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104596
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104603
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1119,20 +1119,20 @@
         "Id": 202003006,
         "CityId": 2,
         "SectionId": 2003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104641
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104642
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202003005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1143,20 +1143,20 @@
         "Id": 202004001,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101193
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133101198
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202004002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 8,
         "LimitLevel": 24,
@@ -1168,20 +1168,20 @@
         "Id": 202004002,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101194
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133101199
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202004003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1192,20 +1192,20 @@
         "Id": 202004003,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101195
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133101200
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202004004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1216,21 +1216,21 @@
         "Id": 202004004,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101196
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133101201
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202001004,
             202004005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 12,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1241,20 +1241,20 @@
         "Id": 202004005,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104645
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104646
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202004007
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 3,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1265,20 +1265,20 @@
         "Id": 202004006,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103470
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103480
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202004007
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 8,
         "LimitLevel": 24,
@@ -1290,20 +1290,20 @@
         "Id": 202004007,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104598
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104605
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1314,20 +1314,20 @@
         "Id": 202005001,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103491
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103492
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202005002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 11,
         "LimitLevel": 26,
@@ -1339,21 +1339,21 @@
         "Id": 202005002,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103474
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103481
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202005003,
             202005005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1364,20 +1364,20 @@
         "Id": 202005003,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103489
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103490
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202005004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1388,20 +1388,20 @@
         "Id": 202005004,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103487
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103488
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202013001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1412,20 +1412,20 @@
         "Id": 202005005,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103532
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103533
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202004006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 9,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1436,20 +1436,20 @@
         "Id": 202006001,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107084
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133107090
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202006002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 1,
         "LimitLevel": 30,
@@ -1461,20 +1461,20 @@
         "Id": 202006002,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107085
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133107091
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202006003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -1485,21 +1485,21 @@
         "Id": 202006003,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106263
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106264
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202006004,
             202006007
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -1510,23 +1510,23 @@
         "Id": 202006004,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106259
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106260
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202013001,
             202004001,
             202009001,
             202011002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -1537,20 +1537,20 @@
         "Id": 202006005,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106288
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106292
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202006006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 30,
@@ -1562,20 +1562,20 @@
         "Id": 202006006,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106289
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106293
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -1586,20 +1586,20 @@
         "Id": 202006007,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106299
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106300
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202006005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -1610,20 +1610,20 @@
         "Id": 202007001,
         "CityId": 2,
         "SectionId": 2007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102783
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102784
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202002001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -1634,20 +1634,20 @@
         "Id": 202008001,
         "CityId": 2,
         "SectionId": 2008,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102785
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102786
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202008002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -1658,20 +1658,20 @@
         "Id": 202008002,
         "CityId": 2,
         "SectionId": 2008,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102773
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102778
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202008003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 18,
@@ -1683,20 +1683,20 @@
         "Id": 202008003,
         "CityId": 2,
         "SectionId": 2008,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102774
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102779
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202008004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -1707,20 +1707,20 @@
         "Id": 202008004,
         "CityId": 2,
         "SectionId": 2008,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102775
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133102780
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202003001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 18,
         "FightRadius": 30,
@@ -1731,20 +1731,20 @@
         "Id": 202009001,
         "CityId": 2,
         "SectionId": 2009,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108129
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108128
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202009002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 24,
@@ -1756,20 +1756,20 @@
         "Id": 202009002,
         "CityId": 2,
         "SectionId": 2009,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108130
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108121
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202009003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1780,20 +1780,20 @@
         "Id": 202009003,
         "CityId": 2,
         "SectionId": 2009,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108132
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108122
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202009004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 4,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1804,20 +1804,20 @@
         "Id": 202009004,
         "CityId": 2,
         "SectionId": 2009,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108133
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108123
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202003006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 8,
         "LimitLevel": 24,
         "FightRadius": 30,
@@ -1828,20 +1828,20 @@
         "Id": 202010001,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104615
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104617
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 13,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1852,20 +1852,20 @@
         "Id": 202010002,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104597
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104604
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 5,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1876,22 +1876,22 @@
         "Id": 202010003,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104643
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133104644
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202001001,
             202006001,
             202011001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1902,20 +1902,20 @@
         "Id": 202010004,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106290
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106294
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 5,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1926,20 +1926,20 @@
         "Id": 202010005,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106291
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106295
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 26,
         "FightRadius": 30,
@@ -1950,20 +1950,20 @@
         "Id": 202011001,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108134
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108135
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202011002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 7,
         "LimitLevel": 30,
@@ -1975,20 +1975,20 @@
         "Id": 202011002,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108136
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108137
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202011003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -1999,20 +1999,20 @@
         "Id": 202011003,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108138
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108139
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202011004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 4,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -2023,21 +2023,21 @@
         "Id": 202011004,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108140
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133108141
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202006001,
             202005001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 7,
         "LimitLevel": 30,
         "FightRadius": 30,
@@ -2048,20 +2048,20 @@
         "Id": 202013001,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103534
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103535
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202013002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 28,
@@ -2073,20 +2073,20 @@
         "Id": 202013002,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103536
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103537
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202013003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 28,
         "FightRadius": 30,
@@ -2097,20 +2097,20 @@
         "Id": 202013003,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103538
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133103539
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202013004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 6,
         "LimitLevel": 28,
         "FightRadius": 30,
@@ -2121,21 +2121,21 @@
         "Id": 202013004,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             1,
             3
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106301
         ],
-        "DecorateGroup": [
+        "DecorateGroupVec": [
             133106302
         ],
-        "NextCampId": [
+        "NextCampIdVec": [
             202010005,
             202004006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 10,
         "LimitLevel": 28,
         "FightRadius": 30,
@@ -2146,15 +2146,15 @@
         "Id": 101002006,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002382
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2166,15 +2166,15 @@
         "Id": 101002007,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002381
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2186,15 +2186,15 @@
         "Id": 101003006,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003553
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2206,15 +2206,15 @@
         "Id": 101005006,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003551
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2226,15 +2226,15 @@
         "Id": 101005007,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003552
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2246,15 +2246,15 @@
         "Id": 101004005,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007253
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 18,
@@ -2266,15 +2266,15 @@
         "Id": 101004006,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007254
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
@@ -2286,15 +2286,15 @@
         "Id": 101004007,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007255
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 18,
@@ -2306,15 +2306,15 @@
         "Id": 101004008,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007256
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
@@ -2326,15 +2326,15 @@
         "Id": 101004009,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007257
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 18,
@@ -2346,15 +2346,15 @@
         "Id": 101004010,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007258
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
@@ -2366,15 +2366,15 @@
         "Id": 101004011,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007259
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
@@ -2386,15 +2386,15 @@
         "Id": 101004012,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007260
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 18,
@@ -2406,15 +2406,15 @@
         "Id": 101007007,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004330
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2426,15 +2426,15 @@
         "Id": 101007008,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004325
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2446,15 +2446,15 @@
         "Id": 101007009,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004326
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2466,15 +2466,15 @@
         "Id": 101007010,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004327
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2486,15 +2486,15 @@
         "Id": 101007011,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004328
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2506,15 +2506,15 @@
         "Id": 101007012,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004329
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2526,15 +2526,15 @@
         "Id": 202004008,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102772
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2546,15 +2546,15 @@
         "Id": 202005006,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103516
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2566,15 +2566,15 @@
         "Id": 202005007,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101192
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2586,15 +2586,15 @@
         "Id": 202005008,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103514
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2606,15 +2606,15 @@
         "Id": 202005009,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103515
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2626,15 +2626,15 @@
         "Id": 202005010,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103517
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2646,15 +2646,15 @@
         "Id": 202005011,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103518
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2666,15 +2666,15 @@
         "Id": 202005012,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103519
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2686,15 +2686,15 @@
         "Id": 202005013,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103520
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2706,15 +2706,15 @@
         "Id": 202005014,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103521
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2726,15 +2726,15 @@
         "Id": 202005015,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103522
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2746,15 +2746,15 @@
         "Id": 202005016,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103523
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2766,15 +2766,15 @@
         "Id": 202006008,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106273
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2786,15 +2786,15 @@
         "Id": 202006009,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106274
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2806,15 +2806,15 @@
         "Id": 202006010,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106275
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2826,15 +2826,15 @@
         "Id": 202006011,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106276
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2846,15 +2846,15 @@
         "Id": 202006012,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106277
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2866,15 +2866,15 @@
         "Id": 202006013,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106278
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2886,15 +2886,15 @@
         "Id": 202006014,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106279
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2906,15 +2906,15 @@
         "Id": 202006015,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106280
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -2926,15 +2926,15 @@
         "Id": 202010006,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104625
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2946,15 +2946,15 @@
         "Id": 202011005,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108117
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2966,15 +2966,15 @@
         "Id": 202011006,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108120
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -2986,15 +2986,15 @@
         "Id": 202011007,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108118
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -3006,15 +3006,15 @@
         "Id": 202011008,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108119
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 5,
         "LimitLevel": 2,
@@ -3026,15 +3026,15 @@
         "Id": 202012001,
         "CityId": 2,
         "SectionId": 2012,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107103
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -3046,15 +3046,15 @@
         "Id": 202012002,
         "CityId": 2,
         "SectionId": 2012,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107102
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -3066,15 +3066,15 @@
         "Id": 202013005,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103524
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -3086,15 +3086,15 @@
         "Id": 202013006,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             5
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103525
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 4,
         "LimitLevel": 2,
@@ -3106,15 +3106,15 @@
         "Id": 101002008,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002379
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3126,15 +3126,15 @@
         "Id": 101002009,
         "CityId": 1,
         "SectionId": 1002,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002380
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3146,15 +3146,15 @@
         "Id": 101003007,
         "CityId": 1,
         "SectionId": 1003,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003547
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3166,15 +3166,15 @@
         "Id": 101005008,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003545
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3186,15 +3186,15 @@
         "Id": 101005009,
         "CityId": 1,
         "SectionId": 1005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133003546
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3206,15 +3206,15 @@
         "Id": 101004013,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007245
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3226,15 +3226,15 @@
         "Id": 101004014,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007246
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3246,15 +3246,15 @@
         "Id": 101004015,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007247
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3266,15 +3266,15 @@
         "Id": 101004016,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007248
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3286,15 +3286,15 @@
         "Id": 101004017,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007249
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3306,15 +3306,15 @@
         "Id": 101004018,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007250
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3326,15 +3326,15 @@
         "Id": 101004019,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007251
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3346,15 +3346,15 @@
         "Id": 101004020,
         "CityId": 1,
         "SectionId": 1004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133007252
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 18,
@@ -3366,15 +3366,15 @@
         "Id": 101007013,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004321
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3386,15 +3386,15 @@
         "Id": 101007014,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004322
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3406,15 +3406,15 @@
         "Id": 101007015,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004316
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3426,15 +3426,15 @@
         "Id": 101007016,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004317
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3446,15 +3446,15 @@
         "Id": 101007017,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004320
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3466,15 +3466,15 @@
         "Id": 101007018,
         "CityId": 1,
         "SectionId": 1007,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133004323
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3486,15 +3486,15 @@
         "Id": 202004009,
         "CityId": 2,
         "SectionId": 2004,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133102766
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3506,15 +3506,15 @@
         "Id": 202005017,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133101191
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3526,15 +3526,15 @@
         "Id": 202005018,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103502
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3546,15 +3546,15 @@
         "Id": 202005019,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103503
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3566,15 +3566,15 @@
         "Id": 202005020,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103504
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3586,15 +3586,15 @@
         "Id": 202005021,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103505
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3606,15 +3606,15 @@
         "Id": 202005022,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103506
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3626,15 +3626,15 @@
         "Id": 202005023,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103507
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3646,15 +3646,15 @@
         "Id": 202005024,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103508
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3666,15 +3666,15 @@
         "Id": 202005025,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103509
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3686,15 +3686,15 @@
         "Id": 202005026,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103510
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3706,15 +3706,15 @@
         "Id": 202005027,
         "CityId": 2,
         "SectionId": 2005,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103511
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3726,15 +3726,15 @@
         "Id": 202006016,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106265
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3746,15 +3746,15 @@
         "Id": 202006017,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106266
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3766,15 +3766,15 @@
         "Id": 202006018,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106267
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3786,15 +3786,15 @@
         "Id": 202006019,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106268
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3806,15 +3806,15 @@
         "Id": 202006020,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106269
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3826,15 +3826,15 @@
         "Id": 202006021,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106270
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3846,15 +3846,15 @@
         "Id": 202006022,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106271
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3866,15 +3866,15 @@
         "Id": 202006023,
         "CityId": 2,
         "SectionId": 2006,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133106272
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3886,15 +3886,15 @@
         "Id": 202010007,
         "CityId": 2,
         "SectionId": 2010,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133104624
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3906,15 +3906,15 @@
         "Id": 202011009,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108113
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3926,15 +3926,15 @@
         "Id": 202011010,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108114
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3946,15 +3946,15 @@
         "Id": 202011011,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108115
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3966,15 +3966,15 @@
         "Id": 202011012,
         "CityId": 2,
         "SectionId": 2011,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133108116
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -3986,15 +3986,15 @@
         "Id": 202012003,
         "CityId": 2,
         "SectionId": 2012,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107100
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -4006,15 +4006,15 @@
         "Id": 202012004,
         "CityId": 2,
         "SectionId": 2012,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133107101
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -4026,15 +4026,15 @@
         "Id": 202013007,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103512
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -4046,15 +4046,15 @@
         "Id": 202013008,
         "CityId": 2,
         "SectionId": 2013,
-        "RefreshType": [
+        "RefreshTypeVec": [
             4
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133103513
         ],
-        "DecorateGroup": [],
-        "NextCampId": [],
-        "isSafe": true,
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [],
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 2,
         "LimitLevel": 2,
@@ -4066,17 +4066,17 @@
         "Id": 111101001,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008432
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
@@ -4088,17 +4088,17 @@
         "Id": 111101002,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008431
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4109,17 +4109,17 @@
         "Id": 111101003,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008433
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4130,17 +4130,17 @@
         "Id": 111101004,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008419
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4151,17 +4151,17 @@
         "Id": 111102001,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008420
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102002
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
@@ -4173,17 +4173,17 @@
         "Id": 111102002,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008421
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102003
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4194,17 +4194,17 @@
         "Id": 111102003,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008434
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102004
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4215,17 +4215,17 @@
         "Id": 111102004,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             6
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008418
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101001
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4236,17 +4236,17 @@
         "Id": 111101005,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001572
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
@@ -4258,17 +4258,17 @@
         "Id": 111101006,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133001573
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101007
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4279,17 +4279,17 @@
         "Id": 111101007,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105337
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101008
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4300,17 +4300,17 @@
         "Id": 111101008,
         "CityId": 11,
         "SectionId": 1101,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133008429
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4321,17 +4321,17 @@
         "Id": 111102005,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002475
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102006
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "IsInitialRefresh": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
@@ -4343,17 +4343,17 @@
         "Id": 111102006,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133105336
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102007
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4364,17 +4364,17 @@
         "Id": 111102007,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002474
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111102008
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
@@ -4385,17 +4385,17 @@
         "Id": 111102008,
         "CityId": 11,
         "SectionId": 1102,
-        "RefreshType": [
+        "RefreshTypeVec": [
             7
         ],
-        "NewGroup": [
+        "NewGroupVec": [
             133002473
         ],
-        "DecorateGroup": [],
-        "NextCampId": [
+        "DecorateGroupVec": [],
+        "NextCampIdVec": [
             111101005
         ],
-        "isSafe": true,
+        "IsSafe": true,
         "FinishProgress": 1,
         "LimitLevel": 1,
         "FightRadius": 30,
