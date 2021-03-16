@@ -1691,6 +1691,30 @@
                 ]
             }
         ],
+        "Id": 2061,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_NEW_MONSTER",
+            "ParamList": [
+                "22020101,22020102",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
         "Id": 3001,
         "TriggerConfig": {
             "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
@@ -1913,6 +1937,54 @@
             "TriggerType": "TRIGGER_CHANGE_INPUT_DEVICE_TYPE",
             "ParamList": [
                 "2",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 3011,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_PLAYER_LEVEL",
+            "ParamList": [
+                "60",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "PredicateConfigs": [
+            {
+                "ParamList": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "ParamList": [
+                    0
+                ]
+            }
+        ],
+        "Id": 3012,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_WORLD_LEVEL_UP",
+            "ParamList": [
+                "5",
                 ""
             ]
         },

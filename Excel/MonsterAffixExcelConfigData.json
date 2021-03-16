@@ -56,21 +56,8 @@
     },
     {
         "Id": 1006,
-        "Affix": "血量强化低",
+        "Affix": "血量提升20%-通用",
         "Comment": "提升单体血量20%",
-        "AbilityName": [
-            "MonsterAffix_Property_HpImprove_01"
-        ],
-        "IsCommon": true,
-        "PreAdd": true,
-        "IsLegal": "是",
-        "IconPath": "Skill_E_Ayaka",
-        "GeneralSkillIcon": ""
-    },
-    {
-        "Id": 1007,
-        "Affix": "血量强化中",
-        "Comment": "提升单体血量50%",
         "AbilityName": [
             "MonsterAffix_Property_HpImprove_02"
         ],
@@ -81,9 +68,9 @@
         "GeneralSkillIcon": ""
     },
     {
-        "Id": 1008,
-        "Affix": "血量强化高",
-        "Comment": "提升单体血量100%",
+        "Id": 1007,
+        "Affix": "血量提升50%-通用",
+        "Comment": "提升单体血量50%",
         "AbilityName": [
             "MonsterAffix_Property_HpImprove_03"
         ],
@@ -94,11 +81,11 @@
         "GeneralSkillIcon": ""
     },
     {
-        "Id": 1009,
-        "Affix": "攻击强化低",
-        "Comment": "提升单体攻击20%",
+        "Id": 1008,
+        "Affix": "血量提升100%-通用",
+        "Comment": "提升单体血量100%",
         "AbilityName": [
-            "MonsterAffix_Property_AtkImprove_01"
+            "MonsterAffix_Property_HpImprove_04"
         ],
         "IsCommon": true,
         "PreAdd": true,
@@ -107,9 +94,9 @@
         "GeneralSkillIcon": ""
     },
     {
-        "Id": 1010,
-        "Affix": "攻击强化中",
-        "Comment": "提升单体攻击50%",
+        "Id": 1009,
+        "Affix": "攻击提升20%-通用",
+        "Comment": "提升单体攻击20%",
         "AbilityName": [
             "MonsterAffix_Property_AtkImprove_02"
         ],
@@ -120,11 +107,24 @@
         "GeneralSkillIcon": ""
     },
     {
-        "Id": 1011,
-        "Affix": "攻击强化高",
-        "Comment": "提升单体攻击100%",
+        "Id": 1010,
+        "Affix": "攻击提升50%-通用",
+        "Comment": "提升单体攻击50%",
         "AbilityName": [
             "MonsterAffix_Property_AtkImprove_03"
+        ],
+        "IsCommon": true,
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1011,
+        "Affix": "攻击提升100%-通用",
+        "Comment": "提升单体攻击100%",
+        "AbilityName": [
+            "MonsterAffix_Property_AtkImprove_04"
         ],
         "IsCommon": true,
         "PreAdd": true,
@@ -375,11 +375,95 @@
         "GeneralSkillIcon": ""
     },
     {
+        "Id": 1032,
+        "Affix": "血量提升10%-通用",
+        "Comment": "最大生命提升10%",
+        "AbilityName": [
+            "MonsterAffix_Property_HpImprove_01"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1033,
+        "Affix": "血量提升200%-通用",
+        "Comment": "最大生命提升200%",
+        "AbilityName": [
+            "MonsterAffix_Property_HpImprove_05"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1034,
+        "Affix": "攻击提升10%-通用",
+        "Comment": "攻击力提升10%",
+        "AbilityName": [
+            "MonsterAffix_Property_AtkImprove_01"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
         "Id": 1101,
-        "Affix": "怪物魔化表现-枭任务线",
+        "Affix": "怪物魔化表现-魈任务线",
         "Comment": "魔化特效表现",
         "AbilityName": [
             "MonsterAffix_DemonizeEff_XiaoQuest"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1102,
+        "Affix": "岩抗降低40%-诺艾尔Coop",
+        "Comment": "岩抗降低40%",
+        "AbilityName": [
+            "MonsterAffix_RockVulnerable_NoelCoop"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1103,
+        "Affix": "物抗降低20%-诺艾尔Coop",
+        "Comment": "物抗降低20%",
+        "AbilityName": [
+            "MonsterAffix_PhiscVulnerable_NoelCoop"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1104,
+        "Affix": "血量降低80%-诺艾尔Coop",
+        "Comment": "血量降低80%",
+        "AbilityName": [
+            "MonsterAffix_Property_HpDown_NoelCoop"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 1105,
+        "Affix": "攻击削弱50%-诺艾尔Coop",
+        "Comment": "攻击削弱50%",
+        "AbilityName": [
+            "MonsterAffix_Property_AtkDown_NoelCoop"
         ],
         "IsCommon": true,
         "IsLegal": "是",
@@ -1233,7 +1317,7 @@
     },
     {
         "Id": 4032,
-        "Affix": "怪物血量提升10%-狩猎活动",
+        "Affix": "血量提升10%-狩猎活动",
         "Comment": "怪物生命提高10%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_01_ForHunting"
@@ -1245,7 +1329,7 @@
     },
     {
         "Id": 4033,
-        "Affix": "怪物血量提升50%-狩猎活动",
+        "Affix": "血量提升50%-狩猎活动",
         "Comment": "怪物生命提高50%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_04_ForHunting"
@@ -1257,7 +1341,7 @@
     },
     {
         "Id": 4034,
-        "Affix": "怪物血量提升75%-狩猎活动",
+        "Affix": "血量提升75%-狩猎活动",
         "Comment": "怪物生命提高75%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_05_ForHunting"
@@ -1269,7 +1353,7 @@
     },
     {
         "Id": 4035,
-        "Affix": "怪物血量提升100%-狩猎活动",
+        "Affix": "血量提升100%-狩猎活动",
         "Comment": "怪物生命提高100%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_06_ForHunting"
@@ -1281,7 +1365,7 @@
     },
     {
         "Id": 4036,
-        "Affix": "怪物血量提升125%-狩猎活动",
+        "Affix": "血量提升125%-狩猎活动",
         "Comment": "怪物生命提高125%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_07_ForHunting"
@@ -1293,7 +1377,7 @@
     },
     {
         "Id": 4037,
-        "Affix": "怪物血量提升200%-狩猎活动",
+        "Affix": "血量提升200%-狩猎活动",
         "Comment": "怪物生命提高200%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_08_ForHunting"
@@ -1305,7 +1389,7 @@
     },
     {
         "Id": 4038,
-        "Affix": "怪物血量提升250%-狩猎活动",
+        "Affix": "血量提升250%-狩猎活动",
         "Comment": "怪物生命提高250%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_09_ForHunting"
@@ -1317,7 +1401,7 @@
     },
     {
         "Id": 4039,
-        "Affix": "怪物血量提升300%-狩猎活动",
+        "Affix": "血量提升300%-狩猎活动",
         "Comment": "怪物生命提高300%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_10_ForHunting"
@@ -1329,7 +1413,7 @@
     },
     {
         "Id": 4040,
-        "Affix": "怪物攻击提升10%-狩猎活动",
+        "Affix": "攻击提升10%-狩猎活动",
         "Comment": "怪物攻击提高10%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_01_ForHunting"
@@ -1341,7 +1425,7 @@
     },
     {
         "Id": 4041,
-        "Affix": "怪物攻击提升20%-狩猎活动",
+        "Affix": "攻击提升20%-狩猎活动",
         "Comment": "怪物攻击提高20%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_02_ForHunting"
@@ -1353,7 +1437,7 @@
     },
     {
         "Id": 4042,
-        "Affix": "怪物攻击提升30%-狩猎活动",
+        "Affix": "攻击提升30%-狩猎活动",
         "Comment": "怪物攻击提高30%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_03_ForHunting"
@@ -1521,7 +1605,7 @@
     },
     {
         "Id": 4056,
-        "Affix": "怪物血量提升25%-狩猎活动",
+        "Affix": "血量提升25%-狩猎活动",
         "Comment": "怪物生命提高25%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_03_ForHunting"
@@ -1533,7 +1617,7 @@
     },
     {
         "Id": 4057,
-        "Affix": "怪物攻击提升50%-狩猎活动",
+        "Affix": "攻击提升50%-狩猎活动",
         "Comment": "怪物攻击提高50%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_04_ForHunting"
@@ -1545,7 +1629,7 @@
     },
     {
         "Id": 4058,
-        "Affix": "怪物攻击提升100%-狩猎活动",
+        "Affix": "攻击提升100%-狩猎活动",
         "Comment": "怪物攻击提高100%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_05_ForHunting"
@@ -1557,7 +1641,7 @@
     },
     {
         "Id": 4059,
-        "Affix": "怪物攻击提升120%-狩猎活动",
+        "Affix": "攻击提升120%-狩猎活动",
         "Comment": "怪物攻击提高120%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_06_ForHunting"
@@ -1581,7 +1665,7 @@
     },
     {
         "Id": 4061,
-        "Affix": "怪物血量提升20%-狩猎活动",
+        "Affix": "血量提升20%-狩猎活动",
         "Comment": "怪物生命提高20%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_02_ForHunting"
@@ -1593,7 +1677,7 @@
     },
     {
         "Id": 4062,
-        "Affix": "怪物攻击提升200%-狩猎活动",
+        "Affix": "攻击提升200%-狩猎活动",
         "Comment": "怪物攻击提高200%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_07_ForHunting"
@@ -1605,7 +1689,7 @@
     },
     {
         "Id": 4063,
-        "Affix": "怪物攻击提升250%-狩猎活动",
+        "Affix": "攻击提升250%-狩猎活动",
         "Comment": "怪物攻击提高250%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_08_ForHunting"
@@ -1643,7 +1727,7 @@
     },
     {
         "Id": 4101,
-        "Affix": "怪物血量高-未归的熄星",
+        "Affix": "血量提升100%-未归的熄星",
         "Comment": "怪物生命提高100%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_High_ForAster"
@@ -1655,7 +1739,7 @@
     },
     {
         "Id": 4102,
-        "Affix": "怪物血量中-未归的熄星",
+        "Affix": "血量提升50%-未归的熄星",
         "Comment": "怪物生命提高50%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_Mid_ForAster"
@@ -1667,7 +1751,7 @@
     },
     {
         "Id": 4103,
-        "Affix": "怪物血量低-未归的熄星",
+        "Affix": "血量提升25%-未归的熄星",
         "Comment": "怪物生命提高25%",
         "AbilityName": [
             "MonsterAffix_Property_HpUp_Low_ForAster"
@@ -1679,7 +1763,7 @@
     },
     {
         "Id": 4104,
-        "Affix": "怪物攻击高-未归的熄星",
+        "Affix": "攻击提升50%-未归的熄星",
         "Comment": "怪物攻击提高50%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_High_ForAster"
@@ -1691,7 +1775,7 @@
     },
     {
         "Id": 4105,
-        "Affix": "怪物攻击中-未归的熄星",
+        "Affix": "攻击提升25%-未归的熄星",
         "Comment": "怪物攻击提高25%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_Mid_ForAster"
@@ -1703,7 +1787,7 @@
     },
     {
         "Id": 4106,
-        "Affix": "怪物攻击低-未归的熄星",
+        "Affix": "攻击提升15%-未归的熄星",
         "Comment": "怪物攻击提高15%",
         "AbilityName": [
             "MonsterAffix_Property_AtkUp_Low_ForAster"
@@ -1779,7 +1863,7 @@
         "Affix": "血量提升250%-塔防",
         "Comment": "血量提升250%",
         "AbilityName": [
-            "MonsterAffix_Property_HpUp_09_ForHunting"
+            "MonsterAffix_Property_HpUp_02_ForTowerDefense"
         ],
         "IsCommon": true,
         "PreAdd": true,
@@ -1793,6 +1877,18 @@
         "Comment": "提升单体20%防御力",
         "AbilityName": [
             "MonsterAffix_Property_DefImprove_01_ForTowerDefense"
+        ],
+        "IsCommon": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 4115,
+        "Affix": "攻击提升200%-擂台挑战",
+        "Comment": "攻击力提升200%",
+        "AbilityName": [
+            "MonsterAffix_Property_AtkUp_01_ForArenaChallenge"
         ],
         "IsCommon": true,
         "IsLegal": "是",
@@ -1901,6 +1997,32 @@
         "Comment": "用于遗迹系怪物激活",
         "AbilityName": [
             "MonsterAffix_AIHitFeeling_LevelTrigger"
+        ],
+        "IsCommon": true,
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 5010,
+        "Affix": "泉水精灵活动boss召唤物标记",
+        "Comment": "用于1.4活动标记纯水动物",
+        "AbilityName": [
+            "MonsterAffix_Oceanid_Animal_ActivityMask"
+        ],
+        "IsCommon": true,
+        "PreAdd": true,
+        "IsLegal": "是",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
+        "Id": 5011,
+        "Affix": "纯水小动物属性变化",
+        "Comment": "纯水动物HP提升，攻击下降",
+        "AbilityName": [
+            "MonsterAffix_Oceanid_Animal_PropertyFix"
         ],
         "IsCommon": true,
         "PreAdd": true,
@@ -2379,6 +2501,18 @@
         "GeneralSkillIcon": ""
     },
     {
+        "Id": 9008,
+        "Affix": "剧情任务-脱战逻辑标签",
+        "Comment": "剧情任务-脱战逻辑标签",
+        "AbilityName": [
+            "MonsterAffix_Quest_ReturnToBorn"
+        ],
+        "PreAdd": true,
+        "IsLegal": "",
+        "IconPath": "Skill_E_Ayaka",
+        "GeneralSkillIcon": ""
+    },
+    {
         "Id": 60401,
         "Affix": "岩龙蜥-水",
         "Comment": "岩龙蜥-水",
@@ -2386,7 +2520,6 @@
             "Monster_Drake_Rock_WaterMode",
             "Monster_Drake_Rock_WaterEnhance",
             "Monster_Drake_Rock_CrushAtkCharging_Water",
-            "Monster_Drake_Rock_WaterEnhance_FindTarget",
             "Monster_Drake_Rock_WaterEnhance_NormalAtkTrigger",
             "Monster_Drake_Rock_WaterEnhance_SlapGround01Trigger",
             "Monster_Drake_Rock_WaterEnhance_SlapGround02Trigger",
@@ -2517,60 +2650,6 @@
             "Drake_Primo_Rock_ScaleShot_Electric",
             "Drake_Primo_Rock_ScaleBurst_Electric",
             "Drake_Primo_Rock_BrokenH_Electric"
-        ],
-        "IsLegal": "",
-        "IconPath": "Skill_E_Ayaka",
-        "GeneralSkillIcon": ""
-    },
-    {
-        "Id": 90401,
-        "Affix": "若陀龙王-水",
-        "Comment": "若陀龙王-水",
-        "AbilityName": [
-            "Monster_Dahaka_ElementType_Water",
-            "Monster_Dahaka_Roar_Water",
-            "Monster_Dahaka_Switch_Water"
-        ],
-        "IsLegal": "",
-        "IconPath": "Skill_E_Ayaka",
-        "GeneralSkillIcon": ""
-    },
-    {
-        "Id": 90402,
-        "Affix": "若陀龙王-火",
-        "Comment": "若陀龙王-火",
-        "AbilityName": [
-            "Monster_Dahaka_ElementType_Fire",
-            "Monster_Dahaka_Roar_Fire",
-            "Monster_Dahaka_Switch_Fire"
-        ],
-        "IsLegal": "",
-        "IconPath": "Skill_E_Ayaka",
-        "GeneralSkillIcon": ""
-    },
-    {
-        "Id": 90403,
-        "Affix": "若陀龙王-冰",
-        "Comment": "若陀龙王-冰",
-        "AbilityName": [
-            "Monster_Dahaka_ElementType_Ice",
-            "Monster_Dahaka_ElementSpring_Ice",
-            "Monster_Dahaka_ElementBurst_Ice",
-            "Monster_Dahaka_Switch_Ice"
-        ],
-        "IsLegal": "",
-        "IconPath": "Skill_E_Ayaka",
-        "GeneralSkillIcon": ""
-    },
-    {
-        "Id": 90404,
-        "Affix": "若陀龙王-电",
-        "Comment": "若陀龙王-电",
-        "AbilityName": [
-            "Monster_Dahaka_ElementType_Electric",
-            "Monster_Dahaka_ElementSpring_Electric",
-            "Monster_Dahaka_ElementBurst_Electric",
-            "Monster_Dahaka_Switch_Electric"
         ],
         "IsLegal": "",
         "IconPath": "Skill_E_Ayaka",

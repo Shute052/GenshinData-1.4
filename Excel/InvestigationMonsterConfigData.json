@@ -25,7 +25,8 @@
         "NameTextMapHash": 2116056172,
         "Icon": "UI_MonsterIcon_Fatuus_Summoner_01",
         "DescTextMapHash": 2873961103,
-        "LockDescTextMapHash": 1425803254
+        "LockDescTextMapHash": 1425803254,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 2,
@@ -59,7 +60,8 @@
         "NameTextMapHash": 1211246492,
         "Icon": "UI_MonsterIcon_Abyss_Water_01",
         "DescTextMapHash": 3160129879,
-        "LockDescTextMapHash": 371397750
+        "LockDescTextMapHash": 371397750,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 3,
@@ -86,7 +88,8 @@
         "NameTextMapHash": 7930300,
         "Icon": "UI_MonsterIcon_Defender_Noner_01",
         "DescTextMapHash": 3599879231,
-        "LockDescTextMapHash": 4016562134
+        "LockDescTextMapHash": 4016562134,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 4,
@@ -118,7 +121,8 @@
         "NameTextMapHash": 3562720660,
         "Icon": "UI_MonsterIcon_Brute_None_01",
         "DescTextMapHash": 2163980335,
-        "LockDescTextMapHash": 914927254
+        "LockDescTextMapHash": 914927254,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 5,
@@ -147,7 +151,8 @@
         "NameTextMapHash": 1740952220,
         "Icon": "UI_MonsterIcon_Skirmisher_Male_Standard_Rifle_Fire_01",
         "DescTextMapHash": 1364422791,
-        "LockDescTextMapHash": 1462432238
+        "LockDescTextMapHash": 1462432238,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 6,
@@ -168,7 +173,8 @@
         "NameTextMapHash": 2296454212,
         "Icon": "UI_MonsterIcon_Effigy_Electric",
         "DescTextMapHash": 622146887,
-        "LockDescTextMapHash": 4000482334
+        "LockDescTextMapHash": 4000482334,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 7,
@@ -189,7 +195,8 @@
         "NameTextMapHash": 3813394428,
         "Icon": "UI_MonsterIcon_Effigy_Wind",
         "DescTextMapHash": 1898332639,
-        "LockDescTextMapHash": 1756062334
+        "LockDescTextMapHash": 1756062334,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 8,
@@ -210,7 +217,8 @@
         "NameTextMapHash": 525736108,
         "Icon": "UI_MonsterIcon_Regisvine_Ice",
         "DescTextMapHash": 894077983,
-        "LockDescTextMapHash": 927437942
+        "LockDescTextMapHash": 927437942,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 9,
@@ -228,7 +236,13 @@
         "NameTextMapHash": 2324314052,
         "Icon": "UI_MonsterIcon_LupiBoreas",
         "DescTextMapHash": 2964908743,
-        "LockDescTextMapHash": 1361566470
+        "LockDescTextMapHash": 1361566470,
+        "OccupiedQuestIdList": [
+            800206,
+            800207,
+            800208,
+            800209
+        ]
     },
     {
         "Id": 10,
@@ -251,7 +265,8 @@
         "NameTextMapHash": 1030983868,
         "Icon": "UI_MonsterIcon_Fatuus_Fire_01",
         "DescTextMapHash": 1163312791,
-        "LockDescTextMapHash": 3576467670
+        "LockDescTextMapHash": 3576467670,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 11,
@@ -273,7 +288,8 @@
         "NameTextMapHash": 243568684,
         "Icon": "UI_MonsterIcon_Formathr_None",
         "DescTextMapHash": 3684190943,
-        "LockDescTextMapHash": 973997142
+        "LockDescTextMapHash": 973997142,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 12,
@@ -297,7 +313,8 @@
         "NameTextMapHash": 562652100,
         "Icon": "UI_MonsterIcon_Mimik_Ice",
         "DescTextMapHash": 3558974463,
-        "LockDescTextMapHash": 3262262566
+        "LockDescTextMapHash": 3262262566,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 13,
@@ -318,7 +335,8 @@
         "NameTextMapHash": 2498400124,
         "Icon": "UI_MonsterIcon_Effigy_Rock",
         "DescTextMapHash": 2273147727,
-        "LockDescTextMapHash": 3627861054
+        "LockDescTextMapHash": 3627861054,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 14,
@@ -339,7 +357,8 @@
         "NameTextMapHash": 859677348,
         "Icon": "UI_MonsterIcon_Oceanid",
         "DescTextMapHash": 2848133519,
-        "LockDescTextMapHash": 2573390758
+        "LockDescTextMapHash": 2573390758,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 15,
@@ -360,7 +379,8 @@
         "NameTextMapHash": 3427645324,
         "Icon": "UI_MonsterIcon_Regisvine_Fire",
         "DescTextMapHash": 3116937319,
-        "LockDescTextMapHash": 1179122462
+        "LockDescTextMapHash": 1179122462,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 16,
@@ -384,7 +404,8 @@
         "NameTextMapHash": 888016324,
         "Icon": "UI_MonsterIcon_Wyrm_Rock",
         "DescTextMapHash": 4137825743,
-        "LockDescTextMapHash": 3126765454
+        "LockDescTextMapHash": 3126765454,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 17,
@@ -401,7 +422,6 @@
             133001369,
             133002296,
             133002327,
-            133003532,
             133004289,
             133004299,
             133004308,
@@ -415,7 +435,8 @@
         "NameTextMapHash": 605593892,
         "Icon": "UI_MonsterIcon_Hili_Electric_Range",
         "DescTextMapHash": 4268108703,
-        "LockDescTextMapHash": 598432798
+        "LockDescTextMapHash": 598432798,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 18,
@@ -453,7 +474,8 @@
         "NameTextMapHash": 1978754172,
         "Icon": "UI_MonsterIcon_Hili_None_01",
         "DescTextMapHash": 3867846519,
-        "LockDescTextMapHash": 1600128438
+        "LockDescTextMapHash": 1600128438,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 19,
@@ -486,7 +508,8 @@
         "NameTextMapHash": 3793925636,
         "Icon": "UI_MonsterIcon_Shaman_Wind_01",
         "DescTextMapHash": 2152833887,
-        "LockDescTextMapHash": 482563934
+        "LockDescTextMapHash": 482563934,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 20,
@@ -534,7 +557,8 @@
         "NameTextMapHash": 3463468772,
         "Icon": "UI_MonsterIcon_Slime_Water_03",
         "DescTextMapHash": 2182239071,
-        "LockDescTextMapHash": 3727808190
+        "LockDescTextMapHash": 3727808190,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 21,
@@ -570,7 +594,8 @@
         "NameTextMapHash": 1142558500,
         "Icon": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
         "DescTextMapHash": 798059871,
-        "LockDescTextMapHash": 2221217286
+        "LockDescTextMapHash": 2221217286,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 22,
@@ -589,7 +614,8 @@
         "NameTextMapHash": 1609885756,
         "Icon": "UI_MonsterIcon_Brute_Rock_None",
         "DescTextMapHash": 1276916615,
-        "LockDescTextMapHash": 2099514902
+        "LockDescTextMapHash": 2099514902,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 23,
@@ -613,7 +639,8 @@
         "NameTextMapHash": 3797091836,
         "Icon": "UI_MonsterIcon_Drake_Primo_Rock",
         "DescTextMapHash": 1184710679,
-        "LockDescTextMapHash": 3121213006
+        "LockDescTextMapHash": 3121213006,
+        "OccupiedQuestIdList": []
     },
     {
         "Id": 24,
@@ -641,6 +668,7 @@
         "NameTextMapHash": 3727063148,
         "Icon": "UI_MonsterIcon_Drake_Rock",
         "DescTextMapHash": 10157591,
-        "LockDescTextMapHash": 889747054
+        "LockDescTextMapHash": 889747054,
+        "OccupiedQuestIdList": []
     }
 ]

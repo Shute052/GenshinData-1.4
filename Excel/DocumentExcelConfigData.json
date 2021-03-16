@@ -1436,6 +1436,27 @@
         "VideoPath": ""
     },
     {
+        "Id": 100740,
+        "TitleTextMapHash": 3276897895,
+        "ContentLocalizedId": 200209,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100763,
+        "TitleTextMapHash": 1796340647,
+        "ContentLocalizedId": 200210,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
+        "Id": 100767,
+        "TitleTextMapHash": 902797391,
+        "ContentLocalizedId": 200211,
+        "PreviewPath": "ART/UI/Atlas/ItemIcon/UI_Icon_Read",
+        "VideoPath": ""
+    },
+    {
         "Id": 140001,
         "TitleTextMapHash": 3010915703,
         "ContentLocalizedId": 310001,
@@ -1474,6 +1495,13 @@
         "Id": 140006,
         "TitleTextMapHash": 2703498967,
         "ContentLocalizedId": 310006,
+        "PreviewPath": "ART/UI/Atlas/BagTabIcon/UI_CharacterTabIcon_Flycloak",
+        "VideoPath": ""
+    },
+    {
+        "Id": 140007,
+        "TitleTextMapHash": 2576920759,
+        "ContentLocalizedId": 310007,
         "PreviewPath": "ART/UI/Atlas/BagTabIcon/UI_CharacterTabIcon_Flycloak",
         "VideoPath": ""
     },
@@ -3301,6 +3329,13 @@
         "Id": 195410,
         "TitleTextMapHash": 3160929023,
         "ContentLocalizedId": 295410,
+        "PreviewPath": "ART/UI/Atlas/BagTabIcon/UI_BagTabIcon_Weapon",
+        "VideoPath": ""
+    },
+    {
+        "Id": 195413,
+        "TitleTextMapHash": 74815335,
+        "ContentLocalizedId": 295413,
         "PreviewPath": "ART/UI/Atlas/BagTabIcon/UI_BagTabIcon_Weapon",
         "VideoPath": ""
     },

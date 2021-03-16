@@ -558,5 +558,133 @@
             ]
         },
         "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 1682418356,
+        "ChallengeTitleTextMapHash": 2855381586,
+        "Id": 2040401,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_Use_Lift",
+                "1",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 2694017516,
+        "ChallengeTitleTextMapHash": 2518001978,
+        "Id": 2040402,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_Use_Lift",
+                "0",
+                "1"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 137338380,
+        "ChallengeTitleTextMapHash": 3789865170,
+        "Id": 2040403,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_Endure_Boss_EX_Skill",
+                "1",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 1852056468,
+        "ChallengeTitleTextMapHash": 4182049682,
+        "Id": 2040404,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_Summon_In_Advance",
+                "1",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 108125332,
+        "ChallengeTitleTextMapHash": 2698668274,
+        "Id": 2040405,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_FallingAttack_Crab",
+                "1",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 870088220,
+        "ChallengeTitleTextMapHash": 3927958082,
+        "Id": 2040406,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER",
+            "ParamList": [
+                "133102112",
+                "112011",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 3026277532,
+        "ChallengeTitleTextMapHash": 3175766426,
+        "Id": 2040407,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_Endure_Boss_EX_Skill",
+                "2",
+                "4"
+            ]
+        },
+        "Progress": 1
+    },
+    {
+        "MpPlayId": 4,
+        "IsStore": true,
+        "ChallengeDescTextMapHash": 4136851564,
+        "ChallengeTitleTextMapHash": 2282322490,
+        "Id": 2040408,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+            "ParamList": [
+                "ACT_OCEANID_Endure_Boss_EX_Skill",
+                "3",
+                "4"
+            ]
+        },
+        "Progress": 1
     }
 ]

@@ -3671,5 +3671,70 @@
             }
         ],
         "IsForbidGuest": true
+    },
+    {
+        "Id": 3003068,
+        "PointType": 9133,
+        "GadgetId": 70710297,
+        "ItemId": 100744,
+        "ExtraItemIdVec": [],
+        "Cd": 10,
+        "Priority": 10,
+        "BlockLimits": [
+            {
+                "BlockId": 3004,
+                "Count": 10
+            }
+        ],
+        "IsForbidGuest": true
+    },
+    {
+        "Id": 3003069,
+        "PointType": 9134,
+        "GadgetId": 70710298,
+        "ItemId": 100745,
+        "ExtraItemIdVec": [],
+        "Cd": 10,
+        "Priority": 10,
+        "BlockLimits": [
+            {
+                "BlockId": 3002,
+                "Count": 10
+            }
+        ],
+        "IsForbidGuest": true
+    },
+    {
+        "Id": 3003070,
+        "PointType": 9135,
+        "GadgetId": 71700209,
+        "ItemId": 100779,
+        "ExtraItemIdVec": [],
+        "Cd": 10,
+        "Priority": 10,
+        "BlockLimits": [
+            {
+                "BlockId": 3004,
+                "Count": 10
+            }
+        ],
+        "InitDisableInteract": true,
+        "IsForbidGuest": true
+    },
+    {
+        "Id": 3003071,
+        "PointType": 9136,
+        "GadgetId": 71700210,
+        "ItemId": 100780,
+        "ExtraItemIdVec": [],
+        "Cd": 10,
+        "Priority": 10,
+        "BlockLimits": [
+            {
+                "BlockId": 3002,
+                "Count": 10
+            }
+        ],
+        "IsForbidGuest": true
     }
 ]

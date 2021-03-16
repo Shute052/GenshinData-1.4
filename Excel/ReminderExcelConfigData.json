@@ -3428,25 +3428,26 @@
         "Id": 31020001,
         "SpeakerTextMapHash": 416160848,
         "ContentTextMapHash": 533151736,
-        "Delay": 0.10000000149011612,
         "ShowTime": 3.0,
-        "NextReminderId": 31020002,
-        "SoundEffect": ""
+        "NextReminderId": 31020003,
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020002,
         "SpeakerTextMapHash": 1219088560,
         "ContentTextMapHash": 2839081112,
         "ShowTime": 3.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020003,
         "SpeakerTextMapHash": 2007683552,
         "ContentTextMapHash": 4015747768,
-        "Delay": 0.10000000149011612,
         "ShowTime": 6.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020004,
@@ -3454,7 +3455,8 @@
         "ContentTextMapHash": 2365463728,
         "Delay": 0.10000000149011612,
         "ShowTime": 5.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020005,
@@ -3462,7 +3464,8 @@
         "ContentTextMapHash": 3151807648,
         "Delay": 0.10000000149011612,
         "ShowTime": 5.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020006,
@@ -3478,7 +3481,8 @@
         "ContentTextMapHash": 3287216736,
         "Delay": 0.10000000149011612,
         "ShowTime": 5.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020008,
@@ -3486,7 +3490,8 @@
         "ContentTextMapHash": 3079293240,
         "Delay": 0.10000000149011612,
         "ShowTime": 5.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020009,
@@ -3494,23 +3499,25 @@
         "ContentTextMapHash": 2793243920,
         "Delay": 0.10000000149011612,
         "ShowTime": 3.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020010,
         "SpeakerTextMapHash": 1299466800,
         "ContentTextMapHash": 3388701184,
-        "Delay": 0.10000000149011612,
-        "ShowTime": 4.0,
+        "ShowTime": 3.0,
         "NextReminderId": 31020011,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020011,
         "SpeakerTextMapHash": 1422492512,
         "ContentTextMapHash": 756334672,
         "ShowTime": 5.0,
-        "SoundEffect": ""
+        "SoundEffect": "",
+        "HasAudio": true
     },
     {
         "Id": 31020012,
@@ -3537,9 +3544,26 @@
         "Style": "Banner"
     },
     {
+        "Id": 31020015,
+        "SpeakerTextMapHash": 1533297520,
+        "ContentTextMapHash": 2536959248,
+        "Delay": 0.5,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
         "Id": 30010001,
         "SpeakerTextMapHash": 940100128,
         "ContentTextMapHash": 3843106680,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 30010101,
+        "SpeakerTextMapHash": 1080171912,
+        "ContentTextMapHash": 674487200,
         "ShowTime": 5.0,
         "SoundEffect": "",
         "Style": "Banner"
@@ -3884,7 +3908,6 @@
         "SpeakerTextMapHash": 3914750904,
         "ContentTextMapHash": 3281972312,
         "ShowTime": 5.0,
-        "NextReminderId": 31021108,
         "SoundEffect": "",
         "HasAudio": true
     },
@@ -4252,6 +4275,77 @@
         "ShowTime": 5.0,
         "SoundEffect": "",
         "HasAudio": true
+    },
+    {
+        "Id": 31021160,
+        "SpeakerTextMapHash": 1734850016,
+        "ContentTextMapHash": 2638445848,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 31021161,
+        "SpeakerTextMapHash": 2916028904,
+        "ContentTextMapHash": 3573134176,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070101,
+        "SpeakerTextMapHash": 4046351872,
+        "ContentTextMapHash": 1522299352,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070102,
+        "SpeakerTextMapHash": 3443443496,
+        "ContentTextMapHash": 2239726976,
+        "ShowTime": 5.0,
+        "NextReminderId": 30070103,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070103,
+        "SpeakerTextMapHash": 2326109928,
+        "ContentTextMapHash": 3277593096,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070104,
+        "SpeakerTextMapHash": 2060308112,
+        "ContentTextMapHash": 2551906240,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070105,
+        "SpeakerTextMapHash": 3015095768,
+        "ContentTextMapHash": 1134390568,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070106,
+        "SpeakerTextMapHash": 2046143672,
+        "ContentTextMapHash": 946380648,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070107,
+        "SpeakerTextMapHash": 714619016,
+        "ContentTextMapHash": 1600609704,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 30070108,
+        "SpeakerTextMapHash": 4242270216,
+        "ContentTextMapHash": 931957856,
+        "ShowTime": 5.0,
+        "SoundEffect": ""
     },
     {
         "Id": 30080101,
@@ -5210,6 +5304,218 @@
         "Id": 500069,
         "SpeakerTextMapHash": 3610667624,
         "ContentTextMapHash": 442265216,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600000,
+        "SpeakerTextMapHash": 1588761360,
+        "ContentTextMapHash": 2146390320,
+        "ShowTime": 3.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 600001,
+        "SpeakerTextMapHash": 4104012128,
+        "ContentTextMapHash": 3589018088,
+        "ShowTime": 3.0,
+        "NextReminderId": 600002,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600002,
+        "SpeakerTextMapHash": 4118393088,
+        "ContentTextMapHash": 3430233840,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600003,
+        "SpeakerTextMapHash": 3315798160,
+        "ContentTextMapHash": 4222949472,
+        "ShowTime": 3.0,
+        "NextReminderId": 600004,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600004,
+        "SpeakerTextMapHash": 418355504,
+        "ContentTextMapHash": 628975744,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600005,
+        "SpeakerTextMapHash": 1021442080,
+        "ContentTextMapHash": 1193979928,
+        "ShowTime": 3.0,
+        "NextReminderId": 600006,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600006,
+        "SpeakerTextMapHash": 832504288,
+        "ContentTextMapHash": 3838036680,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600007,
+        "SpeakerTextMapHash": 179772584,
+        "ContentTextMapHash": 719848808,
+        "ShowTime": 3.0,
+        "NextReminderId": 600008,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600008,
+        "SpeakerTextMapHash": 1853396512,
+        "ContentTextMapHash": 3018103552,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600009,
+        "SpeakerTextMapHash": 3303214680,
+        "ContentTextMapHash": 4059522176,
+        "ShowTime": 3.0,
+        "NextReminderId": 600010,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600010,
+        "SpeakerTextMapHash": 3955877104,
+        "ContentTextMapHash": 628885520,
+        "ShowTime": 3.0,
+        "NextReminderId": 600011,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600011,
+        "SpeakerTextMapHash": 4036261072,
+        "ContentTextMapHash": 687310040,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600012,
+        "SpeakerTextMapHash": 311333488,
+        "ContentTextMapHash": 1551072384,
+        "ShowTime": 3.0,
+        "NextReminderId": 600013,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600013,
+        "SpeakerTextMapHash": 3842315472,
+        "ContentTextMapHash": 2340738760,
+        "ShowTime": 3.0,
+        "NextReminderId": 600014,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600014,
+        "SpeakerTextMapHash": 2740310984,
+        "ContentTextMapHash": 1119242640,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600015,
+        "SpeakerTextMapHash": 605549264,
+        "ContentTextMapHash": 2375392960,
+        "ShowTime": 3.0,
+        "NextReminderId": 600016,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600016,
+        "SpeakerTextMapHash": 1734699792,
+        "ContentTextMapHash": 2086255424,
+        "ShowTime": 3.0,
+        "NextReminderId": 600017,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600017,
+        "SpeakerTextMapHash": 2242969048,
+        "ContentTextMapHash": 1581188536,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600018,
+        "SpeakerTextMapHash": 1692442320,
+        "ContentTextMapHash": 269818136,
+        "ShowTime": 3.0,
+        "NextReminderId": 600019,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600019,
+        "SpeakerTextMapHash": 2472743576,
+        "ContentTextMapHash": 1037491832,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600020,
+        "SpeakerTextMapHash": 695495760,
+        "ContentTextMapHash": 3887593512,
+        "ShowTime": 3.0,
+        "NextReminderId": 600021,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600021,
+        "SpeakerTextMapHash": 1119452848,
+        "ContentTextMapHash": 1272598976,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600022,
+        "SpeakerTextMapHash": 2157022992,
+        "ContentTextMapHash": 2432813424,
+        "ShowTime": 3.0,
+        "NextReminderId": 600023,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600023,
+        "SpeakerTextMapHash": 749305640,
+        "ContentTextMapHash": 2059827992,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600024,
+        "SpeakerTextMapHash": 557534856,
+        "ContentTextMapHash": 3519007432,
+        "ShowTime": 3.0,
+        "NextReminderId": 600025,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600025,
+        "SpeakerTextMapHash": 407438608,
+        "ContentTextMapHash": 3328301216,
+        "ShowTime": 3.0,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600026,
+        "SpeakerTextMapHash": 3690168080,
+        "ContentTextMapHash": 2333745240,
+        "ShowTime": 3.0,
+        "NextReminderId": 600027,
+        "SoundEffect": ""
+    },
+    {
+        "Id": 600027,
+        "SpeakerTextMapHash": 2267888728,
+        "ContentTextMapHash": 235013440,
         "ShowTime": 3.0,
         "SoundEffect": ""
     },
@@ -8102,6 +8408,331 @@
         "Id": 400240001,
         "SpeakerTextMapHash": 1636485261,
         "ContentTextMapHash": 2027787980,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 201040101,
+        "SpeakerTextMapHash": 3979827917,
+        "ContentTextMapHash": 3608725300,
+        "ShowTime": 5.0,
+        "NextReminderId": 201040102,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040102,
+        "SpeakerTextMapHash": 4146627229,
+        "ContentTextMapHash": 805157172,
+        "Delay": 0.800000011920929,
+        "ShowTime": 4.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040103,
+        "SpeakerTextMapHash": 819800637,
+        "ContentTextMapHash": 3262824588,
+        "ShowTime": 3.0,
+        "NextReminderId": 201040104,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040104,
+        "SpeakerTextMapHash": 2708059389,
+        "ContentTextMapHash": 1031456268,
+        "Delay": 0.800000011920929,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040105,
+        "SpeakerTextMapHash": 3033604493,
+        "ContentTextMapHash": 695317916,
+        "ShowTime": 6.0,
+        "NextReminderId": 201040106,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040106,
+        "SpeakerTextMapHash": 3299421933,
+        "ContentTextMapHash": 48779772,
+        "Delay": 0.800000011920929,
+        "ShowTime": 4.0,
+        "NextReminderId": 201040107,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040107,
+        "SpeakerTextMapHash": 38841301,
+        "ContentTextMapHash": 2474303236,
+        "Delay": 0.800000011920929,
+        "ShowTime": 4.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040108,
+        "SpeakerTextMapHash": 3774751437,
+        "ContentTextMapHash": 4013210532,
+        "ShowTime": 3.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201050101,
+        "SpeakerTextMapHash": 1862100325,
+        "ContentTextMapHash": 947369172,
+        "ShowTime": 5.0,
+        "NextReminderId": 201050102,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201050102,
+        "SpeakerTextMapHash": 935554285,
+        "ContentTextMapHash": 2067993452,
+        "Delay": 0.800000011920929,
+        "ShowTime": 4.0,
+        "NextReminderId": 201050103,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201050103,
+        "SpeakerTextMapHash": 810496253,
+        "ContentTextMapHash": 1030647956,
+        "Delay": 0.800000011920929,
+        "ShowTime": 7.0,
+        "NextReminderId": 201050104,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201050104,
+        "SpeakerTextMapHash": 105549197,
+        "ContentTextMapHash": 1664699660,
+        "Delay": 0.800000011920929,
+        "ShowTime": 3.0,
+        "NextReminderId": 201050105,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201050105,
+        "SpeakerTextMapHash": 3654489253,
+        "ContentTextMapHash": 3796506236,
+        "Delay": 0.800000011920929,
+        "ShowTime": 6.0,
+        "NextReminderId": 201050106,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201050106,
+        "SpeakerTextMapHash": 2230526165,
+        "ContentTextMapHash": 4077046076,
+        "Delay": 0.800000011920929,
+        "ShowTime": 3.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040109,
+        "SpeakerTextMapHash": 2219069781,
+        "ContentTextMapHash": 688645948,
+        "ShowTime": 3.0,
+        "NextReminderId": 201040110,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 201040110,
+        "SpeakerTextMapHash": 2925865173,
+        "ContentTextMapHash": 2233275988,
+        "Delay": 0.800000011920929,
+        "ShowTime": 3.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200350101,
+        "SpeakerTextMapHash": 1930105101,
+        "ContentTextMapHash": 3873385092,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200350102,
+        "SpeakerTextMapHash": 2794271109,
+        "ContentTextMapHash": 3282608860,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200350103,
+        "SpeakerTextMapHash": 511416181,
+        "ContentTextMapHash": 2082016780,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200350104,
+        "SpeakerTextMapHash": 3419954125,
+        "ContentTextMapHash": 2330441716,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200360101,
+        "SpeakerTextMapHash": 2524383405,
+        "ContentTextMapHash": 2433696220,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200360102,
+        "SpeakerTextMapHash": 2218831581,
+        "ContentTextMapHash": 660620220,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200360103,
+        "SpeakerTextMapHash": 3216648781,
+        "ContentTextMapHash": 3905199860,
+        "ShowTime": 5.0,
+        "NextReminderId": 200360104,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 200360104,
+        "SpeakerTextMapHash": 4244471189,
+        "ContentTextMapHash": 2118220852,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "HasAudio": true
+    },
+    {
+        "Id": 358000001,
+        "SpeakerTextMapHash": 1943643149,
+        "ContentTextMapHash": 1681729444,
+        "ShowTime": 3.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000002,
+        "SpeakerTextMapHash": 1661173397,
+        "ContentTextMapHash": 19998004,
+        "ShowTime": 3.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000003,
+        "SpeakerTextMapHash": 3514084941,
+        "ContentTextMapHash": 1846940332,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000004,
+        "SpeakerTextMapHash": 2549542861,
+        "ContentTextMapHash": 1556526804,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000005,
+        "SpeakerTextMapHash": 3799609189,
+        "ContentTextMapHash": 3227845236,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000006,
+        "SpeakerTextMapHash": 942021309,
+        "ContentTextMapHash": 1231114196,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000007,
+        "SpeakerTextMapHash": 2696752973,
+        "ContentTextMapHash": 2433840580,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000008,
+        "SpeakerTextMapHash": 1106091229,
+        "ContentTextMapHash": 3253334316,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000009,
+        "SpeakerTextMapHash": 1073923685,
+        "ContentTextMapHash": 2191731556,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000010,
+        "SpeakerTextMapHash": 2262254325,
+        "ContentTextMapHash": 3812460284,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000011,
+        "SpeakerTextMapHash": 3338076725,
+        "ContentTextMapHash": 469232796,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000012,
+        "SpeakerTextMapHash": 4202688605,
+        "ContentTextMapHash": 206530260,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000013,
+        "SpeakerTextMapHash": 2472179053,
+        "ContentTextMapHash": 1487174852,
+        "ShowTime": 5.0,
+        "SoundEffect": "",
+        "Style": "Banner"
+    },
+    {
+        "Id": 358000014,
+        "SpeakerTextMapHash": 1956473421,
+        "ContentTextMapHash": 485014436,
         "ShowTime": 5.0,
         "SoundEffect": "",
         "Style": "Banner"

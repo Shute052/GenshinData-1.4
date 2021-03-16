@@ -10,7 +10,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 2.020524024963379
+                "Value": 2.020519971847534
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -80,7 +80,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 2.6537070274353027
+                "Value": 2.653709888458252
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -110,12 +110,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 10.174838066101074
+                "Value": 10.174839973449707
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 3.0045559406280518
+                "Value": 3.0045599937438965
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -145,12 +145,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 12.079873085021973
+                "Value": 12.079870223999023
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 3.378627061843872
+                "Value": 3.3786299228668213
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -180,12 +180,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 14.137955665588379
+                "Value": 14.137960433959961
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 3.7761850357055664
+                "Value": 3.7761900424957275
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -215,12 +215,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 16.348276138305664
+                "Value": 16.34827995300293
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 4.197452068328857
+                "Value": 4.197450160980225
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -250,12 +250,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 17.507362365722656
+                "Value": 17.507360458374023
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 4.58076810836792
+                "Value": 4.580770015716553
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -285,12 +285,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 19.26781463623047
+                "Value": 19.267820358276367
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 4.981023788452148
+                "Value": 4.981019973754883
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -320,7 +320,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 21.098644256591797
+                "Value": 21.098649978637695
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -355,12 +355,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 24.063825607299805
+                "Value": 24.06382942199707
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 5.958952903747559
+                "Value": 5.958950042724609
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -390,7 +390,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 27.146568298339844
+                "Value": 27.146570205688477
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -425,12 +425,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 30.348718643188477
+                "Value": 30.34872055053711
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 7.160031795501709
+                "Value": 7.160029888153076
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -460,12 +460,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 33.9017219543457
+                "Value": 33.90171813964844
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 7.828999042510986
+                "Value": 7.828999996185303
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -500,7 +500,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 8.527202606201172
+                "Value": 8.527199745178223
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -530,12 +530,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 41.406803131103516
+                "Value": 41.40679931640625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 9.254998207092285
+                "Value": 9.255000114440918
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -600,7 +600,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 50.053592681884766
+                "Value": 50.0535888671875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -635,7 +635,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 54.18153762817383
+                "Value": 54.181541442871094
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -705,7 +705,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 68.611083984375
+                "Value": 68.61109161376953
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -880,7 +880,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 88.93610382080078
+                "Value": 88.93609619140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -985,7 +985,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 103.40695190429688
+                "Value": 103.40689849853516
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1020,7 +1020,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 108.42167663574219
+                "Value": 108.42169952392578
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1055,7 +1055,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 114.47187805175781
+                "Value": 114.4719009399414
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1125,7 +1125,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 125.74396514892578
+                "Value": 125.74400329589844
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1195,7 +1195,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 153.754638671875
+                "Value": 153.7545928955078
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1230,7 +1230,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 158.88597106933594
+                "Value": 158.88600158691406
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1335,7 +1335,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 181.41018676757812
+                "Value": 181.4102020263672
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1370,7 +1370,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 198.38404846191406
+                "Value": 198.38409423828125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1405,7 +1405,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 207.97813415527344
+                "Value": 207.9781036376953
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1440,7 +1440,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 217.73675537109375
+                "Value": 217.7366943359375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1475,7 +1475,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 227.02488708496094
+                "Value": 227.02490234375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1510,7 +1510,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 236.4652557373047
+                "Value": 236.46530151367188
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1545,7 +1545,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 264.51397705078125
+                "Value": 264.5140075683594
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1580,7 +1580,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 273.757080078125
+                "Value": 273.7571105957031
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1615,7 +1615,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 289.6474609375
+                "Value": 289.6474914550781
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1685,7 +1685,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 322.407470703125
+                "Value": 322.4075012207031
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1720,7 +1720,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 367.8212585449219
+                "Value": 367.8212890625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1755,7 +1755,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 384.59185791015625
+                "Value": 384.5918884277344
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1790,7 +1790,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 401.5548400878906
+                "Value": 401.5548095703125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1825,7 +1825,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 418.7123718261719
+                "Value": 418.71240234375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1860,7 +1860,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 436.0666809082031
+                "Value": 436.06671142578125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -1930,7 +1930,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 466.24102783203125
+                "Value": 466.2409973144531
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2000,7 +2000,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 503.184326171875
+                "Value": 503.1842956542969
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2105,7 +2105,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 637.3271484375
+                "Value": 637.3270874023438
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2245,7 +2245,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 734.9007568359375
+                "Value": 734.9008178710938
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2315,7 +2315,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 829.307861328125
+                "Value": 829.3079223632812
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2350,7 +2350,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 855.3965454101562
+                "Value": 855.3966064453125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2460,7 +2460,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 100.11730194091797
+                "Value": 100.11726379394531
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2490,12 +2490,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1016.3082885742188
+                "Value": 1016.3079833984375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 102.95800018310547
+                "Value": 102.95797729492188
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2525,12 +2525,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1037.415283203125
+                "Value": 1037.4150390625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 105.19039916992188
+                "Value": 105.19037628173828
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2560,12 +2560,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1067.749755859375
+                "Value": 1067.75
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 108.15599822998047
+                "Value": 108.15596008300781
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2595,12 +2595,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1098.412353515625
+                "Value": 1098.4119873046875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 111.1488037109375
+                "Value": 111.14884185791016
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2630,12 +2630,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1123.775390625
+                "Value": 1123.7750244140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 113.33170318603516
+                "Value": 113.33174133300781
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2665,12 +2665,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1153.11865234375
+                "Value": 1153.1190185546875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 116.23480224609375
+                "Value": 116.23477935791016
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2700,12 +2700,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1182.76025390625
+                "Value": 1182.760009765625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 119.16230010986328
+                "Value": 119.16229248046875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2740,7 +2740,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 121.92659759521484
+                "Value": 121.92656707763672
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2770,12 +2770,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1366.735107421875
+                "Value": 1366.7349853515625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 125.41919708251953
+                "Value": 125.419189453125
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2805,7 +2805,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1394.86669921875
+                "Value": 1394.866943359375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -2840,12 +2840,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1423.2474365234375
+                "Value": 1423.2469482421875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 130.69700622558594
+                "Value": 130.6969757080078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2875,12 +2875,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1440.908935546875
+                "Value": 1440.9090576171875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 132.593505859375
+                "Value": 132.5934600830078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2915,7 +2915,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 134.4947967529297
+                "Value": 134.4948272705078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2945,12 +2945,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1503.560302734375
+                "Value": 1503.56005859375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 136.4010009765625
+                "Value": 136.40101623535156
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -2980,12 +2980,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1532.91015625
+                "Value": 1532.9100341796875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 138.65789794921875
+                "Value": 138.6579132080078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3015,12 +3015,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1563.945556640625
+                "Value": 1563.946044921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 141.5941925048828
+                "Value": 141.59420776367188
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3050,12 +3050,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1598.8087158203125
+                "Value": 1598.8089599609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 144.79600524902344
+                "Value": 144.79605102539062
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3085,12 +3085,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1634.080078125
+                "Value": 1634.0799560546875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 148.0229949951172
+                "Value": 148.02296447753906
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3125,7 +3125,7 @@
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 151.52369689941406
+                "Value": 151.52366638183594
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3155,12 +3155,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1835.42333984375
+                "Value": 1835.4229736328125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 155.4488983154297
+                "Value": 155.44891357421875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3190,12 +3190,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1882.427734375
+                "Value": 1882.427978515625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 159.68020629882812
+                "Value": 159.68016052246094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3225,12 +3225,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1930.046875
+                "Value": 1930.0469970703125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 163.96820068359375
+                "Value": 163.96824645996094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3260,12 +3260,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 1996.6614990234375
+                "Value": 1996.6610107421875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 169.54299926757812
+                "Value": 169.5430450439453
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3295,7 +3295,7 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2042.7587890625
+                "Value": 2042.759033203125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
@@ -3330,12 +3330,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2055.588134765625
+                "Value": 2055.587890625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 175.2032928466797
+                "Value": 175.20333862304688
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3365,12 +3365,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2069.809326171875
+                "Value": 2069.80908203125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 176.7574005126953
+                "Value": 176.75738525390625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3400,12 +3400,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2256.937255859375
+                "Value": 2256.93701171875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 189.76930236816406
+                "Value": 189.769287109375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3435,12 +3435,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2272.524169921875
+                "Value": 2272.52392578125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 191.4468994140625
+                "Value": 191.44691467285156
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3470,12 +3470,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2706.502197265625
+                "Value": 2706.501953125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 196.03570556640625
+                "Value": 196.03573608398438
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3505,12 +3505,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2717.17626953125
+                "Value": 2770.43310546875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 196.81199645996094
+                "Value": 196.42373657226562
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3540,12 +3540,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2727.87646484375
+                "Value": 2835.451416015625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 197.5894012451172
+                "Value": 196.81201171875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3575,12 +3575,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2738.60302734375
+                "Value": 2901.570556640625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 198.36790466308594
+                "Value": 197.20059204101562
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3610,12 +3610,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2749.356201171875
+                "Value": 2968.80419921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 199.14739990234375
+                "Value": 197.58938598632812
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3645,12 +3645,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2760.135498046875
+                "Value": 3199.58056640625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 199.9281005859375
+                "Value": 197.97850036621094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3680,12 +3680,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2770.941650390625
+                "Value": 3272.79931640625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 200.7097930908203
+                "Value": 198.3678741455078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3715,12 +3715,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2781.774169921875
+                "Value": 3347.234130859375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 201.49270629882812
+                "Value": 198.7575225830078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3750,12 +3750,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2792.63330078125
+                "Value": 3422.899169921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 202.27659606933594
+                "Value": 199.14743041992188
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3785,12 +3785,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2803.519287109375
+                "Value": 3499.808349609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 203.0615997314453
+                "Value": 199.5376434326172
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3820,12 +3820,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2948.45263671875
+                "Value": 3938.62744140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 203.84779357910156
+                "Value": 199.92811584472656
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3855,12 +3855,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2959.9130859375
+                "Value": 4026.07470703125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 204.63499450683594
+                "Value": 200.31883239746094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3890,12 +3890,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2971.401611328125
+                "Value": 4114.93798828125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 205.42320251464844
+                "Value": 200.7098388671875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3925,12 +3925,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2982.91845703125
+                "Value": 4205.23291015625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 206.2126007080078
+                "Value": 201.1011199951172
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3960,12 +3960,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 2994.46337890625
+                "Value": 4296.97509765625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 207.0030975341797
+                "Value": 201.49270629882812
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -3995,12 +3995,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3006.036865234375
+                "Value": 4496.22265625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 207.7946014404297
+                "Value": 201.88450622558594
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4030,12 +4030,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3017.638671875
+                "Value": 4593.1923828125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 208.58729553222656
+                "Value": 202.27662658691406
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4065,12 +4065,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3029.26904296875
+                "Value": 4691.69140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 209.38099670410156
+                "Value": 202.66896057128906
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4100,12 +4100,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3040.927734375
+                "Value": 4791.736328125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 210.17579650878906
+                "Value": 203.06161499023438
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4135,12 +4135,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3052.615234375
+                "Value": 4893.3427734375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 210.9718017578125
+                "Value": 203.45452880859375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4170,12 +4170,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3250.04833984375
+                "Value": 5299.34619140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 211.768798828125
+                "Value": 203.84774780273438
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4205,12 +4205,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3262.5048828125
+                "Value": 5399.216796875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 212.56689453125
+                "Value": 204.24119567871094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4240,12 +4240,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3274.991943359375
+                "Value": 5500.46240234375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 213.36610412597656
+                "Value": 204.63494873046875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4275,12 +4275,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3287.509521484375
+                "Value": 5603.09765625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 214.16639709472656
+                "Value": 205.0289306640625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4310,12 +4310,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3300.0576171875
+                "Value": 5707.13525390625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 214.9676971435547
+                "Value": 205.4232177734375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4345,12 +4345,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3312.63671875
+                "Value": 5812.59033203125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 215.77020263671875
+                "Value": 205.81776428222656
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4380,12 +4380,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3325.246337890625
+                "Value": 5919.47509765625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 216.57369995117188
+                "Value": 206.21258544921875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4415,12 +4415,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3337.886962890625
+                "Value": 6027.80419921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 217.37840270996094
+                "Value": 206.6077117919922
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4450,12 +4450,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3350.558349609375
+                "Value": 6137.591796875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 218.18409729003906
+                "Value": 207.0030517578125
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4485,12 +4485,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3363.2607421875
+                "Value": 6248.8505859375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 218.99090576171875
+                "Value": 207.39871215820312
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4520,12 +4520,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3375.994140625
+                "Value": 6361.59521484375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 219.79879760742188
+                "Value": 207.7946319580078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4555,12 +4555,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3388.7587890625
+                "Value": 6475.8388671875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 220.60780334472656
+                "Value": 208.19081115722656
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4590,12 +4590,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3401.554443359375
+                "Value": 6591.595703125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 221.4178924560547
+                "Value": 208.58726501464844
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4625,12 +4625,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3414.38134765625
+                "Value": 6708.87939453125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 222.22909545898438
+                "Value": 208.98399353027344
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4660,12 +4660,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3427.239501953125
+                "Value": 6827.70361328125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 223.04139709472656
+                "Value": 209.38101196289062
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4695,12 +4695,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3440.129150390625
+                "Value": 6948.08251953125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 223.85470581054688
+                "Value": 209.77830505371094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4730,12 +4730,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3453.050048828125
+                "Value": 7070.029296875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 224.66920471191406
+                "Value": 210.1758270263672
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4765,12 +4765,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3466.00244140625
+                "Value": 7193.5576171875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 225.4846954345703
+                "Value": 210.57363891601562
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4800,12 +4800,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3478.986572265625
+                "Value": 7318.68212890625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 226.30140686035156
+                "Value": 210.97178649902344
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4835,12 +4835,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3492.002197265625
+                "Value": 7445.416015625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 227.1190948486328
+                "Value": 211.37013244628906
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4870,12 +4870,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3505.04931640625
+                "Value": 7573.77294921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 227.93789672851562
+                "Value": 211.7687530517578
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4905,12 +4905,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3518.12841796875
+                "Value": 7703.7666015625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 228.75779724121094
+                "Value": 212.1676788330078
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4940,12 +4940,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3531.2392578125
+                "Value": 7835.4111328125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 229.57879638671875
+                "Value": 212.56687927246094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -4975,12 +4975,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3544.3818359375
+                "Value": 7968.720703125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 230.40089416503906
+                "Value": 212.96633911132812
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5010,12 +5010,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3557.556640625
+                "Value": 8103.7080078125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 231.22410583496094
+                "Value": 213.36605834960938
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5045,12 +5045,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3570.76318359375
+                "Value": 8240.3876953125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 232.0482940673828
+                "Value": 213.76605224609375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5080,12 +5080,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3584.001953125
+                "Value": 8378.7724609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 232.8737030029297
+                "Value": 214.16635131835938
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5115,12 +5115,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3597.272705078125
+                "Value": 8518.8779296875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 233.7001953125
+                "Value": 214.56687927246094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5150,12 +5150,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3610.57568359375
+                "Value": 8660.7158203125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 234.52769470214844
+                "Value": 214.96771240234375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5185,12 +5185,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3623.910888671875
+                "Value": 8804.3017578125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 235.35629272460938
+                "Value": 215.36880493164062
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5220,12 +5220,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3637.278564453125
+                "Value": 8949.6474609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 236.18600463867188
+                "Value": 215.77017211914062
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5255,12 +5255,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3650.678466796875
+                "Value": 9096.7685546875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 237.01690673828125
+                "Value": 216.1717987060547
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5290,12 +5290,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3664.11083984375
+                "Value": 9245.6787109375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 237.8488006591797
+                "Value": 216.57373046875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5325,12 +5325,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3677.575927734375
+                "Value": 9396.3896484375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 238.68170166015625
+                "Value": 216.97589111328125
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5360,12 +5360,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3691.073486328125
+                "Value": 9548.9169921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 239.5157928466797
+                "Value": 217.37835693359375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5395,12 +5395,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3704.603515625
+                "Value": 9703.2744140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 240.3509979248047
+                "Value": 217.78109741210938
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5430,12 +5430,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3718.16650390625
+                "Value": 9859.4755859375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 241.1873016357422
+                "Value": 218.18409729003906
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5465,12 +5465,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3731.761962890625
+                "Value": 10017.5341796875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 242.02459716796875
+                "Value": 218.5873565673828
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5500,12 +5500,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3745.390625
+                "Value": 10177.462890625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 242.86309814453125
+                "Value": 218.99093627929688
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5535,12 +5535,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3759.052001953125
+                "Value": 10339.27734375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 243.70260620117188
+                "Value": 219.3947296142578
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5570,12 +5570,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3772.746337890625
+                "Value": 10502.9892578125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 244.54319763183594
+                "Value": 219.798828125
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5605,12 +5605,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3786.473876953125
+                "Value": 10585.5615234375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 245.38490295410156
+                "Value": 220.2032012939453
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5640,12 +5640,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3800.234375
+                "Value": 10668.6142578125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 246.2277069091797
+                "Value": 220.6078338623047
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5675,12 +5675,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3814.028076171875
+                "Value": 10752.1484375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 247.07159423828125
+                "Value": 221.0127410888672
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5710,12 +5710,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3827.85498046875
+                "Value": 10836.1650390625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 247.91659545898438
+                "Value": 221.41795349121094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5745,12 +5745,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3841.715087890625
+                "Value": 10920.66796875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 248.7626953125
+                "Value": 221.82337951660156
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5780,12 +5780,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3855.608642578125
+                "Value": 11005.65625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 249.60980224609375
+                "Value": 222.2291259765625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5815,12 +5815,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3869.53564453125
+                "Value": 11091.1337890625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 250.45809936523438
+                "Value": 222.6351318359375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5850,12 +5850,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3883.49609375
+                "Value": 11177.1005859375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 251.30740356445312
+                "Value": 223.04139709472656
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5885,12 +5885,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3897.490234375
+                "Value": 11263.560546875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 252.15789794921875
+                "Value": 223.44793701171875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5920,12 +5920,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3911.517822265625
+                "Value": 11350.5126953125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 253.0093994140625
+                "Value": 223.854736328125
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5955,12 +5955,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3925.5791015625
+                "Value": 11437.9609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 253.86199951171875
+                "Value": 224.26185607910156
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -5990,12 +5990,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3939.674072265625
+                "Value": 11525.90625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 254.7156982421875
+                "Value": 224.6692352294922
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6025,12 +6025,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3953.802978515625
+                "Value": 11614.349609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 255.57049560546875
+                "Value": 225.0768280029297
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6060,12 +6060,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3967.9658203125
+                "Value": 11703.2939453125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 256.4263916015625
+                "Value": 225.4847412109375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6095,12 +6095,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3982.162353515625
+                "Value": 11792.7412109375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 257.28338623046875
+                "Value": 225.89295959472656
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6130,12 +6130,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 3996.39306640625
+                "Value": 11882.69140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 258.1415100097656
+                "Value": 226.3013916015625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6165,12 +6165,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4010.657958984375
+                "Value": 11973.1474609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 259.0006103515625
+                "Value": 226.71009826660156
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6200,12 +6200,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4024.956787109375
+                "Value": 12064.1103515625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 259.8608093261719
+                "Value": 227.11911010742188
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6235,12 +6235,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4039.2900390625
+                "Value": 12155.5830078125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 260.7221984863281
+                "Value": 227.5283966064453
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6270,12 +6270,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4053.657470703125
+                "Value": 12247.56640625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 261.5845947265625
+                "Value": 227.9379425048828
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6305,12 +6305,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4068.05908203125
+                "Value": 12340.0625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 262.4480895996094
+                "Value": 228.34774780273438
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6340,12 +6340,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4082.4951171875
+                "Value": 12433.072265625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 263.3127136230469
+                "Value": 228.75782775878906
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6375,12 +6375,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4096.9658203125
+                "Value": 12526.5986328125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 264.17840576171875
+                "Value": 229.168212890625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6410,12 +6410,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4111.470703125
+                "Value": 12620.6416015625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 265.0451965332031
+                "Value": 229.57882690429688
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6445,12 +6445,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4126.0107421875
+                "Value": 12715.205078125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 265.9130859375
+                "Value": 229.98973083496094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6480,12 +6480,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4140.5849609375
+                "Value": 12810.2890625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 266.7821044921875
+                "Value": 230.4009246826172
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6515,12 +6515,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4155.19384765625
+                "Value": 12905.8955078125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 267.652099609375
+                "Value": 230.81236267089844
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6550,12 +6550,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4169.837890625
+                "Value": 13002.02734375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 268.5232849121094
+                "Value": 231.2240753173828
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6585,12 +6585,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4184.5166015625
+                "Value": 13098.685546875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 269.3955078125
+                "Value": 231.6361083984375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6620,12 +6620,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4199.22998046875
+                "Value": 13195.87109375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 270.268798828125
+                "Value": 232.04833984375
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6655,12 +6655,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4213.978515625
+                "Value": 13293.5869140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 271.143310546875
+                "Value": 232.4608917236328
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6690,12 +6690,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4228.76220703125
+                "Value": 13391.833984375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 272.018798828125
+                "Value": 232.87371826171875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6725,12 +6725,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4243.5810546875
+                "Value": 13490.61328125
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 272.8953857421875
+                "Value": 233.28680419921875
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6760,12 +6760,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4258.43505859375
+                "Value": 13589.9287109375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 273.7731018066406
+                "Value": 233.7001953125
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6795,12 +6795,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4273.32421875
+                "Value": 13689.7802734375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 274.65179443359375
+                "Value": 234.1138153076172
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6830,12 +6830,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4288.24853515625
+                "Value": 13790.169921875
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 275.5317077636719
+                "Value": 234.52769470214844
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6865,12 +6865,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4303.20849609375
+                "Value": 13891.1005859375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 276.4126892089844
+                "Value": 234.94187927246094
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6900,12 +6900,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4318.20361328125
+                "Value": 13992.572265625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 277.2947082519531
+                "Value": 235.35633850097656
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6935,12 +6935,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4333.234375
+                "Value": 14094.5869140625
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 278.1778869628906
+                "Value": 235.77105712890625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",
@@ -6970,12 +6970,12 @@
             {
                 "Type": "GROW_CURVE_HP",
                 "Arith": "ARITH_MULTI",
-                "Value": 4348.30078125
+                "Value": 14197.1474609375
             },
             {
                 "Type": "GROW_CURVE_ATTACK",
                 "Arith": "ARITH_MULTI",
-                "Value": 279.0621032714844
+                "Value": 236.18603515625
             },
             {
                 "Type": "GROW_CURVE_DEFENSE",

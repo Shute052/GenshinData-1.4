@@ -138,5 +138,10 @@
         "GuideName": "GuideTheatreMachanicusMultiplayerios",
         "Type": "OPENSTATE_CHANGE",
         "OpenState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER"
+    },
+    {
+        "GuideName": "GuideCoopTask",
+        "Type": "OPENSTATE_CHANGE",
+        "OpenState": "OPEN_STATE_GUIDE_COOP_TASK"
     }
 ]

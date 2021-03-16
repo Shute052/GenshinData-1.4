@@ -710,5 +710,26 @@
             [],
             []
         ]
+    },
+    {
+        "Id": 1018,
+        "DungeonEntryId": 265,
+        "Type": "DUNGEON_ENTRY_TYPE_FLEUR_FAIR",
+        "DescTextMapHash": 3303313457,
+        "CooldownTipsDungeonId": [
+            5310
+        ],
+        "IsDefaultOpen": true,
+        "SatisfiedCond": [
+            {},
+            {}
+        ],
+        "PicPath": "UI_DungeonPic_FleurFair",
+        "DescriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
     }
 ]

@@ -211,7 +211,19 @@
         "ShopType": "SHOP_TYPE_ACTIVITY_SEA_LAMP"
     },
     {
+        "ShopId": 1044,
+        "ShopType": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR"
+    },
+    {
         "ShopId": 1042,
         "ShopType": "SHOP_TYPE_NPC_Yinian"
+    },
+    {
+        "ShopId": 1045,
+        "ShopType": "SHOP_TYPE_NPC_Changshun"
+    },
+    {
+        "ShopId": 1046,
+        "ShopType": "SHOP_TYPE_NPC_Bolai"
     }
 ]

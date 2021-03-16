@@ -251,6 +251,12 @@
         "InteeIconName": "UI_Icon_Intee_Mechanism"
     },
     {
+        "Id": 2901,
+        "ContentTextMapHash": 2579336188,
+        "InteeIconName": "UI_Icon_Intee_Mechanism",
+        "CancelOnlineMatch": true
+    },
+    {
         "Id": 2902,
         "ContentTextMapHash": 450905420,
         "InteeIconName": "UI_Icon_Intee_Mechanism",

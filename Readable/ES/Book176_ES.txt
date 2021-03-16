@@ -41,11 +41,11 @@ Ambos: ¡Sí, señor!
 Wu Wang: Me gustaría comer algo, ¿qué me recomiendan?
 Wu Yi: ¿Qué le parecen unas albóndigas de camarón dorado?
 Wu Wang: Estoy cansado de comer carne y pescado, así que, aunque se trate de marisco, acepto tu recomendación.
-Wu Wang: Wu Er, ayúdame a buscar un restaurante donde pedir unas albondigas de camarón dorado.
+Wu Wang: Wu Er, ayúdame a buscar un restaurante donde pedir unas albóndigas de camarón dorado.
 Wu Er: ¡Entendido!
 Wu Wang: No tan rápido. Recuerda que tienen que tener un perfecto brillo dorado. No quiero que estén quemadas bajo ningún concepto.
 Wu Er: Que no estén quemadas. Entendido, señor.
-Wu Wang: Espera. Quiero que las albondigas tengan el tamaño perfecto, ni muy grandes, ni muy pequeñas.
+Wu Wang: Espera. Quiero que las albóndigas tengan el tamaño perfecto, ni muy grandes, ni muy pequeñas.
 Wu Er: Ni muy grandes, ni muy pequeñas. Entendido, lo haré de inmediato.
 Wu Wang: No, espera.
 Wu Er: ¿Qué más requisitos tiene? Vamos, dígalos todos de una vez.

@@ -417,6 +417,14 @@
         ]
     },
     {
+        "Id": 76,
+        "AllowClientOpen": true,
+        "Cond": [
+            {},
+            {}
+        ]
+    },
+    {
         "Id": 60,
         "AllowClientOpen": true,
         "Cond": [
@@ -544,7 +552,8 @@
                 "Param": 26
             },
             {}
-        ]
+        ],
+        "SystemOpenUiId": 17
     },
     {
         "Id": 43,
@@ -956,6 +965,16 @@
             {
                 "CondType": "OPEN_STATE_COND_QUEST",
                 "Param": 7181210
+            },
+            {}
+        ]
+    },
+    {
+        "Id": 1408,
+        "Cond": [
+            {
+                "CondType": "OPEN_STATE_COND_PLAYER_LEVEL",
+                "Param": 26
             },
             {}
         ]

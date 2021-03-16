@@ -4071,7 +4071,7 @@
         "NameTextMapHash": 1747862233,
         "DescTextMapHash": 3325524863,
         "Icon": "UI_Talent_S_Rosaria_01",
-        "MainCostItemId": 916,
+        "MainCostItemId": 1145,
         "MainCostItemCount": 1,
         "OpenConfig": "Rosaria_Constellation_1",
         "AddProps": [
@@ -4080,8 +4080,8 @@
         ],
         "ParamList": [
             0.10000000149011612,
-            3.0,
-            0.0,
+            0.10000000149011612,
+            4.0,
             0.0,
             0.0,
             0.0
@@ -4093,7 +4093,7 @@
         "DescTextMapHash": 1426432255,
         "Icon": "UI_Talent_S_Rosaria_02",
         "PrevTalent": 451,
-        "MainCostItemId": 916,
+        "MainCostItemId": 1145,
         "MainCostItemCount": 1,
         "OpenConfig": "Rosaria_Constellation_2",
         "AddProps": [
@@ -4115,7 +4115,7 @@
         "DescTextMapHash": 3853272615,
         "Icon": "UI_Talent_U_Rosaria_01",
         "PrevTalent": 452,
-        "MainCostItemId": 916,
+        "MainCostItemId": 1145,
         "MainCostItemCount": 1,
         "OpenConfig": "Rosaria_Constellation_3",
         "AddProps": [
@@ -4137,7 +4137,7 @@
         "DescTextMapHash": 1502603863,
         "Icon": "UI_Talent_S_Rosaria_03",
         "PrevTalent": 453,
-        "MainCostItemId": 916,
+        "MainCostItemId": 1145,
         "MainCostItemCount": 1,
         "OpenConfig": "Rosaria_Constellation_4",
         "AddProps": [
@@ -4145,7 +4145,7 @@
             {}
         ],
         "ParamList": [
-            4.0,
+            5.0,
             0.0,
             0.0,
             0.0,
@@ -4159,7 +4159,7 @@
         "DescTextMapHash": 2207642951,
         "Icon": "UI_Talent_U_Rosaria_02",
         "PrevTalent": 454,
-        "MainCostItemId": 916,
+        "MainCostItemId": 1145,
         "MainCostItemCount": 1,
         "OpenConfig": "Rosaria_Constellation_5",
         "AddProps": [
@@ -4181,7 +4181,7 @@
         "DescTextMapHash": 1651444399,
         "Icon": "UI_Talent_S_Rosaria_04",
         "PrevTalent": 455,
-        "MainCostItemId": 916,
+        "MainCostItemId": 1145,
         "MainCostItemCount": 1,
         "OpenConfig": "Rosaria_Constellation_6",
         "AddProps": [
@@ -4189,9 +4189,9 @@
             {}
         ],
         "ParamList": [
-            0.10000000149011612,
-            0.10000000149011612,
-            0.0,
+            0.20000000298023224,
+            10.0,
+            1.0,
             0.0,
             0.0,
             0.0
@@ -4329,20 +4329,151 @@
         ]
     },
     {
-        "TalentId": 481,
-        "NameTextMapHash": 690499809,
-        "DescTextMapHash": 3765119039,
-        "Icon": "UI_Talent_S_Feiyan_01",
+        "TalentId": 471,
+        "NameTextMapHash": 2040563073,
+        "DescTextMapHash": 3794647287,
+        "Icon": "UI_Talent_S_PlayerWind_01",
         "MainCostItemId": 916,
         "MainCostItemCount": 1,
-        "OpenConfig": "Feiyan_Constellation_1",
+        "OpenConfig": "",
         "AddProps": [
             {},
             {}
         ],
         "ParamList": [
-            -0.20000000298023224,
-            -0.15000000596046448,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 472,
+        "NameTextMapHash": 7765353,
+        "DescTextMapHash": 57094423,
+        "Icon": "UI_Talent_S_PlayerWind_02",
+        "PrevTalent": 471,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 473,
+        "NameTextMapHash": 2202533753,
+        "DescTextMapHash": 190411063,
+        "Icon": "UI_Talent_U_PlayerWind_02",
+        "PrevTalent": 472,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 474,
+        "NameTextMapHash": 2888381665,
+        "DescTextMapHash": 2322280143,
+        "Icon": "UI_Talent_S_PlayerWind_03",
+        "PrevTalent": 473,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 475,
+        "NameTextMapHash": 4207271041,
+        "DescTextMapHash": 4023044479,
+        "Icon": "UI_Talent_U_PlayerWind_01",
+        "PrevTalent": 474,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 476,
+        "NameTextMapHash": 234189249,
+        "DescTextMapHash": 2071805463,
+        "Icon": "UI_Talent_S_PlayerWind_04",
+        "PrevTalent": 475,
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "TalentId": 481,
+        "NameTextMapHash": 690499809,
+        "DescTextMapHash": 3765119039,
+        "Icon": "UI_Talent_S_PlayerWind_01",
+        "MainCostItemId": 916,
+        "MainCostItemCount": 1,
+        "OpenConfig": "",
+        "AddProps": [
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -4353,18 +4484,18 @@
         "TalentId": 482,
         "NameTextMapHash": 886053825,
         "DescTextMapHash": 821476695,
-        "Icon": "UI_Talent_S_Feiyan_02",
+        "Icon": "UI_Talent_S_PlayerWind_02",
         "PrevTalent": 481,
         "MainCostItemId": 916,
         "MainCostItemCount": 1,
-        "OpenConfig": "Feiyan_Constellation_2",
+        "OpenConfig": "",
         "AddProps": [
             {},
             {}
         ],
         "ParamList": [
-            0.5,
-            0.15000000596046448,
+            0.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -4375,11 +4506,11 @@
         "TalentId": 483,
         "NameTextMapHash": 168010785,
         "DescTextMapHash": 246599983,
-        "Icon": "UI_Talent_U_Feiyan_01",
+        "Icon": "UI_Talent_U_PlayerWind_02",
         "PrevTalent": 482,
         "MainCostItemId": 916,
         "MainCostItemCount": 1,
-        "OpenConfig": "Feiyan_Constellation_3",
+        "OpenConfig": "",
         "AddProps": [
             {},
             {}
@@ -4397,17 +4528,17 @@
         "TalentId": 484,
         "NameTextMapHash": 2878639121,
         "DescTextMapHash": 1661753439,
-        "Icon": "UI_Talent_S_Feiyan_03",
+        "Icon": "UI_Talent_S_PlayerWind_03",
         "PrevTalent": 483,
         "MainCostItemId": 916,
         "MainCostItemCount": 1,
-        "OpenConfig": "Feiyan_Constellation_4",
+        "OpenConfig": "",
         "AddProps": [
             {},
             {}
         ],
         "ParamList": [
-            1.5,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -4419,11 +4550,11 @@
         "TalentId": 485,
         "NameTextMapHash": 3698266505,
         "DescTextMapHash": 876690903,
-        "Icon": "UI_Talent_U_Feiyan_02",
+        "Icon": "UI_Talent_U_PlayerWind_01",
         "PrevTalent": 484,
         "MainCostItemId": 916,
         "MainCostItemCount": 1,
-        "OpenConfig": "Feiyan_Constellation_5",
+        "OpenConfig": "",
         "AddProps": [
             {},
             {}
@@ -4441,17 +4572,17 @@
         "TalentId": 486,
         "NameTextMapHash": 3677492353,
         "DescTextMapHash": 2987376519,
-        "Icon": "UI_Talent_S_Feiyan_04",
+        "Icon": "UI_Talent_S_PlayerWind_04",
         "PrevTalent": 485,
         "MainCostItemId": 916,
         "MainCostItemCount": 1,
-        "OpenConfig": "Feiyan_Constellation_6",
+        "OpenConfig": "",
         "AddProps": [
             {},
             {}
         ],
         "ParamList": [
-            1.0,
+            0.0,
             0.0,
             0.0,
             0.0,

@@ -11,7 +11,8 @@
         "VictoryTextMapHash": 3092603499,
         "FailTextMapHash": 2509818324,
         "RiviveTextMapHash": 2892849181,
-        "TimespendTextMapHash": 2557456156
+        "TimespendTextMapHash": 2557456156,
+        "DPLJPALFKDF": 678802996
     },
     {
         "MpPlayId": 2,
@@ -25,7 +26,8 @@
         "VictoryTextMapHash": 421878771,
         "FailTextMapHash": 2116362252,
         "RiviveTextMapHash": 3168618829,
-        "TimespendTextMapHash": 4110009956
+        "TimespendTextMapHash": 4110009956,
+        "DPLJPALFKDF": 534581132
     },
     {
         "MpPlayId": 3,
@@ -39,6 +41,22 @@
         "VictoryTextMapHash": 43872579,
         "FailTextMapHash": 2486425004,
         "RiviveTextMapHash": 461223245,
-        "TimespendTextMapHash": 4144911844
+        "TimespendTextMapHash": 4144911844,
+        "DPLJPALFKDF": 3204056572
+    },
+    {
+        "MpPlayId": 4,
+        "QuestTextMapHash": 100404962,
+        "RewardTextMapHash": 2487473992,
+        "InviteTextMapHash": 3211219964,
+        "InvitedescTextMapHash": 3453269544,
+        "InvitedeschostTextMapHash": 1158826276,
+        "StartTextMapHash": 3537004471,
+        "StarttipTextMapHash": 1996236110,
+        "VictoryTextMapHash": 2211357179,
+        "FailTextMapHash": 2878824908,
+        "RiviveTextMapHash": 55218509,
+        "TimespendTextMapHash": 1368881388,
+        "DPLJPALFKDF": 2797423860
     }
 ]

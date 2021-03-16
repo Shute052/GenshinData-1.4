@@ -227,6 +227,11 @@
         "ShowOnlyUnlocked": true
     },
     {
+        "Id": 30211410,
+        "WeaponId": 11410,
+        "SortOrder": 4112
+    },
+    {
         "Id": 30212401,
         "WeaponId": 12401,
         "SortOrder": 4201
@@ -377,6 +382,11 @@
         "SortOrder": 4410
     },
     {
+        "Id": 30214410,
+        "WeaponId": 14410,
+        "SortOrder": 4411
+    },
+    {
         "Id": 30215401,
         "WeaponId": 15401,
         "SortOrder": 4501
@@ -420,6 +430,17 @@
         "Id": 30215409,
         "WeaponId": 15409,
         "SortOrder": 4509
+    },
+    {
+        "Id": 30215410,
+        "WeaponId": 15410,
+        "SortOrder": 4510
+    },
+    {
+        "Id": 30215413,
+        "WeaponId": 15413,
+        "SortOrder": 4511,
+        "ShowOnlyUnlocked": true
     },
     {
         "Id": 30211501,
@@ -524,5 +545,10 @@
         "WeaponId": 15505,
         "SortOrder": 5504,
         "IsDisuse": true
+    },
+    {
+        "Id": 30215503,
+        "WeaponId": 15503,
+        "SortOrder": 5505
     }
 ]

@@ -17,10 +17,10 @@ Contoh kalimat yang dianjurkan:
 Contoh kalimat yang dilarang:
 1. "Hei, berhenti! Tunjukkan identitasmu hei kamu orang aneh / orang licik / orang kampung / orang enggak jelas!" 
 2. "Selamat datang di Kota Angin dan Kota Romansa, traveler/pengembara/badai yang sedang berkembang."
-*Harap ingat: Jangan berbicara tidak sopan dan juga memakai istilah-istilah tidak lazim yang memungkinkan traveler merasa aneh dan bingung.
+*Harap ingat: Jangan berbicara tidak sopan dan juga memakai istilah-istilah tidak lazim yang memungkinkan pengembara merasa aneh dan bingung.
 
 3.
-Jangan menunjukkan sikap malas dan ogah-ogahan di hadapan rakyat dan traveler. Seorang Knight sejati selalu siap sedia untuk mempersembahkan bantuannya untuk orang banyak. Karena itu, sikap siap siaga haruslah tetap terjaga sekalipun dalam waktu istirahat maupun santai. Selain itu, harus cepat tanggap kapan pun diperlukan.
+Jangan menunjukkan sikap malas dan ogah-ogahan di hadapan rakyat dan pengembara. Seorang Knight sejati selalu siap sedia untuk mempersembahkan bantuannya untuk orang banyak. Karena itu, sikap siap siaga haruslah tetap terjaga sekalipun dalam waktu istirahat maupun santai. Selain itu, harus cepat tanggap kapan pun diperlukan.
 
 Contoh kalimat yang dianjurkan:
 1. (Saat istirahat) "Saya bertanggung jawab menjamin keamanan setiap sudut Kota Mondstadt setiap waktu."
@@ -34,7 +34,7 @@ Contoh kalimat yang dilarang:
 
 4.
 Meskipun Mondstadt adalah kota yang mahsyur akan anggurnya, namun sebagai seorang Knight tetap harus bermawas diri. Dilarang mabuk karena minum anggur di saat menjalankan tugas, selain itu pun dilarang untuk membujuk orang yang belum cukup umur untuk minum anggur.
-*Perhatian: Knight yang belum dewasa tidak diperbolehkan untuk minum anggur. Mereka harus ditemani oleh rekan yang sudah dewasa ketika berada di tempat-tempat seperti kedai minuman.
+*Perhatian: Knight yang belum dewasa tidak diperbolehkan untuk minum anggur. Mereka harus ditemani oleh rekan yang sudah dewasa ketika berada di tempat-tempat seperti Tavern.
 
 5.
 (Baru-baru ini ditambahkan) Karena kegiatan Fatui di dalam kota menjadi lebih sering akhir-akhir ini, maka anggota Knight tidak boleh mengungkapkan informasi tentang patroli dan kegiatannya kepada orang lain di saat mereka sedang tidak bertugas.
@@ -57,7 +57,7 @@ Contoh kalimat yang dilarang:
 Saat bertemu dengan pedagang yang datang dari jauh, haruslah mengambil inisiatif untuk memperkenalkan lokasi layanan dan tempat wisata terkenal di Mondstadt dengan ramah, dan berikan bantuan sesuai dengan yang pedagang butuhkan.
 
 Contoh kalimat yang dianjurkan:
-1. "Kalau Anda baru pertama kali ke sini, kusarankan Anda untuk berkunjung ke katedral Mondstadt."
+1. "Kalau Anda baru pertama kali ke sini, kusarankan Anda untuk berkunjung ke Katedral Mondstadt."
 2. "Saat Anda merasa lelah, coba saja pergi ke Angel's Share untuk mencicipi anggur Mondstadt yang terkenal."
 
 8.

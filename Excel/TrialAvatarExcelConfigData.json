@@ -54,7 +54,7 @@
             26
         ],
         "TrialWeaponParamList": [
-            15301,
+            15501,
             26
         ],
         "IsDynamicLevel": true
@@ -210,7 +210,7 @@
             28
         ],
         "TrialWeaponParamList": [
-            15401,
+            15501,
             28
         ],
         "IsDynamicLevel": true
@@ -270,7 +270,7 @@
             35
         ],
         "TrialWeaponParamList": [
-            15501,
+            15502,
             35
         ],
         "IsDynamicLevel": true
@@ -284,6 +284,18 @@
         "TrialWeaponParamList": [
             13501,
             35
+        ],
+        "IsDynamicLevel": true
+    },
+    {
+        "TrialAvatarId": 500,
+        "TrialAvatarParamList": [
+            10000034,
+            26
+        ],
+        "TrialWeaponParamList": [
+            12401,
+            26
         ],
         "IsDynamicLevel": true
     },
@@ -349,7 +361,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            12401,
+            12411,
             80
         ]
     },
@@ -371,7 +383,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            15401,
+            15503,
             80
         ]
     },
@@ -393,7 +405,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            12401,
+            12404,
             80
         ]
     },
@@ -448,7 +460,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            13402,
+            13501,
             80
         ]
     },
@@ -481,7 +493,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            15401,
+            15501,
             80
         ]
     },
@@ -492,7 +504,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            12401,
+            12407,
             80
         ]
     },
@@ -514,7 +526,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            12401,
+            12404,
             80
         ]
     },
@@ -525,7 +537,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            15401,
+            15502,
             80
         ]
     },
@@ -536,7 +548,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            11401,
+            11413,
             80
         ]
     },
@@ -558,7 +570,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            14501,
+            14401,
             80
         ]
     },
@@ -569,7 +581,7 @@
             80
         ],
         "TrialWeaponParamList": [
-            11505,
+            11405,
             80
         ]
     },
@@ -591,7 +603,18 @@
             80
         ],
         "TrialWeaponParamList": [
-            12401,
+            12407,
+            80
+        ]
+    },
+    {
+        "TrialAvatarId": 1045,
+        "TrialAvatarParamList": [
+            10000045,
+            80
+        ],
+        "TrialWeaponParamList": [
+            13409,
             80
         ]
     },

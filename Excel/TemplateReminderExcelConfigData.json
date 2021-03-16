@@ -153,5 +153,55 @@
         "Id": 123,
         "Icon": "UI_Tips_Item_ElemForce",
         "ContentTextMapHash": 3663417194
+    },
+    {
+        "Id": 127,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2845296530
+    },
+    {
+        "Id": 128,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 1322296650
+    },
+    {
+        "Id": 129,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 1565115554
+    },
+    {
+        "Id": 130,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 3918749882
+    },
+    {
+        "Id": 131,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 4164289570
+    },
+    {
+        "Id": 132,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 3496611146
+    },
+    {
+        "Id": 133,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 763167946
+    },
+    {
+        "Id": 134,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 734877114
+    },
+    {
+        "Id": 135,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 2479931194
+    },
+    {
+        "Id": 136,
+        "Icon": "UI_Tips_Item_ElemForce",
+        "ContentTextMapHash": 1369699714
     }
 ]

@@ -133,6 +133,13 @@
         "TabNameTextMapHash": 3852671102
     },
     {
+        "Id": 10012,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN",
+        "SortPriority": 39,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 644788062
+    },
+    {
         "Id": 5007,
         "ActivityType": "NEW_ACTIVITY_FLIGHT",
         "SortPriority": 50,
@@ -240,10 +247,46 @@
         "TabNameTextMapHash": 1072459198
     },
     {
+        "Id": 6003,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN_COMPANION",
+        "SortPriority": 10,
+        "TabIcon": "UI_Icon_Activity_SignInTab",
+        "TabNameTextMapHash": 1463435918
+    },
+    {
         "Id": 5018,
         "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
         "SortPriority": 50,
         "TabIcon": "UI_Icon_Activity_LegendQuestTab",
         "TabNameTextMapHash": 2872299398
+    },
+    {
+        "Id": 5019,
+        "ActivityType": "NEW_ACTIVITY_ARENA_CHALLENGE",
+        "SortPriority": 50,
+        "TabIcon": "UI_Icon_Activity_ArenaChallenge",
+        "TabNameTextMapHash": 494252766
+    },
+    {
+        "Id": 2003,
+        "ActivityType": "NEW_ACTIVITY_FLEUR_FAIR",
+        "SortPriority": 90,
+        "TabIcon": "UI_Icon_Activity_FleurFair",
+        "TabNameTextMapHash": 839028094,
+        "Duration": 17
+    },
+    {
+        "Id": 5020,
+        "ActivityType": "NEW_ACTIVITY_WATER_SPIRIT_CHALLENGE",
+        "SortPriority": 70,
+        "TabIcon": "UI_Icon_Activity_WaterSpirit",
+        "TabNameTextMapHash": 3224048310
+    },
+    {
+        "Id": 5021,
+        "ActivityType": "NEW_ACTIVITY_COOP",
+        "SortPriority": 50,
+        "TabIcon": "UI_BtnIcon_LegendQuestTab2",
+        "TabNameTextMapHash": 1976908222
     }
 ]

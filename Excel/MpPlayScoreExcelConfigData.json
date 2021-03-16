@@ -24,5 +24,13 @@
             0
         ],
         "IsCalcScore": true
+    },
+    {
+        "PlayType": "MP_PLAY_WATER_SPRITE",
+        "Param": [
+            0,
+            0,
+            0
+        ]
     }
 ]

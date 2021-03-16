@@ -88178,7 +88178,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_1",
         "RankLevel": 5,
         "MainPropDepotId": 5089,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -88209,7 +88209,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -88240,7 +88240,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -88271,7 +88271,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -88302,7 +88302,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -88333,7 +88333,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -88364,7 +88364,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -88395,7 +88395,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -88426,7 +88426,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -88457,7 +88457,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_5",
         "RankLevel": 5,
         "MainPropDepotId": 1096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -88488,7 +88488,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_1",
         "RankLevel": 5,
         "MainPropDepotId": 5096,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -88519,7 +88519,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -88550,7 +88550,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -88581,7 +88581,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -88612,7 +88612,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -88643,7 +88643,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_1",
         "RankLevel": 5,
         "MainPropDepotId": 5095,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -88674,7 +88674,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -88705,7 +88705,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -88736,7 +88736,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -88767,7 +88767,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -88798,7 +88798,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_1",
         "RankLevel": 5,
         "MainPropDepotId": 5094,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -88829,7 +88829,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -88860,7 +88860,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -88891,7 +88891,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -88922,7 +88922,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -88953,7 +88953,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -88984,7 +88984,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -89015,7 +89015,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -89046,7 +89046,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -89077,7 +89077,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -89108,7 +89108,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_1",
         "RankLevel": 5,
         "MainPropDepotId": 5092,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -89139,7 +89139,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -89170,7 +89170,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -89201,7 +89201,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -89232,7 +89232,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -89263,7 +89263,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -89294,7 +89294,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -89325,7 +89325,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -89356,7 +89356,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -89387,7 +89387,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -89418,7 +89418,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -89449,7 +89449,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -89480,7 +89480,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_3",
         "RankLevel": 5,
         "MainPropDepotId": 3094,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -89511,7 +89511,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -89542,7 +89542,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -89573,7 +89573,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_1",
         "RankLevel": 5,
         "MainPropDepotId": 5096,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -89604,7 +89604,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -89635,7 +89635,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -89666,7 +89666,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -89697,7 +89697,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -89728,7 +89728,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_1",
         "RankLevel": 5,
         "MainPropDepotId": 5095,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -89759,7 +89759,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -89790,7 +89790,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -89821,7 +89821,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -89852,7 +89852,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -89883,7 +89883,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_1",
         "RankLevel": 5,
         "MainPropDepotId": 5094,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -89914,7 +89914,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -89945,7 +89945,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -89976,7 +89976,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -90007,7 +90007,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -90038,7 +90038,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_1",
         "RankLevel": 5,
         "MainPropDepotId": 5098,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90069,7 +90069,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90100,7 +90100,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_3",
         "RankLevel": 5,
         "MainPropDepotId": 3094,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90131,7 +90131,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90162,7 +90162,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_5",
         "RankLevel": 5,
         "MainPropDepotId": 1098,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90193,7 +90193,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_1",
         "RankLevel": 5,
         "MainPropDepotId": 5097,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90224,7 +90224,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90255,7 +90255,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_3",
         "RankLevel": 5,
         "MainPropDepotId": 3094,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90286,7 +90286,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90317,7 +90317,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_5",
         "RankLevel": 5,
         "MainPropDepotId": 1097,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -90348,7 +90348,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -90379,7 +90379,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -90409,8 +90409,8 @@
         "EquipType": "EQUIP_DRESS",
         "ShowPic": "Eff_UI_RelicIcon_10003_3",
         "RankLevel": 5,
-        "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "MainPropDepotId": 3095,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -90441,7 +90441,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -90472,7 +90472,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -90503,7 +90503,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_1",
         "RankLevel": 5,
         "MainPropDepotId": 5091,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -90534,7 +90534,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -90565,7 +90565,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -90596,7 +90596,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -90627,7 +90627,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -90658,7 +90658,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -90689,7 +90689,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -90720,7 +90720,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -90751,7 +90751,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -90782,7 +90782,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -90813,7 +90813,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_1",
         "RankLevel": 5,
         "MainPropDepotId": 5088,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -90844,7 +90844,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -90875,7 +90875,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_3",
         "RankLevel": 5,
         "MainPropDepotId": 3093,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -90906,7 +90906,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -90937,7 +90937,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_5",
         "RankLevel": 5,
         "MainPropDepotId": 1095,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -90968,7 +90968,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_1",
         "RankLevel": 5,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -90999,7 +90999,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -91030,7 +91030,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_3",
         "RankLevel": 5,
         "MainPropDepotId": 3095,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -91061,7 +91061,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -91092,7 +91092,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -91123,7 +91123,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_1",
         "RankLevel": 5,
         "MainPropDepotId": 5093,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 951,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -91154,7 +91154,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_2",
         "RankLevel": 5,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 952,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -91185,7 +91185,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_3",
         "RankLevel": 5,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -91216,7 +91216,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_4",
         "RankLevel": 5,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 998,
+        "AppendPropDepotId": 953,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -91247,7 +91247,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_5",
         "RankLevel": 5,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 995,
+        "AppendPropDepotId": 956,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -91278,7 +91278,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_1",
         "RankLevel": 4,
         "MainPropDepotId": 5089,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -91308,7 +91308,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -91338,7 +91338,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -91368,7 +91368,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -91398,7 +91398,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15008_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15008,
         "AddPropLevels": [
@@ -91428,7 +91428,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -91458,7 +91458,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -91488,7 +91488,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -91518,7 +91518,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -91548,7 +91548,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15007_5",
         "RankLevel": 4,
         "MainPropDepotId": 1096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15007,
         "AddPropLevels": [
@@ -91578,7 +91578,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_1",
         "RankLevel": 4,
         "MainPropDepotId": 5096,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -91608,7 +91608,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -91638,7 +91638,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -91668,7 +91668,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -91698,7 +91698,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15006_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15006,
         "AddPropLevels": [
@@ -91728,7 +91728,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_1",
         "RankLevel": 4,
         "MainPropDepotId": 5095,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -91758,7 +91758,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -91788,7 +91788,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -91818,7 +91818,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -91848,7 +91848,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15005_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15005,
         "AddPropLevels": [
@@ -91878,7 +91878,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_1",
         "RankLevel": 4,
         "MainPropDepotId": 5094,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -91908,7 +91908,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -91938,7 +91938,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -91968,7 +91968,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -91998,7 +91998,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15004_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15004,
         "AddPropLevels": [
@@ -92028,7 +92028,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -92058,7 +92058,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -92088,7 +92088,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -92118,7 +92118,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -92148,7 +92148,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15003_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15003,
         "AddPropLevels": [
@@ -92178,7 +92178,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_1",
         "RankLevel": 4,
         "MainPropDepotId": 5092,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -92208,7 +92208,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -92238,7 +92238,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -92268,7 +92268,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -92298,7 +92298,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15002_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15002,
         "AddPropLevels": [
@@ -92328,7 +92328,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -92358,7 +92358,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -92388,7 +92388,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -92418,7 +92418,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -92448,7 +92448,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15001_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15001,
         "AddPropLevels": [
@@ -92478,7 +92478,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -92508,7 +92508,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -92538,7 +92538,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_3",
         "RankLevel": 4,
         "MainPropDepotId": 3094,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -92568,7 +92568,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -92598,7 +92598,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -92628,7 +92628,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_1",
         "RankLevel": 4,
         "MainPropDepotId": 5096,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -92658,7 +92658,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -92688,7 +92688,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -92718,7 +92718,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -92748,7 +92748,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14003_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14003,
         "AddPropLevels": [
@@ -92778,7 +92778,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_1",
         "RankLevel": 4,
         "MainPropDepotId": 5095,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -92808,7 +92808,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -92838,7 +92838,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -92868,7 +92868,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -92898,7 +92898,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14002_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14002,
         "AddPropLevels": [
@@ -92928,7 +92928,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_1",
         "RankLevel": 4,
         "MainPropDepotId": 5094,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -92958,7 +92958,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -92988,7 +92988,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -93018,7 +93018,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -93048,7 +93048,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14001_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14001,
         "AddPropLevels": [
@@ -93078,7 +93078,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_1",
         "RankLevel": 4,
         "MainPropDepotId": 5098,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93108,7 +93108,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93138,7 +93138,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_3",
         "RankLevel": 4,
         "MainPropDepotId": 3094,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93168,7 +93168,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93198,7 +93198,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_5",
         "RankLevel": 4,
         "MainPropDepotId": 1098,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93228,7 +93228,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_1",
         "RankLevel": 4,
         "MainPropDepotId": 5097,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93258,7 +93258,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93288,7 +93288,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_3",
         "RankLevel": 4,
         "MainPropDepotId": 3094,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93318,7 +93318,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93348,7 +93348,7 @@
         "ShowPic": "Eff_UI_RelicIcon_14004_5",
         "RankLevel": 4,
         "MainPropDepotId": 1097,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 14004,
         "AddPropLevels": [
@@ -93378,7 +93378,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -93408,7 +93408,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -93437,8 +93437,8 @@
         "EquipType": "EQUIP_DRESS",
         "ShowPic": "Eff_UI_RelicIcon_10003_3",
         "RankLevel": 4,
-        "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "MainPropDepotId": 3095,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -93468,7 +93468,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -93498,7 +93498,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10003_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 10003,
         "AddPropLevels": [
@@ -93528,7 +93528,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_1",
         "RankLevel": 4,
         "MainPropDepotId": 5091,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -93558,7 +93558,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -93588,7 +93588,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -93618,7 +93618,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -93648,7 +93648,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15014_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15014,
         "AddPropLevels": [
@@ -93678,7 +93678,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -93708,7 +93708,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -93738,7 +93738,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -93768,7 +93768,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -93798,7 +93798,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15015_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15015,
         "AddPropLevels": [
@@ -93828,7 +93828,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_1",
         "RankLevel": 4,
         "MainPropDepotId": 5088,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -93858,7 +93858,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -93888,7 +93888,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_3",
         "RankLevel": 4,
         "MainPropDepotId": 3093,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -93918,7 +93918,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -93948,7 +93948,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10007_5",
         "RankLevel": 4,
         "MainPropDepotId": 1095,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 10007,
         "AddPropLevels": [
@@ -93978,7 +93978,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_1",
         "RankLevel": 4,
         "MainPropDepotId": 5099,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -94008,7 +94008,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -94038,7 +94038,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_3",
         "RankLevel": 4,
         "MainPropDepotId": 3095,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -94068,7 +94068,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -94098,7 +94098,7 @@
         "ShowPic": "Eff_UI_RelicIcon_10005_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 10005,
         "AddPropLevels": [
@@ -94128,7 +94128,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_1",
         "RankLevel": 4,
         "MainPropDepotId": 5093,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 941,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -94158,7 +94158,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_2",
         "RankLevel": 4,
         "MainPropDepotId": 2000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 942,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -94188,7 +94188,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_3",
         "RankLevel": 4,
         "MainPropDepotId": 3096,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -94218,7 +94218,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_4",
         "RankLevel": 4,
         "MainPropDepotId": 4000,
-        "AppendPropDepotId": 997,
+        "AppendPropDepotId": 943,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [
@@ -94248,7 +94248,7 @@
         "ShowPic": "Eff_UI_RelicIcon_15016_5",
         "RankLevel": 4,
         "MainPropDepotId": 1099,
-        "AppendPropDepotId": 996,
+        "AppendPropDepotId": 946,
         "AppendPropNum": 4,
         "SetId": 15016,
         "AddPropLevels": [

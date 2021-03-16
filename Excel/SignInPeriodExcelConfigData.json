@@ -93,5 +93,10 @@
         "ConfigId": 10011,
         "PeriodId": 1,
         "PerfabPath": "ART/UI/Menus/Widget/Activity/Activity_SignIn_LanternRite"
+    },
+    {
+        "ConfigId": 10012,
+        "PeriodId": 1,
+        "PerfabPath": "ART/UI/Menus/Widget/Activity/Activity_SignIn_RedandWhite"
     }
 ]

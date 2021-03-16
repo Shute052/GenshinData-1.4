@@ -88,5 +88,17 @@
         "NameTextMapHash": 658569365,
         "IconPath": "Ui_SystemOpenIcon_Eldertree",
         "DescTextMapHash": 3616541199
+    },
+    {
+        "Id": 16,
+        "NameTextMapHash": 1911628725,
+        "IconPath": "Ui_SystemOpenIcon_Eldertree",
+        "DescTextMapHash": 4168951967
+    },
+    {
+        "Id": 17,
+        "NameTextMapHash": 314479405,
+        "IconPath": "Ui_SystemOpenIcon_LegendQuest",
+        "DescTextMapHash": 3335066855
     }
 ]

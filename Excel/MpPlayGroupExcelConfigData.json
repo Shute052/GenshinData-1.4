@@ -4,6 +4,7 @@
         "PlayId": 1,
         "ServerLuaCallGroupList": [],
         "ResinCost": 40,
+        "UpAvatarList": [],
         "RewardVec": [
             {
                 "DropID": 209000600,
@@ -74,7 +75,8 @@
             660,
             720
         ],
-        "LimitRegion": "BigWorld_CrucibleArea_001"
+        "LimitRegion": "BigWorld_CrucibleArea_001",
+        "AbilityGroupList": []
     },
     {
         "EntryId": 2,
@@ -83,6 +85,7 @@
             133001413
         ],
         "ResinCost": 40,
+        "UpAvatarList": [],
         "RewardVec": [
             {
                 "DropID": 210020000,
@@ -156,7 +159,8 @@
             660,
             720
         ],
-        "LimitRegion": "BigWorld_AsterArea_001"
+        "LimitRegion": "BigWorld_AsterArea_001",
+        "AbilityGroupList": []
     },
     {
         "EntryId": 3,
@@ -164,6 +168,7 @@
         "ServerLuaCallGroupList": [
             133002418
         ],
+        "UpAvatarList": [],
         "ClientShowType": "MP_PLAY_SHOW_NO_RESIN",
         "RewardVec": [
             {
@@ -234,6 +239,105 @@
             660,
             720
         ],
-        "LimitRegion": "BigWorld_CryoRegisvineArea_001"
+        "LimitRegion": "BigWorld_CryoRegisvineArea_001",
+        "AbilityGroupList": []
+    },
+    {
+        "EntryId": 4,
+        "PlayId": 4,
+        "ServerLuaCallGroupList": [
+            133102112
+        ],
+        "ResinCost": 40,
+        "MaterialCostId": 120,
+        "MaterialCostNum": 1,
+        "UpAvatarList": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ClientShowType": "MP_PLAY_SHOW_TWO_MATERIAL",
+        "RewardVec": [
+            {
+                "DropID": 200040001,
+                "RewardPreview": 31011
+            },
+            {
+                "DropID": 200040002,
+                "RewardPreview": 31012
+            },
+            {
+                "DropID": 200040003,
+                "RewardPreview": 31013
+            },
+            {
+                "DropID": 200040004,
+                "RewardPreview": 31014
+            },
+            {
+                "DropID": 200040005,
+                "RewardPreview": 31015
+            },
+            {
+                "DropID": 200040006,
+                "RewardPreview": 31016
+            },
+            {
+                "DropID": 200040007,
+                "RewardPreview": 31017
+            },
+            {
+                "DropID": 200040008,
+                "RewardPreview": 31018
+            },
+            {
+                "DropID": 200040009,
+                "RewardPreview": 31019
+            }
+        ],
+        "ActivateGroupList": [
+            133102112
+        ],
+        "GroupList": [],
+        "BornGroupId": 133102112,
+        "BornConfigId": 112025,
+        "SafeGroupId": 133102112,
+        "SafeConfigId": 112020,
+        "RebornGroupId": 133102112,
+        "RebornConfigId": 112020,
+        "RewardGroupId": 133102112,
+        "GeneralRewardConfigId": 112021,
+        "PrepareTime": 20,
+        "CenterPosList": [
+            1788.5560302734375,
+            200.5500030517578,
+            277.0010070800781
+        ],
+        "CenterRadius": 250,
+        "TargetPosList": [
+            1788.5560302734375,
+            200.5500030517578,
+            247.00100708007812
+        ],
+        "ReviseId": 9,
+        "RateList": [
+            300,
+            500,
+            660,
+            720
+        ],
+        "LimitRegion": "BigWorld_WaterSpiritArea_001",
+        "AbilityGroupList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
     }
 ]

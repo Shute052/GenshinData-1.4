@@ -31,5 +31,13 @@
             8,
             9
         ]
+    },
+    {
+        "ScheduleId": 2003001,
+        "ShopType": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR",
+        "SheetList": [
+            10,
+            11
+        ]
     }
 ]

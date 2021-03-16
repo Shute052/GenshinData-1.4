@@ -419,6 +419,16 @@
         "PushTipsCodexId": 60500007
     },
     {
+        "Id": 22020101,
+        "Type": "CODEX_MONSTER",
+        "DescribeId": 20201,
+        "SortOrder": 2010,
+        "SubType": "CODEX_SUBTYPE_ABYSS",
+        "DescTextMapHash": 2225135964,
+        "ModelPath": "Codex_Monster_Invoker_Herald_Water",
+        "PushTipsCodexId": 60500031
+    },
+    {
         "Id": 23010601,
         "Type": "CODEX_MONSTER",
         "DescribeId": 30106,

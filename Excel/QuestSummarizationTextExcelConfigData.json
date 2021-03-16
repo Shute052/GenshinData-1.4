@@ -746,5 +746,37 @@
     {
         "Id": 1110007,
         "DescTextMapHash": 1828928413
+    },
+    {
+        "Id": 800001,
+        "DescTextMapHash": 1425361677
+    },
+    {
+        "Id": 800002,
+        "DescTextMapHash": 4009633597
+    },
+    {
+        "Id": 800003,
+        "DescTextMapHash": 1534128989
+    },
+    {
+        "Id": 800004,
+        "DescTextMapHash": 101447429
+    },
+    {
+        "Id": 800101,
+        "DescTextMapHash": 3088383685
+    },
+    {
+        "Id": 800102,
+        "DescTextMapHash": 2063829741
+    },
+    {
+        "Id": 800301,
+        "DescTextMapHash": 634150501
+    },
+    {
+        "Id": 800302,
+        "DescTextMapHash": 3922113061
     }
 ]

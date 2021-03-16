@@ -66,8 +66,7 @@
         "Id": 1900402,
         "NpcId": 501,
         "MainQuestId": 19004,
-        "Priority": 5,
-        "IsAuto": true
+        "Priority": 5
     },
     {
         "Id": 1900501,
@@ -235,7 +234,8 @@
         "Id": 1902501,
         "NpcId": 10902,
         "MainQuestId": 19025,
-        "Priority": 5
+        "Priority": 5,
+        "IsAuto": true
     },
     {
         "Id": 1902502,
@@ -411,19 +411,19 @@
         "Id": 1904401,
         "NpcId": 1024,
         "MainQuestId": 19044,
-        "Priority": 5
+        "Priority": 8
     },
     {
         "Id": 1904402,
         "NpcId": 1024,
         "MainQuestId": 19044,
-        "Priority": 5
+        "Priority": 7
     },
     {
         "Id": 1904403,
         "NpcId": 1024,
         "MainQuestId": 19044,
-        "Priority": 5
+        "Priority": 6
     },
     {
         "Id": 1904404,
@@ -435,31 +435,31 @@
         "Id": 1904405,
         "NpcId": 1024,
         "MainQuestId": 19044,
-        "Priority": 5
+        "Priority": 4
     },
     {
         "Id": 1904501,
         "NpcId": 1024,
         "MainQuestId": 19045,
-        "Priority": 5
+        "Priority": 10
     },
     {
         "Id": 1904502,
         "NpcId": 1024,
         "MainQuestId": 19045,
-        "Priority": 5
+        "Priority": 8
     },
     {
         "Id": 1904503,
         "NpcId": 1024,
         "MainQuestId": 19045,
-        "Priority": 5
+        "Priority": 7
     },
     {
         "Id": 1904504,
         "NpcId": 1024,
         "MainQuestId": 19045,
-        "Priority": 5
+        "Priority": 6
     },
     {
         "Id": 1904505,
@@ -471,13 +471,13 @@
         "Id": 1904506,
         "NpcId": 1024,
         "MainQuestId": 19045,
-        "Priority": 5
+        "Priority": 4
     },
     {
         "Id": 1904507,
         "NpcId": 1024,
         "MainQuestId": 19045,
-        "Priority": 5
+        "Priority": 9
     },
     {
         "Id": 1904508,

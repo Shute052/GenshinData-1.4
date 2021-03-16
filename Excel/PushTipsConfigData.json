@@ -756,6 +756,17 @@
         "CodexType": "CODEX_ENEMY"
     },
     {
+        "PushTipsId": 2061,
+        "RewardId": 300001,
+        "TitleTextMapHash": 2945811105,
+        "SubtitleTextMapHash": 2646879817,
+        "PushTipsType": "PUSH_TIPS_MONSTER",
+        "ShowIcon": "UI_MonsterIcon_Invoker_Herald_Water_01",
+        "TabIcon": "UI_MessageIcon_Monster",
+        "TutorialId": 276,
+        "CodexType": "CODEX_ENEMY"
+    },
+    {
         "PushTipsId": 3001,
         "RewardId": 300001,
         "TitleTextMapHash": 832613729,
@@ -871,6 +882,28 @@
         "TutorialId": 407,
         "CodexType": "CODEX_SYSTEM",
         "GroupId": 1
+    },
+    {
+        "PushTipsId": 3011,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1742756177,
+        "SubtitleTextMapHash": 3684948473,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 408,
+        "CodexType": "CODEX_SYSTEM"
+    },
+    {
+        "PushTipsId": 3012,
+        "RewardId": 300001,
+        "TitleTextMapHash": 1126457353,
+        "SubtitleTextMapHash": 4165413561,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 409,
+        "CodexType": "CODEX_SYSTEM"
     },
     {
         "PushTipsId": 4001,
@@ -1009,6 +1042,46 @@
         "CodexType": "CODEX_UNRECORDED"
     },
     {
+        "PushTipsId": 6008,
+        "TitleTextMapHash": 1553560825,
+        "SubtitleTextMapHash": 1388520081,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 807,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6009,
+        "TitleTextMapHash": 937624169,
+        "SubtitleTextMapHash": 3374001841,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 808,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6010,
+        "TitleTextMapHash": 133898553,
+        "SubtitleTextMapHash": 681332241,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 809,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 6011,
+        "TitleTextMapHash": 3485549089,
+        "SubtitleTextMapHash": 1086268337,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Important",
+        "TabIcon": "UI_MessageIcon_Important",
+        "TutorialId": 810,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
         "PushTipsId": 7001,
         "RewardId": 300001,
         "TitleTextMapHash": 2428013249,
@@ -1106,6 +1179,16 @@
         "ShowIcon": "UI_MessageIcon_Combat",
         "TabIcon": "UI_MessageIcon_Combat",
         "TutorialId": 905,
+        "CodexType": "CODEX_UNRECORDED"
+    },
+    {
+        "PushTipsId": 9004,
+        "TitleTextMapHash": 3311789985,
+        "SubtitleTextMapHash": 3143079881,
+        "PushTipsType": "PUSH_TIPS_TUTORIAL",
+        "ShowIcon": "UI_MessageIcon_Combat",
+        "TabIcon": "UI_MessageIcon_Combat",
+        "TutorialId": 906,
         "CodexType": "CODEX_UNRECORDED"
     },
     {

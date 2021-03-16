@@ -640,10 +640,19 @@
         "Icon": ""
     },
     {
+        "Id": 40200027,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108234,
+        "SortOrder": 2030,
+        "NameTextMapHash": 3188061777,
+        "DescTextMapHash": 873186689,
+        "Icon": ""
+    },
+    {
         "Id": 40210001,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108003,
-        "SortOrder": 2100,
+        "SortOrder": 2501,
         "NameTextMapHash": 983888489,
         "DescTextMapHash": 3563415905,
         "Icon": ""
@@ -652,7 +661,7 @@
         "Id": 40210002,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108006,
-        "SortOrder": 2101,
+        "SortOrder": 2502,
         "NameTextMapHash": 1991553409,
         "DescTextMapHash": 4270558833,
         "Icon": ""
@@ -661,7 +670,7 @@
         "Id": 40210003,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108009,
-        "SortOrder": 2102,
+        "SortOrder": 2503,
         "NameTextMapHash": 1609486745,
         "DescTextMapHash": 2164547745,
         "Icon": ""
@@ -670,7 +679,7 @@
         "Id": 40210004,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108013,
-        "SortOrder": 2103,
+        "SortOrder": 2504,
         "NameTextMapHash": 2946737537,
         "DescTextMapHash": 2841659801,
         "Icon": ""
@@ -679,7 +688,7 @@
         "Id": 40210005,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108017,
-        "SortOrder": 2104,
+        "SortOrder": 2505,
         "NameTextMapHash": 2903668273,
         "DescTextMapHash": 740373257,
         "Icon": ""
@@ -688,7 +697,7 @@
         "Id": 40210006,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108021,
-        "SortOrder": 2105,
+        "SortOrder": 2506,
         "NameTextMapHash": 984188433,
         "DescTextMapHash": 1879410961,
         "Icon": ""
@@ -697,7 +706,7 @@
         "Id": 40210007,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108024,
-        "SortOrder": 2106,
+        "SortOrder": 2507,
         "NameTextMapHash": 262903609,
         "DescTextMapHash": 2106874153,
         "Icon": ""
@@ -706,7 +715,7 @@
         "Id": 40210008,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108027,
-        "SortOrder": 2107,
+        "SortOrder": 2508,
         "NameTextMapHash": 3761137777,
         "DescTextMapHash": 3109895217,
         "Icon": ""
@@ -715,7 +724,7 @@
         "Id": 40210009,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108030,
-        "SortOrder": 2108,
+        "SortOrder": 2509,
         "NameTextMapHash": 2579334369,
         "DescTextMapHash": 1439849409,
         "Icon": ""
@@ -724,7 +733,7 @@
         "Id": 40210010,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108033,
-        "SortOrder": 2109,
+        "SortOrder": 2510,
         "NameTextMapHash": 3665202273,
         "DescTextMapHash": 3110847233,
         "Icon": ""
@@ -733,7 +742,7 @@
         "Id": 40210011,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108036,
-        "SortOrder": 2110,
+        "SortOrder": 2511,
         "NameTextMapHash": 1220069601,
         "DescTextMapHash": 97454281,
         "Icon": ""
@@ -742,7 +751,7 @@
         "Id": 40210012,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108039,
-        "SortOrder": 2111,
+        "SortOrder": 2512,
         "NameTextMapHash": 290171361,
         "DescTextMapHash": 2817484593,
         "Icon": ""
@@ -751,7 +760,7 @@
         "Id": 40210013,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108043,
-        "SortOrder": 2112,
+        "SortOrder": 2513,
         "NameTextMapHash": 2216019657,
         "DescTextMapHash": 2615371169,
         "Icon": ""
@@ -760,7 +769,7 @@
         "Id": 40210014,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108047,
-        "SortOrder": 2113,
+        "SortOrder": 2514,
         "NameTextMapHash": 3173278385,
         "DescTextMapHash": 2987363585,
         "Icon": ""
@@ -769,7 +778,7 @@
         "Id": 40210015,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108051,
-        "SortOrder": 2114,
+        "SortOrder": 2515,
         "NameTextMapHash": 1828220513,
         "DescTextMapHash": 2532988385,
         "Icon": ""
@@ -778,7 +787,7 @@
         "Id": 40210016,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108054,
-        "SortOrder": 2115,
+        "SortOrder": 2516,
         "NameTextMapHash": 2815039921,
         "DescTextMapHash": 40227401,
         "Icon": ""
@@ -787,7 +796,7 @@
         "Id": 40210017,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108057,
-        "SortOrder": 2116,
+        "SortOrder": 2517,
         "NameTextMapHash": 3959614793,
         "DescTextMapHash": 3776352033,
         "Icon": ""
@@ -796,7 +805,7 @@
         "Id": 40210018,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108061,
-        "SortOrder": 2117,
+        "SortOrder": 2518,
         "NameTextMapHash": 3760180393,
         "DescTextMapHash": 3538575145,
         "Icon": ""
@@ -805,7 +814,7 @@
         "Id": 40210019,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108064,
-        "SortOrder": 2118,
+        "SortOrder": 2519,
         "NameTextMapHash": 2166674273,
         "DescTextMapHash": 645127257,
         "Icon": ""
@@ -814,7 +823,7 @@
         "Id": 40210020,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108067,
-        "SortOrder": 2119,
+        "SortOrder": 2520,
         "NameTextMapHash": 2027571929,
         "DescTextMapHash": 1311985929,
         "Icon": ""
@@ -823,7 +832,7 @@
         "Id": 40210021,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108070,
-        "SortOrder": 2120,
+        "SortOrder": 2521,
         "NameTextMapHash": 1429639585,
         "DescTextMapHash": 347552081,
         "Icon": ""
@@ -832,7 +841,7 @@
         "Id": 40210022,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108073,
-        "SortOrder": 2121,
+        "SortOrder": 2522,
         "NameTextMapHash": 893628241,
         "DescTextMapHash": 1067854313,
         "Icon": ""
@@ -841,7 +850,7 @@
         "Id": 40210023,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108076,
-        "SortOrder": 2122,
+        "SortOrder": 2523,
         "NameTextMapHash": 3097782513,
         "DescTextMapHash": 2739387257,
         "Icon": ""
@@ -850,7 +859,7 @@
         "Id": 40210024,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108079,
-        "SortOrder": 2123,
+        "SortOrder": 2524,
         "NameTextMapHash": 4248424769,
         "DescTextMapHash": 1500059969,
         "Icon": ""
@@ -859,7 +868,7 @@
         "Id": 40210025,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108082,
-        "SortOrder": 2124,
+        "SortOrder": 2525,
         "NameTextMapHash": 1626318041,
         "DescTextMapHash": 606610929,
         "Icon": ""
@@ -868,7 +877,7 @@
         "Id": 40210026,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108085,
-        "SortOrder": 2125,
+        "SortOrder": 2526,
         "NameTextMapHash": 3664439001,
         "DescTextMapHash": 2639314969,
         "Icon": ""
@@ -877,7 +886,7 @@
         "Id": 40210027,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108088,
-        "SortOrder": 2126,
+        "SortOrder": 2527,
         "NameTextMapHash": 1733029609,
         "DescTextMapHash": 3315115425,
         "Icon": ""
@@ -886,7 +895,7 @@
         "Id": 40210028,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108091,
-        "SortOrder": 2127,
+        "SortOrder": 2528,
         "NameTextMapHash": 2623626089,
         "DescTextMapHash": 3285889049,
         "Icon": ""
@@ -895,7 +904,7 @@
         "Id": 40210029,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108094,
-        "SortOrder": 2128,
+        "SortOrder": 2529,
         "NameTextMapHash": 4146071185,
         "DescTextMapHash": 2509993369,
         "Icon": ""
@@ -904,7 +913,7 @@
         "Id": 40210030,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108097,
-        "SortOrder": 2129,
+        "SortOrder": 2530,
         "NameTextMapHash": 3867906489,
         "DescTextMapHash": 1923865857,
         "Icon": ""
@@ -913,7 +922,7 @@
         "Id": 40210031,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108100,
-        "SortOrder": 2130,
+        "SortOrder": 2531,
         "NameTextMapHash": 3091362649,
         "DescTextMapHash": 2018969465,
         "Icon": ""
@@ -922,7 +931,7 @@
         "Id": 40210032,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108103,
-        "SortOrder": 2131,
+        "SortOrder": 2532,
         "NameTextMapHash": 2624200761,
         "DescTextMapHash": 194842241,
         "Icon": ""
@@ -931,7 +940,7 @@
         "Id": 40210033,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108106,
-        "SortOrder": 2132,
+        "SortOrder": 2533,
         "NameTextMapHash": 2428177929,
         "DescTextMapHash": 3741642001,
         "Icon": ""
@@ -940,7 +949,7 @@
         "Id": 40210034,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108109,
-        "SortOrder": 2133,
+        "SortOrder": 2534,
         "NameTextMapHash": 2698939521,
         "DescTextMapHash": 2170923929,
         "Icon": ""
@@ -949,7 +958,7 @@
         "Id": 40210035,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108112,
-        "SortOrder": 2134,
+        "SortOrder": 2535,
         "NameTextMapHash": 2498685777,
         "DescTextMapHash": 198831753,
         "Icon": ""
@@ -958,7 +967,7 @@
         "Id": 40210036,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108121,
-        "SortOrder": 2135,
+        "SortOrder": 2536,
         "NameTextMapHash": 2408733801,
         "DescTextMapHash": 1788736953,
         "Icon": ""
@@ -967,7 +976,7 @@
         "Id": 40210037,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108124,
-        "SortOrder": 2136,
+        "SortOrder": 2537,
         "NameTextMapHash": 1908527697,
         "DescTextMapHash": 990286817,
         "Icon": ""
@@ -976,7 +985,7 @@
         "Id": 40210038,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108127,
-        "SortOrder": 2137,
+        "SortOrder": 2538,
         "NameTextMapHash": 3448799969,
         "DescTextMapHash": 3363762569,
         "Icon": ""
@@ -985,7 +994,7 @@
         "Id": 40210039,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108130,
-        "SortOrder": 2138,
+        "SortOrder": 2539,
         "NameTextMapHash": 2175835689,
         "DescTextMapHash": 764184073,
         "Icon": ""
@@ -994,7 +1003,7 @@
         "Id": 40210040,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108133,
-        "SortOrder": 2139,
+        "SortOrder": 2540,
         "NameTextMapHash": 2249782961,
         "DescTextMapHash": 3746472129,
         "Icon": ""
@@ -1003,7 +1012,7 @@
         "Id": 40210045,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108151,
-        "SortOrder": 2140,
+        "SortOrder": 2541,
         "NameTextMapHash": 3564672889,
         "DescTextMapHash": 358226817,
         "Icon": ""
@@ -1012,7 +1021,7 @@
         "Id": 40210068,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108143,
-        "SortOrder": 2141,
+        "SortOrder": 2542,
         "NameTextMapHash": 3015207097,
         "DescTextMapHash": 2749835401,
         "Icon": ""
@@ -1021,7 +1030,7 @@
         "Id": 40210046,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108154,
-        "SortOrder": 2142,
+        "SortOrder": 2543,
         "NameTextMapHash": 1754130305,
         "DescTextMapHash": 2329356353,
         "Icon": ""
@@ -1030,7 +1039,7 @@
         "Id": 40210047,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108157,
-        "SortOrder": 2143,
+        "SortOrder": 2544,
         "NameTextMapHash": 120524777,
         "DescTextMapHash": 3946790713,
         "Icon": ""
@@ -1039,7 +1048,7 @@
         "Id": 40210048,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108160,
-        "SortOrder": 2144,
+        "SortOrder": 2545,
         "NameTextMapHash": 1908855633,
         "DescTextMapHash": 1589603961,
         "Icon": ""
@@ -1048,7 +1057,7 @@
         "Id": 40210049,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108163,
-        "SortOrder": 2145,
+        "SortOrder": 2546,
         "NameTextMapHash": 3808229625,
         "DescTextMapHash": 1110620385,
         "Icon": ""
@@ -1057,7 +1066,7 @@
         "Id": 40210050,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108166,
-        "SortOrder": 2146,
+        "SortOrder": 2547,
         "NameTextMapHash": 3180697825,
         "DescTextMapHash": 2699233993,
         "Icon": ""
@@ -1066,7 +1075,7 @@
         "Id": 40210051,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108169,
-        "SortOrder": 2147,
+        "SortOrder": 2548,
         "NameTextMapHash": 1894786089,
         "DescTextMapHash": 2298797593,
         "Icon": ""
@@ -1075,7 +1084,7 @@
         "Id": 40210052,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108172,
-        "SortOrder": 2148,
+        "SortOrder": 2549,
         "NameTextMapHash": 300175721,
         "DescTextMapHash": 339411049,
         "Icon": ""
@@ -1084,7 +1093,7 @@
         "Id": 40210056,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108203,
-        "SortOrder": 2149,
+        "SortOrder": 2550,
         "NameTextMapHash": 2100379137,
         "DescTextMapHash": 1561769129,
         "Icon": ""
@@ -1093,7 +1102,7 @@
         "Id": 40210057,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108206,
-        "SortOrder": 2150,
+        "SortOrder": 2551,
         "NameTextMapHash": 2824308305,
         "DescTextMapHash": 3392262985,
         "Icon": ""
@@ -1102,7 +1111,7 @@
         "Id": 40210058,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108209,
-        "SortOrder": 2151,
+        "SortOrder": 2552,
         "NameTextMapHash": 2028573089,
         "DescTextMapHash": 2600611801,
         "Icon": ""
@@ -1111,7 +1120,7 @@
         "Id": 40210059,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108212,
-        "SortOrder": 2152,
+        "SortOrder": 2553,
         "NameTextMapHash": 1187420353,
         "DescTextMapHash": 1649424561,
         "Icon": ""
@@ -1120,7 +1129,7 @@
         "Id": 40210061,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108181,
-        "SortOrder": 2154,
+        "SortOrder": 2554,
         "NameTextMapHash": 1876637497,
         "DescTextMapHash": 1059662497,
         "Icon": ""
@@ -1129,7 +1138,7 @@
         "Id": 40210064,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108190,
-        "SortOrder": 2157,
+        "SortOrder": 2557,
         "NameTextMapHash": 3192966905,
         "DescTextMapHash": 3375996289,
         "Icon": ""
@@ -1138,16 +1147,82 @@
         "Id": 40210065,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108193,
-        "SortOrder": 2158,
+        "SortOrder": 2558,
         "NameTextMapHash": 1928086577,
         "DescTextMapHash": 2555260321,
         "Icon": ""
     },
     {
+        "Id": 40210069,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108224,
+        "SortOrder": 2561,
+        "NameTextMapHash": 2391785577,
+        "DescTextMapHash": 3176705049,
+        "Icon": ""
+    },
+    {
+        "Id": 40210070,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108227,
+        "SortOrder": 2562,
+        "NameTextMapHash": 3575538921,
+        "DescTextMapHash": 2858104169,
+        "Icon": ""
+    },
+    {
+        "Id": 40210071,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108230,
+        "SortOrder": 2563,
+        "NameTextMapHash": 443220113,
+        "DescTextMapHash": 3645275105,
+        "Icon": ""
+    },
+    {
+        "Id": 40210072,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108233,
+        "SortOrder": 2564,
+        "NameTextMapHash": 3453382201,
+        "DescTextMapHash": 4113047417,
+        "Icon": ""
+    },
+    {
+        "Id": 40260001,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108237,
+        "SortOrder": 3001,
+        "NameTextMapHash": 3261789161,
+        "DescTextMapHash": 1116693785,
+        "Icon": "",
+        "ShowOnlyUnlocked": true
+    },
+    {
+        "Id": 40260002,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108240,
+        "SortOrder": 3002,
+        "NameTextMapHash": 61464185,
+        "DescTextMapHash": 3458435225,
+        "Icon": "",
+        "ShowOnlyUnlocked": true
+    },
+    {
+        "Id": 40260003,
+        "Type": "CODEX_COOKING_FOOD",
+        "MaterialId": 108243,
+        "SortOrder": 3003,
+        "NameTextMapHash": 3392414985,
+        "DescTextMapHash": 3115254497,
+        "Icon": "",
+        "ShowOnlyUnlocked": true
+    },
+    {
         "Id": 40210041,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108147,
-        "SortOrder": 2200,
+        "SortOrder": 3101,
         "NameTextMapHash": 2040112553,
         "DescTextMapHash": 4162682305,
         "Icon": ""
@@ -1156,7 +1231,7 @@
         "Id": 40210042,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108148,
-        "SortOrder": 2201,
+        "SortOrder": 3102,
         "NameTextMapHash": 2935472417,
         "DescTextMapHash": 2807697401,
         "Icon": ""
@@ -1165,7 +1240,7 @@
         "Id": 40210043,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108149,
-        "SortOrder": 2202,
+        "SortOrder": 3103,
         "NameTextMapHash": 644320937,
         "DescTextMapHash": 686970561,
         "Icon": ""
@@ -1174,7 +1249,7 @@
         "Id": 40210044,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 108150,
-        "SortOrder": 2203,
+        "SortOrder": 3104,
         "NameTextMapHash": 3250209161,
         "DescTextMapHash": 2054366345,
         "Icon": ""
@@ -1183,7 +1258,7 @@
         "Id": 40220001,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100017,
-        "SortOrder": 2400,
+        "SortOrder": 3201,
         "NameTextMapHash": 1995306369,
         "DescTextMapHash": 3550705345,
         "Icon": ""
@@ -1192,7 +1267,7 @@
         "Id": 40220002,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100018,
-        "SortOrder": 2401,
+        "SortOrder": 3202,
         "NameTextMapHash": 421776481,
         "DescTextMapHash": 3007391713,
         "Icon": ""
@@ -1201,7 +1276,7 @@
         "Id": 40220003,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100075,
-        "SortOrder": 2402,
+        "SortOrder": 3203,
         "NameTextMapHash": 967962177,
         "DescTextMapHash": 3745413265,
         "Icon": ""
@@ -1210,7 +1285,7 @@
         "Id": 40220004,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100076,
-        "SortOrder": 2403,
+        "SortOrder": 3204,
         "NameTextMapHash": 1098769865,
         "DescTextMapHash": 3606498369,
         "Icon": ""
@@ -1219,7 +1294,7 @@
         "Id": 40220005,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100077,
-        "SortOrder": 2404,
+        "SortOrder": 3205,
         "NameTextMapHash": 1856342777,
         "DescTextMapHash": 674658137,
         "Icon": ""
@@ -1228,7 +1303,7 @@
         "Id": 40220006,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100078,
-        "SortOrder": 2405,
+        "SortOrder": 3206,
         "NameTextMapHash": 4009906953,
         "DescTextMapHash": 3218891737,
         "Icon": ""
@@ -1237,7 +1312,7 @@
         "Id": 40220007,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100079,
-        "SortOrder": 2406,
+        "SortOrder": 3207,
         "NameTextMapHash": 1359832625,
         "DescTextMapHash": 4251808369,
         "Icon": ""
@@ -1246,7 +1321,7 @@
         "Id": 40220008,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100080,
-        "SortOrder": 2407,
+        "SortOrder": 3208,
         "NameTextMapHash": 1105692561,
         "DescTextMapHash": 2569096129,
         "Icon": ""
@@ -1255,7 +1330,7 @@
         "Id": 40220009,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100088,
-        "SortOrder": 2408,
+        "SortOrder": 3209,
         "NameTextMapHash": 432637169,
         "DescTextMapHash": 3345201153,
         "Icon": ""
@@ -1264,7 +1339,7 @@
         "Id": 40220010,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100089,
-        "SortOrder": 2409,
+        "SortOrder": 3210,
         "NameTextMapHash": 3051309905,
         "DescTextMapHash": 1714470497,
         "Icon": ""
@@ -1273,7 +1348,7 @@
         "Id": 40220011,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100092,
-        "SortOrder": 2410,
+        "SortOrder": 3211,
         "NameTextMapHash": 4161097233,
         "DescTextMapHash": 14567417,
         "Icon": ""
@@ -1282,7 +1357,7 @@
         "Id": 40220012,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100093,
-        "SortOrder": 2411,
+        "SortOrder": 3212,
         "NameTextMapHash": 3516236409,
         "DescTextMapHash": 2876725249,
         "Icon": ""
@@ -1291,7 +1366,7 @@
         "Id": 40230001,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110001,
-        "SortOrder": 2500,
+        "SortOrder": 3301,
         "NameTextMapHash": 192946137,
         "DescTextMapHash": 2193124681,
         "Icon": ""
@@ -1300,7 +1375,7 @@
         "Id": 40230002,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110002,
-        "SortOrder": 2501,
+        "SortOrder": 3302,
         "NameTextMapHash": 3103258745,
         "DescTextMapHash": 3864583297,
         "Icon": ""
@@ -1309,7 +1384,7 @@
         "Id": 40230003,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110003,
-        "SortOrder": 2502,
+        "SortOrder": 3303,
         "NameTextMapHash": 699616657,
         "DescTextMapHash": 1871180625,
         "Icon": ""
@@ -1318,7 +1393,7 @@
         "Id": 40230004,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110004,
-        "SortOrder": 2503,
+        "SortOrder": 3304,
         "NameTextMapHash": 190023321,
         "DescTextMapHash": 3327555089,
         "Icon": ""
@@ -1327,7 +1402,7 @@
         "Id": 40230005,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110005,
-        "SortOrder": 2504,
+        "SortOrder": 3305,
         "NameTextMapHash": 1651918145,
         "DescTextMapHash": 2149326721,
         "Icon": ""
@@ -1336,7 +1411,7 @@
         "Id": 40230006,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110006,
-        "SortOrder": 2505,
+        "SortOrder": 3306,
         "NameTextMapHash": 99190185,
         "DescTextMapHash": 3145878801,
         "Icon": ""
@@ -1345,7 +1420,7 @@
         "Id": 40230007,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110008,
-        "SortOrder": 2506,
+        "SortOrder": 3307,
         "NameTextMapHash": 1111842505,
         "DescTextMapHash": 3709119257,
         "Icon": ""
@@ -1354,7 +1429,7 @@
         "Id": 40230008,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110009,
-        "SortOrder": 2507,
+        "SortOrder": 3308,
         "NameTextMapHash": 2848280937,
         "DescTextMapHash": 2377241641,
         "Icon": ""
@@ -1363,7 +1438,7 @@
         "Id": 40230009,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110010,
-        "SortOrder": 2508,
+        "SortOrder": 3309,
         "NameTextMapHash": 1570927281,
         "DescTextMapHash": 2398337641,
         "Icon": ""
@@ -1372,7 +1447,7 @@
         "Id": 40230010,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 110011,
-        "SortOrder": 2509,
+        "SortOrder": 3310,
         "NameTextMapHash": 407677873,
         "DescTextMapHash": 2581423913,
         "Icon": ""
@@ -1381,7 +1456,7 @@
         "Id": 40230013,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100074,
-        "SortOrder": 2512,
+        "SortOrder": 3313,
         "NameTextMapHash": 2567523513,
         "DescTextMapHash": 3366529217,
         "Icon": ""
@@ -1390,7 +1465,7 @@
         "Id": 40240001,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100061,
-        "SortOrder": 2600,
+        "SortOrder": 3401,
         "NameTextMapHash": 210173441,
         "DescTextMapHash": 953685393,
         "Icon": ""
@@ -1399,7 +1474,7 @@
         "Id": 40240002,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100064,
-        "SortOrder": 2601,
+        "SortOrder": 3402,
         "NameTextMapHash": 2439923441,
         "DescTextMapHash": 1170514393,
         "Icon": ""
@@ -1408,7 +1483,7 @@
         "Id": 40240003,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100084,
-        "SortOrder": 2602,
+        "SortOrder": 3403,
         "NameTextMapHash": 225093217,
         "DescTextMapHash": 1420281881,
         "Icon": ""
@@ -1417,7 +1492,7 @@
         "Id": 40240004,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100073,
-        "SortOrder": 2603,
+        "SortOrder": 3404,
         "NameTextMapHash": 1809235513,
         "DescTextMapHash": 2631475153,
         "Icon": ""
@@ -1426,7 +1501,7 @@
         "Id": 40240005,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 100094,
-        "SortOrder": 2604,
+        "SortOrder": 3405,
         "NameTextMapHash": 3892241665,
         "DescTextMapHash": 4124828673,
         "Icon": ""
@@ -1435,7 +1510,7 @@
         "Id": 40250001,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111006,
-        "SortOrder": 2700,
+        "SortOrder": 3501,
         "NameTextMapHash": 106907265,
         "DescTextMapHash": 4210747217,
         "Icon": ""
@@ -1444,7 +1519,7 @@
         "Id": 40250002,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111007,
-        "SortOrder": 2701,
+        "SortOrder": 3502,
         "NameTextMapHash": 1229567657,
         "DescTextMapHash": 1740448265,
         "Icon": ""
@@ -1453,7 +1528,7 @@
         "Id": 40250003,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111008,
-        "SortOrder": 2702,
+        "SortOrder": 3503,
         "NameTextMapHash": 3808897561,
         "DescTextMapHash": 1705403665,
         "Icon": ""
@@ -1462,7 +1537,7 @@
         "Id": 40250004,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111009,
-        "SortOrder": 2703,
+        "SortOrder": 3504,
         "NameTextMapHash": 103709233,
         "DescTextMapHash": 2702960433,
         "Icon": ""
@@ -1471,7 +1546,7 @@
         "Id": 40250005,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111010,
-        "SortOrder": 2704,
+        "SortOrder": 3505,
         "NameTextMapHash": 3788775465,
         "DescTextMapHash": 673839593,
         "Icon": ""
@@ -1480,7 +1555,7 @@
         "Id": 40250006,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111011,
-        "SortOrder": 2705,
+        "SortOrder": 3506,
         "NameTextMapHash": 1876702169,
         "DescTextMapHash": 1171294281,
         "Icon": ""
@@ -1489,7 +1564,7 @@
         "Id": 40250008,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111013,
-        "SortOrder": 2707,
+        "SortOrder": 3508,
         "NameTextMapHash": 3099339513,
         "DescTextMapHash": 2384330593,
         "Icon": ""
@@ -1498,7 +1573,7 @@
         "Id": 40250009,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111014,
-        "SortOrder": 2708,
+        "SortOrder": 3509,
         "NameTextMapHash": 3947446489,
         "DescTextMapHash": 1594937977,
         "Icon": ""
@@ -1507,7 +1582,7 @@
         "Id": 40250010,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111015,
-        "SortOrder": 2709,
+        "SortOrder": 3510,
         "NameTextMapHash": 1407628001,
         "DescTextMapHash": 1184607105,
         "Icon": ""
@@ -1516,7 +1591,7 @@
         "Id": 40250011,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111016,
-        "SortOrder": 2710,
+        "SortOrder": 3511,
         "NameTextMapHash": 1787657289,
         "DescTextMapHash": 1667767833,
         "Icon": ""
@@ -1525,7 +1600,7 @@
         "Id": 40250012,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111017,
-        "SortOrder": 2711,
+        "SortOrder": 3512,
         "NameTextMapHash": 186271177,
         "DescTextMapHash": 3603204697,
         "Icon": ""
@@ -1534,7 +1609,7 @@
         "Id": 40250013,
         "Type": "CODEX_COOKING_FOOD",
         "MaterialId": 111018,
-        "SortOrder": 2712,
+        "SortOrder": 3513,
         "NameTextMapHash": 1592483489,
         "DescTextMapHash": 2119852193,
         "Icon": ""
@@ -1621,15 +1696,6 @@
         "Icon": ""
     },
     {
-        "Id": 40300010,
-        "Type": "CODEX_WAR_TROPHIES",
-        "MaterialId": 113016,
-        "SortOrder": 4010,
-        "NameTextMapHash": 4240969593,
-        "DescTextMapHash": 774878465,
-        "Icon": ""
-    },
-    {
         "Id": 40310001,
         "Type": "CODEX_WAR_TROPHIES",
         "MaterialId": 113001,
@@ -1681,6 +1747,15 @@
         "SortOrder": 4106,
         "NameTextMapHash": 611768793,
         "DescTextMapHash": 1430855297,
+        "Icon": ""
+    },
+    {
+        "Id": 40300010,
+        "Type": "CODEX_WAR_TROPHIES",
+        "MaterialId": 113016,
+        "SortOrder": 4107,
+        "NameTextMapHash": 4240969593,
+        "DescTextMapHash": 774878465,
         "Icon": ""
     },
     {
@@ -2871,6 +2946,26 @@
         "Icon": ""
     },
     {
+        "Id": 40400017,
+        "Type": "CODEX_WIDGET",
+        "MaterialId": 220023,
+        "SortOrder": 6037,
+        "NameTextMapHash": 1014418849,
+        "DescTextMapHash": 467222105,
+        "Icon": "",
+        "ShowOnlyUnlocked": true
+    },
+    {
+        "Id": 40400018,
+        "Type": "CODEX_WIDGET",
+        "MaterialId": 220024,
+        "SortOrder": 6038,
+        "NameTextMapHash": 2816306025,
+        "DescTextMapHash": 3385656089,
+        "Icon": "",
+        "ShowOnlyUnlocked": true
+    },
+    {
         "Id": 40400010,
         "Type": "CODEX_WIDGET",
         "MaterialId": 220014,
@@ -2916,6 +3011,16 @@
         "SortOrder": 6052,
         "NameTextMapHash": 702767617,
         "DescTextMapHash": 646103689,
+        "Icon": "",
+        "ShowOnlyUnlocked": true
+    },
+    {
+        "Id": 40400019,
+        "Type": "CODEX_WIDGET",
+        "MaterialId": 220025,
+        "SortOrder": 6061,
+        "NameTextMapHash": 2307429305,
+        "DescTextMapHash": 978380361,
         "Icon": "",
         "ShowOnlyUnlocked": true
     }

@@ -1550,5 +1550,117 @@
             {},
             {}
         ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 1,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 104003,
+                "Count": 3,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 2,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 115028,
+                "Count": 1,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 3,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 100,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 4,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 202,
+                "Count": 50000,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 5,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 104003,
+                "Count": 5,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 6,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 109448,
+                "Count": 1,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
+    },
+    {
+        "ConfigId": 10012,
+        "DayCount": 7,
+        "PeriodId": 1,
+        "RewardItemList": [
+            {
+                "ItemId": 201,
+                "Count": 200,
+                "Quality": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ]
     }
 ]

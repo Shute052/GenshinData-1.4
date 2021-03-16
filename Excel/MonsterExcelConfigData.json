@@ -1801,294 +1801,6 @@
         "LODPatternName": ""
     },
     {
-        "MonsterName": "Monster_Dahaka",
-        "Type": "MONSTER_BOSS",
-        "SecurityLevel": "BOSS",
-        "ScriptDataPathHashSuffix": 1972915324,
-        "ScriptDataPathHashPre": 47,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 557485021,
-        "CombatConfigHashPre": 193,
-        "Affix": [
-            90402,
-            90404
-        ],
-        "Ai": "dragon01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "IsSceneReward": true,
-        "VisionLevel": "VISION_LEVEL_LITTLE_REMOTE",
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 29020102,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 90401,
-        "SafetyCheck": true,
-        "CombatBGMLevel": 9,
-        "HpBase": 244.51199340820312,
-        "AttackBase": 75.36000061035156,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 3573937192,
-        "PrefabPathRagdollHashPre": 58,
-        "Id": 29040101,
-        "NameTextMapHash": 4010051393,
-        "PrefabPathHashSuffix": 3108949377,
-        "PrefabPathHashPre": 106,
-        "PrefabPathRemoteHashSuffix": 2235531879,
-        "PrefabPathRemoteHashPre": 163,
-        "ControllerPathHashSuffix": 3214492005,
-        "ControllerPathHashPre": 209,
-        "ControllerPathRemoteHashSuffix": 3824867702,
-        "ControllerPathRemoteHashPre": 30,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Monster_Dahaka",
-        "Type": "MONSTER_BOSS",
-        "SecurityLevel": "BOSS",
-        "ScriptDataPathHashSuffix": 1972915324,
-        "ScriptDataPathHashPre": 47,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 557485021,
-        "CombatConfigHashPre": 193,
-        "Affix": [
-            90401,
-            90404
-        ],
-        "Ai": "dragon01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "IsSceneReward": true,
-        "VisionLevel": "VISION_LEVEL_LITTLE_REMOTE",
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 29020102,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 90401,
-        "SafetyCheck": true,
-        "CombatBGMLevel": 9,
-        "HpBase": 244.51199340820312,
-        "AttackBase": 75.36000061035156,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 3573937192,
-        "PrefabPathRagdollHashPre": 58,
-        "Id": 29040102,
-        "NameTextMapHash": 3959610729,
-        "PrefabPathHashSuffix": 3108949377,
-        "PrefabPathHashPre": 106,
-        "PrefabPathRemoteHashSuffix": 2235531879,
-        "PrefabPathRemoteHashPre": 163,
-        "ControllerPathHashSuffix": 3214492005,
-        "ControllerPathHashPre": 209,
-        "ControllerPathRemoteHashSuffix": 3824867702,
-        "ControllerPathRemoteHashPre": 30,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Monster_Dahaka",
-        "Type": "MONSTER_BOSS",
-        "SecurityLevel": "BOSS",
-        "ScriptDataPathHashSuffix": 1972915324,
-        "ScriptDataPathHashPre": 47,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 557485021,
-        "CombatConfigHashPre": 193,
-        "Affix": [
-            90402,
-            90403
-        ],
-        "Ai": "dragon01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "IsSceneReward": true,
-        "VisionLevel": "VISION_LEVEL_LITTLE_REMOTE",
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 29020102,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 90401,
-        "SafetyCheck": true,
-        "CombatBGMLevel": 9,
-        "HpBase": 244.51199340820312,
-        "AttackBase": 75.36000061035156,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 3573937192,
-        "PrefabPathRagdollHashPre": 58,
-        "Id": 29040103,
-        "NameTextMapHash": 1527298001,
-        "PrefabPathHashSuffix": 3108949377,
-        "PrefabPathHashPre": 106,
-        "PrefabPathRemoteHashSuffix": 2235531879,
-        "PrefabPathRemoteHashPre": 163,
-        "ControllerPathHashSuffix": 3214492005,
-        "ControllerPathHashPre": 209,
-        "ControllerPathRemoteHashSuffix": 3824867702,
-        "ControllerPathRemoteHashPre": 30,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Monster_Dahaka",
-        "Type": "MONSTER_BOSS",
-        "SecurityLevel": "BOSS",
-        "ScriptDataPathHashSuffix": 1972915324,
-        "ScriptDataPathHashPre": 47,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 557485021,
-        "CombatConfigHashPre": 193,
-        "Affix": [
-            90401,
-            90403
-        ],
-        "Ai": "dragon01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "IsSceneReward": true,
-        "VisionLevel": "VISION_LEVEL_LITTLE_REMOTE",
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 29020102,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 90401,
-        "SafetyCheck": true,
-        "CombatBGMLevel": 9,
-        "HpBase": 244.51199340820312,
-        "AttackBase": 75.36000061035156,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 3573937192,
-        "PrefabPathRagdollHashPre": 58,
-        "Id": 29040104,
-        "NameTextMapHash": 2408045345,
-        "PrefabPathHashSuffix": 3108949377,
-        "PrefabPathHashPre": 106,
-        "PrefabPathRemoteHashSuffix": 2235531879,
-        "PrefabPathRemoteHashPre": 163,
-        "ControllerPathHashSuffix": 3214492005,
-        "ControllerPathHashPre": 209,
-        "ControllerPathRemoteHashSuffix": 3824867702,
-        "ControllerPathRemoteHashPre": 30,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
         "MonsterName": "Elemental_Wind_01",
         "Type": "MONSTER_ORDINARY",
         "SecurityLevel": "ELITE",
@@ -2644,84 +2356,6 @@
         "ControllerPathHashPre": 13,
         "ControllerPathRemoteHashSuffix": 2072878541,
         "ControllerPathRemoteHashPre": 235,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Effigy_Water_01",
-        "Type": "MONSTER_BOSS",
-        "SecurityLevel": "BOSS",
-        "ScriptDataPathHashSuffix": 1443390616,
-        "ScriptDataPathHashPre": 78,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 4140834130,
-        "CombatConfigHashPre": 231,
-        "Affix": [],
-        "Ai": "scout01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {
-                "DropId": 22010032,
-                "HpPercent": 75.0
-            },
-            {
-                "DropId": 22010032,
-                "HpPercent": 50.0
-            },
-            {
-                "DropId": 22010032,
-                "HpPercent": 25.0
-            }
-        ],
-        "KillDropId": 22010032,
-        "IsInvisibleReset": true,
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 20040101,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 404,
-        "SafetyCheck": true,
-        "CombatBGMLevel": 7,
-        "HpBase": 95.08799743652344,
-        "AttackBase": 75.36000061035156,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 1183722151,
-        "PrefabPathRagdollHashPre": 39,
-        "Id": 20040401,
-        "NameTextMapHash": 629631361,
-        "PrefabPathHashSuffix": 3752821945,
-        "PrefabPathHashPre": 12,
-        "PrefabPathRemoteHashSuffix": 963153485,
-        "PrefabPathRemoteHashPre": 227,
-        "ControllerPathHashSuffix": 1943387062,
-        "ControllerPathHashPre": 154,
-        "ControllerPathRemoteHashSuffix": 26715560,
-        "ControllerPathRemoteHashPre": 100,
         "CampID": 4001,
         "LODPatternName": ""
     },
@@ -3675,270 +3309,6 @@
         "LODPatternName": ""
     },
     {
-        "MonsterName": "Effigy_Water_Underling_Ooze_01",
-        "Type": "MONSTER_ORDINARY",
-        "ScriptDataPathHashSuffix": 299838192,
-        "ScriptDataPathHashPre": 8,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 2783085288,
-        "CombatConfigHashPre": 47,
-        "Affix": [],
-        "Ai": "assist01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "KillDropId": 22010012,
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 20010501,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 116,
-        "CombatBGMLevel": 1,
-        "HpBase": 27.167999267578125,
-        "AttackBase": 17.583999633789062,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 3626547219,
-        "PrefabPathRagdollHashPre": 79,
-        "Id": 20011601,
-        "NameTextMapHash": 1353833713,
-        "PrefabPathHashSuffix": 1887145350,
-        "PrefabPathHashPre": 138,
-        "PrefabPathRemoteHashSuffix": 931554921,
-        "PrefabPathRemoteHashPre": 130,
-        "ControllerPathHashSuffix": 1345605896,
-        "ControllerPathHashPre": 217,
-        "ControllerPathRemoteHashSuffix": 3911047282,
-        "ControllerPathRemoteHashPre": 92,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Effigy_Water_Underling_Ooze_02",
-        "Type": "MONSTER_ORDINARY",
-        "ScriptDataPathHashSuffix": 299838192,
-        "ScriptDataPathHashPre": 8,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 500670713,
-        "CombatConfigHashPre": 53,
-        "Affix": [],
-        "Ai": "assist01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "KillDropId": 22010012,
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 20010601,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 117,
-        "CombatBGMLevel": 1,
-        "HpBase": 10.867199897766113,
-        "AttackBase": 7.535999774932861,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 3813061781,
-        "PrefabPathRagdollHashPre": 225,
-        "Id": 20011701,
-        "NameTextMapHash": 3376518281,
-        "PrefabPathHashSuffix": 3983566635,
-        "PrefabPathHashPre": 96,
-        "PrefabPathRemoteHashSuffix": 2458441006,
-        "PrefabPathRemoteHashPre": 201,
-        "ControllerPathHashSuffix": 1518904683,
-        "ControllerPathHashPre": 230,
-        "ControllerPathRemoteHashSuffix": 1221452002,
-        "ControllerPathRemoteHashPre": 149,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Effigy_Water_Underling_Ooze_03",
-        "Type": "MONSTER_ORDINARY",
-        "ScriptDataPathHashSuffix": 299838192,
-        "ScriptDataPathHashPre": 8,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 3110851721,
-        "CombatConfigHashPre": 223,
-        "Affix": [],
-        "Ai": "assist01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "KillDropId": 22010012,
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 20010601,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 118,
-        "CombatBGMLevel": 1,
-        "HpBase": 27.167999267578125,
-        "AttackBase": 17.583999633789062,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 45554537,
-        "PrefabPathRagdollHashPre": 14,
-        "Id": 20011801,
-        "NameTextMapHash": 2322955793,
-        "PrefabPathHashSuffix": 8794399,
-        "PrefabPathHashPre": 215,
-        "PrefabPathRemoteHashSuffix": 1841405403,
-        "PrefabPathRemoteHashPre": 252,
-        "ControllerPathHashSuffix": 1641438284,
-        "ControllerPathHashPre": 150,
-        "ControllerPathRemoteHashSuffix": 2641982210,
-        "ControllerPathRemoteHashPre": 68,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
-        "MonsterName": "Effigy_Water_Underling_Ooze_04",
-        "Type": "MONSTER_ORDINARY",
-        "ScriptDataPathHashSuffix": 299838192,
-        "ScriptDataPathHashPre": 8,
-        "ServerScript": "",
-        "CombatConfigHashSuffix": 2101924221,
-        "CombatConfigHashPre": 197,
-        "Affix": [],
-        "Ai": "assist01",
-        "Equips": [
-            0,
-            0
-        ],
-        "HpDrops": [
-            {},
-            {},
-            {}
-        ],
-        "KillDropId": 22010012,
-        "ExcludeWeathers": "",
-        "FeatureTagGroupID": 20010701,
-        "MpPropID": 1,
-        "Skin": "",
-        "DescribeId": 119,
-        "CombatBGMLevel": 1,
-        "HpBase": 27.167999267578125,
-        "AttackBase": 17.583999633789062,
-        "DefenseBase": 500.0,
-        "FireSubHurt": 0.10000000149011612,
-        "GrassSubHurt": 0.10000000149011612,
-        "WaterSubHurt": 0.10000000149011612,
-        "ElecSubHurt": 0.10000000149011612,
-        "WindSubHurt": 0.10000000149011612,
-        "IceSubHurt": 0.10000000149011612,
-        "RockSubHurt": 0.10000000149011612,
-        "PropGrowCurves": [
-            {
-                "Type": "FIGHT_PROP_BASE_HP",
-                "GrowCurve": "GROW_CURVE_HP"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_ATTACK",
-                "GrowCurve": "GROW_CURVE_ATTACK"
-            },
-            {
-                "Type": "FIGHT_PROP_BASE_DEFENSE",
-                "GrowCurve": "GROW_CURVE_DEFENSE"
-            }
-        ],
-        "PhysicalSubHurt": 0.10000000149011612,
-        "PrefabPathRagdollHashSuffix": 810925069,
-        "PrefabPathRagdollHashPre": 196,
-        "Id": 20011901,
-        "NameTextMapHash": 2314559001,
-        "PrefabPathHashSuffix": 2992283782,
-        "PrefabPathHashPre": 123,
-        "PrefabPathRemoteHashSuffix": 274494822,
-        "PrefabPathRemoteHashPre": 225,
-        "ControllerPathHashSuffix": 2888239597,
-        "ControllerPathHashPre": 56,
-        "ControllerPathRemoteHashSuffix": 972504728,
-        "ControllerPathRemoteHashPre": 236,
-        "CampID": 4001,
-        "LODPatternName": ""
-    },
-    {
         "MonsterName": "Monster_Oceanid",
         "Type": "MONSTER_BOSS",
         "SecurityLevel": "BOSS",
@@ -3962,7 +3332,7 @@
         ],
         "KillDropId": 22010032,
         "ExcludeWeathers": "",
-        "FeatureTagGroupID": 20010501,
+        "FeatureTagGroupID": 20050101,
         "MpPropID": 1,
         "Skin": "",
         "DescribeId": 501,
@@ -4005,6 +3375,85 @@
         "ControllerPathHashPre": 217,
         "ControllerPathRemoteHashSuffix": 1845736374,
         "ControllerPathRemoteHashPre": 16,
+        "CampID": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Monster_Oceanid_02",
+        "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
+        "ScriptDataPathHashSuffix": 299838192,
+        "ScriptDataPathHashPre": 8,
+        "ServerScript": "",
+        "CombatConfigHashSuffix": 2273601397,
+        "CombatConfigHashPre": 15,
+        "Affix": [
+            3003
+        ],
+        "Ai": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010032,
+                "HpPercent": 75.0
+            },
+            {
+                "DropId": 22010032,
+                "HpPercent": 50.0
+            },
+            {
+                "DropId": 22010032,
+                "HpPercent": 25.0
+            }
+        ],
+        "KillDropId": 22010022,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupID": 20050101,
+        "MpPropID": 1,
+        "Skin": "",
+        "DescribeId": 501,
+        "SafetyCheck": true,
+        "CombatBGMLevel": 7,
+        "HpBase": 190.17599487304688,
+        "AttackBase": 50.2400016784668,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashSuffix": 4213579601,
+        "PrefabPathRagdollHashPre": 120,
+        "Id": 20050102,
+        "NameTextMapHash": 2806238457,
+        "PrefabPathHashSuffix": 3316351159,
+        "PrefabPathHashPre": 92,
+        "PrefabPathRemoteHashSuffix": 3578040262,
+        "PrefabPathRemoteHashPre": 128,
+        "ControllerPathHashSuffix": 2168956121,
+        "ControllerPathHashPre": 225,
+        "ControllerPathRemoteHashSuffix": 716307863,
+        "ControllerPathRemoteHashPre": 127,
         "CampID": 4001,
         "LODPatternName": ""
     },
@@ -4073,6 +3522,77 @@
         "ControllerPathHashPre": 138,
         "ControllerPathRemoteHashSuffix": 2205744895,
         "ControllerPathRemoteHashPre": 208,
+        "CampID": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Monster_Oceanid_Boar_02",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashSuffix": 299838192,
+        "ScriptDataPathHashPre": 8,
+        "ServerScript": "",
+        "CombatConfigHashSuffix": 359098600,
+        "CombatConfigHashPre": 5,
+        "Affix": [
+            3003
+        ],
+        "Ai": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010012,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupID": 20010501,
+        "MpPropID": 1,
+        "Skin": "",
+        "DescribeId": 502,
+        "CombatBGMLevel": 1,
+        "HpBase": 46.18560028076172,
+        "AttackBase": 37.68000030517578,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashSuffix": 3433556612,
+        "PrefabPathRagdollHashPre": 123,
+        "Id": 20050202,
+        "NameTextMapHash": 1309787097,
+        "PrefabPathHashSuffix": 1449134203,
+        "PrefabPathHashPre": 0,
+        "PrefabPathRemoteHashSuffix": 2380706870,
+        "PrefabPathRemoteHashPre": 254,
+        "ControllerPathHashSuffix": 2754234133,
+        "ControllerPathHashPre": 182,
+        "ControllerPathRemoteHashSuffix": 3659095075,
+        "ControllerPathRemoteHashPre": 154,
         "CampID": 4001,
         "LODPatternName": ""
     },
@@ -4213,6 +3733,74 @@
         "LODPatternName": ""
     },
     {
+        "MonsterName": "Monster_Oceanid_Crab_02",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashSuffix": 299838192,
+        "ScriptDataPathHashPre": 8,
+        "ServerScript": "",
+        "CombatConfigHashSuffix": 803517625,
+        "CombatConfigHashPre": 45,
+        "Affix": [
+            3003
+        ],
+        "Ai": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {},
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupID": 20010501,
+        "MpPropID": 1,
+        "Skin": "",
+        "DescribeId": 504,
+        "CombatBGMLevel": 1,
+        "HpBase": 8.150400161743164,
+        "AttackBase": 25.1200008392334,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashSuffix": 2098695725,
+        "PrefabPathRagdollHashPre": 118,
+        "Id": 20050402,
+        "NameTextMapHash": 3782397281,
+        "PrefabPathHashSuffix": 887122288,
+        "PrefabPathHashPre": 191,
+        "PrefabPathRemoteHashSuffix": 710552741,
+        "PrefabPathRemoteHashPre": 237,
+        "ControllerPathHashSuffix": 196283666,
+        "ControllerPathHashPre": 43,
+        "ControllerPathRemoteHashSuffix": 1911027476,
+        "ControllerPathRemoteHashPre": 157,
+        "CampID": 4001,
+        "LODPatternName": ""
+    },
+    {
         "MonsterName": "Monster_Oceanid_Tit",
         "Type": "MONSTER_ORDINARY",
         "ScriptDataPathHashSuffix": 299838192,
@@ -4231,12 +3819,15 @@
         "HpDrops": [
             {
                 "DropId": 22010012,
-                "HpPercent": 60.0
+                "HpPercent": 66.0
             },
-            {},
+            {
+                "DropId": 22010012,
+                "HpPercent": 33.0
+            },
             {}
         ],
-        "KillDropId": 22010012,
+        "KillDropId": 22010032,
         "ExcludeWeathers": "",
         "FeatureTagGroupID": 20010601,
         "MpPropID": 1,
@@ -4415,6 +4006,77 @@
         "ControllerPathHashSuffix": 1173503894,
         "ControllerPathHashPre": 43,
         "ControllerPathRemoteHashSuffix": 939507497,
+        "ControllerPathRemoteHashPre": 91,
+        "CampID": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Monster_Oceanid_Squirrel_02",
+        "Type": "MONSTER_ORDINARY",
+        "ScriptDataPathHashSuffix": 299838192,
+        "ScriptDataPathHashPre": 8,
+        "ServerScript": "",
+        "CombatConfigHashSuffix": 3603811201,
+        "CombatConfigHashPre": 112,
+        "Affix": [
+            3003
+        ],
+        "Ai": "assist01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010012,
+                "HpPercent": 60.0
+            },
+            {},
+            {}
+        ],
+        "KillDropId": 22010012,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupID": 20010501,
+        "MpPropID": 1,
+        "Skin": "",
+        "DescribeId": 507,
+        "CombatBGMLevel": 1,
+        "HpBase": 46.18560028076172,
+        "AttackBase": 37.68000030517578,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashSuffix": 3860575463,
+        "PrefabPathRagdollHashPre": 113,
+        "Id": 20050702,
+        "NameTextMapHash": 2925488809,
+        "PrefabPathHashSuffix": 2058486986,
+        "PrefabPathHashPre": 144,
+        "PrefabPathRemoteHashSuffix": 1323951549,
+        "PrefabPathRemoteHashPre": 247,
+        "ControllerPathHashSuffix": 838868891,
+        "ControllerPathHashPre": 31,
+        "ControllerPathRemoteHashSuffix": 4191656682,
         "ControllerPathRemoteHashPre": 91,
         "CampID": 4001,
         "LODPatternName": ""
@@ -7178,6 +6840,156 @@
         "ControllerPathHashPre": 67,
         "ControllerPathRemoteHashSuffix": 3116949801,
         "ControllerPathRemoteHashPre": 136,
+        "CampID": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Invoker_Herald_Water_01",
+        "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
+        "ScriptDataPathHashSuffix": 2936040797,
+        "ScriptDataPathHashPre": 81,
+        "ServerScript": "",
+        "CombatConfigHashSuffix": 3620218636,
+        "CombatConfigHashPre": 200,
+        "Affix": [],
+        "Ai": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010032,
+                "HpPercent": 66.0
+            },
+            {
+                "DropId": 22010032,
+                "HpPercent": 33.0
+            },
+            {}
+        ],
+        "KillDropId": 22010022,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupID": 22020101,
+        "MpPropID": 1,
+        "Skin": "",
+        "DescribeId": 20201,
+        "CombatBGMLevel": 5,
+        "HpBase": 108.6719970703125,
+        "AttackBase": 37.68000030517578,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashSuffix": 2748378798,
+        "PrefabPathRagdollHashPre": 5,
+        "Id": 22020101,
+        "NameTextMapHash": 2589669625,
+        "PrefabPathHashSuffix": 1877028273,
+        "PrefabPathHashPre": 171,
+        "PrefabPathRemoteHashSuffix": 927128488,
+        "PrefabPathRemoteHashPre": 246,
+        "ControllerPathHashSuffix": 3576132030,
+        "ControllerPathHashPre": 157,
+        "ControllerPathRemoteHashSuffix": 1375207142,
+        "ControllerPathRemoteHashPre": 148,
+        "CampID": 4001,
+        "LODPatternName": ""
+    },
+    {
+        "MonsterName": "Invoker_Herald_Water_01",
+        "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
+        "ScriptDataPathHashSuffix": 2936040797,
+        "ScriptDataPathHashPre": 81,
+        "ServerScript": "",
+        "CombatConfigHashSuffix": 3620218636,
+        "CombatConfigHashPre": 200,
+        "Affix": [
+            9008
+        ],
+        "Ai": "scout01",
+        "Equips": [
+            0,
+            0
+        ],
+        "HpDrops": [
+            {
+                "DropId": 22010032,
+                "HpPercent": 66.0
+            },
+            {
+                "DropId": 22010032,
+                "HpPercent": 33.0
+            },
+            {}
+        ],
+        "KillDropId": 22010022,
+        "IsInvisibleReset": true,
+        "ExcludeWeathers": "",
+        "FeatureTagGroupID": 22020101,
+        "MpPropID": 1,
+        "Skin": "",
+        "DescribeId": 20201,
+        "CombatBGMLevel": 5,
+        "HpBase": 108.6719970703125,
+        "AttackBase": 37.68000030517578,
+        "DefenseBase": 500.0,
+        "FireSubHurt": 0.10000000149011612,
+        "GrassSubHurt": 0.10000000149011612,
+        "WaterSubHurt": 0.10000000149011612,
+        "ElecSubHurt": 0.10000000149011612,
+        "WindSubHurt": 0.10000000149011612,
+        "IceSubHurt": 0.10000000149011612,
+        "RockSubHurt": 0.10000000149011612,
+        "PropGrowCurves": [
+            {
+                "Type": "FIGHT_PROP_BASE_HP",
+                "GrowCurve": "GROW_CURVE_HP"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_ATTACK",
+                "GrowCurve": "GROW_CURVE_ATTACK"
+            },
+            {
+                "Type": "FIGHT_PROP_BASE_DEFENSE",
+                "GrowCurve": "GROW_CURVE_DEFENSE"
+            }
+        ],
+        "PhysicalSubHurt": 0.10000000149011612,
+        "PrefabPathRagdollHashSuffix": 2748378798,
+        "PrefabPathRagdollHashPre": 5,
+        "Id": 22020102,
+        "NameTextMapHash": 2729707737,
+        "PrefabPathHashSuffix": 1877028273,
+        "PrefabPathHashPre": 171,
+        "PrefabPathRemoteHashSuffix": 927128488,
+        "PrefabPathRemoteHashPre": 246,
+        "ControllerPathHashSuffix": 3576132030,
+        "ControllerPathHashPre": 157,
+        "ControllerPathRemoteHashSuffix": 1375207142,
+        "ControllerPathRemoteHashPre": 148,
         "CampID": 4001,
         "LODPatternName": ""
     },
@@ -11371,6 +11183,7 @@
     {
         "MonsterName": "Wyrm_Rock",
         "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11444,6 +11257,7 @@
     {
         "MonsterName": "Drake_Rock_01_Water",
         "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11519,6 +11333,7 @@
     {
         "MonsterName": "Drake_Rock_01_Fire",
         "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11594,6 +11409,7 @@
     {
         "MonsterName": "Drake_Rock_01_Ice",
         "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11669,6 +11485,7 @@
     {
         "MonsterName": "Drake_Rock_01_Elec",
         "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11744,6 +11561,7 @@
     {
         "MonsterName": "Drake_Primo_Rock_01_Water",
         "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11820,6 +11638,7 @@
     {
         "MonsterName": "Drake_Primo_Rock_01_Fire",
         "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11896,6 +11715,7 @@
     {
         "MonsterName": "Drake_Primo_Rock_01_Ice",
         "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -11972,6 +11792,7 @@
     {
         "MonsterName": "Drake_Primo_Rock_01_Elec",
         "Type": "MONSTER_BOSS",
+        "SecurityLevel": "BOSS",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -14678,6 +14499,7 @@
     {
         "MonsterName": "Boar_04",
         "Type": "MONSTER_ORDINARY",
+        "SecurityLevel": "ELITE",
         "ScriptDataPathHashSuffix": 1151001883,
         "ScriptDataPathHashPre": 84,
         "ServerScript": "",
@@ -14704,11 +14526,13 @@
             }
         ],
         "KillDropId": 22003100,
+        "IsInvisibleReset": true,
         "ExcludeWeathers": "雨,雷雨,雪",
         "FeatureTagGroupID": 28020301,
         "MpPropID": 1,
         "Skin": "",
         "DescribeId": 28020304,
+        "SafetyCheck": true,
         "CombatBGMLevel": 3,
         "HpBase": 149.4239959716797,
         "AttackBase": 62.79999923706055,

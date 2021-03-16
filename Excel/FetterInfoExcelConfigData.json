@@ -773,5 +773,30 @@
                 "ParamList": []
             }
         ]
+    },
+    {
+        "InfoBirthMonth": 1,
+        "InfoBirthDay": 24,
+        "AvatarNativeTextMapHash": 1208431633,
+        "AvatarVisionBeforTextMapHash": 2778487532,
+        "AvatarConstellationBeforTextMapHash": 3331210802,
+        "AvatarTitleTextMapHash": 3918225546,
+        "AvatarDetailTextMapHash": 2858258162,
+        "AvatarAssocType": "ASSOC_TYPE_MONDSTADT",
+        "CvChineseTextMapHash": 1517505318,
+        "CvJapaneseTextMapHash": 3445993248,
+        "CvEnglishTextMapHash": 1467808508,
+        "CvKoreanTextMapHash": 2927759831,
+        "AvatarVisionAfterTextMapHash": 3452454753,
+        "AvatarConstellationAfterTextMapHash": 490664827,
+        "FetterId": 133,
+        "AvatarId": 10000045,
+        "OpenConds": [],
+        "FinishConds": [
+            {
+                "CondType": "FETTER_COND_NOT_OPEN",
+                "ParamList": []
+            }
+        ]
     }
 ]

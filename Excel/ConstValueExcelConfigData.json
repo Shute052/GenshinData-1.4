@@ -2310,10 +2310,65 @@
         ]
     },
     {
+        "Name": "CONST_VALUE_ACTIVITY_WATER_SPRITE_PARA",
+        "Value": [
+            "120",
+            "31001",
+            "1",
+            "41421",
+            "41422",
+            "220023"
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_WORLD_LEVEL_ADJUST",
+        "Value": [
+            "4",
+            "24",
+            "1",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
         "Name": "CONST_VALUE_NECHANICUS_OPEN_QUESTID",
         "Value": [
             "41311",
             "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ARENA_CHALLENGE_REWARD_WORKTOP",
+        "Value": [
+            "3",
+            "133001575",
+            "575010",
+            "0",
+            "201",
+            ""
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_ACTIVITY_WATER_SPRITE_PARA_SECONDPART",
+        "Value": [
+            "4142205",
+            "4",
+            "9004",
+            "10010101,10010102,10010103,10010104,10010105",
+            "1,2,3,4,5",
+            "10010102,4142110"
+        ]
+    },
+    {
+        "Name": "CONST_VALUE_COOP_QUESTID_INTERVAL",
+        "Value": [
+            "19000",
+            "19999",
             "",
             "",
             "",
