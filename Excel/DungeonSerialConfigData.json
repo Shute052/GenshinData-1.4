@@ -12,5 +12,10 @@
         "Id": 1003,
         "MaxTakeNum": 1,
         "TakeCost": 60
+    },
+    {
+        "Id": 1004,
+        "MaxTakeNum": 1,
+        "TakeCost": 60
     }
 ]

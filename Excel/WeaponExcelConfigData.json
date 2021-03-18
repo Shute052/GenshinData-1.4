@@ -806,23 +806,31 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            111410,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 45.06869888305664,
+                "Type": "GROW_CURVE_ATTACK_203"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "InitValue": 11.999987602233887,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Outlaw/Equip_Sword_Outlaw_OverrideTexture/Equip_Sword_Outlaw_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Sword_Outlaw_Awaken",
-        "WeaponPromoteId": 14101,
-        "AwakenCosts": [],
+        "WeaponPromoteId": 11410,
+        "StoryId": 191410,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
         "GachaCardNameHashSuffix": 576826403,
         "GachaCardNameHashPre": 167,
         "DestroyReturnMaterial": [
@@ -859,12 +867,12 @@
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Heartseeker/Equip_Sword_Heartseeker_OverrideTexture/Equip_Sword_Heartseeker_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Sword_Heartseeker_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blunt/Equip_Sword_Blunt_OverrideTexture/Equip_Sword_Blunt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1023323240,
-        "GachaCardNameHashPre": 77,
+        "GachaCardNameHashSuffix": 3348941200,
+        "GachaCardNameHashPre": 203,
         "DestroyReturnMaterial": [
             0
         ],
@@ -875,7 +883,7 @@
         "Id": 11411,
         "NameTextMapHash": 1203074099,
         "DescTextMapHash": 1278086517,
-        "Icon": "UI_EquipIcon_Sword_Heartseeker",
+        "Icon": "UI_EquipIcon_Sword_Blunt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -1088,12 +1096,12 @@
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Widsith/Equip_Sword_Widsith_OverrideTexture/Equip_Sword_Widsith_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Sword_Widsith_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blunt/Equip_Sword_Blunt_OverrideTexture/Equip_Sword_Blunt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 2409067244,
-        "GachaCardNameHashPre": 129,
+        "GachaCardNameHashSuffix": 3348941200,
+        "GachaCardNameHashPre": 203,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1104,7 +1112,7 @@
         "Id": 11503,
         "NameTextMapHash": 2949448555,
         "DescTextMapHash": 1179976749,
-        "Icon": "UI_EquipIcon_Sword_Widsith",
+        "Icon": "UI_EquipIcon_Sword_Blunt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -1224,13 +1232,12 @@
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Transcend/Equip_Sword_Transcend_OverrideTexture/Equip_Sword_Transcend_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Sword_Transcend_Awaken",
-        "WeaponPromoteId": 14101,
-        "StoryId": 191506,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blunt/Equip_Sword_Blunt_OverrideTexture/Equip_Sword_Blunt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 2706294933,
-        "GachaCardNameHashPre": 125,
+        "GachaCardNameHashSuffix": 3348941200,
+        "GachaCardNameHashPre": 203,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1241,7 +1248,7 @@
         "Id": 11506,
         "NameTextMapHash": 231836963,
         "DescTextMapHash": 224422549,
-        "Icon": "UI_EquipIcon_Sword_Transcend",
+        "Icon": "UI_EquipIcon_Sword_Blunt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -1265,12 +1272,12 @@
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Boreas/Equip_Sword_Boreas_OverrideTexture/Equip_Sword_Boreas_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Sword_Boreas_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blunt/Equip_Sword_Blunt_OverrideTexture/Equip_Sword_Blunt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 973089515,
-        "GachaCardNameHashPre": 202,
+        "GachaCardNameHashSuffix": 3348941200,
+        "GachaCardNameHashPre": 203,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1281,7 +1288,7 @@
         "Id": 11507,
         "NameTextMapHash": 3780343147,
         "DescTextMapHash": 1210667381,
-        "Icon": "UI_EquipIcon_Sword_Boreas",
+        "Icon": "UI_EquipIcon_Sword_Blunt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -1305,12 +1312,12 @@
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Pillars/Equip_Sword_Pillars_OverrideTexture/Equip_Sword_Pillars_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Sword_Pillars_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Sword_Blunt/Equip_Sword_Blunt_OverrideTexture/Equip_Sword_Blunt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Sword_Blunt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 831326989,
-        "GachaCardNameHashPre": 101,
+        "GachaCardNameHashSuffix": 3348941200,
+        "GachaCardNameHashPre": 203,
         "DestroyReturnMaterial": [
             0
         ],
@@ -1321,7 +1328,7 @@
         "Id": 11508,
         "NameTextMapHash": 1664039091,
         "DescTextMapHash": 2004615341,
-        "Icon": "UI_EquipIcon_Sword_Pillars",
+        "Icon": "UI_EquipIcon_Sword_Blunt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -2332,19 +2339,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 47.5369987487793,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Widsith/Equip_Claymore_Widsith_OverrideTexture/Equip_Claymore_Widsith_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Claymore_Widsith_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Aniki/Equip_Claymore_Aniki_OverrideTexture/Equip_Claymore_Aniki_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1627480080,
-        "GachaCardNameHashPre": 193,
+        "GachaCardNameHashSuffix": 3288337370,
+        "GachaCardNameHashPre": 35,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2355,7 +2362,7 @@
         "Id": 12503,
         "NameTextMapHash": 1075647299,
         "DescTextMapHash": 3478455989,
-        "Icon": "UI_EquipIcon_Claymore_Widsith",
+        "Icon": "UI_EquipIcon_Claymore_Aniki",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -2420,19 +2427,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 47.5369987487793,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Morax/Equip_Claymore_Morax_OverrideTexture/Equip_Claymore_Morax_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Claymore_Morax_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Aniki/Equip_Claymore_Aniki_OverrideTexture/Equip_Claymore_Aniki_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 2434129349,
-        "GachaCardNameHashPre": 69,
+        "GachaCardNameHashSuffix": 3288337370,
+        "GachaCardNameHashPre": 35,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2443,7 +2450,7 @@
         "Id": 12505,
         "NameTextMapHash": 977648923,
         "DescTextMapHash": 2108387445,
-        "Icon": "UI_EquipIcon_Claymore_Morax",
+        "Icon": "UI_EquipIcon_Claymore_Aniki",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -2460,19 +2467,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 47.5369987487793,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Appease/Equip_Claymore_Appease_OverrideTexture/Equip_Claymore_Appease_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Claymore_Appease_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Aniki/Equip_Claymore_Aniki_OverrideTexture/Equip_Claymore_Aniki_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1627443127,
-        "GachaCardNameHashPre": 169,
+        "GachaCardNameHashSuffix": 3288337370,
+        "GachaCardNameHashPre": 35,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2483,7 +2490,7 @@
         "Id": 12506,
         "NameTextMapHash": 2597527627,
         "DescTextMapHash": 1872955621,
-        "Icon": "UI_EquipIcon_Claymore_Appease",
+        "Icon": "UI_EquipIcon_Claymore_Aniki",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -2500,19 +2507,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 47.5369987487793,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Moonlight/Equip_Claymore_Moonlight_OverrideTexture/Equip_Claymore_Moonlight_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Claymore_Moonlight_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Claymore_Aniki/Equip_Claymore_Aniki_OverrideTexture/Equip_Claymore_Aniki_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Claymore_Aniki_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 4180326718,
-        "GachaCardNameHashPre": 90,
+        "GachaCardNameHashSuffix": 3288337370,
+        "GachaCardNameHashPre": 35,
         "DestroyReturnMaterial": [
             0
         ],
@@ -2523,7 +2530,7 @@
         "Id": 12508,
         "NameTextMapHash": 759708203,
         "DescTextMapHash": 2717637085,
-        "Icon": "UI_EquipIcon_Claymore_Moonlight",
+        "Icon": "UI_EquipIcon_Claymore_Aniki",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -3340,19 +3347,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 45.9364013671875,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Widsith/Equip_Pole_Widsith_OverrideTexture/Equip_Pole_Widsith_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Pole_Widsith_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Gewalt/Equip_Pole_Gewalt_OverrideTexture/Equip_Pole_Gewalt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Pole_Gewalt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1814219172,
-        "GachaCardNameHashPre": 164,
+        "GachaCardNameHashSuffix": 2043974835,
+        "GachaCardNameHashPre": 7,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3363,7 +3370,7 @@
         "Id": 13503,
         "NameTextMapHash": 469555475,
         "DescTextMapHash": 2968469189,
-        "Icon": "UI_EquipIcon_Pole_Widsith",
+        "Icon": "UI_EquipIcon_Pole_Gewalt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -3476,19 +3483,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 45.9364013671875,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Regicide/Equip_Pole_Regicide_OverrideTexture/Equip_Pole_Regicide_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Pole_Regicide_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Gewalt/Equip_Pole_Gewalt_OverrideTexture/Equip_Pole_Gewalt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Pole_Gewalt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 737217907,
-        "GachaCardNameHashPre": 38,
+        "GachaCardNameHashSuffix": 2043974835,
+        "GachaCardNameHashPre": 7,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3499,7 +3506,7 @@
         "Id": 13506,
         "NameTextMapHash": 3532343811,
         "DescTextMapHash": 1699329373,
-        "Icon": "UI_EquipIcon_Pole_Regicide",
+        "Icon": "UI_EquipIcon_Pole_Gewalt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -3516,19 +3523,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 45.9364013671875,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Santika/Equip_Pole_Santika_OverrideTexture/Equip_Pole_Santika_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Pole_Santika_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Pole_Gewalt/Equip_Pole_Gewalt_OverrideTexture/Equip_Pole_Gewalt_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Pole_Gewalt_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1414739656,
-        "GachaCardNameHashPre": 59,
+        "GachaCardNameHashSuffix": 2043974835,
+        "GachaCardNameHashPre": 7,
         "DestroyReturnMaterial": [
             0
         ],
@@ -3539,7 +3546,7 @@
         "Id": 13507,
         "NameTextMapHash": 688991243,
         "DescTextMapHash": 4156676173,
-        "Icon": "UI_EquipIcon_Pole_Santika",
+        "Icon": "UI_EquipIcon_Pole_Gewalt",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -4359,23 +4366,31 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            114410,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 43.734901428222656,
+                "Type": "GROW_CURVE_ATTACK_202"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "InitValue": 0.06666699796915054,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Outlaw/Equip_Catalyst_Outlaw_OverrideTexture/Equip_Catalyst_Outlaw_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Catalyst_Outlaw_Awaken",
-        "WeaponPromoteId": 14101,
-        "AwakenCosts": [],
+        "WeaponPromoteId": 14410,
+        "StoryId": 194410,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
         "GachaCardNameHashSuffix": 772861185,
         "GachaCardNameHashPre": 233,
         "DestroyReturnMaterial": [
@@ -4399,31 +4414,25 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            114411,
+            0,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 43.734901428222656,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Lanternrite/Equip_Catalyst_Lanternrite_OverrideTexture/Equip_Catalyst_Lanternrite_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Catalyst_Lanternrite_Awaken",
-        "UnRotate": true,
-        "WeaponPromoteId": 14101,
-        "AwakenCosts": [
-            1000,
-            2000,
-            4000,
-            8000
-        ],
-        "GachaCardNameHashSuffix": 3987900959,
-        "GachaCardNameHashPre": 86,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice_OverrideTexture/Equip_Catalyst_Apprentice_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
+        "WeaponPromoteId": 11101,
+        "AwakenCosts": [],
+        "GachaCardNameHashSuffix": 3008420473,
+        "GachaCardNameHashPre": 227,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4434,7 +4443,7 @@
         "Id": 14411,
         "NameTextMapHash": 415851979,
         "DescTextMapHash": 3629661149,
-        "Icon": "UI_EquipIcon_Catalyst_Lanternrite",
+        "Icon": "UI_EquipIcon_Catalyst_Apprentice",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -4596,19 +4605,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 45.9364013671875,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Widsith/Equip_Catalyst_Widsith_OverrideTexture/Equip_Catalyst_Widsith_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Catalyst_Widsith_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice_OverrideTexture/Equip_Catalyst_Apprentice_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1415262739,
-        "GachaCardNameHashPre": 54,
+        "GachaCardNameHashSuffix": 3008420473,
+        "GachaCardNameHashPre": 227,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4619,7 +4628,7 @@
         "Id": 14503,
         "NameTextMapHash": 452043283,
         "DescTextMapHash": 3761771325,
-        "Icon": "UI_EquipIcon_Catalyst_Widsith",
+        "Icon": "UI_EquipIcon_Catalyst_Apprentice",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -4685,20 +4694,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 47.5369987487793,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Morax/Equip_Catalyst_Morax_OverrideTexture/Equip_Catalyst_Morax_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Catalyst_Morax_Awaken",
-        "UnRotate": true,
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice_OverrideTexture/Equip_Catalyst_Apprentice_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 4290942239,
-        "GachaCardNameHashPre": 51,
+        "GachaCardNameHashSuffix": 3008420473,
+        "GachaCardNameHashPre": 227,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4709,7 +4717,7 @@
         "Id": 14505,
         "NameTextMapHash": 4007372867,
         "DescTextMapHash": 1564641749,
-        "Icon": "UI_EquipIcon_Catalyst_Morax",
+        "Icon": "UI_EquipIcon_Catalyst_Apprentice",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -4726,19 +4734,18 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 44.33580017089844,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Kaleido/Equip_Catalyst_Kaleido_OverrideTexture/Equip_Catalyst_Kaleido_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Catalyst_Kaleido_Awaken",
-        "UnRotate": true,
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice_OverrideTexture/Equip_Catalyst_Apprentice_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 1621782753,
+        "GachaCardNameHashSuffix": 3008420473,
         "GachaCardNameHashPre": 227,
         "DestroyReturnMaterial": [
             0
@@ -4750,7 +4757,7 @@
         "Id": 14506,
         "NameTextMapHash": 1890163363,
         "DescTextMapHash": 1589431549,
-        "Icon": "UI_EquipIcon_Catalyst_Kaleido",
+        "Icon": "UI_EquipIcon_Catalyst_Apprentice",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -4767,19 +4774,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 44.33580017089844,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Hypostasis/Equip_Catalyst_Hypostasis_OverrideTexture/Equip_Catalyst_Hypostasis_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Catalyst_Hypostasis_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Catalyst_Apprentice/Equip_Catalyst_Apprentice_OverrideTexture/Equip_Catalyst_Apprentice_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Catalyst_Apprentice_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 864224784,
-        "GachaCardNameHashPre": 110,
+        "GachaCardNameHashSuffix": 3008420473,
+        "GachaCardNameHashPre": 227,
         "DestroyReturnMaterial": [
             0
         ],
@@ -4790,7 +4797,7 @@
         "Id": 14508,
         "NameTextMapHash": 4123950051,
         "DescTextMapHash": 3639034925,
-        "Icon": "UI_EquipIcon_Catalyst_Hypostasis",
+        "Icon": "UI_EquipIcon_Catalyst_Apprentice",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -5603,23 +5610,31 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            115410,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 43.734901428222656,
+                "Type": "GROW_CURVE_ATTACK_202"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_ATTACK_PERCENT",
+                "InitValue": 0.05999999865889549,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Outlaw/Equip_Bow_Outlaw_OverrideTexture/Equip_Bow_Outlaw_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Outlaw_Awaken",
-        "WeaponPromoteId": 14101,
-        "AwakenCosts": [],
+        "WeaponPromoteId": 15410,
+        "StoryId": 195410,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
         "GachaCardNameHashSuffix": 2498436072,
         "GachaCardNameHashPre": 33,
         "DestroyReturnMaterial": [
@@ -5649,19 +5664,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 43.734901428222656,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Fallensun/Equip_Bow_Fallensun_OverrideTexture/Equip_Bow_Fallensun_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Bow_Fallensun_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters_OverrideTexture/Equip_Bow_Hunters_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 713335324,
-        "GachaCardNameHashPre": 233,
+        "GachaCardNameHashSuffix": 3268741295,
+        "GachaCardNameHashPre": 177,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5672,7 +5687,7 @@
         "Id": 15411,
         "NameTextMapHash": 2425414923,
         "DescTextMapHash": 3884152605,
-        "Icon": "UI_EquipIcon_Bow_Fallensun",
+        "Icon": "UI_EquipIcon_Bow_Hunters",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -5683,25 +5698,35 @@
         "RankLevel": 4,
         "WeaponBaseExp": 50000,
         "SkillAffix": [
-            0,
+            115413,
             0
         ],
+        "AwakenMaterial": 200104,
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 42.4010009765625,
+                "Type": "GROW_CURVE_ATTACK_201"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "InitValue": 36.0,
+                "Type": "GROW_CURVE_CRITICAL_201"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Nachtblind/Equip_Bow_Nachtblind_OverrideTexture/Equip_Bow_Nachtblind_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Bow_Nachtblind_Awaken",
-        "WeaponPromoteId": 14101,
-        "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 2280376223,
-        "GachaCardNameHashPre": 170,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Fleurfair/Equip_Bow_Fleurfair_OverrideTexture/Equip_Bow_Fleurfair_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Bow_Fleurfair_Awaken",
+        "WeaponPromoteId": 15413,
+        "StoryId": 195413,
+        "AwakenCosts": [
+            1000,
+            2000,
+            4000,
+            8000
+        ],
+        "GachaCardNameHashSuffix": 2486688773,
+        "GachaCardNameHashPre": 223,
+        "EnhanceRule": 1,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5709,14 +5734,14 @@
             0
         ],
         "InitialLockState": 1,
-        "Id": 15412,
-        "NameTextMapHash": 3949653579,
-        "DescTextMapHash": 2436529629,
-        "Icon": "UI_EquipIcon_Bow_Nachtblind",
+        "Id": 15413,
+        "NameTextMapHash": 650049651,
+        "DescTextMapHash": 1031521493,
+        "Icon": "UI_EquipIcon_Bow_Fleurfair",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
-        "GadgetId": 50015412
+        "GadgetId": 50015413
     },
     {
         "WeaponType": "WEAPON_BOW",
@@ -5819,23 +5844,31 @@
         "RankLevel": 5,
         "WeaponBaseExp": 300000,
         "SkillAffix": [
-            0,
+            115503,
             0
         ],
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
-                "Type": "GROW_CURVE_ATTACK_101"
+                "InitValue": 45.9364013671875,
+                "Type": "GROW_CURVE_ATTACK_301"
             },
             {
-                "Type": "GROW_CURVE_CRITICAL_101"
+                "PropType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+                "InitValue": 0.11999999731779099,
+                "Type": "GROW_CURVE_CRITICAL_301"
             }
         ],
         "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Widsith/Equip_Bow_Widsith_OverrideTexture/Equip_Bow_Widsith_02_Tex_Diffuse",
         "AwakenIcon": "UI_EquipIcon_Bow_Widsith_Awaken",
-        "WeaponPromoteId": 14101,
-        "AwakenCosts": [],
+        "WeaponPromoteId": 15503,
+        "StoryId": 195503,
+        "AwakenCosts": [
+            2000,
+            4000,
+            8000,
+            16000
+        ],
         "GachaCardNameHashSuffix": 765414498,
         "GachaCardNameHashPre": 103,
         "DestroyReturnMaterial": [
@@ -5865,19 +5898,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 45.9364013671875,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Kunwu/Equip_Bow_Kunwu_OverrideTexture/Equip_Bow_Kunwu_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Bow_Kunwu_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters_OverrideTexture/Equip_Bow_Hunters_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 668422992,
-        "GachaCardNameHashPre": 45,
+        "GachaCardNameHashSuffix": 3268741295,
+        "GachaCardNameHashPre": 177,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5888,7 +5921,7 @@
         "Id": 15504,
         "NameTextMapHash": 565329475,
         "DescTextMapHash": 1330189981,
-        "Icon": "UI_EquipIcon_Bow_Kunwu",
+        "Icon": "UI_EquipIcon_Bow_Hunters",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -5905,19 +5938,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 45.9364013671875,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Morax/Equip_Bow_Morax_OverrideTexture/Equip_Bow_Morax_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Bow_Morax_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters_OverrideTexture/Equip_Bow_Hunters_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 4283587632,
-        "GachaCardNameHashPre": 65,
+        "GachaCardNameHashSuffix": 3268741295,
+        "GachaCardNameHashPre": 177,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5928,7 +5961,7 @@
         "Id": 15505,
         "NameTextMapHash": 1994081075,
         "DescTextMapHash": 1352415965,
-        "Icon": "UI_EquipIcon_Bow_Morax",
+        "Icon": "UI_EquipIcon_Bow_Hunters",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -5945,19 +5978,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 42.73509979248047,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Moonfall/Equip_Bow_Moonfall_OverrideTexture/Equip_Bow_Moonfall_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Bow_Moonfall_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters_OverrideTexture/Equip_Bow_Hunters_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 2824780903,
-        "GachaCardNameHashPre": 39,
+        "GachaCardNameHashSuffix": 3268741295,
+        "GachaCardNameHashPre": 177,
         "DestroyReturnMaterial": [
             0
         ],
@@ -5968,7 +6001,7 @@
         "Id": 15506,
         "NameTextMapHash": 2824690859,
         "DescTextMapHash": 1315071109,
-        "Icon": "UI_EquipIcon_Bow_Moonfall",
+        "Icon": "UI_EquipIcon_Bow_Hunters",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,
@@ -5985,19 +6018,19 @@
         "WeaponProp": [
             {
                 "PropType": "FIGHT_PROP_BASE_ATTACK",
-                "InitValue": 23.2450008392334,
+                "InitValue": 42.73509979248047,
                 "Type": "GROW_CURVE_ATTACK_101"
             },
             {
                 "Type": "GROW_CURVE_CRITICAL_101"
             }
         ],
-        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Kirin/Equip_Bow_Kirin_OverrideTexture/Equip_Bow_Kirin_02_Tex_Diffuse",
-        "AwakenIcon": "UI_EquipIcon_Bow_Kirin_Awaken",
-        "WeaponPromoteId": 14101,
+        "AwakenTexture": "ART/Equip/AvatarEquip/Equip_Bow_Hunters/Equip_Bow_Hunters_OverrideTexture/Equip_Bow_Hunters_02_Tex_Diffuse",
+        "AwakenIcon": "UI_EquipIcon_Bow_Hunters_Awaken",
+        "WeaponPromoteId": 11101,
         "AwakenCosts": [],
-        "GachaCardNameHashSuffix": 419365691,
-        "GachaCardNameHashPre": 249,
+        "GachaCardNameHashSuffix": 3268741295,
+        "GachaCardNameHashPre": 177,
         "DestroyReturnMaterial": [
             0
         ],
@@ -6008,7 +6041,7 @@
         "Id": 15508,
         "NameTextMapHash": 4230231107,
         "DescTextMapHash": 954648749,
-        "Icon": "UI_EquipIcon_Bow_Kirin",
+        "Icon": "UI_EquipIcon_Bow_Hunters",
         "ItemType": "ITEM_WEAPON",
         "Weight": 1,
         "Rank": 10,

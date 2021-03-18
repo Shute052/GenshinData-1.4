@@ -266,9 +266,118 @@
         "WatcherId": []
     },
     {
+        "ActivityId": 6003,
+        "ActivityType": "NEW_ACTIVITY_SIGNIN_COMPANION",
+        "NameTextMapHash": 1256784235,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            600301
+        ],
+        "WatcherId": []
+    },
+    {
         "ActivityId": 5018,
         "ActivityType": "NEW_ACTIVITY_PERSONAL_LIINE",
         "NameTextMapHash": 3005335419,
+        "ActivitySceneTag": "",
+        "CondGroupId": [],
+        "WatcherId": []
+    },
+    {
+        "ActivityId": 5019,
+        "ActivityType": "NEW_ACTIVITY_ARENA_CHALLENGE",
+        "NameTextMapHash": 2924065171,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            501901
+        ],
+        "WatcherId": [
+            1501901,
+            1501902,
+            1501903,
+            1501904,
+            1501905,
+            1501906,
+            1501907,
+            1501908,
+            1501909,
+            1501910,
+            1501911,
+            1501912,
+            1501913,
+            1501914,
+            1501915,
+            1501916,
+            1501917,
+            1501918,
+            1501919,
+            1501920,
+            1501921
+        ]
+    },
+    {
+        "ActivityId": 2003,
+        "ActivityType": "NEW_ACTIVITY_FLEUR_FAIR",
+        "NameTextMapHash": 3501499515,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            2003001
+        ],
+        "WatcherId": [
+            1200311,
+            1200312,
+            1200313,
+            1200314,
+            1200315,
+            1200316,
+            1200317,
+            1200318,
+            1200319,
+            1200320,
+            1200321,
+            1200322,
+            1200323,
+            1200324,
+            1200325,
+            1200326,
+            1200327,
+            1200328,
+            1200329,
+            1200330,
+            1200331,
+            1200332,
+            1200333,
+            1200334,
+            1200335,
+            1200336,
+            1200337,
+            1200338,
+            1200339,
+            1200340,
+            1200341,
+            1200342,
+            1200343,
+            1200344,
+            1200345,
+            1200346
+        ]
+    },
+    {
+        "ActivityId": 5020,
+        "ActivityType": "NEW_ACTIVITY_WATER_SPIRIT_CHALLENGE",
+        "NameTextMapHash": 2870842467,
+        "ActivitySceneTag": "",
+        "CondGroupId": [
+            502001
+        ],
+        "WatcherId": [
+            1502010
+        ]
+    },
+    {
+        "ActivityId": 5021,
+        "ActivityType": "NEW_ACTIVITY_COOP",
+        "NameTextMapHash": 2977233019,
         "ActivitySceneTag": "",
         "CondGroupId": [],
         "WatcherId": []

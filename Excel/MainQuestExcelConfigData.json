@@ -3277,6 +3277,7 @@
     {
         "Id": 20030,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 602385569,
         "DescTextMapHash": 482155751,
@@ -3323,6 +3324,7 @@
     {
         "Id": 20501,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "TitleTextMapHash": 844428409,
         "DescTextMapHash": 3147967863,
         "LuaPath": "Actor/Quest/IQ20501",
@@ -3332,6 +3334,7 @@
     {
         "Id": 20502,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "TitleTextMapHash": 1806927561,
         "DescTextMapHash": 3196473279,
         "LuaPath": "Actor/Quest/IQ20502",
@@ -3341,6 +3344,7 @@
     {
         "Id": 20503,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 844907593,
         "DescTextMapHash": 1696443743,
@@ -3352,6 +3356,7 @@
     {
         "Id": 20504,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 2871858105,
         "DescTextMapHash": 3443928319,
@@ -3363,6 +3368,7 @@
     {
         "Id": 20505,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 26918801,
         "DescTextMapHash": 353487287,
@@ -3374,6 +3380,7 @@
     {
         "Id": 20506,
         "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 829289369,
         "DescTextMapHash": 3382521351,
@@ -4055,6 +4062,7 @@
     },
     {
         "Id": 8000,
+        "Series": 1104,
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 1568618263,
         "DescTextMapHash": 4075679494,
@@ -4062,10 +4070,15 @@
         "SuggestTrackMainQuestList": [
             8001
         ],
-        "RewardIdList": []
+        "RewardIdList": [
+            108000
+        ],
+        "ChapterId": 1104,
+        "ShowRedPoint": true
     },
     {
         "Id": 8001,
+        "Series": 1104,
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 804794039,
         "DescTextMapHash": 2335666934,
@@ -4073,10 +4086,14 @@
         "SuggestTrackMainQuestList": [
             8002
         ],
-        "RewardIdList": []
+        "RewardIdList": [
+            108001
+        ],
+        "ChapterId": 1104
     },
     {
         "Id": 8002,
+        "Series": 1104,
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 2255313135,
         "DescTextMapHash": 3232303638,
@@ -4084,16 +4101,23 @@
         "SuggestTrackMainQuestList": [
             8003
         ],
-        "RewardIdList": []
+        "RewardIdList": [
+            108002
+        ],
+        "ChapterId": 1104
     },
     {
         "Id": 8003,
+        "Series": 1104,
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 3327610591,
         "DescTextMapHash": 184910726,
         "LuaPath": "Actor/Quest/AQ8003",
         "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "RewardIdList": [
+            108003
+        ],
+        "ChapterId": 1104
     },
     {
         "Id": 10500,
@@ -4567,17 +4591,6 @@
         "ShowRedPoint": true
     },
     {
-        "Id": 19000,
-        "Series": 101401,
-        "Type": "LQ",
-        "ActiveMode": "PLAY_MODE_SINGLE",
-        "TitleTextMapHash": 3976988719,
-        "DescTextMapHash": 1146420974,
-        "LuaPath": "Actor/Quest/LQ19000",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
-    },
-    {
         "Id": 19001,
         "Series": 101401,
         "Type": "LQ",
@@ -4585,8 +4598,13 @@
         "TitleTextMapHash": 1099454311,
         "DescTextMapHash": 2989354726,
         "LuaPath": "Actor/Quest/LQ19001",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackMainQuestList": [
+            19002,
+            19003
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19002,
@@ -4596,8 +4614,12 @@
         "TitleTextMapHash": 2296055127,
         "DescTextMapHash": 1589036446,
         "LuaPath": "Actor/Quest/LQ19002",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackMainQuestList": [
+            19003
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19003,
@@ -4607,8 +4629,14 @@
         "TitleTextMapHash": 1874677831,
         "DescTextMapHash": 3192500022,
         "LuaPath": "Actor/Quest/LQ19003",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackMainQuestList": [
+            19004,
+            19006,
+            19009
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19004,
@@ -4618,8 +4646,12 @@
         "TitleTextMapHash": 189838391,
         "DescTextMapHash": 3344927646,
         "LuaPath": "Actor/Quest/LQ19004",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackMainQuestList": [
+            19005
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19005,
@@ -4630,7 +4662,9 @@
         "DescTextMapHash": 1268909726,
         "LuaPath": "Actor/Quest/LQ19005",
         "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19006,
@@ -4640,8 +4674,13 @@
         "TitleTextMapHash": 294392055,
         "DescTextMapHash": 25764606,
         "LuaPath": "Actor/Quest/LQ19006",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackMainQuestList": [
+            19007,
+            19008
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19007,
@@ -4652,7 +4691,9 @@
         "DescTextMapHash": 440958974,
         "LuaPath": "Actor/Quest/LQ19007",
         "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19008,
@@ -4662,8 +4703,12 @@
         "TitleTextMapHash": 1345090431,
         "DescTextMapHash": 3951221086,
         "LuaPath": "Actor/Quest/LQ19008",
-        "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackMainQuestList": [
+            19005
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
     },
     {
         "Id": 19009,
@@ -4674,7 +4719,375 @@
         "DescTextMapHash": 3066824710,
         "LuaPath": "Actor/Quest/LQ19009",
         "SuggestTrackMainQuestList": [],
-        "RewardIdList": []
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 101401
+    },
+    {
+        "Id": 19021,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2934864295,
+        "DescTextMapHash": 3763279270,
+        "LuaPath": "Actor/Quest/LQ19021",
+        "SuggestTrackMainQuestList": [
+            19022,
+            19030
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19022,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2063162935,
+        "DescTextMapHash": 4026717870,
+        "LuaPath": "Actor/Quest/LQ19022",
+        "SuggestTrackMainQuestList": [
+            19023,
+            19024
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19023,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1217616863,
+        "DescTextMapHash": 1011992358,
+        "LuaPath": "Actor/Quest/LQ19023",
+        "SuggestTrackMainQuestList": [],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19024,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1817192119,
+        "DescTextMapHash": 4260963286,
+        "LuaPath": "Actor/Quest/LQ19024",
+        "SuggestTrackMainQuestList": [
+            19025
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19025,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3930592871,
+        "DescTextMapHash": 3137010382,
+        "LuaPath": "Actor/Quest/LQ19025",
+        "SuggestTrackMainQuestList": [],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19030,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2429534735,
+        "DescTextMapHash": 3298140894,
+        "LuaPath": "Actor/Quest/LQ19030",
+        "SuggestTrackMainQuestList": [
+            19031,
+            19032,
+            19033,
+            19034
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19031,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1179739471,
+        "DescTextMapHash": 3435794190,
+        "LuaPath": "Actor/Quest/LQ19031",
+        "SuggestTrackMainQuestList": [
+            19032
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19032,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2891572903,
+        "DescTextMapHash": 1791513350,
+        "LuaPath": "Actor/Quest/LQ19032",
+        "SuggestTrackMainQuestList": [],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19033,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2571809207,
+        "DescTextMapHash": 159963270,
+        "LuaPath": "Actor/Quest/LQ19033",
+        "SuggestTrackMainQuestList": [
+            19032
+        ],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19034,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2659786255,
+        "DescTextMapHash": 1994199590,
+        "LuaPath": "Actor/Quest/LQ19034",
+        "SuggestTrackMainQuestList": [],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19035,
+        "Series": 103601,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1128455015,
+        "DescTextMapHash": 2381313206,
+        "LuaPath": "Actor/Quest/LQ19035",
+        "SuggestTrackMainQuestList": [],
+        "SuggestTrackOutOfOrder": true,
+        "RewardIdList": [],
+        "ChapterId": 103601
+    },
+    {
+        "Id": 19041,
+        "Series": 103201,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 347164191,
+        "DescTextMapHash": 2443056934,
+        "LuaPath": "Actor/Quest/LQ19041",
+        "SuggestTrackMainQuestList": [
+            19042,
+            19043,
+            19044,
+            19045
+        ],
+        "RewardIdList": [],
+        "ChapterId": 103201
+    },
+    {
+        "Id": 19042,
+        "Series": 103201,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1478861143,
+        "DescTextMapHash": 2572514358,
+        "LuaPath": "Actor/Quest/LQ19042",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103201
+    },
+    {
+        "Id": 19043,
+        "Series": 103201,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3279056495,
+        "DescTextMapHash": 3223083206,
+        "LuaPath": "Actor/Quest/LQ19043",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103201
+    },
+    {
+        "Id": 19044,
+        "Series": 103201,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3866410583,
+        "DescTextMapHash": 2523353806,
+        "LuaPath": "Actor/Quest/LQ19044",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103201
+    },
+    {
+        "Id": 19045,
+        "Series": 103201,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1692289455,
+        "DescTextMapHash": 693300886,
+        "LuaPath": "Actor/Quest/LQ19045",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103201
+    },
+    {
+        "Id": 19046,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 4058343263,
+        "DescTextMapHash": 1629021030,
+        "LuaPath": "Actor/Quest/LQ19046",
+        "Repeatable": true,
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ShowType": "QUEST_HIDDEN"
+    },
+    {
+        "Id": 19061,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2649241303,
+        "DescTextMapHash": 1587961318,
+        "LuaPath": "Actor/Quest/LQ19061",
+        "SuggestTrackMainQuestList": [
+            19062,
+            19064,
+            19067
+        ],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19062,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2844965295,
+        "DescTextMapHash": 887230750,
+        "LuaPath": "Actor/Quest/LQ19062",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19063,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3601757511,
+        "DescTextMapHash": 3512867222,
+        "LuaPath": "Actor/Quest/LQ19063",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19064,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1123627103,
+        "DescTextMapHash": 3416550430,
+        "LuaPath": "Actor/Quest/LQ19064",
+        "SuggestTrackMainQuestList": [
+            19065,
+            19066
+        ],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19065,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3128960631,
+        "DescTextMapHash": 376647590,
+        "LuaPath": "Actor/Quest/LQ19065",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19066,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1679335007,
+        "DescTextMapHash": 2963229094,
+        "LuaPath": "Actor/Quest/LQ19066",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19067,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2841148215,
+        "DescTextMapHash": 3208011990,
+        "LuaPath": "Actor/Quest/LQ19067",
+        "SuggestTrackMainQuestList": [
+            19068,
+            19069
+        ],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19068,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 371118079,
+        "DescTextMapHash": 3248985270,
+        "LuaPath": "Actor/Quest/LQ19068",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19069,
+        "Series": 103401,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2149795975,
+        "DescTextMapHash": 3366744190,
+        "LuaPath": "Actor/Quest/LQ19069",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ChapterId": 103401
+    },
+    {
+        "Id": 19070,
+        "Type": "LQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 575512535,
+        "DescTextMapHash": 1810839270,
+        "LuaPath": "Actor/Quest/LQ19070",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ShowType": "QUEST_HIDDEN"
     },
     {
         "Id": 20068,
@@ -6001,6 +6414,221 @@
         "ShowRedPoint": true
     },
     {
+        "Id": 41410,
+        "Series": 10021,
+        "Type": "EQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1574229207,
+        "DescTextMapHash": 30153942,
+        "LuaPath": "Actor/Quest/EQ41410",
+        "SuggestTrackMainQuestList": [
+            41411
+        ],
+        "RewardIdList": [
+            141410
+        ],
+        "ChapterId": 10021,
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 41411,
+        "Series": 10021,
+        "Type": "EQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 1424112471,
+        "DescTextMapHash": 1197521494,
+        "LuaPath": "Actor/Quest/EQ41411",
+        "SuggestTrackMainQuestList": [
+            41412
+        ],
+        "RewardIdList": [
+            141411
+        ],
+        "ChapterId": 10022,
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 41412,
+        "Series": 10021,
+        "Type": "EQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 915744959,
+        "DescTextMapHash": 3287361462,
+        "LuaPath": "Actor/Quest/EQ41412",
+        "SuggestTrackMainQuestList": [
+            41413
+        ],
+        "RewardIdList": [
+            141412
+        ],
+        "ChapterId": 10023,
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 41413,
+        "Series": 10021,
+        "Type": "EQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2220954191,
+        "DescTextMapHash": 3386110294,
+        "LuaPath": "Actor/Quest/EQ41413",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            141413
+        ],
+        "ChapterId": 10024,
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 41414,
+        "Series": 10021,
+        "Type": "EQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3626841407,
+        "DescTextMapHash": 3199851110,
+        "LuaPath": "Actor/Quest/EQ41414",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ShowType": "QUEST_HIDDEN"
+    },
+    {
+        "Id": 41415,
+        "Series": 10021,
+        "Type": "EQ",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3324093575,
+        "DescTextMapHash": 1470793294,
+        "LuaPath": "Actor/Quest/EQ41415",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [],
+        "ShowType": "QUEST_HIDDEN"
+    },
+    {
+        "Id": 41421,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2880317959,
+        "DescTextMapHash": 4003030830,
+        "LuaPath": "Actor/Quest/WQ41421",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            141421
+        ],
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 41422,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "TitleTextMapHash": 3005882551,
+        "DescTextMapHash": 936254062,
+        "LuaPath": "Actor/Quest/WQ41422",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            141422
+        ],
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 70000,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 82130783,
+        "DescTextMapHash": 1617126486,
+        "LuaPath": "Actor/Quest/WQ70000",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170000
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
+        "Id": 70001,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 815643167,
+        "DescTextMapHash": 842097662,
+        "LuaPath": "Actor/Quest/WQ70001",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170001
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
+        "Id": 70003,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 3447507887,
+        "DescTextMapHash": 2781030766,
+        "LuaPath": "Actor/Quest/WQ70003",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170003
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
+        "Id": 70007,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 1671631631,
+        "DescTextMapHash": 193961878,
+        "LuaPath": "Actor/Quest/WQ70007",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170007
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
+        "Id": 70008,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 3334782287,
+        "DescTextMapHash": 2955598318,
+        "LuaPath": "Actor/Quest/WQ70008",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170008
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
+        "Id": 70009,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 2603877111,
+        "DescTextMapHash": 894181046,
+        "LuaPath": "Actor/Quest/WQ70009",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170009
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
+        "Id": 70010,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 3703068719,
+        "DescTextMapHash": 695860286,
+        "LuaPath": "Actor/Quest/WQ70010",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170010
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
+    },
+    {
         "Id": 70101,
         "Type": "WQ",
         "TitleTextMapHash": 3520689183,
@@ -6242,6 +6870,75 @@
         "ActivityId": 5017
     },
     {
+        "Id": 70654,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 569796167,
+        "DescTextMapHash": 297045902,
+        "LuaPath": "Actor/Quest/WQ70654",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170654
+        ],
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 70655,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 3593042879,
+        "DescTextMapHash": 1508105134,
+        "LuaPath": "Actor/Quest/WQ70655",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170655
+        ],
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 70656,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2442287167,
+        "DescTextMapHash": 4050136966,
+        "LuaPath": "Actor/Quest/WQ70656",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170656
+        ],
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 70657,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2953665327,
+        "DescTextMapHash": 4202361134,
+        "LuaPath": "Actor/Quest/WQ70657",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170657
+        ],
+        "ShowRedPoint": true
+    },
+    {
+        "Id": 70658,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_GUIDE",
+        "ActiveMode": "PLAY_MODE_SINGLE",
+        "TitleTextMapHash": 2735690655,
+        "DescTextMapHash": 761196878,
+        "LuaPath": "Actor/Quest/WQ70658",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170658
+        ]
+    },
+    {
         "Id": 70700,
         "Type": "WQ",
         "ActiveMode": "PLAY_MODE_SINGLE",
@@ -6390,6 +7087,20 @@
         "LuaPath": "Actor/Quest/WQ70714",
         "SuggestTrackMainQuestList": [],
         "RewardIdList": []
+    },
+    {
+        "Id": 70800,
+        "Type": "WQ",
+        "MainQuestTag": "MAINQUEST_TAG_ACTIVITY",
+        "TitleTextMapHash": 1805272895,
+        "DescTextMapHash": 4006725862,
+        "LuaPath": "Actor/Quest/WQ70800",
+        "SuggestTrackMainQuestList": [],
+        "RewardIdList": [
+            170008
+        ],
+        "ShowRedPoint": true,
+        "ActivityId": 2003
     },
     {
         "Id": 70801,
@@ -8662,7 +9373,7 @@
         "ActiveMode": "PLAY_MODE_SINGLE",
         "TitleTextMapHash": 3732419311,
         "DescTextMapHash": 1064832766,
-        "LuaPath": "",
+        "LuaPath": "Actor/Quest/IQ90001",
         "SuggestTrackMainQuestList": [],
         "RewardIdList": []
     }

@@ -21734,7 +21734,7 @@
     {
         "Desc": "重云",
         "Tips": [
-            3003074258,
+            3474243223,
             2245711488
         ],
         "VoiceTitleTextMapHash": 2298367295,
@@ -32440,6 +32440,1042 @@
         "VoiceTitleLockedTextMapHash": 864711154,
         "FetterId": 36054,
         "AvatarId": 10000046,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+                "ParamList": [
+                    6
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            330823818,
+            2146875232
+        ],
+        "VoiceTitleTextMapHash": 3065462879,
+        "VoiceFile": "1000",
+        "VoiceFileTextTextMapHash": 354548583,
+        "VoiceTitleLockedTextMapHash": 3485523834,
+        "FetterId": 37009,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            154537194,
+            3758664944
+        ],
+        "VoiceTitleTextMapHash": 3482825631,
+        "VoiceFile": "1101",
+        "VoiceFileTextTextMapHash": 3336842399,
+        "VoiceTitleLockedTextMapHash": 2452432338,
+        "FetterId": 37010,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3020947514,
+            3955597696
+        ],
+        "VoiceTitleTextMapHash": 3860945831,
+        "VoiceFile": "1102",
+        "VoiceFileTextTextMapHash": 1766168567,
+        "VoiceTitleLockedTextMapHash": 959366474,
+        "FetterId": 37011,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1731606770,
+            430021680
+        ],
+        "VoiceTitleTextMapHash": 3743182143,
+        "VoiceFile": "1103",
+        "VoiceFileTextTextMapHash": 684614519,
+        "VoiceTitleLockedTextMapHash": 526052754,
+        "FetterId": 37012,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1020725178,
+            1772328008
+        ],
+        "VoiceTitleTextMapHash": 2414091839,
+        "VoiceFile": "1201",
+        "VoiceFileTextTextMapHash": 3115337359,
+        "VoiceTitleLockedTextMapHash": 394669762,
+        "FetterId": 37013,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3162139154,
+            270273592
+        ],
+        "VoiceTitleTextMapHash": 2651191151,
+        "VoiceFile": "1202",
+        "VoiceFileTextTextMapHash": 712215359,
+        "VoiceTitleLockedTextMapHash": 3771099298,
+        "FetterId": 37014,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            640909090,
+            2888085952
+        ],
+        "VoiceTitleTextMapHash": 3422696167,
+        "VoiceFile": "1203",
+        "VoiceFileTextTextMapHash": 3389372999,
+        "VoiceTitleLockedTextMapHash": 3423124434,
+        "FetterId": 37015,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1709408882,
+            2432161336
+        ],
+        "VoiceTitleTextMapHash": 3417850951,
+        "VoiceFile": "1204",
+        "VoiceFileTextTextMapHash": 1374819047,
+        "VoiceTitleLockedTextMapHash": 1112252258,
+        "FetterId": 37016,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            375558354,
+            1441282200
+        ],
+        "VoiceTitleTextMapHash": 2960509351,
+        "VoiceFile": "1001",
+        "VoiceFileTextTextMapHash": 1970430855,
+        "VoiceTitleLockedTextMapHash": 822701626,
+        "FetterId": 37017,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1909012418,
+            3797572488
+        ],
+        "VoiceTitleTextMapHash": 324952367,
+        "VoiceFile": "1002",
+        "VoiceFileTextTextMapHash": 2540728407,
+        "VoiceTitleLockedTextMapHash": 244870178,
+        "FetterId": 37018,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3614504274,
+            1383820176
+        ],
+        "VoiceTitleTextMapHash": 1164114599,
+        "VoiceFile": "1003",
+        "VoiceFileTextTextMapHash": 2414620207,
+        "VoiceTitleLockedTextMapHash": 2626337826,
+        "FetterId": 37019,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2477720058,
+            4030825520
+        ],
+        "VoiceTitleTextMapHash": 1936049815,
+        "VoiceFile": "1004",
+        "VoiceFileTextTextMapHash": 1962757263,
+        "VoiceTitleLockedTextMapHash": 1022586050,
+        "FetterId": 37020,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            42605866,
+            1744338800
+        ],
+        "VoiceTitleTextMapHash": 165035055,
+        "VoiceFile": "2001",
+        "VoiceFileTextTextMapHash": 2647727559,
+        "VoiceTitleLockedTextMapHash": 91341458,
+        "FetterId": 37021,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            587952890,
+            684094408
+        ],
+        "VoiceTitleTextMapHash": 1557151911,
+        "VoiceFile": "2002",
+        "VoiceFileTextTextMapHash": 2907968239,
+        "VoiceTitleLockedTextMapHash": 404937522,
+        "FetterId": 37022,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3691605138,
+            2829942656
+        ],
+        "VoiceTitleTextMapHash": 4179741927,
+        "VoiceFile": "2003",
+        "VoiceFileTextTextMapHash": 3334950863,
+        "VoiceTitleLockedTextMapHash": 252316354,
+        "FetterId": 37023,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2779730738,
+            1021675016
+        ],
+        "VoiceTitleTextMapHash": 473062767,
+        "VoiceFile": "2004",
+        "VoiceFileTextTextMapHash": 2886071935,
+        "VoiceTitleLockedTextMapHash": 515935698,
+        "FetterId": 37024,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    6
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            259462514,
+            3449522952
+        ],
+        "VoiceTitleTextMapHash": 2885281839,
+        "VoiceFile": "2005",
+        "VoiceFileTextTextMapHash": 2405469423,
+        "VoiceTitleLockedTextMapHash": 831766186,
+        "FetterId": 37025,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    6
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            4199076594,
+            4103202432
+        ],
+        "VoiceTitleTextMapHash": 2440348983,
+        "VoiceFile": "3001",
+        "VoiceFileTextTextMapHash": 409275591,
+        "VoiceTitleLockedTextMapHash": 2224825202,
+        "FetterId": 37026,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2499856842,
+            994227456
+        ],
+        "VoiceTitleTextMapHash": 1167904687,
+        "VoiceFile": "3002",
+        "VoiceFileTextTextMapHash": 3177600519,
+        "VoiceTitleLockedTextMapHash": 3085496250,
+        "FetterId": 37027,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2445868834,
+            835526688
+        ],
+        "VoiceTitleTextMapHash": 3317375335,
+        "VoiceFile": "3003",
+        "VoiceFileTextTextMapHash": 3765873967,
+        "VoiceTitleLockedTextMapHash": 2970497114,
+        "FetterId": 37028,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2406105298,
+            873999320
+        ],
+        "VoiceTitleTextMapHash": 2700861943,
+        "VoiceFile": "4001",
+        "VoiceFileTextTextMapHash": 106452615,
+        "VoiceTitleLockedTextMapHash": 1808767986,
+        "FetterId": 37029,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            544065530,
+            970173144
+        ],
+        "VoiceTitleTextMapHash": 2301903327,
+        "VoiceFile": "4002",
+        "VoiceFileTextTextMapHash": 614177623,
+        "VoiceTitleLockedTextMapHash": 4252491738,
+        "FetterId": 37030,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            988083898,
+            3362291136
+        ],
+        "VoiceTitleTextMapHash": 1315680031,
+        "VoiceFile": "4003",
+        "VoiceFileTextTextMapHash": 328428975,
+        "VoiceTitleLockedTextMapHash": 3623423850,
+        "FetterId": 37031,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2458914514,
+            3969678216
+        ],
+        "VoiceTitleTextMapHash": 1569572655,
+        "VoiceFile": "4004",
+        "VoiceFileTextTextMapHash": 3341023079,
+        "VoiceTitleLockedTextMapHash": 3977521010,
+        "FetterId": 37032,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            751511882,
+            687409128
+        ],
+        "VoiceTitleTextMapHash": 2216479727,
+        "VoiceFile": "4005",
+        "VoiceFileTextTextMapHash": 393728655,
+        "VoiceTitleLockedTextMapHash": 3711887306,
+        "FetterId": 37033,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2602272682,
+            755491784
+        ],
+        "VoiceTitleTextMapHash": 4112348319,
+        "VoiceFile": "4006",
+        "VoiceFileTextTextMapHash": 3129768151,
+        "VoiceTitleLockedTextMapHash": 1745206282,
+        "FetterId": 37034,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3566712954,
+            571452400
+        ],
+        "VoiceTitleTextMapHash": 1856134935,
+        "VoiceFile": "4007",
+        "VoiceFileTextTextMapHash": 580920599,
+        "VoiceTitleLockedTextMapHash": 1127980738,
+        "FetterId": 37035,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3888146306,
+            666736448
+        ],
+        "VoiceTitleTextMapHash": 691301103,
+        "VoiceFile": "4008",
+        "VoiceFileTextTextMapHash": 2541698359,
+        "VoiceTitleLockedTextMapHash": 1685454162,
+        "FetterId": 37036,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1511456010,
+            1242712376
+        ],
+        "VoiceTitleTextMapHash": 2413540919,
+        "VoiceFile": "4009",
+        "VoiceFileTextTextMapHash": 1614201335,
+        "VoiceTitleLockedTextMapHash": 597107274,
+        "FetterId": 37037,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2195302570,
+            848747968
+        ],
+        "VoiceTitleTextMapHash": 3182058535,
+        "VoiceFile": "4010",
+        "VoiceFileTextTextMapHash": 1700431583,
+        "VoiceTitleLockedTextMapHash": 599798026,
+        "FetterId": 37038,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2453772474,
+            573995984
+        ],
+        "VoiceTitleTextMapHash": 2440056671,
+        "VoiceFile": "5001",
+        "VoiceFileTextTextMapHash": 2566214927,
+        "VoiceTitleLockedTextMapHash": 1156927026,
+        "FetterId": 37039,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1983456634,
+            3332081328
+        ],
+        "VoiceTitleTextMapHash": 1902188799,
+        "VoiceFile": "5002",
+        "VoiceFileTextTextMapHash": 4062185191,
+        "VoiceTitleLockedTextMapHash": 3017422922,
+        "FetterId": 37040,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    3
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2959988106,
+            835689296
+        ],
+        "VoiceTitleTextMapHash": 2349301359,
+        "VoiceFile": "5003",
+        "VoiceFileTextTextMapHash": 3725695655,
+        "VoiceTitleLockedTextMapHash": 2614415082,
+        "FetterId": 37041,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            158583938,
+            3300194632
+        ],
+        "VoiceTitleTextMapHash": 1021194127,
+        "VoiceFile": "5004",
+        "VoiceFileTextTextMapHash": 1729236855,
+        "VoiceTitleLockedTextMapHash": 3428618338,
+        "FetterId": 37042,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    5
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1266584866,
+            241413880
+        ],
+        "VoiceTitleTextMapHash": 2020125687,
+        "VoiceFile": "5005",
+        "VoiceFileTextTextMapHash": 2042744319,
+        "VoiceTitleLockedTextMapHash": 1595014194,
+        "FetterId": 37043,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    6
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3694600362,
+            2556463376
+        ],
+        "VoiceTitleTextMapHash": 3774912527,
+        "VoiceFile": "6001",
+        "VoiceFileTextTextMapHash": 1566923303,
+        "VoiceTitleLockedTextMapHash": 2046912818,
+        "FetterId": 37044,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3953108306,
+            834825224
+        ],
+        "VoiceTitleTextMapHash": 438081455,
+        "VoiceFile": "6002",
+        "VoiceFileTextTextMapHash": 1531549831,
+        "VoiceTitleLockedTextMapHash": 1663043538,
+        "FetterId": 37045,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            874340106,
+            2195880072
+        ],
+        "VoiceTitleTextMapHash": 1937276743,
+        "VoiceFile": "6003",
+        "VoiceFileTextTextMapHash": 455703751,
+        "VoiceTitleLockedTextMapHash": 1973172634,
+        "FetterId": 37046,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3434207410,
+            732828256
+        ],
+        "VoiceTitleTextMapHash": 756511983,
+        "VoiceFile": "6004",
+        "VoiceFileTextTextMapHash": 478989815,
+        "VoiceTitleLockedTextMapHash": 2902643130,
+        "FetterId": 37047,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "IsHiden": true,
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2231915098,
+            1052242648
+        ],
+        "VoiceTitleTextMapHash": 4007586943,
+        "VoiceFile": "7001",
+        "VoiceFileTextTextMapHash": 2340383671,
+        "VoiceTitleLockedTextMapHash": 2965451890,
+        "FetterId": 37048,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_PLAYER_BIRTHDAY",
+                "ParamList": []
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            1564892898,
+            424057504
+        ],
+        "VoiceTitleTextMapHash": 102549903,
+        "VoiceFile": "8001",
+        "VoiceFileTextTextMapHash": 3376995039,
+        "VoiceTitleLockedTextMapHash": 2136441842,
+        "FetterId": 37049,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+                "ParamList": [
+                    1
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            2381096242,
+            2530834936
+        ],
+        "VoiceTitleTextMapHash": 1192446303,
+        "VoiceFile": "8002",
+        "VoiceFileTextTextMapHash": 1681237287,
+        "VoiceTitleLockedTextMapHash": 2381584362,
+        "FetterId": 37050,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+                "ParamList": [
+                    2
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            3619477386,
+            68052168
+        ],
+        "VoiceTitleTextMapHash": 3819356991,
+        "VoiceFile": "8003",
+        "VoiceFileTextTextMapHash": 4125855679,
+        "VoiceTitleLockedTextMapHash": 4051441626,
+        "FetterId": 37051,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            },
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "Desc": "罗莎莉亚",
+        "Tips": [
+            328569202,
+            129153048
+        ],
+        "VoiceTitleTextMapHash": 2151602695,
+        "VoiceFile": "8004",
+        "VoiceFileTextTextMapHash": 2417460415,
+        "VoiceTitleLockedTextMapHash": 3432279178,
+        "FetterId": 37052,
+        "AvatarId": 10000045,
         "OpenConds": [
             {
                 "CondType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",

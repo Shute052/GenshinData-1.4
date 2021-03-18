@@ -934,12 +934,26 @@
         "DescriptTextMapHash": 442113856
     },
     {
+        "Id": 27401,
+        "NameTextMapHash": 2527409992,
+        "ImageNameList": [],
+        "DescriptTextMapHash": 772045416
+    },
+    {
         "Id": 27501,
         "NameTextMapHash": 4099353792,
         "ImageNameList": [
             "UI_MiracleRing_Quest_Puzzle"
         ],
         "DescriptTextMapHash": 3423367928
+    },
+    {
+        "Id": 27601,
+        "NameTextMapHash": 478184912,
+        "ImageNameList": [
+            "UI_Tutorial_85a"
+        ],
+        "DescriptTextMapHash": 1364824824
     },
     {
         "Id": 30000,
@@ -1428,6 +1442,22 @@
         "DescriptTextMapHash": 180671696
     },
     {
+        "Id": 40004,
+        "NameTextMapHash": 3358669952,
+        "ImageNameList": [
+            "UI_Tutorial_80"
+        ],
+        "DescriptTextMapHash": 3807079672
+    },
+    {
+        "Id": 40005,
+        "NameTextMapHash": 3958149200,
+        "ImageNameList": [
+            "UI_Tutorial_81"
+        ],
+        "DescriptTextMapHash": 3243110256
+    },
+    {
         "Id": 50001,
         "NameTextMapHash": 2627607608,
         "ImageNameList": [
@@ -1660,6 +1690,102 @@
         "DescriptTextMapHash": 655088168
     },
     {
+        "Id": 80801,
+        "NameTextMapHash": 1637124864,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_04"
+        ],
+        "DescriptTextMapHash": 2175913016
+    },
+    {
+        "Id": 80802,
+        "NameTextMapHash": 496051632,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_05"
+        ],
+        "DescriptTextMapHash": 1944038656
+    },
+    {
+        "Id": 80803,
+        "NameTextMapHash": 3343953432,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_06"
+        ],
+        "DescriptTextMapHash": 703835080
+    },
+    {
+        "Id": 80901,
+        "NameTextMapHash": 502031648,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_07"
+        ],
+        "DescriptTextMapHash": 2782584608
+    },
+    {
+        "Id": 80902,
+        "NameTextMapHash": 2093223696,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_08"
+        ],
+        "DescriptTextMapHash": 2763758944
+    },
+    {
+        "Id": 80903,
+        "NameTextMapHash": 4267135616,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_09"
+        ],
+        "DescriptTextMapHash": 2836202984
+    },
+    {
+        "Id": 80701,
+        "NameTextMapHash": 144137896,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_01"
+        ],
+        "DescriptTextMapHash": 1687351856
+    },
+    {
+        "Id": 80702,
+        "NameTextMapHash": 2972154784,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_02"
+        ],
+        "DescriptTextMapHash": 1627403264
+    },
+    {
+        "Id": 80703,
+        "NameTextMapHash": 1969479240,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_03"
+        ],
+        "DescriptTextMapHash": 2950104080
+    },
+    {
+        "Id": 81001,
+        "NameTextMapHash": 1339758080,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_10"
+        ],
+        "DescriptTextMapHash": 1278592
+    },
+    {
+        "Id": 81002,
+        "NameTextMapHash": 2596546408,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_11"
+        ],
+        "DescriptTextMapHash": 1615601472
+    },
+    {
+        "Id": 81003,
+        "NameTextMapHash": 2390509256,
+        "ImageNameList": [
+            "UI_Activity_FleurFair_MiniGame_12"
+        ],
+        "DescriptTextMapHash": 3235451968
+    },
+    {
         "Id": 90001,
         "NameTextMapHash": 3940621680,
         "ImageNameList": [
@@ -1778,6 +1904,30 @@
             "UI_Activity_Dragonspine_03"
         ],
         "DescriptTextMapHash": 2455564584
+    },
+    {
+        "Id": 90601,
+        "NameTextMapHash": 2093314024,
+        "ImageNameList": [
+            "UI_Tutorial_82"
+        ],
+        "DescriptTextMapHash": 2382069568
+    },
+    {
+        "Id": 90602,
+        "NameTextMapHash": 2535175144,
+        "ImageNameList": [
+            "UI_Tutorial_83"
+        ],
+        "DescriptTextMapHash": 3012205616
+    },
+    {
+        "Id": 90603,
+        "NameTextMapHash": 1974995016,
+        "ImageNameList": [
+            "UI_Tutorial_84"
+        ],
+        "DescriptTextMapHash": 2312737472
     },
     {
         "Id": 100001,
@@ -2010,5 +2160,19 @@
             "UI_Tutorial_79"
         ],
         "DescriptTextMapHash": 2075513352
+    },
+    {
+        "Id": 102201,
+        "NameTextMapHash": 3483123232,
+        "ImageNameList": [],
+        "DescriptTextMapHash": 1671747032
+    },
+    {
+        "Id": 102301,
+        "NameTextMapHash": 1798140872,
+        "ImageNameList": [
+            "UI_BarbaraBlackmail_Alpha"
+        ],
+        "DescriptTextMapHash": 3447116880
     }
 ]

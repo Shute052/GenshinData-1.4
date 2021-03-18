@@ -2828,6 +2828,27 @@
         "DescTextMapHash": 50003562
     },
     {
+        "ClientId": 10414,
+        "Id": 1364,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_EffigyChallenge_AtkSpeed",
+        "DescTextMapHash": 1428048994
+    },
+    {
+        "ClientId": 10415,
+        "Id": 1364,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AttackUpAreaAttack",
+        "DescTextMapHash": 3167988130
+    },
+    {
+        "ClientId": 10416,
+        "Id": 1364,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ExtraAreaAttack",
+        "DescTextMapHash": 3482174410
+    },
+    {
         "ClientId": 10417,
         "Id": 1365,
         "LevelConfigName": "LevelEntity_Activity_TowerDefence_AvatarDebuff",
@@ -2839,5 +2860,82 @@
         "Show": true,
         "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
         "DescTextMapHash": 4281087034
+    },
+    {
+        "ClientId": 10419,
+        "Id": 1366,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_AreaNoEnemyAttackUp_Ver_1_14",
+        "DescTextMapHash": 2153546114
+    },
+    {
+        "ClientId": 10420,
+        "Id": 1367,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_EnemyDefDownOnFallingAttack_Ver_1_14",
+        "DescTextMapHash": 2081704354
+    },
+    {
+        "ClientId": 10421,
+        "Id": 1368,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_DropElementBallOnFallingAttack_Ver_1_14",
+        "DescTextMapHash": 23145610
+    },
+    {
+        "ClientId": 10422,
+        "Id": 1369,
+        "Show": true,
+        "LevelConfigName": "Level_MaoCheng_Test",
+        "DescTextMapHash": 1231111370
+    },
+    {
+        "ClientId": 10423,
+        "Id": 1369,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 3685157042
+    },
+    {
+        "ClientId": 10424,
+        "Id": 1369,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 1219452482
+    },
+    {
+        "ClientId": 10425,
+        "Id": 1369,
+        "Show": true,
+        "LevelConfigName": "Level_Spiral_Abyss_Charge_Empty",
+        "DescTextMapHash": 346622594
+    },
+    {
+        "ClientId": 10426,
+        "Id": 1370,
+        "Show": true,
+        "LevelConfigName": "Level_Electric_Test",
+        "DescTextMapHash": 772159954
+    },
+    {
+        "ClientId": 10427,
+        "Id": 1370,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ElementReactionAttack_Shock",
+        "DescTextMapHash": 1614774714
+    },
+    {
+        "ClientId": 10428,
+        "Id": 1370,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_GainShieldDoDamage",
+        "DescTextMapHash": 3411770186
+    },
+    {
+        "ClientId": 10429,
+        "Id": 1370,
+        "Show": true,
+        "LevelConfigName": "LevelEntity_TowerBuff_ShieldOnBeingHitDoDamage",
+        "DescTextMapHash": 1057181194
     }
 ]

@@ -41,5 +41,17 @@
         "BuffList": [],
         "PushTipsId": 9003,
         "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Dragonspine"
+    },
+    {
+        "Id": 4,
+        "PlayType": "MP_PLAY_WATER_SPRITE",
+        "PlayNameTextMapHash": 968835426,
+        "PlayDescTextMapHash": 326086028,
+        "IsAutoMatch": true,
+        "MinPlayers": 2,
+        "MaxPlayers": 4,
+        "IsAllowInAnyTime": true,
+        "BuffList": [],
+        "BgImage": "ART/UI/Atlas/ActivitySignImg/UI_Icon_SettlementBg_Common"
     }
 ]

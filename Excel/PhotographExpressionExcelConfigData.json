@@ -1567,5 +1567,56 @@
             }
         ],
         "FinishConds": []
+    },
+    {
+        "EmotionName": "",
+        "PhonemeName": "",
+        "Icon": "UI_EmotIcon_Normal",
+        "EmotionDescriptionTextMapHash": 4178887669,
+        "UnlockDescTextMapHash": 3393510410,
+        "FetterId": 37401,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Angry_02",
+        "PhonemeName": "P_N_01",
+        "Icon": "UI_EmotIcon_Earnest",
+        "EmotionDescriptionTextMapHash": 1366046677,
+        "UnlockDescTextMapHash": 1582584450,
+        "FetterId": 37402,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    2
+                ]
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "EmotionName": "Gentle_02",
+        "PhonemeName": "P_Doya_01",
+        "Icon": "UI_EmotIcon_Smile",
+        "EmotionDescriptionTextMapHash": 620051285,
+        "UnlockDescTextMapHash": 2016681610,
+        "FetterId": 37403,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "CondType": "FETTER_COND_FETTER_LEVEL",
+                "ParamList": [
+                    4
+                ]
+            }
+        ],
+        "FinishConds": []
     }
 ]

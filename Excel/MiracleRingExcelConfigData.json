@@ -495,6 +495,61 @@
         ]
     },
     {
+        "ItemId": 101001,
+        "MiracleValue": 1,
+        "MiracleTag": [
+            "TAG_WEAPON_EXP",
+            "TAG_AVATAR_PROMOTE",
+            "TAG_NONE",
+            "TAG_NONE",
+            "TAG_NONE"
+        ]
+    },
+    {
+        "ItemId": 101002,
+        "MiracleValue": 1,
+        "MiracleTag": [
+            "TAG_WEAPON_EXP",
+            "TAG_AVATAR_PROMOTE",
+            "TAG_NONE",
+            "TAG_NONE",
+            "TAG_NONE"
+        ]
+    },
+    {
+        "ItemId": 101003,
+        "MiracleValue": 1,
+        "MiracleTag": [
+            "TAG_WEAPON_EXP",
+            "TAG_AVATAR_PROMOTE",
+            "TAG_NONE",
+            "TAG_NONE",
+            "TAG_NONE"
+        ]
+    },
+    {
+        "ItemId": 101004,
+        "MiracleValue": 1,
+        "MiracleTag": [
+            "TAG_WEAPON_EXP",
+            "TAG_AVATAR_PROMOTE",
+            "TAG_NONE",
+            "TAG_NONE",
+            "TAG_NONE"
+        ]
+    },
+    {
+        "ItemId": 101006,
+        "MiracleValue": 1,
+        "MiracleTag": [
+            "TAG_WEAPON_EXP",
+            "TAG_AVATAR_PROMOTE",
+            "TAG_NONE",
+            "TAG_NONE",
+            "TAG_NONE"
+        ]
+    },
+    {
         "ItemId": 112002,
         "MiracleValue": 1,
         "MiracleTag": [

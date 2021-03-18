@@ -404,5 +404,19 @@
             10,
             15
         ]
+    },
+    {
+        "AvatarId": 10000045,
+        "RecipeId": 2002,
+        "BonusType": "COOK_BONUS_REPLACE",
+        "ParamVec": [
+            108234,
+            0
+        ],
+        "ComplexParamVec": [
+            10,
+            10,
+            15
+        ]
     }
 ]

@@ -145,5 +145,39 @@
             }
         ],
         "SortLevel": []
+    },
+    {
+        "Id": 10,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 709283712,
+        "Cond": [
+            {
+                "Type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
+    },
+    {
+        "Id": 11,
+        "IsAheadPreview": true,
+        "SheetNameTextMapHash": 527371936,
+        "Cond": [
+            {
+                "Type": "ACTIVITY_SHOP_SHEET_COND_TIME_EQUAL_GREATER",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Param": []
+            }
+        ],
+        "SortLevel": []
     }
 ]

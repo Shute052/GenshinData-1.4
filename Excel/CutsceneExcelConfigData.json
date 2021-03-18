@@ -234,5 +234,9 @@
     {
         "Id": 111001,
         "Path": "Scene_CutScene/Cs_Scene_LYLQ11113_HiddenDoor"
+    },
+    {
+        "Id": 531001,
+        "Path": "Scene_CutScene/Cs_Scene_FluerFair_DungeonGate"
     }
 ]

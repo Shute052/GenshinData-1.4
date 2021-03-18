@@ -52,5 +52,15 @@
         "JsonName": "Flycloak_Default_01",
         "Icon": "UI_Gacha_FlycloakIcon_Nixavis",
         "MaterialId": 140006
+    },
+    {
+        "FlycloakId": 140007,
+        "NameTextMapHash": 972574812,
+        "DescTextMapHash": 3582594568,
+        "PrefabPath": "ART/System/Flycloak/Flycloak_Normal_Redcomet_01/Flycloak_Normal_Redcomet_01",
+        "JsonName": "Flycloak_Default_01",
+        "Icon": "UI_Gacha_FlycloakIcon_Redcomet",
+        "MaterialId": 140007,
+        "Hide": true
     }
 ]

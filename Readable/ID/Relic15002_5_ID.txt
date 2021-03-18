@@ -2,8 +2,8 @@
 Sebuah Peralatan yang dibuat khusus untuk mencari arah dan jalan.
 
 Legenda mengatakan bahwa saat Viridescent Venerer berjalan telanjang kaki di lapangan,
-Rumput di bawah kakinya akan memberitahu apa yang dilihat oleh burung-burung di atas pohon,
-Lumpur di tepi jalan akan memberitahu apa yang didengar oleh akar pohon di tanah.
+Rumput di bawah kakinya akan memberi tahu apa yang dilihat oleh burung-burung di atas pohon,
+Lumpur di tepi jalan akan memberi tahu apa yang didengar oleh akar pohon di tanah.
 
 Namun dikatakan sejak bencana melanda, rumput dan pohon tidak pernah berbicara lagi.
 Karena Dewa Hutan telah mati oleh bencana tersebut.

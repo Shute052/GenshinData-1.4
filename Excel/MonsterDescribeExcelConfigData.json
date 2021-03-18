@@ -135,42 +135,6 @@
         "LockDescTextMapHash": 588143993
     },
     {
-        "Id": 116,
-        "NameTextMapHash": 544132088,
-        "TitleID": 1051,
-        "SpecialNameLabID": 1001,
-        "Icon": "UI_MonsterIcon_Slime_Fire_02",
-        "DescTextMapHash": 4004897917,
-        "LockDescTextMapHash": 685091321
-    },
-    {
-        "Id": 117,
-        "NameTextMapHash": 1415099112,
-        "TitleID": 1051,
-        "SpecialNameLabID": 1001,
-        "Icon": "UI_MonsterIcon_Slime_Fire_03",
-        "DescTextMapHash": 4004657557,
-        "LockDescTextMapHash": 2994640057
-    },
-    {
-        "Id": 118,
-        "NameTextMapHash": 3935438856,
-        "TitleID": 1051,
-        "SpecialNameLabID": 1001,
-        "Icon": "UI_MonsterIcon_Slime_Rock_02",
-        "DescTextMapHash": 2707037365,
-        "LockDescTextMapHash": 450680025
-    },
-    {
-        "Id": 119,
-        "NameTextMapHash": 2540711056,
-        "TitleID": 1051,
-        "SpecialNameLabID": 1001,
-        "Icon": "UI_MonsterIcon_Slime_Rock_03",
-        "DescTextMapHash": 1157335389,
-        "LockDescTextMapHash": 1205517081
-    },
-    {
         "Id": 201,
         "NameTextMapHash": 352893312,
         "TitleID": 1201,
@@ -205,15 +169,6 @@
         "Icon": "UI_MonsterIcon_Effigy_Rock",
         "DescTextMapHash": 4076289629,
         "LockDescTextMapHash": 1573569657
-    },
-    {
-        "Id": 404,
-        "NameTextMapHash": 2176969488,
-        "TitleID": 2003,
-        "SpecialNameLabID": 2003,
-        "Icon": "UI_MonsterIcon_Effigy_Rock",
-        "DescTextMapHash": 2395754581,
-        "LockDescTextMapHash": 3736777393
     },
     {
         "Id": 501,
@@ -542,20 +497,11 @@
     {
         "Id": 20201,
         "NameTextMapHash": 2159496136,
-        "TitleID": 4003,
-        "SpecialNameLabID": 4001,
-        "Icon": "UI_MonsterIcon_Abyss_Water_01",
+        "TitleID": 4011,
+        "SpecialNameLabID": 4011,
+        "Icon": "UI_MonsterIcon_Invoker_Herald_Water_01",
         "DescTextMapHash": 2117834717,
         "LockDescTextMapHash": 175434481
-    },
-    {
-        "Id": 20301,
-        "NameTextMapHash": 626343048,
-        "TitleID": 4003,
-        "SpecialNameLabID": 4001,
-        "Icon": "UI_MonsterIcon_Abyss_Water_01",
-        "DescTextMapHash": 1865894221,
-        "LockDescTextMapHash": 3916642817
     },
     {
         "Id": 30101,
@@ -819,6 +765,33 @@
         "LockDescTextMapHash": 1784140033
     },
     {
+        "Id": 50802,
+        "NameTextMapHash": 2410706536,
+        "TitleID": 7011,
+        "SpecialNameLabID": 7011,
+        "Icon": "UI_MonsterIcon_Millelith_Male_01",
+        "DescTextMapHash": 549579685,
+        "LockDescTextMapHash": 3097819161
+    },
+    {
+        "Id": 50803,
+        "NameTextMapHash": 628782592,
+        "TitleID": 7011,
+        "SpecialNameLabID": 7011,
+        "Icon": "UI_MonsterIcon_Millelith_Male_01",
+        "DescTextMapHash": 1078660629,
+        "LockDescTextMapHash": 1739671417
+    },
+    {
+        "Id": 50804,
+        "NameTextMapHash": 2183303536,
+        "TitleID": 7011,
+        "SpecialNameLabID": 7011,
+        "Icon": "UI_MonsterIcon_Millelith_Male_01",
+        "DescTextMapHash": 216041581,
+        "LockDescTextMapHash": 3228184161
+    },
+    {
         "Id": 60101,
         "NameTextMapHash": 883066616,
         "TitleID": 2101,
@@ -961,14 +934,5 @@
         "Icon": "UI_MonsterIcon_Tartaglia",
         "DescTextMapHash": 2701712117,
         "LockDescTextMapHash": 2295502745
-    },
-    {
-        "Id": 90401,
-        "NameTextMapHash": 3423290768,
-        "TitleID": 131,
-        "SpecialNameLabID": 131,
-        "Icon": "UI_MonsterIcon_Dvalin",
-        "DescTextMapHash": 4203999989,
-        "LockDescTextMapHash": 2166614161
     }
 ]

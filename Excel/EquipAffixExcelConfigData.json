@@ -1714,16 +1714,16 @@
         "Id": 111410,
         "NameTextMapHash": 3197835587,
         "DescTextMapHash": 820748057,
-        "OpenConfig": "Weapon_Sword_AfterSprint",
+        "OpenConfig": "Weapon_Sword_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.5,
-            0.2800000011920929,
-            6.0,
+            0.11999999731779099,
+            5.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -1737,16 +1737,16 @@
         "Level": 1,
         "NameTextMapHash": 790249091,
         "DescTextMapHash": 221557857,
-        "OpenConfig": "Weapon_Sword_AfterSprint",
+        "OpenConfig": "Weapon_Sword_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.5,
-            0.3499999940395355,
-            6.0,
+            0.15000000596046448,
+            5.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -1760,16 +1760,16 @@
         "Level": 2,
         "NameTextMapHash": 4219645787,
         "DescTextMapHash": 1186671217,
-        "OpenConfig": "Weapon_Sword_AfterSprint",
+        "OpenConfig": "Weapon_Sword_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.5,
-            0.41999998688697815,
-            6.0,
+            0.18000000715255737,
+            5.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -1783,16 +1783,16 @@
         "Level": 3,
         "NameTextMapHash": 1513577275,
         "DescTextMapHash": 191893953,
-        "OpenConfig": "Weapon_Sword_AfterSprint",
+        "OpenConfig": "Weapon_Sword_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.5,
-            0.49000000953674316,
-            6.0,
+            0.20999999344348907,
+            5.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -1806,16 +1806,16 @@
         "Level": 4,
         "NameTextMapHash": 2365025043,
         "DescTextMapHash": 493971049,
-        "OpenConfig": "Weapon_Sword_AfterSprint",
+        "OpenConfig": "Weapon_Sword_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.5,
-            0.5600000023841858,
-            6.0,
+            0.23999999463558197,
+            5.0,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -9212,17 +9212,17 @@
         "Id": 114410,
         "NameTextMapHash": 824508131,
         "DescTextMapHash": 1480134065,
-        "OpenConfig": "Weapon_Catalyst_Mengde",
+        "OpenConfig": "Weapon_Catalyst_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.07999999821186066,
-            0.029999999329447746,
-            0.0,
-            0.0,
+            0.20000000298023224,
+            5.0,
+            0.14000000059604645,
+            5.0,
             0.0,
             0.0,
             0.0,
@@ -9235,17 +9235,17 @@
         "Level": 1,
         "NameTextMapHash": 4090110723,
         "DescTextMapHash": 1640744441,
-        "OpenConfig": "Weapon_Catalyst_Mengde",
+        "OpenConfig": "Weapon_Catalyst_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.10000000149011612,
-            0.03500000014901161,
-            0.0,
-            0.0,
+            0.25,
+            5.0,
+            0.1599999964237213,
+            5.0,
             0.0,
             0.0,
             0.0,
@@ -9258,17 +9258,17 @@
         "Level": 2,
         "NameTextMapHash": 1746837299,
         "DescTextMapHash": 106144785,
-        "OpenConfig": "Weapon_Catalyst_Mengde",
+        "OpenConfig": "Weapon_Catalyst_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.11999999731779099,
-            0.03999999910593033,
-            0.0,
-            0.0,
+            0.30000001192092896,
+            5.0,
+            0.18000000715255737,
+            5.0,
             0.0,
             0.0,
             0.0,
@@ -9281,17 +9281,17 @@
         "Level": 3,
         "NameTextMapHash": 1078543107,
         "DescTextMapHash": 2898215233,
-        "OpenConfig": "Weapon_Catalyst_Mengde",
+        "OpenConfig": "Weapon_Catalyst_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.14000000059604645,
-            0.04500000178813934,
-            0.0,
-            0.0,
+            0.3499999940395355,
+            5.0,
+            0.20000000298023224,
+            5.0,
             0.0,
             0.0,
             0.0,
@@ -9304,17 +9304,17 @@
         "Level": 4,
         "NameTextMapHash": 3796702635,
         "DescTextMapHash": 153003145,
-        "OpenConfig": "Weapon_Catalyst_Mengde",
+        "OpenConfig": "Weapon_Catalyst_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
-            0.1599999964237213,
-            0.05000000074505806,
-            0.0,
-            0.0,
+            0.4000000059604645,
+            5.0,
+            0.2199999988079071,
+            5.0,
             0.0,
             0.0,
             0.0,
@@ -9782,7 +9782,7 @@
         "Id": 114503,
         "NameTextMapHash": 929067379,
         "DescTextMapHash": 3630311225,
-        "OpenConfig": "Weapon_Catalyst_EnergyPoem",
+        "OpenConfig": "Weapon_Test_ExtraProp_Limit",
         "AddProps": [
             {},
             {},
@@ -9805,7 +9805,7 @@
         "Level": 1,
         "NameTextMapHash": 3755739939,
         "DescTextMapHash": 1352974857,
-        "OpenConfig": "Weapon_Catalyst_EnergyPoem",
+        "OpenConfig": "Weapon_Test_ExtraProp_Limit",
         "AddProps": [
             {},
             {},
@@ -9828,7 +9828,7 @@
         "Level": 2,
         "NameTextMapHash": 2935504867,
         "DescTextMapHash": 218892817,
-        "OpenConfig": "Weapon_Catalyst_EnergyPoem",
+        "OpenConfig": "Weapon_Test_ExtraProp_Limit",
         "AddProps": [
             {},
             {},
@@ -9851,7 +9851,7 @@
         "Level": 3,
         "NameTextMapHash": 1254561755,
         "DescTextMapHash": 75682313,
-        "OpenConfig": "Weapon_Catalyst_EnergyPoem",
+        "OpenConfig": "Weapon_Test_ExtraProp_Limit",
         "AddProps": [
             {},
             {},
@@ -9874,7 +9874,7 @@
         "Level": 4,
         "NameTextMapHash": 288134411,
         "DescTextMapHash": 4282522497,
-        "OpenConfig": "Weapon_Catalyst_EnergyPoem",
+        "OpenConfig": "Weapon_Test_ExtraProp_Limit",
         "AddProps": [
             {},
             {},
@@ -10013,135 +10013,6 @@
             0.4000000059604645,
             0.07999999821186066,
             8.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1145050,
-        "Id": 114505,
-        "NameTextMapHash": 2612600955,
-        "DescTextMapHash": 3126185433,
-        "OpenConfig": "Weapon_Catalyst_Morax_HpToAtk",
-        "AddProps": [
-            {
-                "PropType": "FIGHT_PROP_HP_PERCENT",
-                "Value": 0.20000000298023224
-            },
-            {},
-            {}
-        ],
-        "ParamList": [
-            0.20000000298023224,
-            0.012000000104308128,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1145051,
-        "Id": 114505,
-        "Level": 1,
-        "NameTextMapHash": 1099173571,
-        "DescTextMapHash": 152045553,
-        "OpenConfig": "Weapon_Catalyst_Morax_HpToAtk",
-        "AddProps": [
-            {
-                "PropType": "FIGHT_PROP_HP_PERCENT",
-                "Value": 0.25
-            },
-            {},
-            {}
-        ],
-        "ParamList": [
-            0.25,
-            0.014999999664723873,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1145052,
-        "Id": 114505,
-        "Level": 2,
-        "NameTextMapHash": 3712117035,
-        "DescTextMapHash": 3236878545,
-        "OpenConfig": "Weapon_Catalyst_Morax_HpToAtk",
-        "AddProps": [
-            {
-                "PropType": "FIGHT_PROP_HP_PERCENT",
-                "Value": 0.30000001192092896
-            },
-            {},
-            {}
-        ],
-        "ParamList": [
-            0.30000001192092896,
-            0.017999999225139618,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1145053,
-        "Id": 114505,
-        "Level": 3,
-        "NameTextMapHash": 4230343419,
-        "DescTextMapHash": 401263433,
-        "OpenConfig": "Weapon_Catalyst_Morax_HpToAtk",
-        "AddProps": [
-            {
-                "PropType": "FIGHT_PROP_HP_PERCENT",
-                "Value": 0.3499999940395355
-            },
-            {},
-            {}
-        ],
-        "ParamList": [
-            0.3499999940395355,
-            0.020999999716877937,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0,
-            0.0
-        ]
-    },
-    {
-        "AffixId": 1145054,
-        "Id": 114505,
-        "Level": 4,
-        "NameTextMapHash": 1523089323,
-        "DescTextMapHash": 1464714049,
-        "OpenConfig": "Weapon_Catalyst_Morax_HpToAtk",
-        "AddProps": [
-            {
-                "PropType": "FIGHT_PROP_HP_PERCENT",
-                "Value": 0.4000000059604645
-            },
-            {},
-            {}
-        ],
-        "ParamList": [
-            0.4000000059604645,
-            0.024000000208616257,
-            0.0,
             0.0,
             0.0,
             0.0,
@@ -11864,16 +11735,16 @@
         "Id": 115410,
         "NameTextMapHash": 2308173611,
         "DescTextMapHash": 1333678233,
-        "OpenConfig": "Weapon_Bow_Shadow",
+        "OpenConfig": "Weapon_Bow_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
+            0.019999999552965164,
             4.0,
-            0.03999999910593033,
-            0.03999999910593033,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -11887,16 +11758,16 @@
         "Level": 1,
         "NameTextMapHash": 1822790827,
         "DescTextMapHash": 3490203185,
-        "OpenConfig": "Weapon_Bow_Shadow",
+        "OpenConfig": "Weapon_Bow_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
+            0.02500000037252903,
             4.0,
-            0.05000000074505806,
-            0.05000000074505806,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -11910,16 +11781,16 @@
         "Level": 2,
         "NameTextMapHash": 870281363,
         "DescTextMapHash": 3969501113,
-        "OpenConfig": "Weapon_Bow_Shadow",
+        "OpenConfig": "Weapon_Bow_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
+            0.029999999329447746,
             4.0,
-            0.05999999865889549,
-            0.05999999865889549,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -11933,16 +11804,16 @@
         "Level": 3,
         "NameTextMapHash": 2302209155,
         "DescTextMapHash": 1108020297,
-        "OpenConfig": "Weapon_Bow_Shadow",
+        "OpenConfig": "Weapon_Bow_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
+            0.03500000014901161,
             4.0,
-            0.07000000029802322,
-            0.07000000029802322,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -11956,16 +11827,16 @@
         "Level": 4,
         "NameTextMapHash": 4000770243,
         "DescTextMapHash": 3785180097,
-        "OpenConfig": "Weapon_Bow_Shadow",
+        "OpenConfig": "Weapon_Bow_Outlaw",
         "AddProps": [
             {},
             {},
             {}
         ],
         "ParamList": [
+            0.03999999910593033,
             4.0,
-            0.07999999821186066,
-            0.07999999821186066,
+            0.0,
             0.0,
             0.0,
             0.0,
@@ -12079,6 +11950,120 @@
         "ParamList": [
             4.800000190734863,
             10.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1154130,
+        "Id": 115413,
+        "NameTextMapHash": 2243732203,
+        "DescTextMapHash": 3011253385,
+        "OpenConfig": "Weapon_Bow_Fleurfair",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.1599999964237213,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1154131,
+        "Id": 115413,
+        "Level": 1,
+        "NameTextMapHash": 1791450699,
+        "DescTextMapHash": 1438538761,
+        "OpenConfig": "Weapon_Bow_Fleurfair",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.20000000298023224,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1154132,
+        "Id": 115413,
+        "Level": 2,
+        "NameTextMapHash": 2526334419,
+        "DescTextMapHash": 1633168769,
+        "OpenConfig": "Weapon_Bow_Fleurfair",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.23999999463558197,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1154133,
+        "Id": 115413,
+        "Level": 3,
+        "NameTextMapHash": 685897059,
+        "DescTextMapHash": 1464349937,
+        "OpenConfig": "Weapon_Bow_Fleurfair",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.2800000011920929,
+            6.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1154134,
+        "Id": 115413,
+        "Level": 4,
+        "NameTextMapHash": 1628928163,
+        "DescTextMapHash": 2359422417,
+        "OpenConfig": "Weapon_Bow_Fleurfair",
+        "AddProps": [
+            {},
+            {},
+            {}
+        ],
+        "ParamList": [
+            0.3199999928474426,
+            6.0,
             0.0,
             0.0,
             0.0,
@@ -12335,6 +12320,135 @@
         "Id": 115503,
         "NameTextMapHash": 3170253363,
         "DescTextMapHash": 3647072697,
+        "OpenConfig": "Weapon_Bow_Widsith",
+        "AddProps": [
+            {
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "Value": 60.0
+            },
+            {},
+            {}
+        ],
+        "ParamList": [
+            60.0,
+            0.20000000298023224,
+            12.0,
+            100.0,
+            0.20000000298023224,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1155031,
+        "Id": 115503,
+        "Level": 1,
+        "NameTextMapHash": 315311267,
+        "DescTextMapHash": 1876022129,
+        "OpenConfig": "Weapon_Bow_Widsith",
+        "AddProps": [
+            {
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "Value": 75.0
+            },
+            {},
+            {}
+        ],
+        "ParamList": [
+            75.0,
+            0.20000000298023224,
+            12.0,
+            125.0,
+            0.25,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1155032,
+        "Id": 115503,
+        "Level": 2,
+        "NameTextMapHash": 4123739899,
+        "DescTextMapHash": 888324649,
+        "OpenConfig": "Weapon_Bow_Widsith",
+        "AddProps": [
+            {
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "Value": 90.0
+            },
+            {},
+            {}
+        ],
+        "ParamList": [
+            90.0,
+            0.20000000298023224,
+            12.0,
+            150.0,
+            0.30000001192092896,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1155033,
+        "Id": 115503,
+        "Level": 3,
+        "NameTextMapHash": 3758520035,
+        "DescTextMapHash": 346681641,
+        "OpenConfig": "Weapon_Bow_Widsith",
+        "AddProps": [
+            {
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "Value": 105.0
+            },
+            {},
+            {}
+        ],
+        "ParamList": [
+            105.0,
+            0.20000000298023224,
+            12.0,
+            175.0,
+            0.3499999940395355,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1155034,
+        "Id": 115503,
+        "Level": 4,
+        "NameTextMapHash": 1404688115,
+        "DescTextMapHash": 3387352401,
+        "OpenConfig": "Weapon_Bow_Widsith",
+        "AddProps": [
+            {
+                "PropType": "FIGHT_PROP_ELEMENT_MASTERY",
+                "Value": 120.0
+            },
+            {},
+            {}
+        ],
+        "ParamList": [
+            120.0,
+            0.20000000298023224,
+            12.0,
+            200.0,
+            0.4000000059604645,
+            20.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "AffixId": 1155990,
+        "Id": 115599,
+        "NameTextMapHash": 884850515,
+        "DescTextMapHash": 1178663913,
         "OpenConfig": "Weapon_Bow_EnergyPoem",
         "AddProps": [
             {},
@@ -12353,11 +12467,11 @@
         ]
     },
     {
-        "AffixId": 1155031,
-        "Id": 115503,
+        "AffixId": 1155991,
+        "Id": 115599,
         "Level": 1,
-        "NameTextMapHash": 315311267,
-        "DescTextMapHash": 1876022129,
+        "NameTextMapHash": 618566275,
+        "DescTextMapHash": 379485793,
         "OpenConfig": "Weapon_Bow_EnergyPoem",
         "AddProps": [
             {},
@@ -12376,11 +12490,11 @@
         ]
     },
     {
-        "AffixId": 1155032,
-        "Id": 115503,
+        "AffixId": 1155992,
+        "Id": 115599,
         "Level": 2,
-        "NameTextMapHash": 4123739899,
-        "DescTextMapHash": 888324649,
+        "NameTextMapHash": 505650963,
+        "DescTextMapHash": 1156057345,
         "OpenConfig": "Weapon_Bow_EnergyPoem",
         "AddProps": [
             {},
@@ -12399,11 +12513,11 @@
         ]
     },
     {
-        "AffixId": 1155033,
-        "Id": 115503,
+        "AffixId": 1155993,
+        "Id": 115599,
         "Level": 3,
-        "NameTextMapHash": 3758520035,
-        "DescTextMapHash": 346681641,
+        "NameTextMapHash": 2409311947,
+        "DescTextMapHash": 668210505,
         "OpenConfig": "Weapon_Bow_EnergyPoem",
         "AddProps": [
             {},
@@ -12422,11 +12536,11 @@
         ]
     },
     {
-        "AffixId": 1155034,
-        "Id": 115503,
+        "AffixId": 1155994,
+        "Id": 115599,
         "Level": 4,
-        "NameTextMapHash": 1404688115,
-        "DescTextMapHash": 3387352401,
+        "NameTextMapHash": 2876370899,
+        "DescTextMapHash": 521536745,
         "OpenConfig": "Weapon_Bow_EnergyPoem",
         "AddProps": [
             {},

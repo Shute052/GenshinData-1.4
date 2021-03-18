@@ -75,26 +75,6 @@
         "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
     },
     {
-        "Id": 116,
-        "TagStr": "史莱姆",
-        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
-    },
-    {
-        "Id": 117,
-        "TagStr": "史莱姆",
-        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
-    },
-    {
-        "Id": 118,
-        "TagStr": "史莱姆",
-        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
-    },
-    {
-        "Id": 119,
-        "TagStr": "史莱姆",
-        "MonsterRarity": "MONSTER_RARITY_SMALL_MONSTER"
-    },
-    {
         "Id": 201,
         "TagStr": "元素之核",
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
@@ -112,11 +92,6 @@
     {
         "Id": 403,
         "TagStr": "无相之岩",
-        "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
-    },
-    {
-        "Id": 404,
-        "TagStr": "无相之水",
         "MonsterRarity": "MONSTER_RARITY_BOSS_MONSTER"
     },
     {
@@ -311,11 +286,6 @@
     },
     {
         "Id": 20201,
-        "TagStr": "深渊法师",
-        "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
-    },
-    {
-        "Id": 20301,
         "TagStr": "深渊法师",
         "MonsterRarity": "MONSTER_RARITY_ELITE_MONSTER"
     },
@@ -610,11 +580,6 @@
         "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
     },
     {
-        "Id": 80502,
-        "TagStr": "魔法生物",
-        "MonsterRarity": "MONSTER_RARITY_SMALL_ENV_ANIMAL"
-    },
-    {
         "Id": 90101,
         "TagStr": "风魔龙",
         "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
@@ -627,11 +592,6 @@
     {
         "Id": 90301,
         "TagStr": "公子",
-        "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
-    },
-    {
-        "Id": 90401,
-        "TagStr": "若陀龙王",
         "MonsterRarity": "MONSTER_RARITY_BIG_BOSS_MONSTER"
     }
 ]

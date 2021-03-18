@@ -260,6 +260,16 @@
         "SortOrder": 4012
     },
     {
+        "Id": 60400013,
+        "PushTipId": 3011,
+        "SortOrder": 4013
+    },
+    {
+        "Id": 60400014,
+        "PushTipId": 3012,
+        "SortOrder": 4014
+    },
+    {
         "Id": 60500001,
         "PushTipId": 2009,
         "SortOrder": 2001
@@ -408,6 +418,11 @@
         "Id": 60500030,
         "PushTipId": 2060,
         "SortOrder": 2030
+    },
+    {
+        "Id": 60500031,
+        "PushTipId": 2061,
+        "SortOrder": 2031
     },
     {
         "Id": 60700001,

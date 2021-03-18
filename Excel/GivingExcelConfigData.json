@@ -2712,5 +2712,82 @@
         "Highlight": true,
         "Icon": "",
         "IsRemoveItem": true
+    },
+    {
+        "Id": 7080001,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100057,
+                "Count": 1
+            },
+            {},
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7080002,
+        "Tab": "TAB_MATERIAL",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_EXACT",
+        "ExactItems": [
+            {
+                "Id": 100057,
+                "Count": 1
+            },
+            {
+                "Id": 112002,
+                "Count": 1
+            },
+            {}
+        ],
+        "GivingGroupIds": [],
+        "Highlight": true,
+        "Icon": "",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7000808,
+        "Tab": "TAB_QUEST",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_VAGUE_GROUP",
+        "ExactItems": [
+            {},
+            {},
+            {}
+        ],
+        "GivingGroupIds": [
+            700080801,
+            700080802
+        ],
+        "GivingGroupCount": 3,
+        "Highlight": true,
+        "Icon": "UI_Icon_Item_Temp",
+        "IsRemoveItem": true
+    },
+    {
+        "Id": 7000810,
+        "Tab": "TAB_QUEST",
+        "IsRepeatable": true,
+        "GivingMethod": "GIVING_METHOD_VAGUE_GROUP",
+        "ExactItems": [
+            {},
+            {},
+            {}
+        ],
+        "GivingGroupIds": [
+            700081001,
+            700081002
+        ],
+        "GivingGroupCount": 1,
+        "Highlight": true,
+        "Icon": "UI_Icon_Item_Temp",
+        "IsRemoveItem": true
     }
 ]

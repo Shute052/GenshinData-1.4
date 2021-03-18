@@ -532,6 +532,25 @@
         "Progress": 1
     },
     {
+        "TrialAvatarIndexId": 29,
+        "TrialAvatarId": 1045,
+        "DungeonId": 6028,
+        "BattleAvatarsList": "1045",
+        "FirstPassReward": 480004,
+        "TitleTextMapHash": 360508642,
+        "BriefInfoTextMapHash": 1204205097,
+        "BgPath": "UI_Img_Activity_Trial_Bg6",
+        "Id": 51029,
+        "TriggerConfig": {
+            "TriggerType": "TRIGGER_FINISH_CHALLENGE",
+            "ParamList": [
+                "6028,241028003,1",
+                ""
+            ]
+        },
+        "Progress": 1
+    },
+    {
         "TrialAvatarIndexId": 30,
         "TrialAvatarId": 1042,
         "DungeonId": 6029,

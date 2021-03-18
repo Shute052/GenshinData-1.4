@@ -5,6 +5,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "2010102",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
@@ -21,7 +22,8 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_PROGRESS",
         "SettleParam": [
             "3010101",
-            "1"
+            "1",
+            ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
         "ClientSyncParam": "",
@@ -37,6 +39,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010102",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
@@ -53,6 +56,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010103",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
@@ -69,6 +73,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010104",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -85,6 +90,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010105",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -101,6 +107,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010106",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -117,6 +124,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010107",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -133,6 +141,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010108",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -149,6 +158,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010109",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -165,6 +175,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010110",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -181,6 +192,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010111",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -197,6 +209,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010112",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
@@ -213,6 +226,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010113",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
@@ -229,7 +243,8 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
         "SettleParam": [
             "133002418",
-            "418001"
+            "418001",
+            ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
         "ClientSyncParam": "",
@@ -245,6 +260,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010114",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
@@ -261,6 +277,7 @@
         "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
         "SettleParam": [
             "3010115",
+            "",
             ""
         ],
         "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
@@ -270,5 +287,209 @@
         "MpchallengestyleTextMapHash": 2614953748,
         "Image": "",
         "Priority": 1
+    },
+    {
+        "Id": 4001,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040401",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_Use_Lift",
+        "MpchallengetitleTextMapHash": 555884010,
+        "MpchallengeTextMapHash": 3995672448,
+        "MpchallengestyleTextMapHash": 2976182420,
+        "Image": "",
+        "Priority": 30
+    },
+    {
+        "Id": 4002,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040402",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_Use_Lift",
+        "MpchallengetitleTextMapHash": 876858778,
+        "MpchallengeTextMapHash": 182116888,
+        "MpchallengestyleTextMapHash": 2240851324,
+        "Image": "",
+        "Priority": 30
+    },
+    {
+        "Id": 4003,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040403",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_Endure_Boss_EX_Skill",
+        "MpchallengetitleTextMapHash": 3188452066,
+        "MpchallengeTextMapHash": 4029316992,
+        "MpchallengestyleTextMapHash": 111809572,
+        "Image": "",
+        "Priority": 30
+    },
+    {
+        "Id": 4004,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040404",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_Summon_In_Advance",
+        "MpchallengetitleTextMapHash": 3412545002,
+        "MpchallengeTextMapHash": 1087087968,
+        "MpchallengestyleTextMapHash": 3442632420,
+        "Image": "",
+        "Priority": 30
+    },
+    {
+        "Id": 4005,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040405",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_FallingAttack_Crab",
+        "MpchallengetitleTextMapHash": 4089901114,
+        "MpchallengeTextMapHash": 638849192,
+        "MpchallengestyleTextMapHash": 3124938492,
+        "Image": "",
+        "Priority": 30
+    },
+    {
+        "Id": 4006,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
+        "SettleParam": [
+            "133102112",
+            "112011",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
+        "ClientSyncParam": "",
+        "MpchallengetitleTextMapHash": 3514060394,
+        "MpchallengeTextMapHash": 3314338928,
+        "MpchallengestyleTextMapHash": 429622156,
+        "Image": "",
+        "Priority": 40
+    },
+    {
+        "Id": 4007,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040406",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_WATCHER_PROGRESS",
+        "ClientSyncParam": "",
+        "MpchallengetitleTextMapHash": 3037131250,
+        "MpchallengeTextMapHash": 2835627272,
+        "MpchallengestyleTextMapHash": 3472235716,
+        "Image": "",
+        "Priority": 40
+    },
+    {
+        "Id": 4008,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_MONSTER_KILL_NUM",
+        "SettleParam": [
+            "133102112",
+            "112011",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
+        "ClientSyncParam": "",
+        "MpchallengetitleTextMapHash": 4055845410,
+        "MpchallengeTextMapHash": 807954320,
+        "MpchallengestyleTextMapHash": 142689628,
+        "Image": "",
+        "Priority": 30
+    },
+    {
+        "Id": 4009,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_MONSTER_KILL_NUM",
+        "SettleParam": [
+            "133102112",
+            "112011",
+            "0"
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
+        "ClientSyncParam": "",
+        "MpchallengetitleTextMapHash": 1394384754,
+        "MpchallengeTextMapHash": 3904675512,
+        "MpchallengestyleTextMapHash": 578011212,
+        "Image": "",
+        "Priority": 20
+    },
+    {
+        "Id": 4010,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_MONSTER_TAKE_DEMAGE",
+        "SettleParam": [
+            "133102112",
+            "112011",
+            "0"
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_STATISTIC_VALUE",
+        "ClientSyncParam": "",
+        "MpchallengetitleTextMapHash": 202559314,
+        "MpchallengeTextMapHash": 3446966624,
+        "MpchallengestyleTextMapHash": 2010258468,
+        "Image": "",
+        "Priority": 20
+    },
+    {
+        "Id": 4011,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040407",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_Endure_Boss_EX_Skill",
+        "MpchallengetitleTextMapHash": 3670593874,
+        "MpchallengeTextMapHash": 1679118832,
+        "MpchallengestyleTextMapHash": 285987652,
+        "Image": "",
+        "Priority": 32
+    },
+    {
+        "Id": 4012,
+        "MpPlayId": 4,
+        "SettleType": "MP_PLAY_SETTLE_TYPE_WATCHER_FINISH",
+        "SettleParam": [
+            "2040408",
+            "",
+            ""
+        ],
+        "ClientSyncType": "MP_PLAY_SETTLE_SYNC_TYPE_MP_GROUP_VARIABLE",
+        "ClientSyncParam": "ACT_OCEANID_Endure_Boss_EX_Skill",
+        "MpchallengetitleTextMapHash": 4030689362,
+        "MpchallengeTextMapHash": 779977184,
+        "MpchallengestyleTextMapHash": 2038652924,
+        "Image": "",
+        "Priority": 33
     }
 ]

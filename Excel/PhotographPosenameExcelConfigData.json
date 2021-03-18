@@ -1362,5 +1362,49 @@
             }
         ],
         "FinishConds": []
+    },
+    {
+        "PoseFile": "Standby",
+        "PoseIcon": "UI_PoseIcon_Default",
+        "PoseNameTextMapHash": 3593513577,
+        "UnlockDescTextMapHash": 1423719883,
+        "FetterId": 37301,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Think01",
+        "AnimatorstateId": 20101,
+        "PoseIcon": "UI_PoseIcon_Thinking",
+        "PoseNameTextMapHash": 2416985233,
+        "UnlockDescTextMapHash": 2867090251,
+        "FetterId": 37302,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
+    },
+    {
+        "PoseFile": "Akimbo02",
+        "AnimatorstateId": 20111,
+        "PoseIcon": "UI_PoseIcon_Akimbo",
+        "PoseNameTextMapHash": 3592424857,
+        "UnlockDescTextMapHash": 1403982843,
+        "FetterId": 37303,
+        "AvatarId": 10000045,
+        "OpenConds": [
+            {
+                "ParamList": []
+            }
+        ],
+        "FinishConds": []
     }
 ]

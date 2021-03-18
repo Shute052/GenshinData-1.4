@@ -289,5 +289,119 @@
         ],
         "UiTitleTextMapHash": 3990910813,
         "UiDescTextMapHash": 3656672285
+    },
+    {
+        "InteractId": 16,
+        "ConsumeItemId": 100057,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100057,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 965759125,
+        "UiDescTextMapHash": 2812375773
+    },
+    {
+        "InteractId": 17,
+        "ConsumeItemId": 100024,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100024,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 3609485,
+        "UiDescTextMapHash": 1806726853
+    },
+    {
+        "InteractId": 18,
+        "ConsumeItemId": 100023,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100023,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 156036221,
+        "UiDescTextMapHash": 1863607949
+    },
+    {
+        "InteractId": 19,
+        "ConsumeItemId": 100055,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100055,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 1320017389,
+        "UiDescTextMapHash": 1898531869
+    },
+    {
+        "InteractId": 20,
+        "ConsumeItemId": 100012,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100012,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 3336152845,
+        "UiDescTextMapHash": 2059416973
+    },
+    {
+        "InteractId": 21,
+        "ConsumeItemId": 100021,
+        "ConsumeItemNum": 1,
+        "ActionType": "INTERACT_ACTION_STATE",
+        "Param1": 201,
+        "CostItems": [
+            {
+                "Id": 100021,
+                "Count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "UiTitleTextMapHash": 4082684725,
+        "UiDescTextMapHash": 4060474701
     }
 ]

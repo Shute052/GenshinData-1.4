@@ -778,9 +778,23 @@
         "PauseGame": true
     },
     {
+        "Id": 274,
+        "DetailIdList": [
+            27401
+        ],
+        "PauseGame": true
+    },
+    {
         "Id": 275,
         "DetailIdList": [
             27501
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 276,
+        "DetailIdList": [
+            27601
         ],
         "PauseGame": true
     },
@@ -1182,6 +1196,20 @@
         "PauseGame": true
     },
     {
+        "Id": 408,
+        "DetailIdList": [
+            40004
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 409,
+        "DetailIdList": [
+            40005
+        ],
+        "PauseGame": true
+    },
+    {
         "Id": 500,
         "DetailIdList": [
             50001
@@ -1319,6 +1347,42 @@
         "PauseGame": true
     },
     {
+        "Id": 807,
+        "DetailIdList": [
+            80701,
+            80702,
+            80703
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 808,
+        "DetailIdList": [
+            80801,
+            80802,
+            80803
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 809,
+        "DetailIdList": [
+            80901,
+            80902,
+            80903
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 810,
+        "DetailIdList": [
+            81001,
+            81002,
+            81003
+        ],
+        "PauseGame": true
+    },
+    {
         "Id": 900,
         "DetailIdList": [
             90001,
@@ -1366,6 +1430,15 @@
             90501,
             90502,
             90503
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 906,
+        "DetailIdList": [
+            90601,
+            90602,
+            90603
         ],
         "PauseGame": true
     },
@@ -1456,6 +1529,20 @@
             100027,
             100028,
             100029
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 1022,
+        "DetailIdList": [
+            102201
+        ],
+        "PauseGame": true
+    },
+    {
+        "Id": 1023,
+        "DetailIdList": [
+            102301
         ],
         "PauseGame": true
     }

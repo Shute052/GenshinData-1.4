@@ -1556,7 +1556,7 @@
             "Wind"
         ],
         "LevelConfigMap": {
-            "1054": 100
+            "1369": 100
         },
         "CityID": 1,
         "EntryPicPath": "",
@@ -1593,7 +1593,7 @@
             "Wind"
         ],
         "LevelConfigMap": {
-            "1357": 100
+            "1366": 100
         },
         "CityID": 1,
         "EntryPicPath": "",
@@ -1630,7 +1630,7 @@
             "Wind"
         ],
         "LevelConfigMap": {
-            "1358": 100
+            "1367": 100
         },
         "CityID": 1,
         "EntryPicPath": "",
@@ -1667,7 +1667,7 @@
             "Wind"
         ],
         "LevelConfigMap": {
-            "1359": 100
+            "1368": 100
         },
         "CityID": 1,
         "EntryPicPath": "",
@@ -1820,25 +1820,23 @@
         "StateType": "DUNGEON_STATE_TEST"
     },
     {
-        "Id": 58,
-        "NameTextMapHash": 1870095624,
-        "DisplayNameTextMapHash": 3883698530,
-        "DescTextMapHash": 2104695485,
+        "Id": 59,
+        "NameTextMapHash": 2872972712,
+        "DisplayNameTextMapHash": 2687639906,
+        "DescTextMapHash": 1806864789,
         "Type": "DUNGEON_FIGHT",
-        "IsDynamicLevel": true,
-        "SceneId": 50031,
+        "SceneId": 50043,
         "InvolveType": "INVOLVE_ONLY_SINGLE",
-        "ShowLevel": 5,
+        "ShowLevel": 1,
         "AvatarLimitType": 1,
         "LimitLevel": 1,
-        "LevelRevise": 4,
-        "PassCond": 21,
+        "PassCond": 5,
         "ReviveMaxCount": 10,
-        "DayEnterCount": 10,
+        "DayEnterCount": 99,
         "EnterCostItems": [
             {}
         ],
-        "SettleCountdownTime": 60,
+        "SettleCountdownTime": 120,
         "SettleShows": [
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE",
@@ -1846,10 +1844,79 @@
             "SETTLE_SHOW_NONE"
         ],
         "RecommendElementTypes": [
-            "Fire",
-            "Electric",
-            "Ice",
-            "Wind"
+            "Rock",
+            "None",
+            "None",
+            "None"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 60,
+        "NameTextMapHash": 2469123240,
+        "DisplayNameTextMapHash": 1026282346,
+        "DescTextMapHash": 1485466677,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50044,
+        "InvolveType": "INVOLVE_ONLY_SINGLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 5,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Rock",
+            "None",
+            "None",
+            "None"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 61,
+        "NameTextMapHash": 1369811496,
+        "DisplayNameTextMapHash": 1488231266,
+        "DescTextMapHash": 3653794629,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 35800,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Rock",
+            "None",
+            "None",
+            "None"
         ],
         "LevelConfigMap": {},
         "CityID": 1,
@@ -2073,7 +2140,6 @@
         "SceneId": 20000,
         "InvolveType": "INVOLVE_ONLY_SINGLE",
         "ShowLevel": 9,
-        "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 8,
         "PassCond": 9,
@@ -2918,19 +2984,19 @@
         "ShowLevel": 35,
         "LimitLevel": 1,
         "LevelRevise": 34,
-        "PassCond": 67,
-        "ReviveMaxCount": 10,
+        "PassCond": 153,
         "DayEnterCount": 99,
         "EnterCostItems": [
             {}
         ],
-        "SettleCountdownTime": 120,
+        "SettleCountdownTime": 10,
         "SettleShows": [
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE"
         ],
+        "ForbiddenRestart": true,
         "RecommendElementTypes": [
             "None",
             "None",
@@ -2940,7 +3006,7 @@
         "LevelConfigMap": {},
         "CityID": 1,
         "EntryPicPath": "DungeonPic_Test",
-        "StateType": "DUNGEON_STATE_TEST"
+        "StateType": "DUNGEON_STATE_RELEASE"
     },
     {
         "Id": 1112,
@@ -2954,19 +3020,19 @@
         "ShowLevel": 35,
         "LimitLevel": 1,
         "LevelRevise": 34,
-        "PassCond": 67,
-        "ReviveMaxCount": 10,
+        "PassCond": 154,
         "DayEnterCount": 99,
         "EnterCostItems": [
             {}
         ],
-        "SettleCountdownTime": 120,
+        "SettleCountdownTime": 10,
         "SettleShows": [
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE",
             "SETTLE_SHOW_NONE"
         ],
+        "ForbiddenRestart": true,
         "RecommendElementTypes": [
             "None",
             "None",
@@ -2976,7 +3042,7 @@
         "LevelConfigMap": {},
         "CityID": 1,
         "EntryPicPath": "DungeonPic_Test",
-        "StateType": "DUNGEON_STATE_TEST"
+        "StateType": "DUNGEON_STATE_RELEASE"
     },
     {
         "Id": 1113,
@@ -3014,6 +3080,81 @@
         "LevelConfigMap": {},
         "CityID": 1,
         "EntryPicPath": "UI_DungeonPic_Amber",
+        "StateType": "DUNGEON_STATE_RELEASE"
+    },
+    {
+        "Id": 1114,
+        "NameTextMapHash": 1518553728,
+        "DisplayNameTextMapHash": 1569449930,
+        "DescTextMapHash": 3544351045,
+        "Type": "DUNGEON_PLOT",
+        "IsDynamicLevel": true,
+        "SceneId": 20104,
+        "InvolveType": "INVOLVE_ONLY_SINGLE",
+        "ShowLevel": 28,
+        "LimitLevel": 1,
+        "LevelRevise": 27,
+        "PassCond": 98,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 999,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "ForbiddenRestart": true,
+        "RecommendElementTypes": [
+            "Ice",
+            "None",
+            "None",
+            "None"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 2,
+        "EntryPicPath": "UI_DungeonPic_GoddessLY",
+        "StateType": "DUNGEON_STATE_RELEASE"
+    },
+    {
+        "Id": 1115,
+        "NameTextMapHash": 2430002640,
+        "DisplayNameTextMapHash": 2154275362,
+        "DescTextMapHash": 665203101,
+        "Type": "DUNGEON_PLOT",
+        "IsDynamicLevel": true,
+        "SceneId": 20105,
+        "InvolveType": "INVOLVE_ONLY_SINGLE",
+        "ShowLevel": 28,
+        "LimitLevel": 1,
+        "LevelRevise": 27,
+        "PassCond": 107,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "PassRewardPreviewID": 11501,
+        "SettleCountdownTime": 999,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "ForbiddenRestart": true,
+        "RecommendElementTypes": [
+            "Ice",
+            "None",
+            "None",
+            "None"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 2,
+        "EntryPicPath": "UI_DungeonPic_GoddessLY",
         "StateType": "DUNGEON_STATE_RELEASE"
     },
     {
@@ -3880,6 +4021,254 @@
         "StateType": "DUNGEON_STATE_TEST"
     },
     {
+        "Id": 2101,
+        "NameTextMapHash": 458971272,
+        "DisplayNameTextMapHash": 4001861954,
+        "DescTextMapHash": 2061240437,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50041,
+        "InvolveType": "INVOLVE_ONLY_SINGLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 75,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 2102,
+        "NameTextMapHash": 1374946784,
+        "DisplayNameTextMapHash": 111190322,
+        "DescTextMapHash": 2192640461,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50042,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 75,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 2103,
+        "NameTextMapHash": 2233703616,
+        "DisplayNameTextMapHash": 4183008154,
+        "DescTextMapHash": 860164869,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50045,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 75,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 2104,
+        "NameTextMapHash": 199897120,
+        "DisplayNameTextMapHash": 2294924106,
+        "DescTextMapHash": 2038635213,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50046,
+        "InvolveType": "INVOLVE_ONLY_SINGLE",
+        "ShowLevel": 35,
+        "AvatarLimitType": 26,
+        "LimitLevel": 1,
+        "LevelRevise": 34,
+        "PassCond": 29,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 999,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {
+            "1364": 100
+        },
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 2105,
+        "NameTextMapHash": 1905096400,
+        "DisplayNameTextMapHash": 2556443442,
+        "DescTextMapHash": 1589695629,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50047,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 75,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 2106,
+        "NameTextMapHash": 265752664,
+        "DisplayNameTextMapHash": 876790970,
+        "DescTextMapHash": 2458499861,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50048,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 75,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 2107,
+        "NameTextMapHash": 962062936,
+        "DisplayNameTextMapHash": 3483186130,
+        "DescTextMapHash": 1696878381,
+        "Type": "DUNGEON_FIGHT",
+        "SceneId": 50049,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 1,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "PassCond": 75,
+        "ReviveMaxCount": 10,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 120,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
         "Id": 3001,
         "NameTextMapHash": 384351384,
         "DisplayNameTextMapHash": 1260964914,
@@ -4130,43 +4519,6 @@
             "Wind"
         ],
         "LevelConfigMap": {},
-        "CityID": 1,
-        "EntryPicPath": "",
-        "StateType": "DUNGEON_STATE_TEST"
-    },
-    {
-        "Id": 3010,
-        "NameTextMapHash": 160775800,
-        "DisplayNameTextMapHash": 743343426,
-        "DescTextMapHash": 4120656573,
-        "Type": "DUNGEON_FIGHT",
-        "SceneId": 40021,
-        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
-        "ShowLevel": 35,
-        "LimitLevel": 1,
-        "LevelRevise": 34,
-        "PassCond": 29,
-        "ReviveMaxCount": 10,
-        "DayEnterCount": 99,
-        "EnterCostItems": [
-            {}
-        ],
-        "SettleCountdownTime": 999,
-        "SettleShows": [
-            "SETTLE_SHOW_NONE",
-            "SETTLE_SHOW_NONE",
-            "SETTLE_SHOW_NONE",
-            "SETTLE_SHOW_NONE"
-        ],
-        "RecommendElementTypes": [
-            "Fire",
-            "Electric",
-            "Ice",
-            "Wind"
-        ],
-        "LevelConfigMap": {
-            "1328": 100
-        },
         "CityID": 1,
         "EntryPicPath": "",
         "StateType": "DUNGEON_STATE_TEST"
@@ -12441,10 +12793,10 @@
         "Type": "DUNGEON_DAILY_FIGHT",
         "SceneId": 40507,
         "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
-        "ShowLevel": 90,
-        "AvatarLimitType": 81,
+        "ShowLevel": 60,
+        "AvatarLimitType": 51,
         "LimitLevel": 45,
-        "LevelRevise": 89,
+        "LevelRevise": 59,
         "PassCond": 51,
         "DayEnterCount": 3,
         "EnterCostItems": [
@@ -12687,10 +13039,10 @@
         "Type": "DUNGEON_DAILY_FIGHT",
         "SceneId": 40513,
         "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
-        "ShowLevel": 90,
-        "AvatarLimitType": 81,
+        "ShowLevel": 60,
+        "AvatarLimitType": 51,
         "LimitLevel": 45,
-        "LevelRevise": 89,
+        "LevelRevise": 59,
         "PassCond": 51,
         "DayEnterCount": 3,
         "EnterCostItems": [
@@ -12974,10 +13326,10 @@
         "Type": "DUNGEON_DAILY_FIGHT",
         "SceneId": 40606,
         "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
-        "ShowLevel": 90,
-        "AvatarLimitType": 81,
+        "ShowLevel": 60,
+        "AvatarLimitType": 51,
         "LimitLevel": 45,
-        "LevelRevise": 89,
+        "LevelRevise": 59,
         "PassCond": 60,
         "DayEnterCount": 3,
         "EnterCostItems": [
@@ -13179,10 +13531,10 @@
         "Type": "DUNGEON_DAILY_FIGHT",
         "SceneId": 40611,
         "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
-        "ShowLevel": 90,
-        "AvatarLimitType": 81,
+        "ShowLevel": 60,
+        "AvatarLimitType": 51,
         "LimitLevel": 45,
-        "LevelRevise": 89,
+        "LevelRevise": 59,
         "PassCond": 57,
         "DayEnterCount": 3,
         "EnterCostItems": [
@@ -13343,10 +13695,10 @@
         "Type": "DUNGEON_DAILY_FIGHT",
         "SceneId": 40615,
         "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
-        "ShowLevel": 90,
-        "AvatarLimitType": 81,
+        "ShowLevel": 60,
+        "AvatarLimitType": 51,
         "LimitLevel": 45,
-        "LevelRevise": 89,
+        "LevelRevise": 59,
         "PassCond": 59,
         "DayEnterCount": 3,
         "EnterCostItems": [
@@ -15142,6 +15494,45 @@
         "StateType": "DUNGEON_STATE_RELEASE"
     },
     {
+        "Id": 5310,
+        "NameTextMapHash": 1442528736,
+        "DisplayNameTextMapHash": 1245817810,
+        "DescTextMapHash": 2242623621,
+        "Type": "DUNGEON_FLEUR_FAIR",
+        "IsDynamicLevel": true,
+        "SceneId": 35800,
+        "InvolveType": "INVOLVE_SINGLE_MULTIPLE",
+        "ShowLevel": 36,
+        "LimitLevel": 1,
+        "LevelRevise": 35,
+        "PassCond": 147,
+        "ReviveIntervalTime": 10,
+        "ReviveMaxCount": 999,
+        "DayEnterCount": 99,
+        "EnterCostItems": [
+            {}
+        ],
+        "PassRewardPreviewID": 30901,
+        "SettleCountdownTime": 999,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "ForbiddenRestart": true,
+        "RecommendElementTypes": [
+            "None",
+            "None",
+            "None",
+            "None"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "UI_DungeonPic_FleurFair",
+        "StateType": "DUNGEON_STATE_RELEASE"
+    },
+    {
         "Id": 6000,
         "NameTextMapHash": 230537200,
         "DisplayNameTextMapHash": 41816954,
@@ -15154,6 +15545,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 116,
         "EnterCostItems": [
             {}
         ],
@@ -15188,6 +15580,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 117,
         "EnterCostItems": [
             {}
         ],
@@ -15222,6 +15615,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 118,
         "EnterCostItems": [
             {}
         ],
@@ -15256,6 +15650,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 119,
         "EnterCostItems": [
             {}
         ],
@@ -15290,6 +15685,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 120,
         "EnterCostItems": [
             {}
         ],
@@ -15324,6 +15720,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 121,
         "EnterCostItems": [
             {}
         ],
@@ -15358,6 +15755,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 122,
         "EnterCostItems": [
             {}
         ],
@@ -15392,6 +15790,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 123,
         "EnterCostItems": [
             {}
         ],
@@ -15426,6 +15825,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 124,
         "EnterCostItems": [
             {}
         ],
@@ -15460,6 +15860,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 125,
         "EnterCostItems": [
             {}
         ],
@@ -15494,6 +15895,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 126,
         "EnterCostItems": [
             {}
         ],
@@ -15528,6 +15930,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 127,
         "EnterCostItems": [
             {}
         ],
@@ -15562,6 +15965,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 128,
         "EnterCostItems": [
             {}
         ],
@@ -15596,6 +16000,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 129,
         "EnterCostItems": [
             {}
         ],
@@ -15630,6 +16035,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 130,
         "EnterCostItems": [
             {}
         ],
@@ -15664,6 +16070,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 131,
         "EnterCostItems": [
             {}
         ],
@@ -15698,6 +16105,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 132,
         "EnterCostItems": [
             {}
         ],
@@ -15732,6 +16140,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 133,
         "EnterCostItems": [
             {}
         ],
@@ -15766,6 +16175,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 134,
         "EnterCostItems": [
             {}
         ],
@@ -15800,6 +16210,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 135,
         "EnterCostItems": [
             {}
         ],
@@ -15834,6 +16245,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 136,
         "EnterCostItems": [
             {}
         ],
@@ -15868,6 +16280,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 137,
         "EnterCostItems": [
             {}
         ],
@@ -15902,6 +16315,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 138,
         "EnterCostItems": [
             {}
         ],
@@ -15936,6 +16350,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 139,
         "EnterCostItems": [
             {}
         ],
@@ -15970,6 +16385,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 140,
         "EnterCostItems": [
             {}
         ],
@@ -16004,6 +16420,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 141,
         "EnterCostItems": [
             {}
         ],
@@ -16038,6 +16455,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 142,
         "EnterCostItems": [
             {}
         ],
@@ -16072,6 +16490,42 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 143,
+        "EnterCostItems": [
+            {}
+        ],
+        "SettleCountdownTime": 999,
+        "SettleShows": [
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE",
+            "SETTLE_SHOW_NONE"
+        ],
+        "RecommendElementTypes": [
+            "Fire",
+            "Electric",
+            "Ice",
+            "Wind"
+        ],
+        "LevelConfigMap": {},
+        "CityID": 1,
+        "EntryPicPath": "",
+        "StateType": "DUNGEON_STATE_TEST"
+    },
+    {
+        "Id": 6028,
+        "NameTextMapHash": 2907990728,
+        "DisplayNameTextMapHash": 3630712226,
+        "DescTextMapHash": 2980584293,
+        "Type": "DUNGEON_ACTIVITY",
+        "PlayType": "DUNGEON_PLAY_TYPE_TRIAL_AVATAR",
+        "SceneId": 41028,
+        "InvolveType": "INVOLVE_ONLY_SINGLE",
+        "ShowLevel": 80,
+        "AvatarLimitType": 1,
+        "LimitLevel": 1,
+        "LevelRevise": 79,
+        "PassCond": 114,
         "EnterCostItems": [
             {}
         ],
@@ -16106,6 +16560,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 144,
         "EnterCostItems": [
             {}
         ],
@@ -16140,6 +16595,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 145,
         "EnterCostItems": [
             {}
         ],
@@ -16174,6 +16630,7 @@
         "AvatarLimitType": 1,
         "LimitLevel": 1,
         "LevelRevise": 79,
+        "PassCond": 146,
         "EnterCostItems": [
             {}
         ],

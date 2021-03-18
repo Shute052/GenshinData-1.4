@@ -48,12 +48,6 @@
         "Desc": "公子boss战三阶段"
     },
     {
-        "TitleID": 131,
-        "TitleNameTextMapHash": 3648933895,
-        "IsInverted": true,
-        "Desc": "【临时描述】"
-    },
-    {
         "TitleID": 1001,
         "TitleNameTextMapHash": 3442676239,
         "Desc": "草史莱姆"
@@ -329,6 +323,12 @@
         "Desc": "水深渊法师"
     },
     {
+        "TitleID": 4011,
+        "TitleNameTextMapHash": 1822534847,
+        "IsInverted": true,
+        "Desc": "深渊使徒"
+    },
+    {
         "TitleID": 5001,
         "TitleNameTextMapHash": 1306608279,
         "IsInverted": true,
@@ -541,5 +541,11 @@
         "TitleID": 10008,
         "TitleNameTextMapHash": 1534503967,
         "Desc": "雪山活动急冻树"
+    },
+    {
+        "TitleID": 10009,
+        "TitleNameTextMapHash": 3529736143,
+        "IsInverted": true,
+        "Desc": "双子线特殊"
     }
 ]

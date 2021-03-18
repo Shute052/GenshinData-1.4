@@ -1648,5 +1648,105 @@
         "DescTextMapHash": 1227832146,
         "Icon": "UI_RelicIcon_15016_4",
         "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 241187423,
+        "RankLevel": 1,
+        "Param": 15017,
+        "Id": 400165,
+        "NameTextMapHash": 346769057,
+        "DescTextMapHash": 3415676538,
+        "Icon": "UI_RelicIcon_15017_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 682234567,
+        "RankLevel": 2,
+        "Param": 15017,
+        "Id": 400166,
+        "NameTextMapHash": 277526977,
+        "DescTextMapHash": 2573778106,
+        "Icon": "UI_RelicIcon_15017_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 2929355399,
+        "RankLevel": 3,
+        "Param": 15017,
+        "Id": 400167,
+        "NameTextMapHash": 2505371481,
+        "DescTextMapHash": 2802576034,
+        "Icon": "UI_RelicIcon_15017_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 56926847,
+        "RankLevel": 4,
+        "Param": 15017,
+        "Id": 400168,
+        "NameTextMapHash": 3809966577,
+        "DescTextMapHash": 1073577442,
+        "Icon": "UI_RelicIcon_15017_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 3793484935,
+        "RankLevel": 5,
+        "Param": 15017,
+        "Id": 400169,
+        "NameTextMapHash": 3722036745,
+        "DescTextMapHash": 2890776402,
+        "Icon": "UI_RelicIcon_15017_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 292683511,
+        "RankLevel": 1,
+        "Param": 15018,
+        "Id": 400170,
+        "NameTextMapHash": 2029367273,
+        "DescTextMapHash": 2600917778,
+        "Icon": "UI_RelicIcon_15018_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 858161239,
+        "RankLevel": 2,
+        "Param": 15018,
+        "Id": 400171,
+        "NameTextMapHash": 3306032761,
+        "DescTextMapHash": 3867614874,
+        "Icon": "UI_RelicIcon_15018_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 1921725711,
+        "RankLevel": 3,
+        "Param": 15018,
+        "Id": 400172,
+        "NameTextMapHash": 809378017,
+        "DescTextMapHash": 3672211258,
+        "Icon": "UI_RelicIcon_15018_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 897987359,
+        "RankLevel": 4,
+        "Param": 15018,
+        "Id": 400173,
+        "NameTextMapHash": 588361993,
+        "DescTextMapHash": 3252228882,
+        "Icon": "UI_RelicIcon_15018_4",
+        "ItemType": "ITEM_DISPLAY"
+    },
+    {
+        "TypeDescTextMapHash": 3904418255,
+        "RankLevel": 5,
+        "Param": 15018,
+        "Id": 400174,
+        "NameTextMapHash": 3723959073,
+        "DescTextMapHash": 2930897602,
+        "Icon": "UI_RelicIcon_15018_4",
+        "ItemType": "ITEM_DISPLAY"
     }
 ]

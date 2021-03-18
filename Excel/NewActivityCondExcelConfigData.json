@@ -2361,7 +2361,6 @@
     },
     {
         "CondId": 50160103,
-        "CondComb": "LOGIC_AND",
         "Cond": [
             {
                 "Type": "NEW_ACTIVITY_COND_PLAYER_LEVEL_GREAT_EQUAL",
@@ -3864,6 +3863,1448 @@
                 "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
                 "Param": [
                     19
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003000,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    39604
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003001,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    39604
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003002,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003003,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141113
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003004,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141216
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003005,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003101,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003102,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003103,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003104,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003105,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003106,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003107,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003108,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4141016
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003201,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065701
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003202,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065701
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003203,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065701
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003204,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065701
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003205,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065401
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003206,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065401
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003207,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065401
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003208,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065401
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003209,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065801
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003210,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065801
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003211,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065801
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003212,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065801
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003301,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065601
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003302,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065601
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003303,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065601
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003304,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    10
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065601
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003401,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065601
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_LESS",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 2003402,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    18
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 6003001,
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019001,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019002,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019003,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    3
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019004,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019005,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    5
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019006,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    6
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019007,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    7
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    7065503
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019008,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_PLAYER_LEVEL_GREAT_EQUAL",
+                "Param": [
+                    20
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5019009,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    11
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020001,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020002,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4142108
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020003,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_FINISH_REGION_SEARCH_LOGIC",
+                "Param": [
+                    1001,
+                    10010101
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020004,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    2
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020005,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    3
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020006,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    4
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020007,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    5
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020008,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    5
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_FINISH_REGION_SEARCH",
+                "Param": [
+                    1001
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4142110
+                ]
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020009,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    5
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_FINISH_WATER_SPIRIT_PHASE",
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            },
+            {
+                "Param": []
+            }
+        ]
+    },
+    {
+        "CondId": 5020010,
+        "CondComb": "LOGIC_AND",
+        "Cond": [
+            {
+                "Type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL",
+                "Param": [
+                    1
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_QUEST_FINISH",
+                "Param": [
+                    4142110
+                ]
+            },
+            {
+                "Type": "NEW_ACTIVITY_COND_SCENE_MP_PLAY_ACTIVATED",
+                "Param": [
+                    4
                 ]
             },
             {
